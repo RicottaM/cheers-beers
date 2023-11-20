@@ -1,2 +1,2 @@
 # cheers-beers
-PrestaShop application, selling beers.
+PrestaShop application, selling clothes.
