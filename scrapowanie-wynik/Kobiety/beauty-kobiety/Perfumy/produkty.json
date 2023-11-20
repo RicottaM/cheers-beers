@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c12260d666394d1c809909f94ff11732/fe3dc115e65948e2b140739120b08d15.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "SEDUCTIVE NOIR FOR WOMEN FRAGRANCE MIST - Woda toaletowa",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6975ef1732f34807ae98e366cceb00d9/b964c121d91c47fe83f572df87d9a37a.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "Woda toaletowa",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a26a791940c4d6296c867f3a47088df/4b77a90c353f4c398feb13662ef4681c.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "SEDUCTIVE NOIR FOR WOMEN EAU DE TOILETTE - Woda toaletowa",
+        "price": "od 51,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ccc5691f8414484b9b6856e0f3cad9a2/f8902f2f207f45e1aae65248134d7520.jpg?imwidth=300&filter=packshot",
+        "brand": "Karl Lagerfeld Fragrances",
+        "name": "TOKYO SHIBUYA EAU DE PARFUM - Perfumy",
+        "price": "od 77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e5790bb0c20462a85cdc2a80082493e/de888d8059a0468d9295ef8f409a6e92.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "SEDUCTIVE FOR WOMEN FRAGRANCE MIST - Woda toaletowa",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e1f35d2e3f6498fa48accb0ddd91cc3/f6b71225bff743f787cd955b6c95ba00.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "SEDUCTIVE RED FOR WOMEN - Woda toaletowa",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2c2a28ac3ca246a796201c9b9e9a4e96/d3c6f14f634246e5a54f942cfb678261.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Fragrances",
+        "name": "CKIN2U - FOR HER EAU DE TOILETTE - Woda toaletowa",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0f43851ca4fc477ba233961e61f0ad4a/2b02ab64892544edbce1783322e98d32.jpg?imwidth=300&filter=packshot",
+        "brand": "Mugler Fragrances",
+        "name": "ALIEN EAU DE PARFUM - Perfumy",
+        "price": "od 233,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/93c76082750e48928e70dac09b85aba5/74244e625692403cb7c4cd90cad6410e.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "Woda toaletowa",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/crt/creative-content/5726280d-a5eb-4f87-9aba-5d527cc17c26.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "L’Oréal Pro x Redken",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f01892399fe8458398ea057038125beb/18c3eccfbe9548078871f389b4affb41.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "SEXY SKIN PURPLE FRAGRANCE MIST - Mgiełka do ciała",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2111ffdd54e41eb9e49659bdf5b75f1/85995158236b4a39a58018386c1cab9c.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "LANCÔME TRÉSOR MIDNIGHT ROSE EAU DE PARFUM - Perfumy",
+        "price": "251,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0bf636d8188a4c7abb005900013cceb0/dca8e5362a1d421c815e9e927105c522.jpg?imwidth=300&filter=packshot",
+        "brand": "Mugler Fragrances",
+        "name": "ELIXIR EAU DE PARFUM - Perfumy",
+        "price": "od 244,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/52a4fe9a939c49c18aa148d8f34f08ed/be01073e15e44e6ba1fafede70e3f4f1.jpg?imwidth=300&filter=packshot",
+        "brand": "JIMMY CHOO Fragrances",
+        "name": "POUR FEMME EAU DE TOILETTE - Woda toaletowa",
+        "price": "136,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c706582de83e44619d418fd0d5b36fea/547e01cdbc51440a84f20f299182ebe6.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "MIRACLE SPRAY EAU DE PARFUM - Perfumy",
+        "price": "od 188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ae7c18c2e59d4dda94d884b5c9d003aa/fdf2c679e10347c3a49a610012e5660f.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "LA VIE EST BELLE INTENSÉMENT - Perfumy",
+        "price": "od 203,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/93517eb70cc34c1a8059e5aaedcf56f3/722cf9f13b984cb2bd99212d2540ed0e.jpg?imwidth=300&filter=packshot",
+        "brand": "JIMMY CHOO Fragrances",
+        "name": "POUR FEMME EAU DE PARFUM - Perfumy",
+        "price": "od 207,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/99caa735528d4d70ba5692f35621ea7e/d66324c133e44e98b87a205b581bd343.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "LA NUIT TRÉSOR NUDE - Perfumy",
+        "price": "244,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e661c3bf68474350815274df83437c86/23346837c47843f3b0abbe1e66fa4be2.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "THE RITUAL OF MEHR FRAGRANCE STICKS - Zapach do pomieszczeń",
+        "price": "112,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cb2cca844e3b4980a7f39b7d331bd0ec/658bec5606ed4b108a9b981f07e055cb.jpg?imwidth=300&filter=packshot",
+        "brand": "Makeup Revolution",
+        "name": "REVOLUTION REVOLUTIONARY EDT & BODY LOTION GIFT SET - Zestaw zapachów",
+        "price": "43,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/081da97f5f954589b743378e4787c6fa/82faae77f899423aa917bcbe9059bdd9.jpg?imwidth=300&filter=packshot",
+        "brand": "Karl Lagerfeld Fragrances",
+        "name": "FLEUR DE THÉ - Perfumy",
+        "price": "od 84,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/122b9309da504ba18961f757c4e816cd/b9a376f5fee748588301ed63e0fdf886.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "Perfumy",
+        "price": "426,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/crt/creative-content/5987ad1c-ae87-4f34-8545-be12b7b2213f.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Aveda",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ae8b95e42d4d422bb9bb5e1718925dd5/4e7fecaf1c8849d2b463ede6a9683c8c.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "CASHMERE KUMQUAT EDT FOR HER - Woda toaletowa",
+        "price": "146,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/59944850d673492884d3fcf871507f0b/f7ea52432b0a4b68acf3bd3294608e04.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "BELLA VITA ROSA - Woda toaletowa",
+        "price": "od 104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f41aa4989754697a8060e675c8b40f2/cfc7c5ccc123464c94fdad3c12fbe919.jpg?imwidth=300&filter=packshot",
+        "brand": "Mugler Fragrances",
+        "name": "EAU DE PARFUM REFILL BOTTLE - Perfumy",
+        "price": "440,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d05980843bc6408ab48d27aaa8f64e09/8effa64a4bfe4044868df49daed3ef97.jpg?imwidth=300&filter=packshot",
+        "brand": "Police Fragrances",
+        "name": "TO BE SWEET GIRL FOR WOMAN SET - Zestaw zapachów",
+        "price": "82,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c01b2f7fae624938aa969f86f660663d/d04e4c5c1256407ea9e8a614be3054ae.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "THE RITUAL OF MEHR HAIR & BODY MIST - Mgiełka do ciała",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Perfumy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/89ac39215f95428f907ce2a6722c986a/1d3385d2fa46406690170bde476d810a.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "BELLA VITA EAU DE PARFUM - Perfumy",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

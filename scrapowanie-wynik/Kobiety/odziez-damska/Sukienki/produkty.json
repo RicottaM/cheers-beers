@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/04d12f33b1bd323b9219fcca3ea464e4/c2bd2d13ee074788b6c9309c847fa352.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Sukienka z dżerseju",
+        "price": "85,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/304abd6dbfd947f09e2df993acd09077/f0cc9468a38c433c9936d20c296adb08.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Sukienka koktajlowa",
+        "price": "143,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/482cbe81d6524f22a286a8ffb1b5ad72/e9291a56ffab42329ada455e33c3a951.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "WITH SEAMS - Sukienka jeansowa",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a788f83e996f4a8784109b96bcfd20a9/6166313a923d4568987fe03c462e1527.jpg?imwidth=300",
+        "brand": "Trendyol",
+        "name": "Suknia balowa",
+        "price": "243,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/30cf666e130845f7a699bcd0c92984b3/36a19d133f11492596cc67f3dbb444d4.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Sukienka koszulowa",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/outfit/7a9054b916324fceb3d856d22fd26496/908d997783bc462182b9999ed196df49.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9deef10410f148bc8378213d8948e6b3/59cb364110a54f5d8d1fcf5ab15c0428.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sukienka dzianinowa",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/879a65376547359bafde9625cd8ecb44/e8c1bdc054594d3a8e48661b797e174b.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Sukienka dzianinowa",
+        "price": "161,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/64ef1c6b2392464a87d5fac2bc13c063/b2b0fcc648714634bf1dad3dae9972fd.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Sukienka dzianinowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/125d94d5e86d4ba384cdc9ed42e3281c/133472a3ca1744129037305b8fe528aa.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sukienka koktajlowa",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/575ad13f6d884f7289479c87cf6cf08c/8ed0036cdf3c4ccb9e0055d367753a96.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Sukienka koktajlowa",
+        "price": "199,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5973df1363574353a124358f49049674/e01654ebc0ed464daecb5f1e8ae187c3.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Sukienka letnia",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/faa8503448df3a1b829bfb2fdd6eb7ef/3f97bd61577044239a085a627a9f213e.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0b38e0eec5ea3d08a42e4c840925f7a9/985284ddf85b480e929984dd87bef82d.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a939a0b4ee5530e8aa38fe36c94d05fa/b267ceaef8554b07be36ce6e97a83e15.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/6891c7cf62ba319aa5d45d71e2a48cca/8f8b77d0126a47f39b9e8f7a6b36bb73.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/224c3c587d2c494cabaa951ed81dd25c/07435a422fd843d484cc185bf09afa5f.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Sukienka dzianinowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f4d292536172478d872c8cefb6ab228b/aabd712026874941be974323b1473047.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Sukienka dzianinowa",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/981f654eb8204a6eb3fa7aa34c6ad3e4/4468cdd155cf4995b0100964f7cc2f8f.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sukienka dzianinowa",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/95931386907d4c71963a0e1760e08ceb/86cbfa3670d34f4ca42f11bb1939136b.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Sukienka koktajlowa",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cfb1492cc55743269905b64c90bf9629/283bc16229fc46e5ba59c0328cca9336.jpg?imwidth=300",
+        "brand": "Bubbleroom",
+        "name": "Sukienka dzianinowa",
+        "price": "389,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/23e385de3708440c82c0189df0180655/6ecaae01450e4b85ae56bf56bee27426.jpg?imwidth=300",
+        "brand": "Trendyol",
+        "name": "Sukienka koktajlowa",
+        "price": "196,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2759790699a647a9bfe2eba0a218ef0e/1b12a9c8bde4401b9aac59edfca5a286.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Długa sukienka",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/41b9c5a21fab487f8f5aec4570ecc15e/34ce15f9a96a4fefa54b0ba58fd329be.jpg?imwidth=300",
+        "brand": "WÓLCZANKA",
+        "name": "Sukienka dzianinowa",
+        "price": "249,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/outfit/a1ab3a3da01b4edcbe479bf67f1a8bb5/ec0c48565fa74121a4a86d8d1d5816ed.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e2315901e18461391c1dd60c824ea33/2e3aafe0790447168ce1375628982724.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Długa sukienka",
+        "price": "65,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/24cd51c4d6d730c587dfd8b19f6cbf0f/0282eb0ca06949aaa91c71046a3e0f7f.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Sukienka z dżerseju",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a03f38f8d5b4ce7a814a2e2547ac6b6/041539c141b34fde94523663d35dc403.jpg?imwidth=300",
+        "brand": "Jaded London",
+        "name": "SNAFFLE OFF - Suknia balowa",
+        "price": "509,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0fe55a5d84e74c169775eaf5b2e22049/96ab549b71d44a9aaa264ad1f7b8e966.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Sukienka dzianinowa",
+        "price": "95,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/123fe328fdb046a6b136308c75ce16c0/de69c71c41d043c8af5f0ffd97b25d79.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Sukienka letnia",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/22f852c0027c4c95bcba6a35f4e992ce/233b544aec1242efbe596603e9442786.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "CHIMNEY - Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d3d5e5c2cc1408182952262c86f218a/ec4235cdf910476996701532ad45b273.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ac0e6d49e4214335827bae2ea3bf0d87/2a604a16543a4adb96d53c47f8bd028f.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1f08224647f94276ac1bdb6fc62254be/6f05074643194192906f560820d70dbb.jpg?imwidth=300",
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab156e9544f54281b92a7ed821f3487e/2b3a724bea864e45af26f33956f4a2f3.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Sweter",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/outfit/4306d017c6454e64b4c9d240dc36d43e/cf671c1fd8d9451b9f47c0958a387585.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7bcdbf751cfc4f4dbef207a2e0271c19/680df2e662f141f89a6beb019563d890.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "74,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1b4f549bc78f48428317133fa6e250af/dce0ddda346446fa800875141f9570f1.jpg?imwidth=300",
+        "brand": "Cesare Gaspari",
+        "name": "Sweter",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2bf7ee1e426e48579fc312831a475be0/01448e16f7124848ab7450a90b1854a9.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/33344786727b48cb8f54e017247cbe47/882e15fc9f734f65aded8cf0f91d25e0.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01864dafe201393f8bd3a315ecd7fae2/c5ece7d52a15414ab14dd1495f8a5401.jpg?imwidth=300",
+        "brand": "ONLY",
+        "name": "Kardigan",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e303fc8ea38646be9f66573ad546dcbe/e4915a145c8c4e1ab16873f63b545e55.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "WITH BARDOT - Kardigan",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/72f217656d1f3a02879eccae91892a4c/b83d0d725e424a5da99dd97005481fbb.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b58e718df868396192e120e6d8701f2a/4c997f6b36444ae08e280f75b2481f55.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/1e8458c6484c3ef6a4a8d76d2483bc36/1899389a42984441a909a3772d4ffd06.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/fa459d2449be3c16ab062533ba9ea214/18c1ff89cd324b17b2c8a8af8fcb5195.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/046c5b45a29039fab0ead1f5535c9ad7/ca0c0254da794d87a25feec1bc8b124f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/navigation-entrypoint/5c53cacf4db533e38bf54583a2a8290c/3f640bb96ad64154bf3d9c8fcd040034.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/65071e902ef649ab8d8de34cf8ec831b/3cf67da3e3b34cab83bfe6fadab5fc74.jpg?imwidth=300",
+        "brand": "ONLY",
+        "name": "Sweter",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/68d61a92bfdd402384f44390a88fed72/57c87741837344a3adc3e82f026db4c7.jpg?imwidth=300",
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a063579bdb9b425db3395d781a0a814b/8e9d0a12f88049e99740232e776e132c.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "ROSA - Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9e7a43dbe52543ae90b9306489cffc6b/085b3e97363f4756b773f7b9e65ddb09.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Sweter",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2341ad04b9464434813974f5c07cd327/b292ca0153aa4972a075a190862dd194.jpg?imwidth=300",
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/275e6b2475134812adecc4912b30527a/bf655f3d8a274421bdfe8c49797a0b47.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/40b0124f30d846698ec4b7e12e92f746/19a369f17f0d43009e4204e9c06f5dff.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "ROSA - Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7d38d36348444f2db97f99a367df593d/dd9dc302c55240708f3cc1ba68c66030.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Sweter",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/outfit/bf787e11891a48cbb629c709b506424f/670d370410774aa1ad70af2464c50499.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ffbeb67c50ec43b8a5883e6123212b21/25bc5e56f64b4bab95f2873c0c91c2eb.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e4c941fde0f14a11be3db17f56cbedff/7ff50b77b2a843d0887116b02d0cb3c0.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Sweter",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ea36349ab6684a7b9a49f55876ed3d8b/88dc53fddcf9468bb83769523c8d6cbe.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Sweter",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f9a99229a0134e70b69d58db37ef9c38/f6a5baa59e97462697edd577b970d658.jpg?imwidth=300",
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Swetry i kardigany",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eef8293cc19d344da29e30ffaf944395/fd3bd6122f154dad894d971b813e9d0b.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Sweter",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

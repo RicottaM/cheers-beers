@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bac988e16af94c2e9e7a459efb5d24ec/3cd25aa2073045a687aff4cd1949d31a.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "QUAD - Zestaw do pielęgnacji paznokci",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01329f9e7b8c42a788e340db70fbb734/4306475dcb0644caa6917a9fbc697e89.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Mini Macaron",
+        "name": "COCOONING TIME 3-IN-1 SPA PEDICURE SET - Zestaw do pielęgnacji paznokci",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8c0e10cf80d931e0861ac61bd78cd700/b41cbad28dd14ffbbd5ce31f43962012.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5c8237c93a9e376bbca315f87fcdbcbc/20143977d3f84e3f8fed99737a92ed72.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8c792a1422143cdc8767463f5efeba9b/d5a3037b865b460eb2a24f92b4803d1a.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7be848495e7f4d888bfa83ab8d1ae399/729014f281bc40a9970e2f8aba521377.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "ESSIE NAIL POLISH - Lakier do paznokci",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bbee10bbb37f47e598852ddb795f93a8/3c403a93e14b447abddc8beb033596c1.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Mini Macaron",
+        "name": "GEL MANICURE KIT PEARLESCENCE - Zestaw do pielęgnacji paznokci",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1c37619b1e393894bba19c557225ed5e/e428d81c60b049f5b892156872b858ca.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "GEL COUTURE - Lakier do paznokci",
+        "price": "51,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2946d914338442c8ad239cab429781f3/5a66921e66394304877e770c70093b03.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "NAILS.INC GLOW NATURALE DUO - Zestaw do pielęgnacji paznokci",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/crt/creative-content/5726280d-a5eb-4f87-9aba-5d527cc17c26.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "L’Oréal Pro x Redken",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/28fdfd39074e32a2ab743ab20a737b3d/0b8835a7632f4a6eb16f20f0e960a74a.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ece6470748823c389d527794a583af17/05c5664bf2ec4fcf978bbcdfad2b0815.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d00937ac5bdd417aab5f70a50102aaaa/e82c478eaa694e0982795bc5ba1d47bb.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "TOP COAT - Top coat",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f29f8b7e9d094b15ba6fa23bee219b14/2457ccdd038349a0956dcb8624dd8153.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "NAILS.INC PEARL-FECT MANI NAIL POLISH DUO - Zestaw do pielęgnacji paznokci",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f295b6ad62f7361ab5f0d28c21e50e1e/f76c2c3903d04594ae7395d916df2976.png?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1aececc79d9d427d905d4bd532feab82/fb19dd3f5435412398ce2af39d3e5213.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Mini Macaron",
+        "name": "GEL POLISH REMOVAL TOOL - Akcesoria do paznokci",
+        "price": "23,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/07b926dea8e13e81b5fdc1bbd6cc538e/cb7796cb390d4f7f9621c01174a7d656.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2f82032e4d073a428a0fdb069e7fe088/8e58fa9b370c4f0a8e9485182e001389.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1a31d5fd414a3953b2d33dce32d907f6/93f42cb62e0b4aa6ab31e3a2368b675d.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "EXPRESSIE - Lakier do paznokci",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc2b2ee5d5d1409eaa9cb017859e58bb/2a2f56e658e947c39f8bd605b5cbeb78.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL HARDENER HARD TO RESIST - Pielęgnacja paznokci",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7b364922d1d33b6eaca47f6e04548787/847a331a47d140fe91cac473b0db659d.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/99373d187c3844d49f3f4c051194bfe8/ec1de8eaaa55498a90e713a93b21981a.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "CARE STAY LONGER​ - Top coat",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/crt/creative-content/fc6c400c-3e67-4a3c-9f40-af7c5f25d9cf.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Collistar",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0debf2c142d53b12adea210773f1f7e9/e5580530a98641228065777771fd66ee.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "TREAT, LOVE & COLOR - Lakier do paznokci",
+        "price": "29,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c70333e534353c5a93d120efbad38171/5568147addce4dbc9e235ed24063d914.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/20ebbc8035dd4830a2824a3fc66a2f48/2d4ebbe9184945a081a3e2bfb04ed9ee.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "DUO - Zestaw do pielęgnacji paznokci",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/83b21f49885936cdafbd8174df431321/f4da6e421ec34a6b957a266153b4a46a.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "UNICORN DUO - Zestaw do pielęgnacji paznokci",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eccefae81cfe446da507d12d5eb81f73/8fd8799cea454036ac4af7df2460f630.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "CLASSIC NAIL POLISH - Lakier do paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Paznokcie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/586a8a83777e48849ebef873aeecb5f3/d459e5a3090248cb80d70f44fa8794f1.jpg?imwidth=300&filter=packshot",
+        "brand": "Essie",
+        "name": "NAIL CARE TREAT, LOVE & COLOR - Pielęgnacja paznokci",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

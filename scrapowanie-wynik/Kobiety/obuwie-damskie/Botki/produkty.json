@@ -1,0 +1,529 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/15546f2d0d7549aa8425d3208b92188b/2a1a29b4aa104824baacb574098ca2f2.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Botki sznurowane",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1e06e8e5cc0a3e70b0ca9a972b109581/63490e73569240d289daa904853cc338.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Ankle boot",
+        "price": "189,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f96aeca08914576a56118b97488e8b4/995e8b8f400443b0aa95d961f9d68618.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "- Botki na platformie",
+        "price": "909,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3cb20ad1a4b832c3b16dcf576d3acd5e/3ef0a0de418b469a9f4dddd3ee1af43c.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd Wide Fit",
+        "name": "Botki na platformie",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/56124ac4f4394f37bf3163410b67086c/fb7ec7faa44043d6b4a58621ffdcc813.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Botki",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/outfit/561670fbc40841a78b677afc6e3310b8/0852782c431c44ef9324ad70b3c3c5c7.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5d1ee1ce006833e6a0deb6d275c2bdf4/32d4319e7ce7485b8e9eef0877bd163d.jpg?imwidth=300",
+        "brand": "RAID Wide Fit",
+        "name": "Botki",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d7593381cf0461ead2fc1336bc12a87/4d030615a7544105bbd56562f2eacbae.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Ankle boot",
+        "price": "359,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ab9cc969cd9424a96fa0043fcf7e93e/884c185b7f1e4c2d9eecae157ac3c970.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Botki na platformie",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/crt/creative-content/c20a4e04-0de0-429f-882d-6f2fc65e74e3.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "COCCINELLE",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/44e163ff74d7487eb3b75dac2a182028/a1cbda2f6104485898b33e256bac9a0d.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Botki sznurowane",
+        "price": "799,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7563781e8a7c399c8065d0f4ecd54c0f/7c6b2a2b9d0f4ab384f601526145b725.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Botki sznurowane",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/981e87306593319aaec42ef7f3c85108/e12e4f3dade7480b85577712830c5e27.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/ebfa20b5db9d3e04933a47e1946f8b1d/ad24c3968e0c43ea8f9c36e4c9cb570d.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/efe98c8377463b69bd1cb3b5bf15aeb9/8caec7a04a874bffa408e0d956cb1859.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/467c0d82da9c3e5bbf1a8ac89ecf741f/4255444732e245d5b5c5f84c95729d47.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/07856f96fb76350fbef31e9102e1da4b/91c4b117b00e4eb9ad5118d1292f9a96.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ca41e971acdb414f81fcd9e44b58f903/8477e569318741b2871607f8acf26f52.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Ankle boot",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ccf12ed8ea1d3888a74f2ddf21ca8577/ebc7942b70954c718bd0ba0706c44d03.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Botki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b807d41e34f84f26a7c2fef4822e54c8/8d75e8185204461b833b42550913ca1e.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Botki",
+        "price": "399,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/614dfec5493a38199809fdeabb4c176c/728a338c8c854e0aa0a5411a7e4938a9.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Botki na platformie",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/74df030ffa7349b882a004c3886f5070/d01304c648d94978b7bc3750561cb4be.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "Botki na platformie",
+        "price": "909,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08bf6d2b483c46b0b24e3714a95ad33c/01a9a9de3c7a472cbb788951265a81b8.jpg?imwidth=300&filter=packshot",
+        "brand": "Puma",
+        "name": "Botki na platformie",
+        "price": "od 307,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb468e6f833c40e1a9f29b7f442a0b2e/0c352cce33e3406689b9c0807f4a399a.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Botki na platformie",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/50201cdbdbb0465e95e2f0165b4578ed/14a8407b4f8240048cef62f629ede7fa.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Ankle boot",
+        "price": "849,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/outfit/46f1500576a9442295553fd1c1b88717/56817a50fd4246aaaee8fe7c93648d8f.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01da58c600fe344dbcb214577b4f092b/a705c97fbd914537b8990aa4607fa682.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Botki sznurowane",
+        "price": "143,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9edc1f0409bc45c89c788a65a6605562/4f7a7979d5c0479a880fd697c600717b.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Martens",
+        "name": "JADON - Ankle boot",
+        "price": "1 029,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2c22368b60f49c3ab5bee2d5b4a3a0c/8c9b873338984fd39b0ab74a5ff5518a.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "UNISEX - Botki",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bae02a99eb4a446ba758c9a8f59a8eae/e1b42cd2990b4de4a5f10af3ce87ea9a.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Botki",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a7f761a228a3bf6bc9979d06809ac87/0cbb58ddeda641489ef9f77b29a6aebe.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Śniegowce",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

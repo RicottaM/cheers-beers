@@ -1,0 +1,835 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc7ce785cf844a69b4a72c30ef88ed4f/9a12207b63764866a0bb1b105b8fc273.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE CHECK - Sukienka letnia",
+        "price": "od 96,44 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/663a5bb535764c31a9cee4a2f2f15f18/6dad27f10fad4c36b75aa13ebc8e8ea2.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koszulowa",
+        "price": "od 113,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d57632f4de249c88b627804c47d8da6/5345fb0aa91f42eaad7315a24836cf6e.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koktajlowa",
+        "price": "od 100,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6a7356ffb17541658e6f2ee386959077/eae3f649768b48789eb937df2e14d1ac.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a51b90dc67a44e5184152a3e1b6cf38c/d9ce21439a2647a7925f9887a6b09a7e.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koktajlowa",
+        "price": "od 130,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fa5f2b6bbc7a4f66888f5d405d1bdc80/9f1566d4f5a446ffae2160b7f9979ed9.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 88,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/74ad549470214d4eb31e530fc94d8ba4/4c67d049944247aca0123b6288d60dd0.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koktajlowa",
+        "price": "od 117,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bf789cef1ab144d5b615d7a7d816fb9d/01ba41758068490897ee24e9bce4f162.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "od 165,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/319486548fbc4051bd5bd3f754bd6fad/b90ea3fb4b794f6d97f0df26ea220db6.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "RUFFLE - Sukienka letnia",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f7ce70ff92ba414fbfb45c0bea66576a/eaf1ac3e619e4741a619d78b0bf79f85.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/146bff3378a542ca82f57edff7a21a88/52aec973a0fe4c0d814ae880f567f8f8.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 94,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b17b254cbc2d4d0e8ff8647bb5e43cd5/243004dca88c4c12b7b731b5d26512d9.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koszulowa",
+        "price": "od 94,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/663a5bb535764c31a9cee4a2f2f15f18/6dad27f10fad4c36b75aa13ebc8e8ea2.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koszulowa",
+        "price": "od 113,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b17b254cbc2d4d0e8ff8647bb5e43cd5/243004dca88c4c12b7b731b5d26512d9.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka koszulowa",
+        "price": "od 94,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/38bb331fa19e4622ad40565c4328dfd4/d2dbf584357f4ec79526c7bc5f630443.jpg?imwidth=300&filter=packshot",
+        "brand": "Marks & Spencer",
+        "name": "Sukienka letnia",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc7ce785cf844a69b4a72c30ef88ed4f/9a12207b63764866a0bb1b105b8fc273.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE CHECK - Sukienka letnia",
+        "price": "od 96,44 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ef14a5f5eaa46b0a671c7d500e78947/58492d797a234be2afcaf0bc7060800a.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6e4aa8285e9b46aabd86975806976396/d91deea2902f44ec9ecd45dd12c8ed2c.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE - Sukienka letnia",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ce1dc66b3ff43ac90766faaa1d47109/7ca3e6cdf34241f98db0114a8a2ec9fa.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka z dżerseju",
+        "price": "od 75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "Brak zdjęcia",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f62c33f52cf4fef9689c73859608a02/d8bb2d86dc044a679f712aa788f3b110.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "od 163,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c1e5c40a03f14e7e888a6f56ecfd9932/db03221d729b4a12803143c322e4c55a.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "SET - Legginsy",
+        "price": "od 117,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bf8e4e41e98b4f4a997a6da53e274dcd/6e9758750cff4b97b655b5d3abce3566.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "od 163,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b8ca9f5c7594ba199c4c0e21f1693a6/b37978f4a287415ca33010b894bfefd3.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "od 156,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c1da5e85611a4627b7a3c260ac1e432a/e452a5229a64431db2ae364730303736.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE CHECK - Sukienka letnia",
+        "price": "od 94,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e3219b6e3d054e63b10291d84fdb02de/d09d9683e34e4f0590b9cd9546d3c73d.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "AND SET - Sukienka dzianinowa",
+        "price": "od 165,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ef14a5f5eaa46b0a671c7d500e78947/58492d797a234be2afcaf0bc7060800a.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6e4aa8285e9b46aabd86975806976396/d91deea2902f44ec9ecd45dd12c8ed2c.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE - Sukienka letnia",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d873a3b2c3a540e0a0b39a05e26c9c89/64831a12c8e04a68ba8cb2725e2e4b78.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka dzianinowa",
+        "price": "od 138,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/deb36bcf84c94a4db7f9c0be7bcf6aec/ee82f2f26151409d938d6d7c95638992.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka z dżerseju",
+        "price": "od 55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0254cd5378c342b7beef64455bb9552c/c240bb142f0843078bddd6e19e10f5b3.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 144,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e98fe76a17cc40a880900faa5c617249/b4078cb57d7e44809afed82949d8254b.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "RUFFLE CHECK - Sukienka letnia",
+        "price": "od 94,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/822a8bbacaac4e9396dcd9b1c37bd4dc/f7cc16458aae40c3a7b870ce47b55ed2.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka letnia",
+        "price": "od 88,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/44f617c12af04f8d884cab022266e47e/e26f9ab3999a42a7b0ccf0563ff90779.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sukienka z dżerseju",
+        "price": "od 44,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5eea973ff7d440d384f6bc903d360d4c/efeedabaff4d4bffa88cdc8dcee832f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "POSH DOGS PRINT DRESSING GOWN - Szlafrok",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/902d3140c7de4758a8b5aa255605cda8/bbeac7e7b14441ff830a59f127645991.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/06aa3553d1e244d9a9163f5feb5a858e/2aa790a9c54d43838d0f3e9b1c84a6eb.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4352beffa0324d769097ce694bb866d7/b19b391a07904b4ba6cc62ebfb5ab03b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "114,29 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b4dd75234e14ff8925b4c5ea4b10b4c/e2c85191aa1b4f99a03ac5d4746d0429.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/764cd648847444728c9fa86f03e46801/7c672027b2f24531b7fd7b2a1cc4ced8.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/532482bae019435984e6e6297e81141a/9e0ef4df212d4f1ca9e9255e4f5966ab.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "132,17 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e7a26f5d009445e8066edfb4f9f2c69/58cb075befac4deab083e6176eca2199.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a2960d20bac4701b668d4bf9420cecf/86d7f9efa2d143a69ce105a9621fa867.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "SET - Piżama",
+        "price": "110,87 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e672797ba06340f9a2237a9e0c18762f/6dc0edfc9e5c4dd59b27fce6dffc266b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "USTAWIĆ DLA OBU PŁCI - Piżama",
+        "price": "103,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13c99f2c77674250a9622f93a077d199/3d63e4b71e53400c845ab67868fa8f29.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/81bdce780ff84915844d1f788aa25428/403f19d67f4b40e786ff4097255a9f78.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/734d7c1ae4904970b02898fec94e0f17/76488f0c667c43f49c514f32bf386312.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "187,83 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ad33cda58324101b42aca25c8145e3a/e2f7da41b4b345c196f4b6eb69334132.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "164,35 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Sukienki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/671f4a5451894ccdaeff90b13dda632e/835fa993ac0945e6b5c0ef7b2b23869f.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "190,91 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

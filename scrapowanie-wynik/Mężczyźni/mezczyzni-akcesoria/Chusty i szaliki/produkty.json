@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7da5bc3ae5664cdb8b3c71662bc45af9/6f02573494024ace9dccd1fd6c1100aa.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX  - Chusta",
+        "price": "369,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/95bc74d55e16416080c500b18ddb057c/a5737b25786c4755bd1404d62f2b165d.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "45,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a99bb3d9cfb437a9cbe0866d6ec98cd/320115ba7dee4f2fbb32597e8f2165fa.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "42,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a93d4f1325b14d53a3e98d6d59d759b4/cce3c5abdcec4e56beb879fbad50d776.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Szal",
+        "price": "51,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/11f3cab4ffb14cc3b613a1a2d61bb285/6dc2bcd3ad6f4956908ecdb174dfcc99.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX - Szal",
+        "price": "369,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/outfit/cf745bb7c5e048b7bb273895a5c5dfd2/29240e079e89442d9b6278fbd1d06f85.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c3078b34d58144dea35f63c9c692fcd8/fac32ce799e44cb0bfbee9033b2a2abc.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "UNISEX - Szal",
+        "price": "58,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cb700a45f1ec4816a0ca35ff7b6976cf/563f89f77fbf44ddac74a9fd07b6a7f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Only & Sons",
+        "name": "Szalik komin",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b31aed652364369b4d6b9d5902b414e/b6644862bb1340fd86dd9636209c0d36.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9d9f220ecc83415f8e4d9c431d79694e/a370da404cab4a1abb9b02fe7a80f0ea.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1cc252516665456f90bcfc4893594038/1dc909f792a74016b8b0ab538a76c030.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "32,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1001d82292f2333395f6ec43ea36f00f/5843728df07a4aaca249376e23e1cbac.jpg?imwidth=300&filter=packshot",
+        "brand": "Only & Sons",
+        "name": "Szal",
+        "price": "62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/80eeae035dbf3ac8bed28d4fa6191ae7/35a5d6325dd1452f8cb441e3c190066c.jpg?imwidth=300&filter=packshot",
+        "brand": "Jack & Jones",
+        "name": "Szal",
+        "price": "67,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7406ce7d94db41c8a1da25fab3a42f0f/5467fcefd1ba4fb4924d57c699e55fe7.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szalik komin",
+        "price": "25,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/33e1dc2159243a698d1820dc155fbe42/c30caf5e30a94831ad974ae65f66ec1d.jpg?imwidth=300&filter=packshot",
+        "brand": "Levi's®",
+        "name": "LIMIT UNISEX  - Szal",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e9ed5449f93047a48199ba154843dcf0/1bf35105a3ce409294b46242643c4bbf.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign Studio",
+        "name": "UNISEX - Szal",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/feee0795638140279c0e06f48bc941c5/fac54491960f4791b693424e9f843062.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX  - Chusta",
+        "price": "449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2019c123be104ab4adea610916d94ce1/c6d3fd0bdf8e44b09391d373d9a32869.jpg?imwidth=300&filter=packshot",
+        "brand": "Fiorucci",
+        "name": "Szal",
+        "price": "319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/35c6883f62c3416d97af5cfa93110071/03ee3933fc924e919d19a69ad47ecfb4.jpg?imwidth=300&filter=packshot",
+        "brand": "Vivienne Westwood",
+        "name": "UNISEX - Szal",
+        "price": "529,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/outfit/16587524cd6f4132801a95952a190353/38b01c8d16104c35ba4919b8162a8e09.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6cb72186c8b542ef8c2dd1e90d9ff78c/d52a3919e5294d03b89e55ebcedfd84b.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "BEAR UNISEX - Szal",
+        "price": "2 069,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/crt/creative-content/62066f5b-f55c-40ab-95c4-303f5ed630d1.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b999042ee07a4dddb9746f642b293180/9555056119b7415dab95d16fbaac25b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Czapka",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2bd92119feed4790ae00bcbf00b577e0/40c79191b3b1470b8e7be0924143370a.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "UNISEX - Szal",
+        "price": "53,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e54bbff8382f454c8237429c1f0206d4/5ad064bfd3f64ed29e6d6da2c22573c0.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "Szal",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/456218ca4e3046cebd78a1ba6e5018d0/276b3539561c4de692a04e641d9d881b.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0ba8794ebb644bcebd0227167bff5665/0aeac3a3ec804ecb8d57066f1b8b1670.jpg?imwidth=300&filter=packshot",
+        "brand": "Lancerto",
+        "name": "UNISEX - Szal",
+        "price": "149,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Chusty i szaliki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c55124dc1e62460dbc4ad882dfc97c22/f80547f3cde344ac9c0ea75f28e1f063.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szalik komin",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

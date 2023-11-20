@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5f9ac44c2678456e8e04cc3d711af4ef/12f58ae3e7d24c04b4d493ee4e151f78.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Sneakersy wysokie",
+        "price": "od 144,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9555cb7668634afa9db4c85b2cea31d9/b26091f31b4f4dcd8a3a6923f57eab3f.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 200,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2124e9d1c28d49589960d6fd84067368/e30e9d9f4ff64a149c6b251b1fa668be.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX - Śniegowce",
+        "price": "od 299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b300599de9f93ecd9ab282c115f72cc6/ef9fd5e788604a67845c5addaa483ff4.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "WINTERIZED - Sneakersy wysokie",
+        "price": "od 167,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/51ff34b2990b442490443cae0e433d5a/b7d2cd3970ad425e854697af6e7c5f9b.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "OZWEEGO UNISEX - Obuwie do nauki chodzenia",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7be7819045a94cfd9b7fbc3944471a81/6cc77801b5104e2aa1f45eb163d04d9e.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Obuwie do nauki chodzenia",
+        "price": "od 263,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aeffe6ba49754845a5fa32e6497c1d36/bf2e96b2f73e42e88a70528ef9f516d5.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 165,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/983b07b7216844f0b10d2d7cef748760/817cc498202a44fbb5ebbcf0d573cabe.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aab39f38c78c3e12b4949eb43160faac/7324252337de4813a3e1c81793367515.jpg?imwidth=300",
+        "brand": "UGG",
+        "name": "JESSE BOW II - Obuwie do raczkowania",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/crt/creative-content/52fa2605-6757-4d1b-8bdb-db9846c2b806.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Crocs",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7bce6d7ebc284c59b9328e2b9abbb2bb/aeac84ba4eda45369f068b406096f10e.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "FORUM UNISEX - Obuwie do nauki chodzenia",
+        "price": "od 259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01a97bd0f8e24cd9b63481207ae9253a/dba5f601fed24d22a96f80d69f716375.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Botki",
+        "price": "od 163,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e845e018103c3a9c842135c078707487/12ba96cab9c1456f8d4b6b3b5afa61fe.jpg?imwidth=300&filter=packshot",
+        "brand": "Naturino",
+        "name": "Botki sznurowane",
+        "price": "od 305,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/054615a7cb1f300ead015d32993e9cab/90661c5c633642758f725a27b9c99084.jpg?imwidth=300",
+        "brand": "Vans",
+        "name": "Sneakersy wysokie",
+        "price": "od 142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a6863ff76def31e6bcf58a60735a4bbc/e0cbed9930aa4358b71d9764d2d103e9.jpg?imwidth=300&filter=packshot",
+        "brand": "Reebok Classic",
+        "name": "CLASSIC - Sneakersy niskie",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb04754235ef3f1987a926152c758b9e/367a1ffe74c444ada98ba1bb668f335c.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Sneakersy niskie",
+        "price": "151,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/176c80a2445035c0a7cf17cab3467efb/a73f5b1d5a1749d781858ee77215cbce.jpg?imwidth=300&filter=packshot",
+        "brand": "Naturino",
+        "name": "Obuwie do nauki chodzenia",
+        "price": "305,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ce5b98b369394e9399b931c0eb0ba3e9/c8bd564802bf4430827113995be31318.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX - Obuwie do nauki chodzenia",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9b69f4181e423ed6a4cf14b8eb17a755/6d3e298833174c4c833730252fe767e4.jpg?imwidth=300&filter=packshot",
+        "brand": "Naturino",
+        "name": "Obuwie do nauki chodzenia",
+        "price": "305,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "Brak zdjęcia",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a18e0ee5d0064d5cb7142dac88f572d8/a7a2206969854db4afbe08dd22180de4.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 144,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/433e0bf61905402bac990ab29eea17cc/db4eaf1958084314af488ba739bbb789.jpg?imwidth=300&filter=packshot",
+        "brand": "Froddo",
+        "name": "BASCO TEX - Śniegowce",
+        "price": "od 389,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6dec9b02618b4fd5ab9c7ed16e8392e0/77e44661ca8d4134ae609a22e2c49333.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 156,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0d6e7d4d4b544b3ab8d62ec9fff6f2db/c1cd4b895a5d4963a4b213cb562a2f37.jpg?imwidth=300&filter=packshot",
+        "brand": "Froddo",
+        "name": "PAIX UNISEX - Botki",
+        "price": "od 244,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9afc1e0ecc564c83977b88866d025d2e/535daf3920e24ab59861c0d1a7502c65.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "CHEVRON - Obuwie do nauki chodzenia",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/373fb08ffefe4738a7b0868eabb509d3/f65681daeecc47e9bb697b14444f9fbe.jpg?imwidth=300&filter=packshot",
+        "brand": "Superfit",
+        "name": "HUSKY1 - Śniegowce",
+        "price": "od 287,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5765db00109d4f7ab12447a9efbfbdd2/f874c5f23a75464a9724c9aad415cb8a.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7064c6d1c40832fa9ad33902e16201e2/222f7148e8724c599c4b672b9407eb2e.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR MAX 90 UNISEX - Sneakersy niskie",
+        "price": "od 329,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a6863ff76def31e6bcf58a60735a4bbc/e0cbed9930aa4358b71d9764d2d103e9.jpg?imwidth=300&filter=packshot",
+        "brand": "Reebok Classic",
+        "name": "CLASSIC - Sneakersy niskie",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6c5ca23534ea4df7a5cca1345a472981/aa11a6ce48164b8abe124ef5e4ebcbbb.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Śniegowce",
+        "price": "198,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ca3d6b8421274dfbac22edd8bb79fb49/0deb2e538a0645c4b772d6bd842019db.jpg?imwidth=300&filter=packshot",
+        "brand": "Froddo",
+        "name": "PAIX WINTER - Obuwie do nauki chodzenia",
+        "price": "od 244,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/912e0964e5d449e698b8797295460323/aa36e0e810c844b2be059279370c7468.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb04754235ef3f1987a926152c758b9e/367a1ffe74c444ada98ba1bb668f335c.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Sneakersy niskie",
+        "price": "151,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Obuwie do nauki chodzenia",
+        "image": "https://img01.ztat.net/article/spp-media-p1/258e8101dd604d5cb96fc14f9a37fe09/67848576162344c4b37e9c9173273c68.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Obuwie do nauki chodzenia",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

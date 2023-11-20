@@ -1,0 +1,818 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/db9c407d786f42f8b703721a5a7f3a90/f62175b6dfc449a796d93434bafc6050.jpg?imwidth=300&filter=packshot",
+        "brand": "Prada",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 399,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/900d3bcdba994f6bafce2855dc251996/4626f842dd4a4f78b2487e2a3b71c16f.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b06b187274c84bb0b64cb6f9c68f1b2a/18425ae433404c2289b6f233b16bc445.jpg?imwidth=300&filter=packshot",
+        "brand": "Burberry",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "767,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6777c4d6ced44017b8aee033e8a6312f/cc2c44ca47e049eb98b16b368e1d8c3d.jpg?imwidth=300&filter=packshot",
+        "brand": "Ray-Ban",
+        "name": "ROUND UNISEX  - Okulary przeciwsłoneczne",
+        "price": "412,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/efcf6c21d86a4c1c89fc2f88a9f6c3ad/250c8d2a9ce440708cfcbbcf5b5f6367.jpg?imwidth=300&filter=packshot",
+        "brand": "Polaroid",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "174,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/outfit/ad3ded72117b495ca76b8c8885184350/30d29bd1ae584e4b85916089703ee18f.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9bb687d6f12a4a038f24f14c63d63b79/48dba36308da4bbb8f0867adaaf147a4.jpg?imwidth=300&filter=packshot",
+        "brand": "Jack & Jones",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/acc78df5a7fd319db5a9ba6c739ea275/3d48e605b5b143498a4afc2776158c38.jpg?imwidth=300",
+        "brand": "Ray-Ban",
+        "name": "ORIGINAL UNISEX - Okulary przeciwsłoneczne",
+        "price": "454,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e3c61bfee73034b7a93004c4b30b1f04/bb423272598a4603a181cc4c05f055ae.jpg?imwidth=300",
+        "brand": "Versace",
+        "name": "VERSACE BIGGIE UNISEX - Okulary przeciwsłoneczne",
+        "price": "1 039,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/crt/creative-content/c20a4e04-0de0-429f-882d-6f2fc65e74e3.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "COCCINELLE",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a4e41db0f75409b9645394335b474f6/13eb8133c0f0403e971b5f568844f61d.jpg?imwidth=300&filter=packshot",
+        "brand": "Prada",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 669,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fcf7f23ef6d64a83a1a8a548c1bb34d0/c8140026d8274de9bbdd22e3c0a00f55.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9fce3e3d89fb3ebab7e7b879ae4f43a4/54b2d98399b548f69539337a0ff94862.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/5e5ae2a386c233c8ac202fd4c532b7a0/69f6d634ec6641548e5fd1306ae776a8.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b5a83912379436bcbb1764e2e613c5ee/bc241ce79eda42f2a7abcd53fcc37db5.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0353272ecacb379a81ab60e4e1c580da/309fb31f250240b8956bb5b6fea618ba.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d88aeae7fd903170b853e85055bd6d62/e41727fbf5404231a8f57265d67d9bd5.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d61c410ec503349b81dc6328b11e99a4/ed4be31d40944b8b9e908fcac3f149b3.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b4eed1cf6e0c3439b850dc8e92d11912/040148f5ed714df6b0306194e7517e85.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5c50e41d3be42f490e56ad52701b62c/3f5a3d203e3540d3b84927aa697557ff.jpg?imwidth=300&filter=packshot",
+        "brand": "Gucci",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 949,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a58d3d0e2118459384782e51b7d0deb8/851ddc964c2f41ecae39449719d0e18c.jpg?imwidth=300&filter=packshot",
+        "brand": "Stradivarius",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "49,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/deba24be273a4ad9be1f9a130638a4ee/e4296b02f1164da7b349972649131fbd.jpg?imwidth=300&filter=packshot",
+        "brand": "Prada",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 309,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cb5c7b1eb5794a9ca5bb84c6f52ec8db/d3b30601df2547f39e55b563e7f0d445.jpg?imwidth=300",
+        "brand": "Gucci",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 289,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3420fa0a44594362913c4fc5ec31ad9d/57a7965e1e4a41829cade6b08d4f2de9.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Specs",
+        "name": "WORK IT - Okulary przeciwsłoneczne",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/21d64c048181426c9f8df67af03469ab/4691f2d7ff954023b52f586f3167056b.jpg?imwidth=300&filter=packshot",
+        "brand": "KARL LAGERFELD",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "496,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/627fd8272b4f486eb54c15f888ee171a/6344a90cd09e49cba06b8a4febb005ed.jpg?imwidth=300&filter=packshot",
+        "brand": "Gucci",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "1 199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/208693e5349e4725923e588fa1e8cabe/a0a2a10e0d8847f28decc8b53aa8c56d.jpg?imwidth=300&filter=packshot",
+        "brand": "QUAY AUSTRALIA",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "175,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/outfit/93d3d7d4c012495f9b1d419796dd71a4/35bf6bf0fb544d30bac754394793d5ac.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab03aa5ce1a34246832168407e4088ce/ddcb43ac07a045dbaa850d6e763f88fb.jpg?imwidth=300&filter=packshot",
+        "brand": "Gucci",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "3 269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/crt/creative-content/9c6b7a56-e32b-43b7-b839-6e4014e307e5.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Coachtopia",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c8e6221d3ed93c989facae2fe0188bac/a3ea30aa8b62486f902b0e74a5d6232e.jpg?imwidth=300",
+        "brand": "Polaroid",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fd8d1597a123435c83557def45f6b588/854656fbc18347c7bfdb749490e39f12.jpg?imwidth=300&filter=packshot",
+        "brand": "Michael Kors",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "458,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/de70e0d76d2a3c148e0b27973bd0e9e0/1458a0912e344867849e255b04975969.jpg?imwidth=300",
+        "brand": "Ray-Ban",
+        "name": "STATE    - Okulary przeciwsłoneczne",
+        "price": "699,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0201150acf214777bd8421930edf1757/be9b075f6b9b47d3bbd438d0c0381454.jpg?imwidth=300&filter=packshot",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4383c6f1c8a44edfb246a3ea4e663825/08949d1537d2408ab6f92b35056b196f.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Plecak",
+        "price": "1 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b37f58808fde428380135a27f3a8bb5c/875d55efcd7a41c894bbce9d710a563f.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/76efe25e54c441e981c767c6a2496cbe/bb6bec60ebb04249b40b1f0d4e29096c.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torebka",
+        "price": "1 649,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2247e78928bb43e3aa0c6ee64d96229a/822c84df287b4efe95bfe51b6bbaa9b9.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "729,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/31be8963ffdc48269c920bade6c9dd58/bc77dee5cfb54fb0a8cbc55ac5a78d7d.jpg?imwidth=300&filter=packshot",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9080cf3ea2524234bff6c20dfc5e1c99/b5e31e44d2c24a3b923d713d042462f9.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torebka",
+        "price": "1 649,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/85cdbe011fa5492a920211fd14a2d025/ef81c5d76a4a4366a82204909998de16.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f3a673cdc175402884415f12375c06f6/1b65fcd9f00940dd98df263eb5e5c59a.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Saszetka nerka",
+        "price": "679,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/156955f4039a491a9149e4d741e704a2/f1b1b8489b2649b5925da42cb0f2c104.jpg?imwidth=300&filter=packshot",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba fotograficzna",
+        "price": "1 159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a224b5554b2e4a3195193a2c939e38b8/2aeb9146540941b2a1ea97e95c2977b3.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13b2b7197e904dc9bfc245495f1f8bec/ac7fe48897b8422d8647236a5b01c130.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "729,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/becb953b23224bbdb2b2e3b925bee03d/5f0f3c4614234b4e97bfc5c59ecd7d18.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7311d2f6d9bb4ff6be68a84127dacab6/8b737442307041b6b189d23e0d1ee847.jpg?imwidth=300&filter=packshot",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Plecak",
+        "price": "1 549,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b1d184b322e40a29ebed12a41dc9112/eae68e757c0c4c4c86499a2fc228b678.jpg?imwidth=300",
+        "brand": "ECCO LEATHER GOODS",
+        "name": "Torba na ramię",
+        "price": "1 159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

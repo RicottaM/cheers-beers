@@ -1,0 +1,529 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6a37f39a6f5142efb87ce6dcf42658be/466d012e43714c6a8274fdb5f0083970.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kombinezon",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6fe30c5371b343799c2acea4cdff651f/08c3b509a3d54aa18a9c2c5b36e896cf.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "Kombinezon",
+        "price": "252,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4f9c0d927d3d493594432066b4b5429d/f4223bd8e29e48818a8676c01084f2ca.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Kombinezon",
+        "price": "174,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/249c38ee033c49469a895b5364a03134/7fe644f75c0d4bd78638ff8e0acfc4f9.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "CIRSA - Kombinezon",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/96dda663d9874aef80e5ad68f44db12b/d19486de9593467ea2e693db48a69f8c.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kombinezon",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/outfit/aef72e38cc6147549802f42c3ebe31ed/719f3caa899046cb910bb85dc2e61aaf.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/58c1181ac0724839ad3183f58c7ebc10/87376ab6dc6643f0843b0991583d5335.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kombinezon",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a506da0c7824cb1a75080f64869e145/791190e0aef847b99a740ac5c752f7d5.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "GABRIELA - Kombinezon",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b350961133783840b087206fbf6b6dd3/62297f084cf743fa9da5cb05a37bcc96.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Kombinezon",
+        "price": "100,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b95092987e3244678e8a4620aebfa513/f04f29702a524ac3bc3679db5596df65.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kombinezon",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/229ad2baabe64edb86a950c5cd493fbb/0399364f42624a79ac02dcc699e8dcca.jpg?imwidth=300",
+        "brand": "Cache Cache",
+        "name": "Kombinezon",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f494ac0124d479680367fc635dade04/2abe7dab3d964caa8afec9fd5637ba45.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "LOTI2 - Kombinezon",
+        "price": "169,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/86c69028f99f3f1a869548958c0b71f4/154006da04b547b1af97457f8ca5fcb4.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/82b5cd5397c2385585aca20ffc318853/d0cc8e10c43a48b79bb5381061c0ee92.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e62df2748f29307390810d4c513c30b8/188facad262648e9bbe76048138a6f32.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a8d792c3c97430bfa959e271ae659c48/4e7c86f2983b41a783891bbac5ca91fc.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9691ed418a9d3d2b9a17bc152cfbe267/753c446cd55f4beaa38debcc23ee96b9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2731d7d01f27451c80e73bf014d87313/e970dd0cbed846238ee9a12e5ba59d55.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Ogrodniczki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fce14f721d5e4998888e64e4e82a58bc/dccf2c92f342424db2e8feaaa3e76e2f.jpg?imwidth=300&filter=packshot",
+        "brand": "WAL G PETITE",
+        "name": "Kombinezon",
+        "price": "183,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d3e4d82d335e41bcbcf0e146ec67a0b5/d927a3c0150b48d294aff3caa0a802a0.jpg?imwidth=300",
+        "brand": "WAL G.",
+        "name": "Kombinezon",
+        "price": "153,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/87bff60aefb33c28b862ce398de5d0ad/4871bdebd80f40cb90de4a6720fc2230.jpg?imwidth=300",
+        "brand": "Urban Classics",
+        "name": "Kombinezon",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c261cd9bffc64a11880c38e6978b8ff4/ead4fdab87de415e80d75f85ecc887c2.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kombinezon",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c4b7e4aa76fa4cd7899ec3921b2e4f6a/19efc98281f546f48c9b222c5960e125.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kombinezon",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c49218716da347fb9a104c6fdce1ac8f/0c3355fe33134574b5745413589463bd.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kombinezon",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/626ad0dd3f7d4a0c822f8c1ed25bcc44/eb4625c565214a82806800b5b5ee15b3.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "CIMON - Kombinezon",
+        "price": "169,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/outfit/31c56416713e45bdb75f4813c3bacbea/3cb9d6a059e840278f6a94a0f9714e62.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a61d9248def4d79a9d614aa445b7ef3/fe3c489ea1614734b6f8f587058e5326.jpg?imwidth=300",
+        "brand": "ONLY",
+        "name": "ONLLUCY  - Kombinezon",
+        "price": "216,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/170dd78fd42942b89af5d25cac7db35e/8df230f32ad8464b86c827f7c4dab78f.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "CLINI - Kombinezon",
+        "price": "169,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4f27b1eb5d0b4c3b91f893aff2b77d5b/80baa2b7fd6d4c99bfdc10ffb813a4f4.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "SAMSARA - Kombinezon",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/80f45f71dfe94f6f9530917dd2713eb3/6b60d380c941423a8cc11d856570c17a.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kombinezon",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kombinezony i ogrodniczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b708cbf4c8cd4bad91e5a3c672b3035f/4502cf4afef9447d99bea76e83ae1653.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kombinezon",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

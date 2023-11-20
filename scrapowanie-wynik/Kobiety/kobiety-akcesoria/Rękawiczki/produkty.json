@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6a2c3f1a7c024d90bc3e207eef83db36/bc0c74ee0e554e5c8e77825adc9f8a60.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "RINO UNISEX - Rękawiczki pięciopalcowe",
+        "price": "77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ddcc540f780d456ea1f6f8a4402142aa/278c01e5c1e1476c8f3e60a57278d3f5.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f899ef896cd481baadd72930bd57371/d31b00acc7344f1999c6d3c0729bc853.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "29,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/495974af84a545e0aa95f31445579074/e1e09d8f4ee6445f9f76759ee8bc4f56.jpg?imwidth=300",
+        "brand": "BIZUU",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ecc35d90d37841e1b04a48e69e25bcd2/73320493d36749cb93edc3a05363fdb2.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX  - Rękawiczki pięciopalcowe",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/outfit/46f1500576a9442295553fd1c1b88717/56817a50fd4246aaaee8fe7c93648d8f.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/86d5d6861b1644829f33d8dbaeb0beec/b2aec9f4d4df4b898e5d7e41ae5fb858.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/56eca295df4e43f390a09438a64fc08c/dec7f089b46f46aea09aec27136e40c7.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Jeans",
+        "name": "FLAG UNISEX - Rękawiczki pięciopalcowe",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4a2df31d1d6549b3b2d1e1585b2af800/7b4849a6d0634fa881aba8fefd714209.jpg?imwidth=300&filter=packshot",
+        "brand": "OCHNIK",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/crt/creative-content/c20a4e04-0de0-429f-882d-6f2fc65e74e3.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "COCCINELLE",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/428462eea2b44eb180bf2117e36bea66/8e4e3bb5744d435db880663086b31896.jpg?imwidth=300",
+        "brand": "blue shadow",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/76c8b4613222344885e3a7e66d7ebb63/3a30a79cdfbf42eeb7f689a7d1b42e5a.jpg?imwidth=300&filter=packshot",
+        "brand": "Ellesse",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/72cf576fd9a93b4fb310902a113b28a7/7a5725b63de54b0cb0e2dccd18c87872.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9f4a251bbc7c38a690f10d64d5632572/7ef1973fe75341eebeabcb7ee20dc57f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/4a5f4091ef533b3d88cdb2dfc89b2f44/0b93516ddb404fd5b365cb3852c08d2b.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0e047f373bb73368b12710521e5f1277/6efc595171d84439b7a780b03e888a9b.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b3c1a861dab9496f93f37eeb863df287/4390ee6a11c54fbb94c449e335ceedaa.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "136,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/258ccf3ba0bc4c568fd43c5c9a4b6cdd/8d9799d7443149ada822a96ed2db3027.jpg?imwidth=300&filter=packshot",
+        "brand": "Bershka",
+        "name": "Mitenki",
+        "price": "49,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8cb552b75e145f98ea69e503c594f31/83215c27ec794a18ac59a4ab71eea2a4.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6e7eea39582b4027a1f64a20d06c9188/cd7fdcf27c93474ca616a2f0a59018c4.jpg?imwidth=300&filter=packshot",
+        "brand": "ARKET",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3eeb282d63c34b9996ef60c46a2cbf41/b6594ff5240e481fb6cea5465b7d5082.jpg?imwidth=300&filter=packshot",
+        "brand": "Pieces",
+        "name": "PCIDA - Rękawiczki pięciopalcowe",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a7ec97b024e9493c8831e56ba5acb377/9d79c22d9fca4e8882ded3eb9bbff718.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "NUPTSE CONVERTIBLE UNISEX - Rękawiczki z jednym palcem",
+        "price": "162,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9bbad8f65dd048a5b2a3e2bef08e7032/37c7781d27584f6bba64b62f13d54ae7.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a5932b1de2c23847b8134123743dfc9c/244796f1f8444cfc8ae2d954070febca.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "Czapka",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/outfit/96fd74e6fdba48f08d2f9e3bcaebc735/4c2c727822c44f39a322b2932bf8a9f3.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3a962d761639462ba6f3e44152f9b62d/2ef46600032f492fa985d019db7b7b1e.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "MITTEN TAPE - Rękawiczki z jednym palcem",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/722e11819e3f4b37a75354a0cb194a0f/15b297149b6f460083f5a2de7e185f98.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess",
+        "name": "JAMES - Rękawiczki pięciopalcowe",
+        "price": "181,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0b165ab211ec486dbae4281c27462fad/182ea6c9e8984860b5fc2271be6b40f2.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/afa75ca21ff144bfa916527c09080321/848bc06b3a6d47d0b812fe56e2841c74.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3f84eff4b2d9416199801a36c05b9a51/c63d92a9d7174c1ba3cd73c499b1809d.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/71d0e44fa25c45599430cc4652631250/53ea4414250c4736a1231474aa3f0d4d.jpg?imwidth=300&filter=packshot",
+        "brand": "Columbia",
+        "name": "Szal",
+        "price": "143,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5cc3377bf2cf4966a6f1116311f43f83/7399d4bd4af945e8933485b13f9da23d.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "ETIP GLOVE UNISEX - Rękawiczki pięciopalcowe",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b5b78d7d79840c9b051e8b6c7dcb181/678a43c6a44d4923b80c6a3c14da5cc8.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Czapka",
+        "price": "63,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ce5a31cdc7f34e56aed9f84901508bd4/5cf18156483840c7ba89ba5ccbb827a4.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "BALACLAVA UNISEX - Czapka",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d475dd51e90c497e83810c3398d95e9a/c333c9f023324731bb868578df60051e.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "BASEBALL UNISEX - Czapka z daszkiem",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5b8af78162a44219e95bff8e966a211/21f4ec3e59034c5b91709e829a399e25.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "UNISEX - Czapka",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/63ca1e03ec7735e285a7a6991fa1f477/6c12d3997f3c4542b5d315d5e777c1b0.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "DENALI GAITER UNISEX - Szalik komin",
+        "price": "95,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ecc35d90d37841e1b04a48e69e25bcd2/73320493d36749cb93edc3a05363fdb2.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX  - Rękawiczki pięciopalcowe",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c98e23dc3bd734ecaf9e6384ba4d6273/7eb15271216444c386944c31e6a24bf1.jpg?imwidth=300",
+        "brand": "Columbia",
+        "name": "WATCH UNISEX - Czapka",
+        "price": "75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/crt/creative-content/a38d1fde-7c8b-40a4-a21c-792432c1ebf4.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e6de34dc1f044c2bb6a3cf02b84f872/ca5ee3db9b794c86aaffd6c5a9fc5445.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "THERMA ACADEMY UNISEX  - Rękawiczki pięciopalcowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d2df876e4b4734f5bc986b7f150b7a59/39a91b3a0cb4430a95d76a86c54fc65d.jpg?imwidth=300",
+        "brand": "Oakley",
+        "name": "BACKWOODS UNISEX - Czapka",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/navigation-entrypoint/058198c9eade3bc3825b8632d2a2dda1/aaeead2a6fda4a659919fe2c22e755ec.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/navigation-entrypoint/69e92215986f35fba24e6efefbab85bd/321f5329a1da47af9c5a4a1939d5a325.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/navigation-entrypoint/146bf9be253b3fb5bebe7ae0061ff00e/4c6ca739d7974b2181fec89bf747c334.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/navigation-entrypoint/02b4d3d675263d88b9a0e8f7f668102d/2e9b59acefdd444a9e2718b7617de3f6.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e344d242f973e96b2cfc5facef475d0/0f5d7be7a18048188c7789bd652af789.jpg?imwidth=300&filter=packshot",
+        "brand": "Vaude",
+        "name": "Czapka",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/652ec35aafd04afcbf1ea2ca637e209a/931eede2130c4d11972694ead62cbf30.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "SALTY DOG UNISEX - Czapka",
+        "price": "126,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/631ca9ece83e38c7afa02df5b23a7ef6/b54ed767b4e94d73858e5aeb48b82158.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "Czapka",
+        "price": "53,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1589e04c97a13a6a8db255624f3d0406/89cb04c9280e4e6693d4f776035f9e3d.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "SALTY UNISEX - Czapka",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/093151c64cb93c738b7ec3cab3342943/88362c8f4b1a4ff5be6908c06f831b36.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "WINDWALL UNISEX - Szalik komin",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/94205e537a023802adc28146b8546dfd/41cbfbdd39734886ad717ea909ace6e0.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "HUARACHE EDGE  - Rękawiczki pięciopalcowe",
+        "price": "127,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a0d5382ccfc44479a458129d193d489e/a2d65d1f79fb4ed6bc8153c8a2cf3413.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "STRIKE UNISEX - Szalik komin",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0de4fb0cbe4d433db9a80bf51704fefe/d902550967ee4f379409b6c7317cf578.jpg?imwidth=300&filter=packshot",
+        "brand": "Columbia",
+        "name": "WHIRLIBIRD UNISEX - Czapka",
+        "price": "75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a5932b1de2c23847b8134123743dfc9c/244796f1f8444cfc8ae2d954070febca.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "Czapka",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3b6406bd38fc4c49845b2431a8cb9f38/361024597ae6427fb61e444df812ebfc.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "CLUB JUMPMAN - Czapka z daszkiem",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/afa75ca21ff144bfa916527c09080321/848bc06b3a6d47d0b812fe56e2841c74.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3f84eff4b2d9416199801a36c05b9a51/c63d92a9d7174c1ba3cd73c499b1809d.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4a14120bc94231d5ac1671d035be0f21/fbac0d723e3f41f29c7146b2c997da9b.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "ETIP GLOVE UNISEX - Rękawiczki pięciopalcowe",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a0c70de05c8c41d8b1479ef05dd8ed6b/c8909121476f46c2b8717d00d177f2af.jpg?imwidth=300&filter=packshot",
+        "brand": "Mammut",
+        "name": "Czapka",
+        "price": "148,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

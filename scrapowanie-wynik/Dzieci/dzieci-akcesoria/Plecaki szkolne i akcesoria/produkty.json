@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fa4e009af623463ba358dd37fa5d72e8/eb68dce3c65943a780b742842ca6746c.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "BY OTW - Piórnik",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/280836e40c0e4b089f7b0588883377f0/394b05431b6d4cf58bfd210a5a0b79c3.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "UNISEX - Tornister",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/857ac2d65b924fd0a213c6be62a6a3e2/18dcc4bcb7ef4b08a583666f86dc9837.jpg?imwidth=300&filter=packshot",
+        "brand": "Converse",
+        "name": "Plecak",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a6fdcc0626af4601a0af507fba0e4cfb/a1931d69276f49cba27278b1da9faf2b.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "UNISEX - Tornister",
+        "price": "101,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f4362e6991a64a3e87aad5674aa538d3/a9a072d1cdc94dfd8e05940269030e07.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Torba sportowa",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d239b2199c74322a5311cfa84b996a9/ef52749f974747dfa5895d3d7ffdcf05.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "Tornister",
+        "price": "107,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6b263811569b4f95aed6f0ee06f35c8e/2d8b701ad88344f2b7592ad0228cf3a5.jpg?imwidth=300&filter=packshot",
+        "brand": "Kidzroom",
+        "name": "Torba sportowa",
+        "price": "52,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/62b594ab519e4591834f1da263601714/7b7a87f29a6040379e6a335568eaa637.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "REALM  - Tornister",
+        "price": "101,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fa62145a29694dfe90015ee0246d7b1a/479989c4e54d4fba96ef2c69928182ad.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Plecak",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bcc12277e1a643788d02f4c7a8dcc24b/0dadc2aa9b5f410ba75c458d41c5e1a8.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Zestaw szkolny",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4972a1fbb0b83d03bbcf89012ec5de27/6c751ba085d84950b409cd685f09e755.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "BY OTW - Piórnik",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5ee5462e78954acc937b6bb00bb5659f/9236d7a13f4f45a2b69eec7080c7d02d.jpg?imwidth=300&filter=packshot",
+        "brand": "Kidzroom",
+        "name": "Torba sportowa",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3571e8512d1f4155bbfd3ab354a84c17/6d4121d3197f4a63bf49fada292799d7.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Śniadaniówka",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c719217d1af9493fb5c7778bcd3fbae4/5df70e9735fc4a9ba6f6de716d1bcfaa.jpg?imwidth=300&filter=packshot",
+        "brand": "Liewood",
+        "name": "Bidon",
+        "price": "127,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d1f510f58ef44f6abc75f5de4203ce9b/1bb02c59903343f288acde0e70bd0e41.jpg?imwidth=300&filter=packshot",
+        "brand": "Liewood",
+        "name": "Bidon",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/26eeb87c578c4f11b20222ea0bbb3703/b9b29655a09e4713ae17a5f94c440344.jpg?imwidth=300&filter=packshot",
+        "brand": "Kidzroom",
+        "name": "Torba sportowa",
+        "price": "52,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/733bf2b6264a4dbf834ccfa09ab04922/efe45684c0574597ad0bb5e0f9baefbc.jpg?imwidth=300&filter=packshot",
+        "brand": "Kidzroom",
+        "name": "Torba sportowa",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4a484b06960e47748aa40ee6dc3d8b50/5aad8c59365f43e392890cb3fa5643f3.jpg?imwidth=300&filter=packshot",
+        "brand": "Ellesse",
+        "name": "Zestaw szkolny",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4ae2e4ffc27c432a91b72c25e119a035/a6e031b0faf640d5bee7e30fa159cc8b.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Zestaw szkolny",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08da762253be45b2bed3038c4cf1f663/d2b7f0b35c4e4d508ea4931dbb90f7c0.jpg?imwidth=300&filter=packshot",
+        "brand": "Liewood",
+        "name": "Bidon",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f09e9da642ec46fc9d75b130ecd6ae99/3d05fde53588474f95704af8c69adb58.jpg?imwidth=300&filter=packshot",
+        "brand": "Converse",
+        "name": "Plecak",
+        "price": "116,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a5c04732e07740ca8075bd61646c3787/c07cbc2034174afd9153007bd0030693.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Zestaw szkolny",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/84ab1a07c0f64763a9e47d19a34d2238/01fade14fbbe4511a598f0013d0d9c89.jpg?imwidth=300&filter=packshot",
+        "brand": "Kidzroom",
+        "name": "Torba sportowa",
+        "price": "52,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cd681c35833042ebad9550606861d66c/c55cd8b49a674d8c9c2757c9e006f0a4.jpg?imwidth=300&filter=packshot",
+        "brand": "Liewood",
+        "name": "Bidon",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/59f5a1101f8a4ee4807f05d4bd3169f0/0b7632c5b5264f25b170fec570ba86d5.jpg?imwidth=300&filter=packshot",
+        "brand": "Converse",
+        "name": "Plecak",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b3d577454e16495d834ccd58d57f9824/b28b5baa589b4b9aaf7e7b4303bff2e7.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "BY OTW - Piórnik",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a5679a7d082b428581012cc06353a38c/6329e7b161234e16a8cc53906d1c538f.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess",
+        "name": "Piórnik",
+        "price": "65,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b27774f562b46ada8aca5ed604fd198/0de8cca91e8041da8a7b8c147134c09c.jpg?imwidth=300&filter=packshot",
+        "brand": "Lässig",
+        "name": "Bidon",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Plecaki szkolne i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4388104c82a742e9b15e2413ec797110/14fbf4f130e24657af9d5f430203c064.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Piórnik",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

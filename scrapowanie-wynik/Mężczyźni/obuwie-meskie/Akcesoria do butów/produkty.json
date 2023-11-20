@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e4f65e1473c1463c8d5910c0cb8442c8/9996c1a34a804b658839612d80248585.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "UNISEX - Wkładki do butów",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd21b628ae01494c814c948fc57049ca/132eaf74c8f84b82ab929b88d9a5aabc.jpg?imwidth=300&filter=packshot",
+        "brand": "Gabor Shoe Care",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "22,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f6e92a112afa4f5e855cf5e3fe7e8663/185a36e9b95d40e986aa9e8224f5da92.jpg?imwidth=300&filter=packshot",
+        "brand": "Cleangang",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c32da4643f0549ad8b32e8851e1f0a0b/8f7cb9c1c8924548ae94968e53650dbb.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "UNISEX - Wkładki do butów",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d14119dc9bf53498bcf84978f1be7776/fcca48febab340b99d54e0f6ba109d00.jpg?imwidth=300&filter=packshot",
+        "brand": "Timberland",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "22,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/outfit/7297ac44ec434a01b82b8d1ef563383f/13fd59071103465cbe6a34e40c228204.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c551e4ff3e54470a8abbbcc483339c60/b3395d39e35f4e309574f3f63508ef36.jpg?imwidth=300&filter=packshot",
+        "brand": "Cleangang",
+        "name": "UNISEX - Produkty do pielęgnacji obuwia",
+        "price": "54,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7505fb0c848f45fd91994224d49a30a1/c79078a92e2e4ae581fc3d18ef4b7fac.jpg?imwidth=300&filter=packshot",
+        "brand": "Crep Protect",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "180,49 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9d04c868677c47bca8f43e57cbd4ce6d/06c6f460520844dc9a607f27ebb02ded.jpg?imwidth=300&filter=packshot",
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/crt/creative-content/427ff30a-214c-4f3a-84cd-4ccb1a0382a2.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Coachtopia",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/35f36ff6d9d94cfba175d84dabcac638/68deb1a8985f412894dd3ac9e8fbddb2.jpg?imwidth=300&filter=packshot",
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/11557fcb36944abaa9275d5e54f8e7af/39bdbd48962a4e50967baf7d1c040838.jpg?imwidth=300&filter=packshot",
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7cedf52631553177beeb25afdd179430/bc005d53c2654103ad3c32b2e6f2245f.jpg?imwidth=300&filter=packshot",
+        "brand": "Kaps",
+        "name": "Wkładki do butów",
+        "price": "73,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3487203890fe4895a154eae1f771985f/4d0bb6448f3a4cc99ddb480480b4029b.jpg?imwidth=300&filter=packshot",
+        "brand": "Cleangang",
+        "name": "UNISEX - Produkty do pielęgnacji obuwia",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ce4a99b19c804603a3d25ca68b19784d/83dd7c083e6f42b987a09deb6ec9921a.jpg?imwidth=300&filter=packshot",
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "22,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/353c5be880e14360b7564334e6c46576/cc89ccd0dc29442694755d79f0767a17.jpg?imwidth=300&filter=packshot",
+        "brand": "Kaps",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "71,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb234ca39b1c4c8bb8e5b36d9f804850/48759ef3d9f34f2ebc5c7a183fa9d35e.jpg?imwidth=300&filter=packshot",
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/734a677ba33d4f60a9630c3c71085eff/49274701f50b4be6b34b2ce6616f2b8d.jpg?imwidth=300&filter=packshot",
+        "brand": "Cleangang",
+        "name": "UNISEX - Produkty do pielęgnacji obuwia",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/27e794fde76c47adaad4929196404f65/643f0298bebb4ed3936bda158b0d0bf2.jpg?imwidth=300&filter=packshot",
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "17,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3a61ea3fa7834ce2a9e057cd9163746e/3787810e17ad43178b058c0f64d20d82.jpg?imwidth=300&filter=packshot",
+        "brand": "Gabor Shoe Care",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "25,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/48f74c83a4e54405bc1967639931d213/be5946ddfd52446aba19138a78abeb22.jpg?imwidth=300&filter=packshot",
+        "brand": "Tamaris",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "22,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7c52295004c94abab12b2a815d135f05/330dbc8925f94888b58f05aa49778527.jpg?imwidth=300&filter=packshot",
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "25,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/crt/creative-content/a38d1fde-7c8b-40a4-a21c-792432c1ebf4.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f9b5959646ab47a698293c20d25e89f7/af037291631e4acaa5eee5e674a8e67d.jpg?imwidth=300&filter=packshot",
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "42,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6b389d26723b400e8b7806e65aeacc25/26eeb7339b624a10a1639b91c463e581.jpg?imwidth=300&filter=packshot",
+        "brand": "Collonil",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "25,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f003d38e599c46d48058bf345714933c/830105e29d914b9a8d3fe0bf5f20c06f.jpg?imwidth=300&filter=packshot",
+        "brand": "Tamaris",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7a72a9252458483ea6d3250a058b4257/3b733b9d422c4c2e9d5c6099638b6c61.jpg?imwidth=300&filter=packshot",
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "32,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/89282e29f52d456fbcbf9e2912c35688/ce07d9a4f5db49a8b30807098c1f7a32.jpg?imwidth=300&filter=packshot",
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Akcesoria do butów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b3a082fc5ab44004aa373dddf3f380cc/6d748a055fe548d4a0bc569c126a0a72.jpg?imwidth=300&filter=packshot",
+        "brand": "Kaps",
+        "name": "Wkładki do butów",
+        "price": "68,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

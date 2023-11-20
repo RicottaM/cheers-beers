@@ -1,0 +1,767 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ae34df7f6f954d4db2921f0a6bbf39eb/9f08722923db414f89dc11a63a3c872b.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "SET - Spódnica z zakładką",
+        "price": "od 144,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/348f175e27173898b2a22f448ae35c27/09a6a48bd6c64941b9afbb3f89e4675c.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7d9a091b012b4149954b912bb0a8b676/25b76ddef68b49a2bead768df5e39765.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 163,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2c0733492d064268abfcdb272a7c7552/d2249b2630ce426e81eab77c04a84c07.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica plisowana",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09cccf2e7ba8363791e740372fe312f1/a2588a22d62546d792514964c5d64195.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1100015fe20a4005a10a6a61dbd744fc/a890bc81c1ee49e8913b5d32d88d4680.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 63,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e86e513ade8d3102888505b0d49f2d3d/dec74c2239e948e695dcc9a6dfe90506.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f8f064d946e47b4be6323e0e5a10dff/a7a4f56be3e240c8beb8b0771b214275.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 88,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8c082ad66f2414dbcf86c6b355db084/6607f8b49daf4258bea611816e262dc8.jpg?imwidth=300&filter=packshot",
+        "brand": "Mango Kids",
+        "name": "Spódnica jeansowa",
+        "price": "119,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fca0ee901988458585b66beb21fc9a59/b1fbe398c4ff4d5bbd86bd83d1ea98bf.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 96,44 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6e3c788a776948ac9bda41c367640c49/2773978370164073bae20331200dcf5f.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Legginsy",
+        "price": "od 50,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bf8f74e7940541619c431bfbf5502eea/712dfceb3773428b979bd9cc279d1462.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/35cefc22ad5534c4a795ddb63e8b3d8e/f031dba50f644f6986604f7570ddfe4a.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/dba337b84d023b3483d56178eaafad2f/85977d4443504ceca2aa9b5812b21ec6.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/fb44e5922abd3373bcf54aa49e2b9082/f05620b2f5934e5f988e38201a4bf4f8.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/c2be1dd4e76e3ecfa762a88f3d445411/ff42cc5960e14c4fa590a3599568e762.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d90f48b30c144bb8d469ba9915948a0/b73b3248a9194083bed532154114cdf8.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "SET - Spódnica z zakładką",
+        "price": "od 131,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/67fe536b600c4324babbdf52933d9ab7/8f3183e276ac42a09a3141fc1dea5346.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5aedea420ee49118253bf8d64aabddd/36c74fced25b431188e43a3dd0d7158e.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica trapezowa",
+        "price": "od 88,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/328ab0a88d0d4368a29872569c7b83ff/8850add96ce24c93b4c475d98498c192.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 57,40 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d14975606cf747a0b93765c9d61bbd3e/d65500c3ca094f3ba9844701366b0f44.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/19a2fe454abe4c37a2bc9858ef83208a/2f07b31b8955430990e75bc2e4f19d29.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica plisowana",
+        "price": "od 150,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2202a2bf92cd474d9f1d5336deccc8ca/dfd0d75b894a4a74b04dc00cef2e2c93.jpg?imwidth=300",
+        "brand": "DeFacto",
+        "name": "Spódnica mini",
+        "price": "57,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f7436d3adff94780a54293db00d8115b/241b89cad8924340943d93299c46cd2b.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica mini",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/271e78c84ee24b05a991ad25b5f26889/9ab7f5ef21ce4d5dbf8023162e3b3808.jpg?imwidth=300&filter=packshot",
+        "brand": "Mango Kids",
+        "name": "Spódnica mini",
+        "price": "89,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e75a1a4d551b4d3a81d6b95bbff37d2a/fa92fda6faa24c54b3ceeb8d36866a2a.jpg?imwidth=300&filter=packshot",
+        "brand": "Carter's",
+        "name": "SET - Legginsy",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a3adc0a96630468bb8be7ed179a46032/b5ac9ad0cdee4afbb75b9c893f6b3317.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "DUO PACK - Spódnica mini",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/970f5ee0a4e34d3e8d22bbef3f917590/bff80e75226743d98f8b960b790e4ab1.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "DUO PACK - Spódnica mini",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3209124156ac42cfa510e3dec84522bf/e99aa5efd08f4aee9102199b67800331.jpg?imwidth=300",
+        "brand": "WE Fashion",
+        "name": "Spódnica trapezowa",
+        "price": "od 87,20 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/97ae79a7f6cc4c95be3d8c5eaf9e8ebe/0db4fd337e7043fa984d30999a4ad6ea.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Spódnica plisowana",
+        "price": "od 96,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5eea973ff7d440d384f6bc903d360d4c/efeedabaff4d4bffa88cdc8dcee832f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "POSH DOGS PRINT DRESSING GOWN - Szlafrok",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/902d3140c7de4758a8b5aa255605cda8/bbeac7e7b14441ff830a59f127645991.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/06aa3553d1e244d9a9163f5feb5a858e/2aa790a9c54d43838d0f3e9b1c84a6eb.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4352beffa0324d769097ce694bb866d7/b19b391a07904b4ba6cc62ebfb5ab03b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "114,29 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b4dd75234e14ff8925b4c5ea4b10b4c/e2c85191aa1b4f99a03ac5d4746d0429.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/764cd648847444728c9fa86f03e46801/7c672027b2f24531b7fd7b2a1cc4ced8.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/532482bae019435984e6e6297e81141a/9e0ef4df212d4f1ca9e9255e4f5966ab.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "132,17 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e7a26f5d009445e8066edfb4f9f2c69/58cb075befac4deab083e6176eca2199.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a2960d20bac4701b668d4bf9420cecf/86d7f9efa2d143a69ce105a9621fa867.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "SET - Piżama",
+        "price": "110,87 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e672797ba06340f9a2237a9e0c18762f/6dc0edfc9e5c4dd59b27fce6dffc266b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "USTAWIĆ DLA OBU PŁCI - Piżama",
+        "price": "103,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13c99f2c77674250a9622f93a077d199/3d63e4b71e53400c845ab67868fa8f29.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/81bdce780ff84915844d1f788aa25428/403f19d67f4b40e786ff4097255a9f78.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/734d7c1ae4904970b02898fec94e0f17/76488f0c667c43f49c514f32bf386312.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "187,83 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ad33cda58324101b42aca25c8145e3a/e2f7da41b4b345c196f4b6eb69334132.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "164,35 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "odziez-dziecieca",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/671f4a5451894ccdaeff90b13dda632e/835fa993ac0945e6b5c0ef7b2b23869f.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "190,91 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

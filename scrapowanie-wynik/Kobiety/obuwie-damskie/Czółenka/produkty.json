@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aebc0777bc393a4a9e37b91ad7c9e548/cfd17be579624519a85ffa0118448875.jpg?imwidth=300",
+        "brand": "ONLY SHOES",
+        "name": "Czółenka",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/735aa590db8034f49d03a997cfbd21e1/8b8b6f2b2555413983cdfa0083ff0546.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Czółenka",
+        "price": "238,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a175a7986583490c8da2981d2d23c27e/a3730f4eeae74a3195d3e04e501146e4.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Czółenka",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b54a4b865f534fa08fee7c28f8607ea8/e784437ad54144a6ad0d323746bea36a.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Czółenka",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dc90431aa1eb43dba98b7807445cbb98/c50864a3ee5a4ef289c3eb81049fede7.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Czółenka sznurowane",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/outfit/1ef8d894f611417786cadb9cb90d0014/f59e221c72764a2d827847530e085bd8.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/98990aa46a16499fb82c6b90e923e8f8/07425e42d2c8420982dc7350090503ff.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Czółenka na platformie",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c5c55891d7693c6d93e0f0807af01d29/3605da6d1ed542d3b6a7cbe6493c358d.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Czółenka",
+        "price": "188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/29f0943fc31432fba9b09a49f990418c/fdbed4a684c64099bc3e3c62fb7b3304.jpg?imwidth=300&filter=packshot",
+        "brand": "Koi Footwear",
+        "name": "Czółenka na platformie",
+        "price": "172,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/crt/creative-content/c20a4e04-0de0-429f-882d-6f2fc65e74e3.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "COCCINELLE",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/02db9ff6d0644d28aae7a5658480eba0/95461afad49f4ca98c63d636bce88170.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Czółenka",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b4125cea38fc4601931b2309b046575d/29f4aba819d44f53a38db3eecc835199.jpg?imwidth=300&filter=packshot",
+        "brand": "MICHAEL Michael Kors",
+        "name": "Czółenka",
+        "price": "391,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0a0a5db844f73e82969834f9fde8d9d4/e862b0f36dcb497a88a430507765d4a9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/navigation-entrypoint/29d6d57cc0863e8a8c49b16ac426b028/ac5a60fd2bce469e9d20ee6b2a17a734.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/navigation-entrypoint/69cd3875acc53fca92c712a458f73a89/2ff17f0621d548e5b000f2e6cb63cc2d.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/navigation-entrypoint/8e731c0b0f4a318592f3af69864b0b86/0079ac5441df4e17a97f373b39a3464a.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/781c0e8e756d4f39a9b1b63627b1a676/7ea0de4ad86946a9acb034e421472456.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Czółenka na platformie",
+        "price": "120,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d216734821b4c0e885e3480c8f5ae78/1422b7f454c440d99cfd4fde57782552.jpg?imwidth=300&filter=packshot",
+        "brand": "RAID",
+        "name": "AURELIA - Szpilki",
+        "price": "175,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/39643c6ea72249d29420aa72558dd8d1/f2816df3a6d84f47a29f06137f0a8836.jpg?imwidth=300&filter=packshot",
+        "brand": "Monki",
+        "name": "Czółenka na platformie",
+        "price": "174,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b0b8d1cc68a441a0ba029bec5d39b87b/744b4b2b93e94aecbce3c840cd8716ea.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Szpilki",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/003dec80ae004e69bb3c01280e18d082/0279c7e2c8984155961a71d4b29b1256.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Szpilki",
+        "price": "216,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8ab3934e297d3af1af9a530e51927cc2/f8cb32fd09b848f4a40bc3986a441fd5.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Czółenka sznurowane",
+        "price": "110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/283ed15bc74842d0b31311695a36d21d/796760d0d7ba49e68a81e765a6e4a81a.jpg?imwidth=300&filter=packshot",
+        "brand": "Koi Footwear",
+        "name": "Czółenka",
+        "price": "155,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a4a5968bfe983bc39c3e776b0690d7da/b0822acce6d84fe98bf7eae1eee4b62a.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Czółenka",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/outfit/af1ea0f1795348c99677f64473d6aed2/39e05445a7de41b094989150ca09378f.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9c7a560c3bc64851add86434bc2e3124/7e420a8589e2400cbd92e2409bef8740.jpg?imwidth=300&filter=packshot",
+        "brand": "Koi Footwear",
+        "name": "Szpilki",
+        "price": "160,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/313c6da8292c4e988c352b55f807cd56/7f3ffcd718ea4dc686f304aaa78d7bd7.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign Studio",
+        "name": "Czółenka",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc3dd57b10294f6ba1992d1381066a64/a96ee4da890f477c8b962ff2ee0e2ca9.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "L POINTED - Szpilki",
+        "price": "454,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c0b4a23d890b42e79a47ca665ed44bbe/38c7914ccd1247d9a3824ef3253f8b31.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Szpilki",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Czółenka",
+        "image": "https://img01.ztat.net/article/spp-media-p1/24061bef62d74d7ba2e6e02ffbc02e20/af397103788343cdb5da171d1633e678.jpg?imwidth=300&filter=packshot",
+        "brand": "MICHAEL Michael Kors",
+        "name": "RORY HEELED LOAFER - Czółenka",
+        "price": "567,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

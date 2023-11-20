@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/add3e126b4e24a45a057cd8150eeae30/4b66003dcef048b3ad9236a30f32b000.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e1ffd87602bc3bec9021abc3ff14a86d/ef9af3fac1464f0c89cc36d5f92236b4.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Spódnica mini",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8876796239904a17b88e06d1ea45dcb0/74b11750fe464182bc8573b43c7acad1.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Spódnica trapezowa",
+        "price": "169,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d8277dcd802489482ffb1f00163d849/3850522fc9f04cf7b54b44493fcfb4ce.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Spódnica jeansowa",
+        "price": "169,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d5707c9b89a4d168c550dd7b547ac60/2bfc9e9cb3bd4ea69999a958eacdb194.jpg?imwidth=300",
+        "brand": "Pieces",
+        "name": "Spódnica mini",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/outfit/666880ad656a4a6ba9dc25797ec7e5c0/da4cdc9e5c1543379b00bf8d6f5af0b8.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a0bab2fb5484bb0869b1914014e635a/0bbe6b7a148549bd99aa3d2f17dd0f16.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "CHARLOTT - Spódnica trapezowa",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c33f1afaebed486f8ae4f42191aaa508/a46d29da88234115b63c0a7f9a3df7b2.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "WITH FRONT SEAM - Spódnica jeansowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f70124a30bc421dae24d688db63e421/1dfeae615d034713bf9e62f8a5df0328.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "83,40 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8cc475c373f640c7be63b320ecc57b41/6ec6c0ec9c434cbd8068dfa2e36b6369.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Spódnica jeansowa",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/45ef89b836d94984af33527a88d66a36/81f50201b3ce4b19bea0dfdabced8284.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spódnica jeansowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0b26abfb7aa646b4a736d3d2881a9d72/24ea92bdac8a4c4b8fb829d942caf0a9.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "89,40 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d41fedeb844633049e208907a38c35ac/ed7ed0d2d1f0484681da90cbc1770306.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/af2f1b252cc435ee96627767f4118391/717e8b00e707493088a3fce20d277a60.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/3a51ee870fef38c190221291a6ed7ff2/19e0460adce5465e8ae8b9db9e8c7a7e.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9258d2668a7d3432800e026afa7ad32f/24295533106d426a8c292de1d8a78b29.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/3abe42ed13603fc1aefdc01a7ea1029e/da72d25359454b29b18da9e79fd3ffec.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0f8289e4cb8e34da8b03daf77a4b6617/1c860830437b4bfb8d2cde4bd2aba832.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/00d18f5192b943e4b271d02bebb56798/8e990f75366346d5ad657d95b3cda663.jpg?imwidth=300&filter=packshot",
+        "brand": "OCHNIK",
+        "name": "Spódnica mini",
+        "price": "179,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f92057de7a3c49a394dabd0dce38fa6a/d30900f059b04aa1b6f1e5b163518a63.jpg?imwidth=300",
+        "brand": "OCHNIK",
+        "name": "Spódnica mini",
+        "price": "159,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/99ed8c7f7b084a698377383726707b83/6859024f21b940409eeaf414a1d32a3b.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica trapezowa",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0af650d6afe6438bbe836cbf60986645/54387fbfbbed4889b94bee527eaba666.jpg?imwidth=300",
+        "brand": "Top Secret",
+        "name": "Spódnica trapezowa",
+        "price": "179,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9c82a2938b284000a4941c2dbda6cfdb/61a3eb028b2d46e1860515843583eade.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spódnica mini",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0379d485262f4097aabcc0ffd9751f0a/71e7d0460973428b922f7746f2b0515b.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ef2cd64270d84298b8d5b45f7be90acf/bb2f4e28c9e44dcdb14ff2554f97bf5d.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "PLEATED WIDE - Długa spódnica",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/024bb00874a6421f8c61eb04868332b9/55f3b95264ad46ee991f2eb73f22af0e.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "95,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/outfit/1228b196820a49349b7b547ed53cbe55/dfb886dd2c1d420aa8e84e042f4120bf.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d72e67ac59d6406bb60008f38370e96c/da55931da72e48e6a28bf107d57a5be4.jpg?imwidth=300",
+        "brand": "Even&Odd",
+        "name": "Spódnica mini",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3f13fcb69e444bd9b2b03a153f1ae939/0af47b06a47b4f61ad3c4caca56bafbe.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "95,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6d59665e60a145f7b46864036b83e7c1/43d812f48e2944bb8008e69f3b9afa77.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Spódnica trapezowa",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6c4681c3a86639588f60003f419fd286/7c51213a108c4194807225639d71aea6.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Spódnica trapezowa",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spódnice",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ebdf583138f045d69c74acdabdfc1dd9/fabc7de66a33401f84d562959204cccc.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spódnica jeansowa",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

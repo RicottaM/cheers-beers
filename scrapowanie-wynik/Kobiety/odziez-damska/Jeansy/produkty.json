@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/84f1dc37c6f24312ace2df6f5a1ccac2/f075ceb98fa44e41b0c0b1a749413412.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "GY - Jeansy Relaxed Fit",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0b45db8b7f384672b771deb9f989844f/c0e23e79937d4f5d964ba397ba177a8d.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cfa42d4b0acf4520b29d49f903321942/d9a943f3c24449e5917e8d5cbcd3481d.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Jeansy Straight Leg",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8f2c8db6cf8b4ffdb1984576a9522327/0db33497eb9547fb9b7c54e80b5ed789.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "BALLOON-CARPENTER - Jeansy Relaxed Fit",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6ca868ec2a154f1a870715b316ba5001/66c4ee733ba7419992399c136db471d9.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "BASIC - Jeansy Straight Leg",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/outfit/8084c609a5f848b1817b0fede97a83fa/985e70f4aa5a4359aee854a38a6c5381.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9899800bda5b41e8b0f713880f20a034/11c823cfcd6041cb89777bac8005231c.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "BASIC - Jeansy Straight Leg",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/61ea1d9370a04a7e8ac5dd5a92b4f73b/940b703440854674985d2253578798e3.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Jeansy Dzwony",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/361327bf536841a0a103cf30b8cddb4e/16672bde12f3494ea6727b47ef2ebf73.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/crt/creative-content/dda5cb91-0ff9-4dba-8da7-e234d5304776.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "TOM TAILOR DENIM",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e7ae04bc0f69416fbeaca1f19f78b7fd/2c4738b3f7a543e8a31bf44d0a7a4443.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eea46dcaa78c47f0b1799914673094f9/7bcff129321a446b959acbfd43dc5fed.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Skinny Fit",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7051a0be3d0a3f3abf520cf0345d19fe/7e854730908d4996bbb91a0041d4213c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/1bdefe1e86d736d7ab6c454384b4ac82/9304a5319c92416e9e988e0ef09e1ca1.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/6436fd83af5d3c08ace41048f25bf5c3/0af816e464a94561b4c87d8fa5cdda08.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/df12021306333b3eb975d5fbdee14696/8dce58afb9f2452199f4615238440b0f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2b810c5843534d349ccb4d09b2ebd265/4bb46799b2f14715a473dbeab142c8dc.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Jeansy Relaxed Fit",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/547bea8e9a904ee3aab2d2ab124d3add/e975b13008aa4061b8cde7efb9b83b75.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Slim Fit",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/adbf6fc7e9c345afa5b25279df9cf43b/7a10b5f248db47ceac994a5cc58ae855.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1ee51fcb530c4133a752a013f61338ff/f9c23875ab98432a81b421f2acd94939.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "MID RISE - Jeansy Straight Leg",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1603f5ae174b4119b71fd46a0e4a93d9/a555ed6ddcda4bf89df360a6f9050cfb.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Jeansy Dzwony",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/32d004882bc546caa90813bae61f9ac7/5fcc311cd00c4c5ab5368d2414de6f35.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7f25bdae37874f038037b0f131421cf0/dc9e5d59271a41d4b8b618174344c81d.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Jeansy Straight Leg",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/14aa093f7aac48a5987c6665edeafc9f/6f43661a8eaf4cd9afee87e00e7393de.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Jeansy Straight Leg",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/outfit/ac9a59f414dc4294a0f605cd264214cc/d7f41e475de54913891c7a72966f57d4.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a62043b8c2b64c8984784f8a73f09bd3/abf9796b95934933bf1b1532bad97e4c.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "BALLOON-CARPENTER - Jeansy Relaxed Fit",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e8f4499794d14a1399b3ed4f6239b760/a432ca340ee042fca5315ae9dae06d1e.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "GY - Jeansy Relaxed Fit",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2d6e5a981fc4fafa854a4d52ce12eb3/faded56d890b4bde9a4f0efaf7d60df7.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "BALLOON-CARPENTER - Jeansy Relaxed Fit",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/38ee2b571c014b508e16da7b4e19ace8/acc3baba40724516b530bfc918a6ef28.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "MOM - Jeansy Slim Fit",
+        "price": "139,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Jeansy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c04e003aa608462c80cca6f88012e653/aa33da10c9ce4259b808a370b53e4cc3.jpg?imwidth=300",
+        "brand": "Levi's®",
+        "name": "Jeansy Straight Leg",
+        "price": "od 382,43 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

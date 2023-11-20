@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b420a27e0e2c4494bb6dd40ab5e491f7/4e61a62a92d84088bbdae10347e22571.jpg?imwidth=300",
+        "brand": "Jordan",
+        "name": "Krótkie spodenki sportowe",
+        "price": "od 111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8fd5106126ef46a59785cced7d4d899d/d7f60218b5ce4dea9aa0e8fa82f21b71.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Szorty",
+        "price": "48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/328e126ca14a441191c4932935a584d4/5bf6c4b0ffdc441883eea930a0c81224.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "STRIDE      - Krótkie spodenki sportowe",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09b203c2fb513647acda448ea59425e5/3318e7553d5a4b9788b8a792d29f5c17.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "95,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5bae6277a93c43a3a38a41e12a05c688/a78bd09382524d17ac27550490ce4a39.jpg?imwidth=300",
+        "brand": "Under Armour",
+        "name": "Krótkie spodenki sportowe",
+        "price": "88,20 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/outfit/5985d1d499e8482b95ad802eca59710d/5068e7a68af347708618840e99a7ba75.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f8a1332623c04d7e933f19a06c0118b4/8603e470865c4d7c92e6246dc5b96cf0.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Szorty jeansowe",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7e9287070ba241bb9f32caf367fd4798/f9bff959beb04eb2a04361394e19b485.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Szorty",
+        "price": "od 90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/54fb7c01b061490f887246b8e781459e/c1c96ee415f943ecac85c1dd1ae18c62.jpg?imwidth=300",
+        "brand": "Under Armour",
+        "name": "Krótkie spodenki sportowe",
+        "price": "od 189,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0b606e2648f3421f9e1b1626d43628eb/e8457cdb69534988931c5b40bc500f08.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "COURT VICTORY 7IN - Krótkie spodenki sportowe",
+        "price": "123,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0c29a32e86ea4c81b6a4aa5538393401/fdbbe39d481b44f6b8035225c0874b8a.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "CHALLENGE     - Krótkie spodenki sportowe",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bb218acf997e4c5aacf8fb8a40ee4c7d/f10c76f7cf76458ead20e1b0858c125c.jpg?imwidth=300",
+        "brand": "Ellesse",
+        "name": "Szorty",
+        "price": "70,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e145895017c049119498b6c04e3b9abf/926bc98330c2405caf98f6efff6a2c0f.jpg?imwidth=300",
+        "brand": "Under Armour",
+        "name": "Krótkie spodenki sportowe",
+        "price": "78,40 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09b203c2fb513647acda448ea59425e5/3318e7553d5a4b9788b8a792d29f5c17.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "95,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d11c4cf2ed924b259aa0a44165a75b07/b1f753cb19b74240971b0f7018178b21.jpg?imwidth=300",
+        "brand": "New Era",
+        "name": "NBA LOS ANGELES LAKERS - Krótkie spodenki sportowe",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ef97b77f635f43978af92191e62161ec/13586f780c8543dca3949b388a6b6939.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Szorty",
+        "price": "110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/16bacd9fc1ae3044887a2fb6a396a573/e76745989277497f9c2e65798a81639e.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "80,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0543e1f54e6c477c9e7af06135365dab/1c94e9f62aad4eb58f8a1202aff58812.jpg?imwidth=300",
+        "brand": "Ellesse",
+        "name": "Szorty",
+        "price": "75,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "Brak zdjęcia",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/81e70fc082984d9c83402ab602f92007/8c0626d149c14298844fc375caa039e4.jpg?imwidth=300",
+        "brand": "Jordan",
+        "name": "Krótkie spodenki sportowe",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8674e9f4f6e8469eb776e6716b3f0cb6/ab6e42cb26824078b0902cc3b244e0ad.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "STRIDE     - Krótkie spodenki sportowe",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fae08e80e08949988c81a84cdba7c36b/068e2b8ffc944a7db27b29bcefa78070.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Szorty",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5df6f76508574ba59b4d9e21df0fdbea/6d69655719624bc690cead214db81b3b.jpg?imwidth=300",
+        "brand": "DOCKERS",
+        "name": "Szorty",
+        "price": "137,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0d02172c76d44465819a67b26f3ad450/153a540275f64826bfedc4470a11094a.jpg?imwidth=300",
+        "brand": "Under Armour",
+        "name": "Krótkie spodenki sportowe",
+        "price": "189,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/efc181b7c04743ce983c38b19b4ccd94/cafa7404f84d47b0b915bf48781fc8ba.jpg?imwidth=300",
+        "brand": "Next",
+        "name": "Szorty",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aaa6ad8613c94a2eaf4e4a4d92500fb4/3f0285dc12ff4b13aa5a7ff09481c4cf.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "CHALLENGER - Krótkie spodenki sportowe",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8ac88a54c51a48aabaddc6678e53ae10/340aec3ebf5c409ba52ac470fbd73784.jpg?imwidth=300",
+        "brand": "Under Armour",
+        "name": "Krótkie spodenki sportowe",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/outfit/00e84bd0ca7c4eb7a60ff594b7008db5/142c8ff6eccd4a8eb3ed24a27566414f.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f15a075124be41b089c89109fe612950/db974ead4b274cf594b64b27539bfa50.jpg?imwidth=300",
+        "brand": "U.S. Polo Assn.",
+        "name": "Szorty",
+        "price": "289,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/crt/creative-content/62066f5b-f55c-40ab-95c4-303f5ed630d1.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e8ce27d2306e4e22bb3fec4887333844/6a5f776f052149fab21c0f7a06b3f55c.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Szorty jeansowe",
+        "price": "77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2e69f1523104d75a4e046c764e2d8a2/aaece493c22f4349810234243235f43a.jpg?imwidth=300&filter=packshot",
+        "brand": "Lacoste",
+        "name": "LIFESTYLE - Szorty",
+        "price": "207,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Szorty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ccc61ef4590343a3928ecb91a398d429/bb660f91603b4ae0bb811bd073e9c877.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "CLUB - Spodnie treningowe",
+        "price": "85,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

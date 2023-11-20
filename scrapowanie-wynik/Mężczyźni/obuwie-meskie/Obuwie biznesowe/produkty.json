@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d133286e3a5633899030e0464126f4ea/2daabfea2fc54e2cadbf784ab6830631.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8490bf89ccaa460390a1de323853e633/228d54e26b5b4530904a82c936391132.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Półbuty wsuwane",
+        "price": "110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cef9edae7a634f2da82c7985aaad0ec2/2cd7d31f06b64c22955d1691a5e0b811.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Eleganckie buty",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/16a2be756d5d31c592b9d249dfaf1b28/0cff0a8f9f584666a1d9bad27d801cd3.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/65b844a5bf6240fc9e9df8ca278be9b6/02c8e44ed8f642bc958a6c94f7de50d6.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/outfit/f5f347a57b894e959181dac44b0ace93/b04b6faf7b79443592d1b07b24e484dc.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b327485fdfd33ae4bf50745a08ba5669/5ce4425f192e4f5495e292360ec295c6.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Półbuty wsuwane",
+        "price": "67,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09593a23caab3ce0a5f82994d23ef528/002f0526220d4622b3700c3b0a35618d.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb2a06030f8542ecaaac54db8b2a149e/bb9b044281964342aed8a596a9ceace4.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "CORE SHOE - Oksfordki",
+        "price": "599,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9675982801bf4cdd9569954fa685d126/aabb1e4b11674af0a2d64be67f0feba6.jpg?imwidth=300&filter=packshot",
+        "brand": "PULL&BEAR",
+        "name": "Oksfordki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dda7c5879a834faaa44fe99b62c54c98/c0bc53af7c854639903ddcc6da0c3b60.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein",
+        "name": "Eleganckie buty",
+        "price": "od 664,30 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b06d6647f3e14ec7b7b6c1e2b2541119/54df52127f5c4b66a61a049dcf99c39b.jpg?imwidth=300&filter=packshot",
+        "brand": "Walk London",
+        "name": "Oksfordki",
+        "price": "344,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d2a24032a244aeb99157599f69f6795/5ac765567a7e457aa4061f084e1ef83b.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Eleganckie buty",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ce1bd3238aca4af395e433cfffbef503/a379b368cf1948ee83494d525cb197ad.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Półbuty wsuwane",
+        "price": "188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1dbce81bdaae40bfa23a07801f7a5d4f/83e954fd3ae441e1af1fc08fbf68858d.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Eleganckie buty",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ffec0832254040dcb10cadeb97c56eb3/e1f78c862b00447c88e3dd00cabdcbfe.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Eleganckie buty",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a609940379294099a7ac1c560fadcd12/9981a7e9de614621947950a0e152756e.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ac14f871cbdc3e9b97e3190dfd430790/c3f554e72e92431a81551055a4aa5167.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "162,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/28f2ee2935ba4f3fb90c4febbaa6e27b/9241141ddb9c49708d3e2d6d152386b0.jpg?imwidth=300&filter=packshot",
+        "brand": "Derimod",
+        "name": "Półbuty wsuwane",
+        "price": "629,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f2837f3366b4e999691d05a08675a96/396ccda0e9004e83926c53cd3e5fd228.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Półbuty wsuwane",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/outfit/9c1a83938f964a058d92bcc906196215/a4463d1737e8421f9ec49b3ac477a727.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/80db00a446973dd7a0b3fac15aa65baa/80d94e1f1d154a3db2b5d241a072ef31.jpg?imwidth=300&filter=packshot",
+        "brand": "bugatti",
+        "name": "Oksfordki",
+        "price": "246,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f5ec59049aa04065aebe0ee1b83f3692/c04ff5725ed84c99bae2eb617c0e3224.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Eleganckie buty",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/84109b6853294f97aa8f93f9cb7b667d/8cc3afb28d81484fb43f56f39e5996c3.jpg?imwidth=300&filter=packshot",
+        "brand": "bugatti",
+        "name": "MARCELLO - Oksfordki",
+        "price": "od 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cab9e5f2348146d8bee7215ac55223c6/fde57cee49eb4cf4bc71ca6d975549a9.jpg?imwidth=300&filter=packshot",
+        "brand": "bugatti",
+        "name": "MARCELLO - Oksfordki",
+        "price": "404,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f38a649655c73f70abd28f79b3754eaa/27e754b5dc7047d28022f64afe89986b.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Półbuty wsuwane",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/64a0e7f244e744cd8e730238ac85cf21/3d96a2b12e0d49528a1c6120db7278e9.jpg?imwidth=300&filter=packshot",
+        "brand": "ALDO",
+        "name": "Eleganckie buty",
+        "price": "377,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/17b6157d30594089b91e6afb92b3c8b2/e089abc15e3c4b39b8d439b70340c51f.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Eleganckie buty",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie biznesowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1f1c0f2c1ab549bd97e918815a1f8667/c3bbecb2a1ab4e1387abeb9274982dc7.jpg?imwidth=300&filter=packshot",
+        "brand": "Kazar",
+        "name": "Oksfordki",
+        "price": "549,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/71328a74c7e147cab1e69f42e6e2ea93/ef18ecd2ec9242b39f1793d12000b8ca.jpg?imwidth=300&filter=packshot",
+        "brand": "MICHAEL Michael Kors",
+        "name": "32MM LOGO BELT - Pasek",
+        "price": "od 202,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b4115fb3011b428a81ed9b5abdd34183/c8e095351f4d47a8abd5b9b5b2fb465b.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "Pasek",
+        "price": "277,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d1fe02afbf3b47faabab2bee0c407a1a/78b692188cc04e858617315479dd74bd.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "Pasek",
+        "price": "286,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2070a6e5e994cc5946a765835ea4fd9/44aace040df44978a95a00028ebf7152.jpg?imwidth=300&filter=packshot",
+        "brand": "Pinko",
+        "name": "Pasek",
+        "price": "od 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/012b9710e5b23c779b89b54d837605c4/bc2e1ee95ac3422b9d50863ce582cc1f.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "CHARM CLASSIC CASUAL MEDIUM - Pasek",
+        "price": "167,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/outfit/727028f3008544b381ddfd09549a0e91/4ff45a9d61724215abbaafa63b15824a.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/57e861776ed63fa39c885da81d09ea4f/9743a0442bb9432bb228be703ce49da5.jpg?imwidth=300",
+        "brand": "Calvin Klein",
+        "name": "Pasek",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ffe52205f4374f5f9f528f0185185967/80fea0779b7e41b59512ca817e464919.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "Pasek",
+        "price": "258,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7ee03bfd8edf4e23909473bdb640c046/6f9db4372641488eb078d94a60d3cf35.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess",
+        "name": "Pasek",
+        "price": "181,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/crt/creative-content/9c6b7a56-e32b-43b7-b839-6e4014e307e5.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Coachtopia",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2f735190a1e53b24be1534b3a123a788/2fcee6f4d1924a0cbf9a0e1b1ab5fd8d.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Pasek",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e383e0e2ee4441c2a10ab8950ea76707/cad5a94245b74f62aa80dfcc57a544a3.jpg?imwidth=300&filter=packshot",
+        "brand": "Pinko",
+        "name": "Pasek",
+        "price": "469,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d2353a254f8530b4a4cf97017df08533/6536ed4171fb43d4b95fc41ab3c068d7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e5c696bc635a37cdb6fb8388342235c3/02d3c414c48a4a3e8f61d9398dac287c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/navigation-entrypoint/326e9d989d43342584a76526f54165b7/a1504d98a47c49a39603f94222135762.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0c15bd4077d63017aa9c6d432b7b4b94/79cc58b1fcbd4382a0bb9725a8f0fd13.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7005d0d4f9294ebf95442720d91b675f/4f48ac0b38014b86baa4c5fa5ebbd42d.jpg?imwidth=300&filter=packshot",
+        "brand": "MICHAEL Michael Kors",
+        "name": "Pasek",
+        "price": "216,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3c389271efbc472db9096b352dff7afe/0d4ebd012fc44705912b03c8b818b9f2.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "Pasek",
+        "price": "327,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d144691c6d1a4dffb78b7a6f8b5ff650/b02fa687c1b244f9a9268426d43791d9.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Jeans",
+        "name": "ROUND MONO - Pasek",
+        "price": "od 131,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0a5cacfec75947adb1df04608bb3f65d/f8675a1cd7d5471fb14d963feb3265bf.jpg?imwidth=300",
+        "brand": "Guess",
+        "name": "AVETA   - Pasek",
+        "price": "164,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b06d0d56889349d9abcab07c46175a92/756a0117a0ba4a70b3b5309e10b388aa.jpg?imwidth=300&filter=packshot",
+        "brand": "Pinko",
+        "name": "Pasek",
+        "price": "449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/39b7965f729a4ab292df1971680c0406/216b05df3e674bb38c516209507f5921.jpg?imwidth=300",
+        "brand": "Guess",
+        "name": "VIKKY ADJUSTABLE - Pasek",
+        "price": "167,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9e7ae0bf02ec44e59fef26f76d67d76f/dc6ad080422e437dba1227d4878ad5db.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein",
+        "name": "Pasek",
+        "price": "239,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5fd9916fd5f4b1baa335f5acc8d8255/7a7a50c394f441c495584ba74e350f9a.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess",
+        "name": "Pasek",
+        "price": "167,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/outfit/8fad7e993622488ba25be9ac1941b3f1/2f369d55c5c54375a7ee25fcb4f30082.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d65ab207a11244ec9aa15f4d32c14944/17f858be5c814defb4db060a22ce16f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Lauren Ralph Lauren",
+        "name": "SKINNY - Pasek",
+        "price": "295,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/crt/creative-content/c20a4e04-0de0-429f-882d-6f2fc65e74e3.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "COCCINELLE",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0c5ee9c262074c38955f7aaec95a4f46/0e2592c5e06847f990f6e72bf692ec60.jpg?imwidth=300&filter=packshot",
+        "brand": "Levi's®",
+        "name": "BILLY PLAQUE UNISEX  - Pasek",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/653143f0aecf35eea9e5f1c440f1aeb4/93ed9ce5f7e84bef9ce106180684c341.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Pasek",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "kobiety-akcesoria",
+        "subcategory": "Paski",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7af18cae92b24ee184056859ba77cd9f/f6c8b2d2767d43c7b7d8587dc815f5df.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess",
+        "name": "BRYNLEE ADJUST BELT - Pasek",
+        "price": "od 164,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

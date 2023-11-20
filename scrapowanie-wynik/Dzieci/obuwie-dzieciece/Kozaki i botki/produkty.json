@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d4106587e8ce343f87fac49149a51771/e2da1bb8eca44db8bd0670aea62d57a9.jpg?imwidth=300",
+        "brand": "UGG",
+        "name": "UNISEX - Botki",
+        "price": "639,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d8d895c06ad240e4b4a507f6d98f6d1f/f29531a6246c4bcba083a514df431f36.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "SUPERSTAR 360 UNISEX - Śniegowce",
+        "price": "od 319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/93e04bab609e45b7a6f035f8d9218021/3c1a67d0b0ec439b9e43c57de10cd04d.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Śniegowce",
+        "price": "od 299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/30b1856ffa4e4685af04d9140c837242/f86c1d88df1f4704abf1d8065121de7c.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki",
+        "price": "od 178,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cf389b5c6c7341e39517a7a671513880/eb09826bdfcf4bdd828210c29296d84c.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Śniegowce",
+        "price": "178,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0aa09ed4b0063d8fbdb08dc28e29c789/3fcf039bce8e4f86bcce28494baeaa99.jpg?imwidth=300",
+        "brand": "Geox",
+        "name": "Śniegowce",
+        "price": "od 195,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9555cb7668634afa9db4c85b2cea31d9/b26091f31b4f4dcd8a3a6923f57eab3f.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 200,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2124e9d1c28d49589960d6fd84067368/e30e9d9f4ff64a149c6b251b1fa668be.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX - Śniegowce",
+        "price": "od 299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/70e5849c1db044f281e2991548540fa1/20e49881229c48dda46778cd2456c00e.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Śniegowce",
+        "price": "od 299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/crt/creative-content/52fa2605-6757-4d1b-8bdb-db9846c2b806.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Crocs",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/171570b1fba045648f6ddac9d4553577/4cf714e2b5dc452c99f5d6086c0a69b1.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Kozaki",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8fa41caec3e5465cb8a4fc54bfc38a68/8e6a1ff760d7443faddcb3212fb77c69.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Kozaki",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/84216e39ac54379f9a4410fd719fc901/b98b670296cc4dd6b45e38c41d57bd75.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/33e881a141303fc3b113901d3bf92abf/5d3cf712508048fd892c4daadee4e6b6.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/c34813e7476f3f07a32d473950bccfbd/991e26d4f6024e2d84b93e577c55ebc3.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/41f0307d58a538c88a4e6dc6ddd1dfe2/fee028d3d8184046a76305187e3f18aa.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/570254dbb39b426f90c2461fbea46fda/a8be6d7762e246a29246957d6339b8cf.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Botki",
+        "price": "181,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d796f0c1dfd44b24bdfbd9d6198a83fb/6c2bd772c3eb4f20a53ebf093c439696.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "UNISEX - Botki",
+        "price": "539,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3fc9ef8c817243df98aea7fa677acb97/a3208d9c0f944ce5b0fe14bfa3b99534.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Śniegowce",
+        "price": "od 329,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/41aceed4606b4020af9f9d24f1143cf8/fe10bd049553447a92c9de2bc2dc7407.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki sznurowane",
+        "price": "od 158,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/60c2ce84d3e04addbd5d9d514089d5a6/80366bf1bf394e018c980d72548030dd.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Śniegowce",
+        "price": "od 280,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7312e12d13b044939f572555a2e7b25a/72ea691644e146088961c04fe36eefee.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki sznurowane",
+        "price": "158,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/abda76d9f91f3f548bce59256545de23/5e577db518194358b6a74fcb8b094150.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Botki",
+        "price": "181,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0bf6895f1fb73a0bacc4bf0f41b04e58/859b838d43ad44509f585068f5c96c34.jpg?imwidth=300",
+        "brand": "Friboo",
+        "name": "Kozaki",
+        "price": "158,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7be7819045a94cfd9b7fbc3944471a81/6cc77801b5104e2aa1f45eb163d04d9e.jpg?imwidth=300&filter=packshot",
+        "brand": "Primigi",
+        "name": "Obuwie do nauki chodzenia",
+        "price": "od 263,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b094016f2b64d0096b52a55b635aa1c/14f6473756914c03a53a656c3bc904b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki sznurowane",
+        "price": "od 168,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b1e47b9994314d35a60a8eb00cdb0973/4a2d5a8c8db24b2b89bd215980e61f8e.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki",
+        "price": "od 178,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e281bbba0c3140b687c0f227ec294044/fbe4515fdcbf4b329e56ca93d30c25f1.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Botki sznurowane",
+        "price": "228,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/916cbec2d19f490ea13855f305fed301/2c0a029053254d5da9a19419cbed970e.jpg?imwidth=300&filter=packshot",
+        "brand": "EMU Australia",
+        "name": "Botki",
+        "price": "od 359,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "obuwie-dzieciece",
+        "subcategory": "Kozaki i botki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aeffe6ba49754845a5fa32e6497c1d36/bf2e96b2f73e42e88a70528ef9f516d5.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Śniegowce",
+        "price": "od 165,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

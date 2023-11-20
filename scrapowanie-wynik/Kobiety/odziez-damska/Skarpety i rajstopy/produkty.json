@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e30bbe86aa84abcaaccb24503cecdb2/01752ed9e77b408ca1a193dfbc6aa882.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS CUSH UNISEX 6 PACK - Skarpety sportowe",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a504b84279e24d2d906cc5831093e473/d8e5bdfcaa254b18920e1478f85a63ee.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "MIDCUT - Skarpety",
+        "price": "od 54,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1448caca6b5e4c10af76e610541c707c/1a4b4f352a3542cca47f52e2d7299787.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "42,69 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/96532bb24a4a30229ee52e448c80c4cb/8da5f723358a40989b816c2dc4cae0dc.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "LANGE SOCKEN IN RIPPE AUS WOLLE UND KASCHMIR - Podkolanówki",
+        "price": "40,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f2af65beb1d8456b832f36180225c8dc/f0738620b4d1403ea7837a1a9c88cc31.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "36,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/outfit/6151269b045e4526adc22454b5dca98b/d60ab537141243d79e497664342a856c.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/685094f140c7487e9d6b87aa69c6691d/81db1e183ccf418285869af5c8b049d3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS CUSH UNISEX 6 PACK - Skarpety sportowe",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7f96d58a432949779053fa912b649f7b/7ed4df7b24664a82bad5ec91e5d12787.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY  CUSH 3 UNISEX  - Skarpety sportowe",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1a113b9d1ae5482db5c219fb1cc183a7/f28186ba88e44fd1b0df04e27eff6546.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "77,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc45c5e2c6b84782ac2a3be507fb22eb/9beb5cf2ba304c8f9b24d310cb3398df.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "91,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7550a814307346dabff630924f97a9eb/ac7b8222283241249ab70ce66191b72e.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS UNISEX TRIO PACK - Skarpety sportowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/18effd25111e45bfbaba1de7fa82f22b/eb0b49e25d104292a0e795ce021cd851.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "64,39 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7327d7adddc53b968a8c6fa7284f2734/2a9abfbbf6fb476ca61751ab09c48a19.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d0346a0dc163358c84fec45eae314324/b095c7a78f8345089a73a215319e6b5d.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/ce798acb5bb53d218b985fc77aafdbc7/d769add1f6b54145bd30d94648a5ab56.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e2b7361e064c3c41828e441e41c55714/37ca75fa29d04cb482614214115ecd5c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/177106385b2c3069b95136d00f06f1f5/c7851e476c1b4e3aa6602c1e01558615.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/34b245a92ac138b488332954dfbb5c0e/fa672a645bb148b3b897f158d5d6e18c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd35c2b88c0643c6be9f6f812ed4553c/59f472a73b6a4f6fbfa708139d4068ca.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Skarpety",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/11303b0c7fae30e9ba2f830d31b3706b/50443119dd724aeeb6f463946f9ff8bb.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Skarpety",
+        "price": "36,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e622a278b154125b1c1f572bffb118b/f364b1ab72e746f7a69facf174c7fe8f.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "Skarpety sportowe",
+        "price": "80,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/64659d9e9a3b4c218e7d46cc8c1d3ebb/9a22322751f9446fbc909dc5bbb585fa.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "20 DENIER - Rajstopy",
+        "price": "38,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d58a45c9ca9a41b894795a43e3037c20/da9ebc7ef1b849ce932128df9268b157.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "MIDCUT - Skarpety",
+        "price": "54,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/00bcc3b8fc844f20a2641f04f50caf5e/22c8c0fbe8bc4c6d93a19cbe8be98085.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "70 DENIER - Rajstopy",
+        "price": "67,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b59fab6ae814a58bc19ad554ac7d521/955a82d8385a4017be997573bfc52a6b.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Rajstopy",
+        "price": "60,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/407f4cc00fe24843b2692a3050a9b8ad/78df58d5d52542019509241660c9e97b.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "TOTAL COMFORT - Rajstopy",
+        "price": "46,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/outfit/ce1bd18f0d594376840995523278ad78/fbfae03d5bf64be6aa49554aae1f88a1.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8257221318f474d9ecf726faf4bf6c7/c80724d8789845bb826bfcb1c966327b.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "SOLID TRIO PACK - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/189074754abe418fa42cb9791780f32b/ddc372036a0948cd96c1cba6e53e16f0.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "SOLID TRIO PACK - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/910f0a1ba54c455497756354dc2e56be/dea22a57575f420b9559e0f244619f04.jpg?imwidth=300",
+        "brand": "Poupée Marilyn",
+        "name": "Rajstopy",
+        "price": "29,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0408da54f1324f268577d016d38a206a/26dfb8128c4745ce9b0deffffc5a56b5.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "TOTAL COMFORT - Rajstopy",
+        "price": "46,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b2ad1e4c47434bcf90a6b82e2b22b4f7/f6d424db46bd4f98b3a387d64446e4ab.jpg?imwidth=300",
+        "brand": "Calzedonia",
+        "name": "Skarpety",
+        "price": "26,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

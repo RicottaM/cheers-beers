@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8f12a3d58ee3609be5e424c4aa72b44/03d0275f953a4609a9145b8fc848f0e8.jpg?imwidth=300",
+        "brand": "adidas Originals",
+        "name": "HANDBALL SPEZIAL - Sneakersy niskie",
+        "price": "od 409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/acae6ee8ad69448f8f82640479941ab6/6fd9368264814dfe900b75913738cb7a.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "HANDBALL SPEZIAL UNISEX - Sneakersy niskie",
+        "price": "409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/637562911a7e36c28ce77c9db69b4cef/00373c35a7f94b4b84a4e070879289a2.jpg?imwidth=300",
+        "brand": "adidas Originals",
+        "name": "3MC UNISEX - Sneakersy niskie",
+        "price": "339,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a71aebc276324ea99d6f18ecd6922e69/1bf776c1cdcf49d0a4e171905b050aed.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 '07 LE  - Sneakersy niskie",
+        "price": "439,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd7217ce1afb4aa2aba6c940ef844768/c66720860d7546b3813b1b98869843b1.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "DUNK RETRO  - Sneakersy niskie",
+        "price": "579,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/outfit/6d071250f89d4e539a7d06968901af3c/bd69fc764bb3481a8895ed7f7ae3d989.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/335f8fa77a1243cc8fbb0d7480ae5c8b/f172ec3447c8442a8273218341e8bdc4.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX - Sneakersy niskie",
+        "price": "409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3cd90e94d6ae320b8155e4452fa206f2/317037d0938d4171a135512a3bf29f5d.jpg?imwidth=300",
+        "brand": "adidas Originals",
+        "name": "HANDBALL SPEZIAL - Sneakersy niskie",
+        "price": "od 409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/19c29bc5694a4eada273a16ab0205eb2/85cd7018ff9941288ee548a61cfa8bff.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 REACT UNISEX - Sneakersy niskie",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/12faccbf742d47fca0a8a6cfd079f6c0/11ebe3288a7141e28c34a199865ed359.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "OZWEEGO UNISEX - Sneakersy niskie",
+        "price": "od 399,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/35c6733e00864951a75fa936fc467262/460eae2d1cc54db8846054719cf7d450.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 07 - Sneakersy niskie",
+        "price": "579,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b91d21eb54a440148eb7d18ad7f28a80/1c973bf441f3453b8b1e4df6ae384c43.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "GAZELLE UNISEX - Sneakersy niskie",
+        "price": "499,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/4e6c85160a34371286b40e26793c1fcb/bcb594de20f44332acb15c1072f1ca44.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7d228c9d7cc83123a1789478d292208f/a0ed22b368a24f929532deab391dc731.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a174cd568574380d82cd931dd9358ce8/8f73359102f44cf2b6dd10a353b80d54.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/313e009bc0b03a56b1a42dd3032961f1/4aac22ae2eb64e1b9dce30106df4f762.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d4dcb12b23283d568dbd10f26a6f9fe1/98b607a0cba1485fa4b4b8bf55ac18f9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d1155bbff9fb3126a23121a67eee4ea6/ec06b29a4bde4799aea07810dbeee4e9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d2d8329c6cc4326b11184349806920f/869edab2843d4040885138eb2219143f.jpg?imwidth=300&filter=packshot",
+        "brand": "Converse",
+        "name": "Sneakersy wysokie",
+        "price": "od 263,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/54de955655f74c92a4a14ca84fc677aa/497b9f46195849759819f86c9bb2dda3.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX   - Sneakersy niskie",
+        "price": "od 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/650e41eea05c31649292db2363e63cb4/4148768252f44a5cafd0f475101b3296.jpg?imwidth=300",
+        "brand": "adidas Originals",
+        "name": "OZWEEGO - Sneakersy niskie",
+        "price": "od 379,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1818d2a1feb442fbaaecf5e248165b8f/8c115425b7d04c84adff354aff453e55.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 07 - Sneakersy niskie",
+        "price": "od 324,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cd9af3bae33d30d9868195b7c5366ce6/a3909902ece64ec79724da3587d78590.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 '07 AN21\n - Sneakersy niskie",
+        "price": "od 431,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8d9e11af16a248a6a7882a7e02d944b9/a2e7447af09b45f4aff93b69e79d7f00.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "P-6000 UNISEX - Sneakersy niskie",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eee07a61e81e48aa9f0e99d0847b83db/e5f5c014462d416096dead8c0d4a70ac.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "HANDBALL SPEZIAL UNISEX - Sneakersy niskie",
+        "price": "409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/04fa84c77bc14b5c814af9075e3f491e/8b320b481e65462e98b407ccc090e3b3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FLIGHT LITE MID LTR - Sneakersy wysokie",
+        "price": "535,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/outfit/488e50fd619b42bfa4e44f5295c345f7/f8decffb72ce4290a3df70f7791c012a.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/765c21eb97d241a7ba01677512c9a38c/e32a6d87a593495aa9a1ad946184330c.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "RETROPY F90 UNISEX - Sneakersy niskie",
+        "price": "240,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a4ed54ffcb294cedb7cead8c38259e0a/d666de57e64f46eda48da00829931358.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "GAZELLE UNISEX - Sneakersy niskie",
+        "price": "499,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7bfaaf6619c54882a58362633ff913d2/2c8456d00c3b4b2eaa6b45b942934067.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR DUNK JUMBO - Sneakersy niskie",
+        "price": "599,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/76727ebc7f3b4d84a399f6d6f9512371/be754d2f2ef4492f819b52f6e99eb834.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "AIR FORCE 1 07 - Sneakersy niskie",
+        "price": "od 357,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Sneakersy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab2c4d368e954e1a9c5618cb0eaae552/3804c25fc3084fb59122b7241c4107eb.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "FORUM LOW CL  - Sneakersy niskie",
+        "price": "292,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]
