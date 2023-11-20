@@ -1,2 +1,2 @@
-# cheers-beers
+# Fashionables
 PrestaShop application, selling clothes.
