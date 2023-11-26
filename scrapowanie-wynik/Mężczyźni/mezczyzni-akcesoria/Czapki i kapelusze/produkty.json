@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4747c21f42a135228381d53eab10febd/bce24b3f08204f9f9493ae140ea55e85.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "DOCK WORKER RECYCLED UNISEX - Czapka",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/950eb639934b33ed9edb08ba33ac60b9/5d570a53ca6a4e1e9167080fc58daa6c.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "CUFFED UNISEX - Czapka",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c44068355bf44c66ae742bb6688c4d95/84756fca876b4eb1bc8dda477365f4e3.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "FISHERMAN UNISEX - Czapka",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b1e4cf5890d94cbbbdf493f96ce14731/2fa7f7988f164d14ad00aaa4f55cf20b.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "UNISEX - Czapka",
+        "price": "77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5d8a0ffe008945ebbd70d44c8c108524/2bf610518d9c4886bd5bcb5b24b459ba.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Jeans",
+        "name": "UNISEX - Czapka",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/outfit/985cdfa7776b1d2aebe921c95531577b/456a2ce7aa994f73b3b8520a360f6e8b.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/87222096f7c9419ab081da7c7018c6f5/8b85e25a77f64ee9ba88edef5328b13d.jpg?imwidth=300&filter=packshot",
+        "brand": "'47",
+        "name": "MLB NEW YORK YANKEES RAISED UNISEX - Czapka",
+        "price": "51,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01f3e7fdfa6540c1b551f56f6c4b7810/57d83b73941e4962a5f7c9100eab8b07.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "BOX CUFFED UNISEX - Czapka",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/25b1dcefd8b737e681c2b9efe3a672a6/8d5b16b2ffda43969cf5c6e3e1f0d37b.jpg?imwidth=300",
+        "brand": "Polo Ralph Lauren",
+        "name": "Czapka z daszkiem",
+        "price": "161,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/crt/creative-content/62066f5b-f55c-40ab-95c4-303f5ed630d1.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/251d57e32fec4f1ea52e24fad6b96f3f/f6a31034ad1d41bb868bf51870583a92.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "UNISEX 3 - Czapka",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7111e438f0584051b7a01040408a1463/d6546ef6aec5421a9198183263540b4e.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "UNISEX - Czapka z daszkiem",
+        "price": "50,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/44f32e0021063ec1b8211dfba1aca0c5/417a67717a494039a1b2541a00710995.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "BOX POM UNISEX - Czapka",
+        "price": "77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a8747575f9814814b2c1045355d76682/75a6d0cbe02c42acb35df4cd8fb0a8e1.jpg?imwidth=300&filter=packshot",
+        "brand": "Dickies",
+        "name": "Czapka",
+        "price": "58,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/17f76e679c143101bf9c210fa730134e/b4285cd8da73467193a1415ec6e4a644.jpg?imwidth=300&filter=packshot",
+        "brand": "New Era",
+        "name": "MLB NEW YORK YANKEES  - Czapka z daszkiem",
+        "price": "50,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c4840f7d3d60464fa556ebcdd404aa63/ec8e1ed6a5e0480a8d2c286cd96b4caa.jpg?imwidth=300&filter=packshot",
+        "brand": "Carhartt WIP",
+        "name": "WATCH HAT UNISEX - Czapka",
+        "price": "84,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a9ae6518dfcb3ec78dba9ebc3201d48d/8c9848c3969e46729ffeb11c8d8b6cf7.jpg?imwidth=300",
+        "brand": "Polo Ralph Lauren",
+        "name": "Czapka z daszkiem",
+        "price": "227,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c6ba50ceeea34ffc811b55d5b38315a5/4aa580a28fc443ad93271b4e09d3b456.jpg?imwidth=300&filter=packshot",
+        "brand": "New Era",
+        "name": "TEAM SIDE PATCH UNISEX  - Czapka z daszkiem",
+        "price": "61,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/316f590a5e06452483d5944d73d76849/e559b46393754581a58a102b40f14a1c.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "PEAK UNISEX - Czapka",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/76187cc1d3674597a1cf377f7cb16993/053415ff97184c88828113f65f7985d5.jpg?imwidth=300&filter=packshot",
+        "brand": "Lacoste",
+        "name": "UNISEX - Czapka",
+        "price": "155,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/outfit/21a5ad458cc145edae11cfb921787a1f/c189ddf8c44848ff9d88cb83873eb1f9.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/532c51250ab73391a162cd0062b3537f/801f63a9141246da8bd0406ec4fc0d39.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "NORM UNISEX  - Czapka z daszkiem",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b563986152b4669bd1fa1d5be6aa566/c38923538eaf4bf6b4123fe5f0a6e659.jpg?imwidth=300&filter=packshot",
+        "brand": "KnowledgeCotton Apparel",
+        "name": "UNISEX - Czapka",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c2ab2b99e6654e969476577ac8ab52e4/a738c9249e5643f58ed979dd594ee964.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "UNISEX - Czapka",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/192ca9d5b77a4f3eb0ae8886b3fb1438/0bdf72cbfecf454989ae4010805da9c2.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Jeans",
+        "name": "UNISEX - Czapka",
+        "price": "101,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/807b44b8f9ac3c939394c9abdf7f6896/55432f06038746dfad447be79f578402.jpg?imwidth=300",
+        "brand": "'47",
+        "name": "MLB NEW YORK YANKEES BRANSON UNISEX - Czapka z daszkiem",
+        "price": "58,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b6b54b329b194330a85ab336246b9a57/b9fdc4f5a4b744acbb0b47edde7e587f.jpg?imwidth=300&filter=packshot",
+        "brand": "'47",
+        "name": "MLB NEW YORK YANKEES RAISED BASIC UNISEX - Czapka z daszkiem",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Czapki i kapelusze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cb76b39ad0f448f89869545500f59229/9109d7eb7b9a4bdd959ec9766fe30944.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "L FLAG UNISEX - Czapka",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

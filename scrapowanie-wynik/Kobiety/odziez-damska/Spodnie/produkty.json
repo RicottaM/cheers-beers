@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/51e47c6677f144c5921f7900402534b6/994b2090e8d44cd49dcb0eda7aafdac5.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spodnie materiałowe",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a6c6406c57514ebcbf14327ed06a486a/3344c3a171ad404885ed7b1f4eaf3ca2.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field Tall",
+        "name": "Spodnie materiałowe",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3a2fc49c635c4d3aa003038bad48eb3e/40c68c7fd5f7421f9bdecef271b66fb9.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 279,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/515cda16266f4718875b95c6163f8d63/a5a2f7463298469ba33f625edd9178b1.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie treningowe",
+        "price": "95,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7e508315a59042458927f65663bead17/543ba6e8abe440c4a40c62196fa1911c.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Spodnie materiałowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/outfit/d5ca478811a5487399f5c3d33f748681/407ddeaa359642138fd1fc612df0614a.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d106369db58b42b2b146ef7eccc4c36e/cd4c234a5d58491a8e0230df86b01ed1.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spodnie materiałowe",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/84b3653a6e453a4c96d3a157ea462cd9/f117e005c0064e1682c7ec7208f1ec2e.jpg?imwidth=300",
+        "brand": "JDY",
+        "name": "Spodnie materiałowe",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/83d06d06ce113c578dd6479f91caeb17/9af0eecc59804ebdaa36def378df210b.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "Legginsy",
+        "price": "od 139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/71ed70e4bb6e4c108ca5a7195e95370b/8ee83caafbb84c4bb6831dbd3e129cea.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie materiałowe",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f15748ff7c07446098a23e90d35dfd87/f998c0798e58473b92fbb7e9c5d1d588.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "CLUB - Spodnie treningowe",
+        "price": "od 249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1398619f28933b5cbcfd9765149d1bbd/510a4669983e4b3ea2bd40fc95b93808.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Spodnie materiałowe",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d6423a1b402339fabb5196fcd0eb21f1/2de5e0484d614a47b86cd1c1f99b9fc3.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/c03a79b36c9531eea44f96853a3eea5a/4f63bb58c784444b93812deb9a5f5251.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e77defff9c8b3b31afd5e32c67680274/c008647f33014125afede1aa302a12aa.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a6a3a4538a363290b06a03a3d63fdb78/1a3423373451472ba3dbd21e1975922a.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13c69d0f522f4156be28146a54bd9000/1c50735d5ae6425988d0286c51c68d66.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "STRAIGHT - Spodnie materiałowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5ef04b14888c43ad9ccddb2758bb8ae2/5b149b5fd32149a8a848bbed7eb0e28a.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie materiałowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/99e42f17487b45388614cb653160c1a5/8444a18cac07467e8e9da0eafb4eb162.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie treningowe",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fa6d62a9b0734df38ed195ccaaf2caa4/8299ac00e841481f99748706a0d45b9e.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie materiałowe",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d110d2c7b00a40b0a6c79c08f47aa77e/78fac1566f2341b9bfb58bd5d1da14b7.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie materiałowe",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f1b7401c77b84326b1c5b09f3a7640d1/c3aaa6c2566844bc81f6ae5a2fbc9d5b.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 278,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e01ea9ad1c44ecfbb5d0691c42ef040/bf72c94d37ef476da64adb9e5625eea7.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Legginsy",
+        "price": "65,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3000a20279e44b5488d163e04b7da19d/62846beef9874af08368e559bbde6c86.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spodnie materiałowe",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/outfit/7898c72913f142f39550a7b828601bba/3935bb4f0c8041f6b2e04bbea549e7c3.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/264bab8b5bcf426985971de97bd5c1b2/7bf30151917842cd9bec3a0ce50d1ebd.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spodnie materiałowe",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5f11b591623b4ab680c5dc798b1ce21c/f580d8d488fc4256ae6aba28da423396.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "WIDE - Spodnie treningowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6fee7630c9e242a8a5069588cc4a8fae/788225d456544693b56c57fbb6f9255b.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Spodnie materiałowe",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b7b8ee00734d4ba49652006c4001705f/dafd7944c0224bf0ae82fdf519cf7b23.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Legginsy",
+        "price": "65,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/97a119274eca4c35984ab1f4f3d72b8a/8e6d4185d08c44b7899efeb4addcd49b.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Spodnie materiałowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

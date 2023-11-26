@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/20597c205a1645e39b2654bccde6bda2/bb8276035b26406aabe982acb7736b39.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN MAX AURA 5 UNISEX - Obuwie do koszykówki",
+        "price": "od 379,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f62c8df3fb374964a9d9bbf320abe876/66604bb6a3e14befbe9d997ccbde855b.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TENSAUR 2.0 UNISEX  - Obuwie treningowe",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dfbea698aaa6446cb41577d5de8a09cb/1a675fb33cd44af5b83d0d210d36b3dd.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN MAX AURA 5 UNISEX - Obuwie do koszykówki",
+        "price": "od 299,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6c039e0e0851431ca31894ee8a6daad6/b92ce3c2c9af49699a0e8cc3ec8a3ab7.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "FLEX RUNNER 2 UNISEX - Obuwie do biegania treningowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/723cc14bde3f4206b9292681c0308835/cd332e4de5d94454914a1c0b6ed9e179.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN STAY LOYAL 3 UNISEX - Obuwie do koszykówki",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/094a2d4a0aeb4bed9c45eb3dcb5e08c0/cc100ff6321a49f2a47eee5ba1ac0011.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "AIR JORDAN 1 MID SS UNISEX - Obuwie do koszykówki",
+        "price": "529,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/17c1dfff33f231fbbb0aa84d7ce67062/5ec9efa6c73d4bad900da30d62d36482.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "Śniegowce",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c63a24aae30e4450aa0242b5218e8648/111a6a5c20e640e3b12edad371ad53b8.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "REBOUND 2.0 MID UNISEX - Obuwie do koszykówki",
+        "price": "od 139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/302c2a093bbd420c80ab3dcd1f126066/6bd8c69f5da640a8b25298d80733c055.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN LUKA 2 UNISEX - Obuwie do koszykówki",
+        "price": "379,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/crt/creative-content/52fa2605-6757-4d1b-8bdb-db9846c2b806.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Crocs",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4ac1c24d6fe94a6eab7134725effd5c0/d138bcb91ccf43f980eae5325045e1ed.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN MAX AURA 5 UNISEX - Obuwie do koszykówki",
+        "price": "379,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c089050dbfdb4f81b956c98c0a71ee79/cadb678b74654394ba134a5dcc722d3f.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "AIR   UNISEX - Obuwie do koszykówki",
+        "price": "469,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/997469b6cc8836c2a58868eeb9222985/3b79656acf884f2abbc25b6e57c03e0c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b01de95b837432e79f8f22b39f8f1a71/d8d120e261cd4469ac2f5c5de9617712.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/5acb06f002303d3fa9adccbcbd8f8e69/d99f963014284639bc090da47fc73001.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/8900962554b132dbac0711b5149c8862/f7486e2d68d647f7b38b1447542e00c9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/23509d2a362448eaa388bab049f12daa/adc7c7d70d214590ad297d0a85bc9a28.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "Obuwie treningowe",
+        "price": "132,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a03f8d53972a4fb590483714df7937f4/efe630381cc3444da69649a7d12355f4.jpg?imwidth=300&filter=packshot",
+        "brand": "Adidas Terrex",
+        "name": "TERREX GTX I - Obuwie hikingowe",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09bd769acff0410387c640f9082f8c03/25f676275e9644a5809c9852181d68a8.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TERREX  UNISEX - Obuwie hikingowe",
+        "price": "369,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/facad7e33da94095ab71cd4cf114f434/26c028b743a84f67b9b27f1696775dce.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "UNISEX - Obuwie treningowe",
+        "price": "od 118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ca8b3de7357a41e8b2f9e98b5f79e864/9eeb0c6147fc47608347caf6d3699b85.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "AIR   UNISEX - Obuwie do koszykówki",
+        "price": "499,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c1721ae007574c1a8602627eba9d80e6/f55f9dfb71624d53b39f041fff0db624.jpg?imwidth=300&filter=packshot",
+        "brand": "Puma",
+        "name": "FUTURE PLAY FG/AG JR UNISEX - Korki Lanki",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b6e411dd239c400d8e7329e7e3b734f7/24d20c6ba8f949e8ba61c78c72063b00.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TENSAUR 2.0 UNISEX - Obuwie treningowe",
+        "price": "od 99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eea3fc9fcfec41aa97696ce3b82db161/84d440060bd847078c80aed931a7bb49.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Obuwie do koszykówki",
+        "price": "529,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4001e9ee467e367795ebaa6c0bf9af75/1aadc374fe2b46c3903c3dd91ebc456c.jpg?imwidth=300",
+        "brand": "Kappa",
+        "name": "MANGAN II  - Obuwie treningowe",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e7a2aaa8b38142fca64caa77d4e89f1c/63ee5517b6494cbea6f463f49d63e2d7.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "Śniegowce",
+        "price": "od 175,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fc8a3eedf1574003a2e1481d2a7f8906/39de3c09785f4ea39cc7a72da04a7c5e.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TERREX SNOW CF R.RDY UNISEX - Śniegowce",
+        "price": "od 385,69 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd88b309b31643b5bfeea87162e18fe4/110e9abb8c34478aa1b681233510eb95.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "REBOUND 2.0 MID UNISEX - Obuwie do koszykówki",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/55e18e404e8b42e8ae928b47b16dc731/1795342fa6854239b11f84abbd6b6052.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TENSAUR 2.0 UNISEX  - Obuwie treningowe",
+        "price": "110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8a3b8727f72f41bc8d2ccaa49bc200b9/93df030a893f4b1097c73c8d4e75ef47.jpg?imwidth=300&filter=packshot",
+        "brand": "Puma",
+        "name": "ULTRA PLAY UNISEX - Korki Lanki",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

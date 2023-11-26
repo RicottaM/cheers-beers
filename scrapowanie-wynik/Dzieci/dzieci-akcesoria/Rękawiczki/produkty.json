@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ddde9dd346784a8eb515e5c3b8fc3d45/ec935fc83ee549419e2dc67d026f909d.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "SET UNISEX - Czapka",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f6acc312f243411082d54d9c7c9d3b27/d9b4b3492d5b4e2e8a24b304596b2eed.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Czapka",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/69581d94c6353e3ab1e4646590b6fa59/96f83104674543e6a074b486b12dfcc3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d5918d860834d5bbae07181a5866a0f/88b281a0ee0144aba990b8c6087d60ff.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "od 106,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/53f438d3e8864f4ebaed6b9cd1617d12/8d849d12b858451fbd942cea6521f738.jpg?imwidth=300&filter=packshot",
+        "brand": "Lindex",
+        "name": "MUST HAVE EMBROIDERY FACE UNISEX - Czapka",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/12ec01f466134463b23887174fc77ca1/701335a151e747e2b121a5afa8fc7834.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Czapka",
+        "price": "od 117,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/547774fdb8a74e7cb93115be73ef33f5/a6cc46f309544a3583fc0793f6a01746.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "od 84,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5bc399e9ed7b42f2ac974ee8ecc2574a/bfcc88d740b045329fb3f5ff7c83cba2.jpg?imwidth=300&filter=packshot",
+        "brand": "Reima",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c236c46c0e6f41d7b80e16ea8f26de0b/3ea55402d7a64eda8d8b2447996141b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "TECH AND GRIP UNISEX - Rękawiczki pięciopalcowe",
+        "price": "51,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9c5f91224d124ae3b1a52781db3c5b34/50fc1761b09d44f0b5b07b3c70fd614e.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JAN ESSENTIALS UNISEX - Czapka",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1ebc6ecc7b334b3b99595c2c5c45941f/8845c3e8bc254939b811b6ecabbb48d3.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "SET UNISEX - Czapka",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7028ca88d37a4468857fde7bf61ea583/72d446d0735a42659ee3570fb756a405.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/63810d03459546e7abbe14e18f27f18f/4f826b050615459a9b4c228457632fb6.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b3afa2c819d544678d195e260be4931d/b9fa2769945048dabc41ca8f0a9c55ae.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/010bd5c0977349e5bd819c329e8eeab6/ddff9a789c24451f83a857fbf3fc1f19.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "od 106,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3a5719e492c43f0ca5d87dd45e841170/9de27ed41104470a8f81857986e206f3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08d78e239d0940c78e69672ae2187729/872de6e6b53e4a52ac8845f894c815b3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4216239b4062445d9a74a38f9378dde7/643c1f6cc4e442f785781e3b8ed41369.jpg?imwidth=300&filter=packshot",
+        "brand": "UGG",
+        "name": "MITTEN - Rękawiczki z jednym palcem",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/35277460249349c09d88ff3f6c37c3c1/157fd7c77267412ea6a6521edeac04f4.jpg?imwidth=300&filter=packshot",
+        "brand": "Barts",
+        "name": "Puppet Gloves unisex - Rękawiczki pięciopalcowe",
+        "price": "101,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a5031e5a97b242998f9c72388c40e22a/8db41b9b906c42a6aea72a80ce5a2991.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "3 PACK - Rękawiczki pięciopalcowe",
+        "price": "od 41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/65cec2ee0cf543b2899fc5c9b69a2e5f/23b81198a6a24c2fafe50379b0046c1f.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "od 106,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/da40cb17cf104f4d8bd746a8b15cc3c8/9a6f05413b9944d088c88c3094a00e58.jpg?imwidth=300&filter=packshot",
+        "brand": "pure pure by BAUER",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1a5cb5bb6043302eb8c3966e0fa9d613/63a9eed5baaf4e15b83fc3400dbc56ea.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aae0ac39b51e4144ba0ecf69c1f82be2/5dff01dd3a8147ff82dd14de4c27c6e4.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "od 44,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5f349277b6e37c1a2f3e0d7599e022a/e23b43c06f5b4189b8cac5f749051ea3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "od 99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2a476ccfce14b3e95fef53208c1233c/f851d02805ab473da163bfc3d5f9be04.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "CLUB UNISEX SET - Czapka",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d47c1ce5c598413b9204820816072bb3/26c35f4e5f9040d99db6194f53fc757c.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "od 38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6eb1a7fd3fcf4b5eb4631434e0d6894b/35ca3cbf03b6485292ff8ac78fa13da3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "116,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Rękawiczki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d88f8258b8e24357b09082918b79cff7/42931be296a54b17a8abe5055061a9a7.jpg?imwidth=300&filter=packshot",
+        "brand": "Lindex",
+        "name": "MAGIC UNISEX 6 PACK - Rękawiczki pięciopalcowe",
+        "price": "62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

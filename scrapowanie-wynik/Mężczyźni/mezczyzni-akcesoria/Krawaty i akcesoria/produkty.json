@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a1efb218fdb63b0c96a27db61c43ab9c/cce7aa8b129040a28079f1892f2e4133.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krawat",
+        "price": "26,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1658373bbf3a35b087157a4c1376976f/cafb5aeab9ee46cbab2d1e1be2090e97.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krawat",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5d0892261157449da5da1b74c4000d29/56373a3d781d4c0d9e849abb9b0e637e.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8971bfab856140b089f319cf4b3e49f1/eb2fa60849f141e99a4483404aa5a81b.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "Krawat",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/967c29ca441d4368b6ff1354d6c738f8/b5fb5cda38b4444285cd8d0bda872e35.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krawat",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/outfit/dd9909d9b14441809c34b20d28f9bc74/8059fa33adef49ab8dbad3d2ab75e62e.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/939777351ad2483aaf9b2901c5baf0c4/8aaa8fa90a88444f9f54b042bdc594bc.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "KLASYCZNY - Spinka do mankietów",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f4643355857849e6bb301acdb4e05906/5436d3cdb01442d7a876d52d4e191b95.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "Spinka do mankietów",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/486df85c2eb74643a869d95606a4592d/a30891eec21546cc9ed2f71b420368cd.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f2a743867e644489ac6ff210cdbe5c07/74040d6a959247d38776a486c4cb9342.jpg?imwidth=300&filter=packshot",
+        "brand": "BOSS",
+        "name": "Krawat",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c7088caa644b4f2587c441b34241d849/f725875c97d9432abf799d97191c58c5.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b0fb8ad23b7c4529a9cd19a7c8c11b72/54c6a809659f4221b0e80ee8bba2f6d9.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/69770394cf163ffe981de58a01b7ac3d/d64a72e2eee84493af9dd9fdef3922db.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krawat",
+        "price": "58,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eed7415ba15b4093bae68526aa798228/5c4ab37c372647348de400ff50c30f19.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a9ac6b815834e7bba3b0d6f84892e0e/954fa5a84ea84afe865d73b0af740abf.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "65,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a86d7527b57742239ce1e0caafafd3aa/54499fd6d2f443e4a19640fc88062138.jpg?imwidth=300&filter=packshot",
+        "brand": "BOSS",
+        "name": "Spinka do mankietów",
+        "price": "236,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d128a86acf513da088a89db657114881/084676d94e454cc2a9e3d51ea68baac7.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "Krawat",
+        "price": "153,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1f1ffcb954ee4f3b89421110000b4a8b/9a4514d1977e4897aa77aa33cede7a46.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "E-CLASSIC-TIE - Krawat",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a548475fc6874086b0d4a548b1ec2f0d/6059e32075a84a8eac906530268d3f0a.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "Krawat",
+        "price": "115,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/outfit/036b093f159e491ba55326dd58b7af20/2238de0c13534ff3ae02844f06c68e26.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e90b2ecf2ae4edab0ed4b5cee408ae8/d0c2dc34c70341a18977df40e004d70f.jpg?imwidth=300&filter=packshot",
+        "brand": "HUGO",
+        "name": "Krawat",
+        "price": "105,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/crt/creative-content/a38d1fde-7c8b-40a4-a21c-792432c1ebf4.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5345f5b322194bbfbdb03c4df8356cb8/d727de90c27847f8a0ff861c1b8d0a09.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "WITH SQUARE SET - Krawat",
+        "price": "96,44 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/826202cd7f6130fc8443a325e8aa0bab/fba310454ad14fae9a98a856798966f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Only & Sons",
+        "name": "Mucha",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/111c589fdcae4e9f8052a3b9e8789350/62ae840a0a6146288e35a8aff2e980f6.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Mucha",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8396cebf41474a17b5b7fa20af41735a/17b4700f5e48438f87d9a46457b204a1.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Poszetka",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/116d1cb510d64622b51a35c482b57178/6a09cd8074da4a93b52b681bad16956c.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krawat",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Krawaty i akcesoria",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e13ad30564833a0a484b6d21aa37681/83e538b45d1e4356a2c23d840d54a66b.jpg?imwidth=300",
+        "brand": "Only & Sons",
+        "name": "Mucha",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

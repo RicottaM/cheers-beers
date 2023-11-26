@@ -1,0 +1,733 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bd19d9ae87c04f4aab52bb9adad9b415/a77b31d845e149358ed1ac40e7be65f4.jpg?imwidth=300&filter=packshot",
+        "brand": "Carhartt WIP",
+        "name": "UNISEX - Torba na ramię",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5ef966f1bac14bafb1f700e58e045655/064695e6812b4cb8b25b26c368ef7015.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Torba na ramię",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e2df9d2879a74ef59f7f72e23cad3db3/879a876015bb4cd9948771e127d9cc41.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "BERKELEY LUMBAR UNISEX - Saszetka nerka",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/434950a3283645d5a616c30ff9a5cf10/af478790572d4c5ea22d6a1a151dfca9.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "BOREALIS UNISEX - Torebka",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/07b72598378d350d9b4d43dc52ccbd80/545c7e0905d045829c632e2c19ec096c.jpg?imwidth=300&filter=packshot",
+        "brand": "Dickies",
+        "name": "Plecak",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/outfit/526a337d29424f8a9dc90195cdd529b6/b1a92953994047789e8e34a6a7238874.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/153cb45284ec47f89f754efdc9d1f3de/9305cf2e742c458a8c712f7e550d0f9e.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "BOREALIS UNISEX - Plecak",
+        "price": "287,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/26db7568ac2c4778b1b6d0777654f679/8ada861738954a5cbd249df5f75a0525.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Torba na zakupy",
+        "price": "329,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c86007775591478991fddfdb1ef4145c/c47e1a8e7156432a99ea6916d48315e3.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "AIRBORNE FESTIVAL - Torba na ramię",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/536ae3b4deb24e288f2b2300eb631f69/cb42253bd5054eea95546f39ac8432d2.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Torba na ramię",
+        "price": "221,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aa6d7cc00e3c4d3b8104ec242f8efeb5/a00314e8f2504692bba2d8b81e629b5c.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein",
+        "name": "Torba na ramię",
+        "price": "194,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8207bf12f50645119ec39b996789d44f/30e8ca49d78e4f74a1e45e2a0e474a12.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "UNISEX  - Plecak",
+        "price": "499,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/328fc4266e8034d181643949c9006b98/90e33d7c391b44b1a7c1c834924be517.jpg?imwidth=300&filter=packshot",
+        "brand": "Valentino Bags",
+        "name": "Saszetka nerka",
+        "price": "289,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4721b7f0363746ada30e6a23f1191fcf/0cd028377ab848ceb529decd28d83437.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "HERITAGE UNISEX - Torba na ramię",
+        "price": "50,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/de5e39dd62994fc6ad523c92ed32ec08/31acf82dabca4677bd3e9fbb2572ab2d.jpg?imwidth=300&filter=packshot",
+        "brand": "Lacoste",
+        "name": "Torba na ramię",
+        "price": "398,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c3dd71a44a494b8e9242bda001cf24e1/f2ae72431b1f431bb1d71b06801188ba.jpg?imwidth=300&filter=packshot",
+        "brand": "Lacoste",
+        "name": "UNISEX - Torba na ramię",
+        "price": "153,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ff5c9cf5599c4a6eb28970589632eff8/81b3d6833e1d4673a472096242a0e298.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein",
+        "name": "UNISEX - Torba na ramię",
+        "price": "318,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1a988eb8e01e468681e6df0a6b945892/aa21b9137df8428ab62f24d3f93ca44a.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Plecak",
+        "price": "263,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ea11a19085b04eadaa8e4138d25fd61a/c0b12f8e3943402f83287e1067f8e756.jpg?imwidth=300&filter=packshot",
+        "brand": "Carhartt WIP",
+        "name": "KICKFLIP UNISEX - Plecak",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/outfit/da79ff438e19440abcab96c3ab1527f0/938240cdca454fef8ec02899133feaba.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a20832c9ec7e4dff85e254b081adca0c/5dc2ae36636c48c8b1e6a076b94cf1a5.jpg?imwidth=300&filter=packshot",
+        "brand": "Levi's®",
+        "name": "Plecak",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/crt/creative-content/427ff30a-214c-4f3a-84cd-4ccb1a0382a2.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Coachtopia",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d31d672d8f7135d49bfd3be1b3e737db/5747fbb0d504460186cbb9bbe19824b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Saszetka nerka",
+        "price": "100,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0b6fe430c4724b14b1fd8b6fe704e189/62bdd54aeb38460dac0da0c47a185bf1.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "SLING UNISEX - Plecak",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/11e8ed34dc564285b8e49a5867839585/2495eb31e6cb4b32b4171165edd95aa1.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Torba na ramię",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9a1d3709287643c6b7e0b2f2dcd06825/8a31e6a6418f4c33a096456697352d78.jpg?imwidth=300",
+        "brand": "Johnny Urban",
+        "name": "BEN - Saszetka nerka",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7839a02aea79439ca0fe1156d9dfc471/066768e9f19242c09f56d7555b952237.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Torba na ramię",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b7645e232fc44aae8682ea9a4f2cec13/d0be0cb2eac94ef69a298f9e4ac71e45.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Saszetka nerka",
+        "price": "74,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d1dbf86c45b44b8cb46cff3453e4adb9/9959fc60de8a47e3833ae1ed9f4ee397.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "RIVER - Torba na zakupy",
+        "price": "1 187,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4672c97af67c4b27823c507ffd83645b/79f65ad940f9471a906531eb94889da8.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "854,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2167dcc766d94fdaab9a96fadfd22ac1/f96e8c2f2a714eb7ae03c794003a77fe.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "RIVER - Torba na zakupy",
+        "price": "1 187,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b2fadb7b1df9443089b521ae75a67f62/5312a89bdc294d1b8291cb15a9632944.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "926,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/56985d9fe2c748e6a28214a297629e62/b764705b9dc2431b8cf9d76fdf4372e0.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "854,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4ed9581725a24f5e9fe9eeafd41d274c/3ad683da96d344588ae95b8ff0306e8c.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "926,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8ac8282a4dc4443fab59381ea6dd1fc2/a00dd6a184374ebeb766763069fde331.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "LEWIS - Torba na zakupy",
+        "price": "1 016,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a20c7c9f53094b0aab519734e6c3a6c0/da4990f7a8cc46209d008a9b52208776.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "854,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7b21ccdec6ff432794a53a2e3e547528/4e91eab5dba64f1582a3094db0027aee.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "854,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/324c4cca08494f8ca55f8d00f6efdd06/ad1f0e2bb951452389b38e3d4c267f20.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "LEWIS - Torba na zakupy",
+        "price": "1 016,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/22a9d577e022424894732e53339bb61d/4deb9233ebd949f688cf2a3440397f9b.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "SADIE DLA OBU PŁCI - Torba na ramię",
+        "price": "926,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/234940ed01724cf2b6733e7ac10914d3/c8e0d072ebf54ad1933bef43938761f6.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "926,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/426ec8236c9d4dfeaea1f382a44eca43/5251e048f42948469e346ce3fccdee7e.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "926,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "mezczyzni-akcesoria",
+        "subcategory": "Torby i plecaki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/063c30e7a9e24e5fbbd5e63902425544/7f46221fe0134457b6344a25e6281af7.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Torba na ramię",
+        "price": "854,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

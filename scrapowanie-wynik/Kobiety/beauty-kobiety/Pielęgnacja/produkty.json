@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/837b7a67e6a04b9683e4b44cd0ec281b/397dff1c7a0c4279b722d34d0c8135e0.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM DEO PURE ROLL-ON - Dezodorant",
+        "price": "65,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c7d1d54a434a414fa09dcf9fe1ee45a2/182bb3d51d2a483eb8e98c7c6ad06e8e.jpg?imwidth=300&filter=packshot",
+        "brand": "ZOË AYLA",
+        "name": "JADE GUA SHA - Akcesoria do pielęgnacji",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/237f14df179a4585bdb54eb56c170367/f5cdb89483404a24a42a50252c6c782c.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "BODY REPAIR REPAIRING CREAM-MILK - Balsam",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/591641d8e3f24d798d41424bee1f5171/3aeea18119a84f3c8b1863b5c3f6e8e5.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "LILAC BODYCARE SET - Zestaw do kąpieli",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f2731a50135947ada2adb5d0fce03377/c04c19ec47a845309a3a74ed1f43e739.jpg?imwidth=300&filter=packshot",
+        "brand": "Glov",
+        "name": "GLOV® NANO GLASS FOOT FILE - FOR REMOVING HARD SKIN AND SOFTENIN - Akcesoria do pielęgnacji",
+        "price": "67,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/04c4723791ee403db8f72c450e22ce2d/006425df1e9943b38615d8b2ebf2b6da.jpg?imwidth=300&filter=packshot",
+        "brand": "ZOË AYLA",
+        "name": "Akcesoria do pielęgnacji",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2358bb3c17834fd6b6675176c2f008e3/4fa7a2dc10e3426a981244b14cec093b.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "JASMINE  1+1 SHOWER GEL SET - Zestaw do kąpieli",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/41295416eb02457aa27d92b0ae63a080/7a8147b3129d4c6dbc841257cd633c8a.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "SWEET ALMOND & INDIAN ROSE SALT BODY SCRUB - SWEET / NUTTY - THE RITUAL OF AYURVEDA - 300G - Peeling do ciała",
+        "price": "56,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a4fe378d57f04ea7b2babc6be66cce96/6f83bef7d00c4d58b376924b34992ddd.jpg?imwidth=300&filter=packshot",
+        "brand": "Glov",
+        "name": "SKIN SMOOTHING - Akcesoria do pielęgnacji",
+        "price": "26,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/crt/creative-content/5726280d-a5eb-4f87-9aba-5d527cc17c26.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "L’Oréal Pro x Redken",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/22b59403cf96406887b67f598b73ee13/73653ee3459b4916b86dbccf3d343603.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "BODY UREA MILK - Balsam",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d91549af2ff2479a857b3dce2e52216a/74dd1be328e6492ea47c60abb80be064.jpg?imwidth=300&filter=packshot",
+        "brand": "Zalando Beauty",
+        "name": "RELAX GIFT BOX - Zestaw do pielęgnacji",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e92bf3c9ec494c8c8e25507255e41619/5fb5eb40a93443fc87bf1f90a772860c.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "GOODBYE REDNESS CENTELLA MASK 3 UNITS - Maseczka",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/58c331f7e1a13dd5a4ca084cffac5f96/d875523622d4439abf6dcc126fcb7b7a.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "GOODBYE REDNESS CENTELLA GEL - Pielęgnacja na dzień",
+        "price": "76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/88f04bd8fc9445eabee96d505a825d16/7ce7f3ef36ef4e7abe1ed6a2ffbb09e5.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "ALOE PROPOLIS SOOTHING GEL - Pielęgnacja na dzień",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ff0a8fad571f42ba843d8d055434d234/fd67b6fba16240f18a5015b5fe8c8b1c.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "DEEP GREEN TEA CLEANSING FOAM - Oczyszczanie twarzy",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f663b1bdf78c4418ac724d9c6e5ff2cd/6acbd3069f9041948eef015350c2cb7e.jpg?imwidth=300&filter=packshot",
+        "brand": "Mizon",
+        "name": "ACENCE BLEMISH OUT PINK SPOT 30ML - Serum",
+        "price": "66,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/19879ddac01b3a8c82fa55c5e84b3923/7920d1bf60db4e3b982cda0216d62f8a.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "CACAO MOIST AND MILD TONER - Tonik",
+        "price": "62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1079db6a092c4e9a958d86e0ada9b09c/1bcac4b028d74fb5bbc30704382dc6d4.jpg?imwidth=300&filter=packshot",
+        "brand": "NIVEA",
+        "name": "NIVEA BODY REICHHALTIGE MILK PUMP - Balsam",
+        "price": "27,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "Brak zdjęcia",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/38b4e3f669a94ff88bca46bf397099c8/1eb7edf2dad7409780708b71c78828d9.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "NUTRIX ROYAL BODY - Balsam",
+        "price": "153,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d6f62dd899c46df87f5a3edbe63210b/5794eec1531e40b195c92efbf92463dd.jpg?imwidth=300&filter=packshot",
+        "brand": "Burt's Bees",
+        "name": "LIP SHIMMER - Balsam do ust",
+        "price": "23,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d8d0e8520a9a4c77847d606188aa6f01/5d02e4c7f64a4f70a1b1c0e64c275b60.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "SKINACTIVE HYALURON ALOE SERUM - Serum",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6fbd5de58490492fb1d5a4080384a4cb/e16234a43234484e86afcc41f78f09b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Makeup Revolution",
+        "name": "REVOLUTION MATTE TOUCH UP OIL CONTROL ROLLER - Akcesoria do pielęgnacji",
+        "price": "19,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9e0d8bb18584495b8b0857c130f0a26b/bbda3389b871445497a4c0907e60e8e2.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "CHERRY BLOSSOM & RICE MILK FOAMING BODY WASH - FLORAL - THE RITUAL OF SAKURA - 200ML - Żel pod prysznic",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ba51c0b88cc040e2b9d1a95139f43608/13762deed0164da9a31bdd85611eae5e.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "BODY OILBEAUTY NOURISHING OIL MILK - Olej do ciała",
+        "price": "24,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/92dc09f1a19f4e2b97a9409d637b8fe4/6c5499c7d5e64dc6a81d63ec741b2590.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "CHERRY BLOSSOM & RICE MILK MOISTURISING BODY CREAM - FLORAL - THE RITUAL OF SAKURA - 220ML - Balsam",
+        "price": "67,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3fb9c658351b44ad925222e78fc05a02/ba06e221f2ce46aeae23f7cf2a936fc1.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Jart+",
+        "name": "DR.JART+ CICAPAIR TIGER GRASS COLOR CORRECTING TREATMENT - Pielęgnacja na dzień",
+        "price": "od 67,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3cb33a0bdc85498fbc61635f8a71e2c4/9e8075e93c52491bb1fbe78c875cb040.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "SWEET ALMOND & INDIAN ROSE FOAMING BODY WASH - SWEET / NUTTY - RITUAL OF AYURVEDA - 200ML - Żel pod prysznic",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/edd8722ed2ce4748a5fd222bb9d9f3c9/d96c22e62c3e431b8a6989a7947181cb.jpg?imwidth=300&filter=packshot",
+        "brand": "Guess Fragrances",
+        "name": "LOVE SHEER ATTRACTION FRAGRANCE MIST - Dezodorant",
+        "price": "37,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/crt/creative-content/fc6c400c-3e67-4a3c-9f40-af7c5f25d9cf.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Collistar",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/798e45d805d54278b06fe8875dbaaf99/f466564d81494e3db9caa741e681fe6b.jpg?imwidth=300&filter=packshot",
+        "brand": "Glov",
+        "name": "GLOV® JADE GUA SHA - JADE STONE TOOL MADE FOR FIRMING AND LYMPHA - Akcesoria do pielęgnacji",
+        "price": "56,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ef53b1970e984d6e83177a15ef44a245/c17448dafea7413484a07dc52cae1822.jpg?imwidth=300&filter=packshot",
+        "brand": "KIKO Milano",
+        "name": "COLOURED BALM - Balsam do ust",
+        "price": "23,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Pielęgnacja",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eac25d42d3354e60ae8687884412c2d0/de3a64fa525148578f3470cd211a2af6.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "EYE MAKE-UP REMOVER - Demakijaż oczy",
+        "price": "14,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

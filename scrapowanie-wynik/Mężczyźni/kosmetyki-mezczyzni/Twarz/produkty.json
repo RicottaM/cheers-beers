@@ -1,0 +1,784 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/29ca1501ded741c1ae76cc9230c7429d/fd9ed15fdd934ac7be57182a68f7a615.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM HOMME FORCE SUPREME ANTI-AGING GEL - Pielęgnacja przeciw starzeniu skóry",
+        "price": "223,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7d814404e1644b7e858101082bbf597d/87ce460d72cd45c3a6d9f4e4d2eb0342.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM HOMME AQUAPOWER COMFORT GEL - Pielęgnacja na dzień",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f60b31fece04cf0ae1a166f03c3a852/82c5a4fc4baa4b5893cfd25498df10f6.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "AQUAPOWER - Pielęgnacja na dzień",
+        "price": "160,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9cd041fbaf61416781046a122b1e276d/0fb1a911fedc4aea9770ce99ec771784.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM HOMME FORCE SUPREME CREAM - Pielęgnacja przeciw starzeniu skóry",
+        "price": "265,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/093c7e70a5674432be42770002dd2894/b81723b7f3f54ad4b66e4c6d149dab7f.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM HOMME AQUAPOWER ADVANCED GEL - Pielęgnacja na dzień",
+        "price": "146,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5411c4c16a0c461393aa9431cdaac5aa/c21ad44340c447fca5d04ceb946adc33.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "SNAIL BEE ULTIMATE SERUM - Serum",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6a26a825d01e41b8962e6ba02416b4b8/b89bb8a1394240c984690149941c7f18.jpg?imwidth=300&filter=packshot",
+        "brand": "Beauty of Joseon",
+        "name": "REVIVE EYE SERUM: GINSENG + RETINAL - Serum",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e92bf3c9ec494c8c8e25507255e41619/5fb5eb40a93443fc87bf1f90a772860c.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "GOODBYE REDNESS CENTELLA MASK 3 UNITS - Maseczka",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1dfaa506739c4b3cad57bc53b92ab182/f384725ba37441df876a7ee614220493.jpg?imwidth=300&filter=packshot",
+        "brand": "The Flat Lay Co.",
+        "name": "THE FLAT LAY CO. OPEN FLAT MAKEUP - Akcesoria do makijażu",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aa7970a1b0f0499499c6763ab89da7c2/6385fde8fac04d54be6e270c43188350.jpg?imwidth=300&filter=packshot",
+        "brand": "Makeup Revolution",
+        "name": "Akcesoria do makijażu",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ebbb55a6f24a4ffcb65d4246483680bd/7f6ed987e3df415087d8ab0cfc017d05.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "FORCE SUPREME BLACK MASK - Pielęgnacja na noc",
+        "price": "244,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/232a2c8fec593b71aae7493ae80f3356/e80f781514d44de4b4ef0f5b38ecbc28.jpg?imwidth=300&filter=packshot",
+        "brand": "COSRX",
+        "name": "LOW PH GOOD MORNING GEL CLEANSER - Oczyszczanie twarzy",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/navigation-entrypoint/8ca689df823a3b638aae3c0734f42107/d9d73fef19c44c9dbbea395122ec4dc8.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/navigation-entrypoint/54439d249fd735f88cc2b1ea3c9b2631/43bd4d3feb034f108fda9eafde69c9c0.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/navigation-entrypoint/6ef0682d6d743c9ba6660bf54348dce0/dcdb5cffe6ba44699377be783a5cd936.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/navigation-entrypoint/dd1900f2e3b43c36a36dc4e843b28d5d/7598d1031a884491a010d9f20be5d28c.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/navigation-entrypoint/4984c4bc6bf7346c98daba19b74f5642/b5fbba991bf745998ed8c53bbafc0671.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9a11223b9018487ebffb0758ff637565/9fa5ce00ea514ca9853f5fb70a2668fe.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "FORCE SUPREME BLUE SERUM - Serum",
+        "price": "293,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/20c23a77fa254b31969191aa91a24c84/88b4807d53fe498f95c5139241b64197.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "LET’S CARROT MULTI OIL - Olejek do twarzy",
+        "price": "76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/862ba47dc52337c492df3a69e4ffb2d1/e4b9855e97414088af94d0970e31447b.jpg?imwidth=300&filter=packshot",
+        "brand": "Clinique for Men",
+        "name": "CFM MAXIMUM HYDRATOR 72-HOUR - Pielęgnacja na dzień",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/58c331f7e1a13dd5a4ca084cffac5f96/d875523622d4439abf6dcc126fcb7b7a.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "GOODBYE REDNESS CENTELLA GEL - Pielęgnacja na dzień",
+        "price": "76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4a12382dcda448a0ba5a59750dc4b401/0f1c0f8f6fd8488385da315c1226acdd.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "AQUA GLOW SUPER CONCENTRATES - Pielęgnacja na dzień",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dba92c63e14c4b05924db5930c4793e9/f1558441e15340c78e8249641c4456f0.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "GREEK YOGHURT NOURISHING PROBIOTIC GEL-CREAM - Pielęgnacja na dzień",
+        "price": "83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b6aaf6efd3424bfbb66f8bbab1504201/bb269609b9534ee3893ddff359cdf8f3.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "BIOTHERM HOMME FORCE SUPREME EYE SERUM - Pielęgnacja okolic oczu",
+        "price": "202,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f0576297e6fa4778b7d564ee8b1463ef/4dd611a34e9a4edc9524ac0415a1692b.jpg?imwidth=300&filter=packshot",
+        "brand": "The Flat Lay Co.",
+        "name": "THE FLAT LAY CO. JELLY MAKEUP BOX - Akcesoria do makijażu",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/96ff4b9a617a4c388a3ae9150a596b90/929bdc62454649ab9d075b05648d5938.jpg?imwidth=300&filter=packshot",
+        "brand": "Beauty of Joseon",
+        "name": "REVIVE SERUM: GINSENG+SNAIL MUCIN - Serum",
+        "price": "87,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/88f04bd8fc9445eabee96d505a825d16/7ce7f3ef36ef4e7abe1ed6a2ffbb09e5.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "ALOE PROPOLIS SOOTHING GEL - Pielęgnacja na dzień",
+        "price": "69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e97faf05b934145a7a09dff2701e88b/ade6e6c15348444dad7b6d18a714f8e0.jpg?imwidth=300&filter=packshot",
+        "brand": "Benton",
+        "name": "CERAMIDE CREAM 10000PPM - Pielęgnacja na dzień",
+        "price": "od 104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/efc87cecf26246da90c9d178d01fc041/4d98c6106be741c685d86b741b0dbd21.jpg?imwidth=300&filter=packshot",
+        "brand": "L'Oréal Men Expert",
+        "name": "HYDRA ENERGY COMFORT MAX 50ML - Pielęgnacja na dzień",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f38ad07989046b2b90d82cba51951b7/333c8fcb8f364e559186585e86b64bf4.jpg?imwidth=300&filter=packshot",
+        "brand": "L'Oréal Men Expert",
+        "name": "MAGNESIUM DEFENCE FACE CARE - Pielęgnacja na dzień",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6d66f07678033c02afd84270a98047fb/92b569a59ee641d6a5de86e91ede6ac2.jpg?imwidth=300&filter=packshot",
+        "brand": "COSRX",
+        "name": "COMFORT CERAMIDE CREAM - Pielęgnacja na dzień",
+        "price": "107,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f64fb7ba2b5545cebb23ba3fbe7c7bbb/73e52292e505428fbc30d6292ac0486f.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "414,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b06a427e37834577b0bf23dace92d634/9a80bc34ffb641e1bdb0d80fec5bfc7f.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 364,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ee0818f23e294eee958fade18b1496bb/e1d2fd8e998d4cd897206dc648c1755e.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 364,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/15624ee94ddc4e2da8bad8988ae19d73/d70d08db6ca64e688d299711748309b1.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "449,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c7b1f843a21c4eb796955f6d03ee89ba/2f12ab5fed374adfb0a82dd44502ad45.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 344,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c1fd138c432335d68e6da8484e6bbb23/9ecb5646acec4c70bbc85d145fb378fe.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 394,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5bccf1fedf2848e79d8016c86776a275/1d0e279a5c9f4b7e81e4205f3dcf1584.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "344,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bc15e7f1f2a539dd9627a64d0d3eaa04/b0c591091f914069bccc444add280cb7.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 349,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f25a1ee552c242dcb4b049c27e490502/4184f14d3bb7483d99c5d0844f40ac5d.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Pierścionek",
+        "price": "155,40 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/91bcac0265f54ce28b16e3042f025461/99b0dd0ac5bb4d389e00425c15195e3a.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Pierścionek",
+        "price": "179,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d2b4c51ae28f42848b781cff90732815/149c53c1ffaf4523a1a2824cc1c71cc3.jpg?imwidth=300",
+        "brand": "Daniel Wellington",
+        "name": "Pierścionek",
+        "price": "134,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f016642f7e75471d8cab6ac9e94ee7f5/d612090433904c46a432c517d45dafeb.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "394,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e0e535870d7941938f08e7e6be1b977f/f8652bffdd1e4ad98f5ccd8e2eeef56f.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "374,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/de62c48370164cf08b78be7848cfe5e6/04fea680bf7c45bc965990debd8d3113.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Bransoletka",
+        "price": "188,10 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "kosmetyki-mezczyzni",
+        "subcategory": "Twarz",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8ec030b84d194a15ab20a787de3d077c/5a22d2bf2b2c4afbb034b9ac9d8453bc.jpg?imwidth=300&filter=packshot",
+        "brand": "Daniel Wellington",
+        "name": "Zegarek",
+        "price": "od 374,50 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

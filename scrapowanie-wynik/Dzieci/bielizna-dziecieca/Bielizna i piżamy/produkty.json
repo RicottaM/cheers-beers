@@ -1,0 +1,767 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9a78ffb730cc4ebfabcb9226d0f53450/c3968d344d2e4706ad23df22ca9c6f67.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "5 - Figi",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/822cf998f4a0490d8c4f175a6c6e1f15/7e44b69367f14af3b6f5b3f959d86cc5.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Panty",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e5d0bb9a58374de389d888138bdb34ee/220bd0057d7a43e9a398024c34447da6.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d3694a43fe50401f8a0613a2c4fd040b/9a6a22bfdaa04c14b09172b3fa1911f5.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Panty",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/178da6200dc5409bb8253d792fe477e0/08e9af7672b540fe83a27fdc1697d9ba.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Figi",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dcec2e45f99d4725beea508a4c1d7f3f/07dc3728e7ac47a28501fe8ae0455062.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "7 - Figi",
+        "price": "od 76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08480604a5c63976a6bab02d3c3c128a/63b093ead22a433c8524f1512dcd36d6.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ed951165810f449487785749f296d948/e69fa0cf3f4840e0abc9093bb1ca2c52.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "5 - Figi",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b4722438e4d498db30b08fbde6045a7/948d28cb4abb4502beef061ce6ca4fbb.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Panty",
+        "price": "od 137,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7e62a08fe2f54524a644187219df23f5/420e583711da4c4a94b8a14b9c884a67.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Figi",
+        "price": "48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8268ec454dc143409faf1187b568f438/63ed2ad0e3b14889a8a6614f4358a110.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Panty",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/af64481f029648faa35502d1f73051b3/1e270e652d6243e2b2cf20de47e5c2b6.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "5 PACK - Figi",
+        "price": "od 62,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/2d439079e7c236bd86f3192d540360f9/7f39d7ce9f52459cacf9ad6a20143c99.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d3f397e3f7cf3ab1bc3e711967e779fa/be423429d8d04c838c53124206eae31b.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/50de942dbac33cabaa8432346ef87464/85741869180b49558131ae350f086b56.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/cc5dcc9bc18b3ed6b4c379de5684727a/d0f4c8af21864cdc9de005e913dee5ad.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8bf2f6cc028346a5a1f66d58f9ca7c93/8f0d619ffb5d4fa59860287c34d994d4.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "5 - Panty",
+        "price": "od 96,44 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/45fde87f62a34b4e94eaf0ef775a0f32/023873f0f26c423aa0020e5077db1d91.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "10 - Figi",
+        "price": "od 89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/46bd53a925b2431bb4affd2d52ac2841/944501fa1e5a4745913015b1759e4d7f.jpg?imwidth=300&filter=packshot",
+        "brand": "Bonds",
+        "name": "Figi",
+        "price": "58,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/db8b3b476f7e4e5f9d4fc7b17640a713/0bd54996a4eb416b9a4864575726283d.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "7 PACK - Figi",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a4135c8cb60f433bb5d5178f74381de0/bd951ce1da604cf9af494eda141d3c91.jpg?imwidth=300&filter=packshot",
+        "brand": "Marks & Spencer",
+        "name": "ARIEL - Figi",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5586136b70694b738d1c253d1ea35daa/0c08282815c04eedb856b2ffdf3e1657.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Panty",
+        "price": "77,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d82b2f5ee26246319e5cf49023317684/02a67f0512274e34a84cf1e5818ab395.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/03109f4117923da5889a81461011798a/53236d19fbd447388be46c931e9da9e9.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/632e7e4927eb4a17b90bf137b37db397/8fe43ab9edd34e24a4dee08bdbcdf84e.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Panty",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/798c07bd1bc64f588d7ae47bb797afce/0e5820591a414a52ab0abadc6cf44600.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "5 PACK - Figi",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1fc9b5e991e94268be31eac9f893d841/cc8c1e26491c4b1fbaf58085a76429b3.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Panty",
+        "price": "od 81,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/eca0f4e074c94750b9ec11405c6431ae/f893737304c947808cec82500689a695.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd605dcbf62640fab0f686d4bfd5cb5b/d242294b6ee74dafab3db657350fb4cf.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Panty",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0428d1f86243483c9fd7e5be23fb4d3d/bb483d389062472e8ae3a8d24d0a3e64.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Figi",
+        "price": "od 76,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5eea973ff7d440d384f6bc903d360d4c/efeedabaff4d4bffa88cdc8dcee832f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "POSH DOGS PRINT DRESSING GOWN - Szlafrok",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/902d3140c7de4758a8b5aa255605cda8/bbeac7e7b14441ff830a59f127645991.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/06aa3553d1e244d9a9163f5feb5a858e/2aa790a9c54d43838d0f3e9b1c84a6eb.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4352beffa0324d769097ce694bb866d7/b19b391a07904b4ba6cc62ebfb5ab03b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "114,29 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b4dd75234e14ff8925b4c5ea4b10b4c/e2c85191aa1b4f99a03ac5d4746d0429.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/764cd648847444728c9fa86f03e46801/7c672027b2f24531b7fd7b2a1cc4ced8.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/532482bae019435984e6e6297e81141a/9e0ef4df212d4f1ca9e9255e4f5966ab.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "132,17 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e7a26f5d009445e8066edfb4f9f2c69/58cb075befac4deab083e6176eca2199.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a2960d20bac4701b668d4bf9420cecf/86d7f9efa2d143a69ce105a9621fa867.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "SET - Piżama",
+        "price": "110,87 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e672797ba06340f9a2237a9e0c18762f/6dc0edfc9e5c4dd59b27fce6dffc266b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "USTAWIĆ DLA OBU PŁCI - Piżama",
+        "price": "103,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13c99f2c77674250a9622f93a077d199/3d63e4b71e53400c845ab67868fa8f29.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/81bdce780ff84915844d1f788aa25428/403f19d67f4b40e786ff4097255a9f78.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/734d7c1ae4904970b02898fec94e0f17/76488f0c667c43f49c514f32bf386312.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "187,83 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ad33cda58324101b42aca25c8145e3a/e2f7da41b4b345c196f4b6eb69334132.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "164,35 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Bielizna i piżamy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/671f4a5451894ccdaeff90b13dda632e/835fa993ac0945e6b5c0ef7b2b23869f.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "190,91 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

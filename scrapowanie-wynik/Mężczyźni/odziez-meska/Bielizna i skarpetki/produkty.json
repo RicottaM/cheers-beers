@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e30bbe86aa84abcaaccb24503cecdb2/01752ed9e77b408ca1a193dfbc6aa882.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS CUSH UNISEX 6 PACK - Skarpety sportowe",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a504b84279e24d2d906cc5831093e473/d8e5bdfcaa254b18920e1478f85a63ee.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "MIDCUT - Skarpety",
+        "price": "od 54,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d62296378a404a5eb833f903abfdfc8c/d280989a3c504557b1afe09db75de10e.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/685094f140c7487e9d6b87aa69c6691d/81db1e183ccf418285869af5c8b049d3.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS CUSH UNISEX 6 PACK - Skarpety sportowe",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7f96d58a432949779053fa912b649f7b/7ed4df7b24664a82bad5ec91e5d12787.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY  CUSH 3 UNISEX  - Skarpety sportowe",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/outfit/e602d14c8f8f499490671e5b8aaac28f/c25bee3f136c48a48ba5978c96568035.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cf1e99b3542c398ea4bbd37ab84a2139/bfb17599e3bd4b4185cca5341f32478a.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "134,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/405ff4372823434f9f167a1ee0793fea/423d407ead4b4aaaa0b8621904512edd.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7550a814307346dabff630924f97a9eb/ac7b8222283241249ab70ce66191b72e.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PLUS UNISEX TRIO PACK - Skarpety sportowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e622a278b154125b1c1f572bffb118b/f364b1ab72e746f7a69facf174c7fe8f.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "Skarpety sportowe",
+        "price": "80,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0318850c9dc733d88bbb7a723592c366/aad8dd0658e84adbbae75f66c27c2664.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Skarpety",
+        "price": "35,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/749058371632311c8106c976f0d708c4/d02a7cc6775a4a038f43a4000ee06590.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d20fe03e77cd3716b6602d234db07312/c4afdcc4d8344761a8623bb9db2962ca.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/17012c5f842533f1ae84f49039b73d49/5f8d2cad37a747dcb9f9d5a60e390c36.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/bbd7a890277a3a1ea7822cc308c52c5b/b58689c8dc8a442a8261b1ca538595b7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/169dd4ef87943ab7ad76468db899df7e/1bb5410dbdd94951a38ff3cc002b1f6b.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/8ea1a3bbefe23622a928b094b958936c/2bd56513c322487fad67336886e42f85.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d58a45c9ca9a41b894795a43e3037c20/da9ebc7ef1b849ce932128df9268b157.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "MIDCUT - Skarpety",
+        "price": "54,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b68edacb55474f26a118a1bc792f21ba/54b0096e6fe541a2b0d96c1403fe1d3b.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Skarpety",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8257221318f474d9ecf726faf4bf6c7/c80724d8789845bb826bfcb1c966327b.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "SOLID TRIO PACK - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/189074754abe418fa42cb9791780f32b/ddc372036a0948cd96c1cba6e53e16f0.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "SOLID TRIO PACK - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e0c31f2654c74ea09b9558ef823ac64a/5816ddad35e945729ee60419fc906e6d.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "Panty",
+        "price": "od 113,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fae8e8571a3648b98cf429abf65213c7/6dac3e71722c47e78a556c6853da5e25.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e135f727d7fa389fbed31dd00a3578e8/fd1d018d4f1a47ed9a9c500f6909e188.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0610cd8ce5064666a3b0b53b8200f8ef/d5b2094e8a054c54ae99b5361cdfb1d6.jpg?imwidth=300&filter=packshot",
+        "brand": "Ellesse",
+        "name": "Panty",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/outfit/28341bb9e5d2449684c5e1185599465e/f6a1c142bc4e40eb9c6a6875ae4748cf.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fe48ed68ffbe4dd0931390366166b61f/8b63193c23ec43358edd6d136ec468cb.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "Skarpety sportowe",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/crt/creative-content/62066f5b-f55c-40ab-95c4-303f5ed630d1.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/981fec62f67f4d1eb85b41dc9c31c0a4/868b02b6f9434a8ab6e1de118633d8ad.jpg?imwidth=300&filter=packshot",
+        "brand": "Calvin Klein Underwear",
+        "name": "Panty",
+        "price": "od 116,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08f3572399db496e9463fd6965c6ac8c/f9d7a56a8e2b48e1b71bdb5bfc2cd84c.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "SOCK GIFTBOX MOULINE  - Skarpety",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Bielizna i skarpetki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f32f317ae6524193b50991c7e5f6baea/2a8621f458464e85a379e6f8155701b9.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "EVERYDAY PERFORMANCE CUSH 2 UNISEX - Skarpety sportowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

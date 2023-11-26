@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/824322cddb3a4df8a477420323f681a6/6b18512cff1c497fb71e2b0e5e5a1806.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Mokasyny",
+        "price": "103,20 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b795f73a3d74404aa2f620d96b01e81/e07117487ad4413c8c38436b0f491dd5.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Półbuty wsuwane",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c2998cdf7bdc4a7bbd8863e123be9ad1/b09d60e13a904347bd2034999957d1c2.jpg?imwidth=300",
+        "brand": "Vagabond",
+        "name": "ALEX - Półbuty wsuwane",
+        "price": "649,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bfb3fde0092246a7aedfd5db283a66b6/9d37f5a9cb014f1196db9fa5e0a035cd.jpg?imwidth=300&filter=packshot",
+        "brand": "Even&Odd",
+        "name": "Oksfordki",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7211d49ea503311cabe07c3f1cedd74d/a08612c23cd342d3944b991493433c33.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "151,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/outfit/c741e12a55c54f93b5a74a6c0d7d8a91/b3e99f5099294810ae410a3d2a4c8ada.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/41de408357884819961773fa803bc8ca/297150ae81e0486ab9fd6c1c37f69e80.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Półbuty wsuwane",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/640b14ab28b44366a926bfde34a03449/50b548593b0f4592908c4f570e5b3978.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "143,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0c950db14f2d49d1ab80bea30a693e7a/35518a320eab4bca8c8e2a64c4cb27c9.jpg?imwidth=300&filter=packshot",
+        "brand": "Mango",
+        "name": "CHUS - Półbuty wsuwane",
+        "price": "299,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f91ab7a35af54e8b8785b72684b3b90b/4b61a37597174a07976629e41098c638.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Półbuty wsuwane",
+        "price": "299,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e8538ac0321a4c70af8e767e8833d313/9bb294fcaba140aea9ef415e3c24ac40.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Półbuty wsuwane",
+        "price": "399,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/542f757c55de43488ea0ec76e17bbf4e/e0b54b0e2ad242fa8c1b771fb40720ea.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7a91dc7b596939cbbfbc6d665aa558a7/659cae2653804a838f59acd16cfa19fd.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/navigation-entrypoint/edfc4cc3eccb3874801f8185673a7837/2b04d217a42c45718db597be2967ad20.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b51a147d2b9c35c882aa5587eaa417ac/446cfded3b334f66a3cfe9dee765ad75.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/navigation-entrypoint/801078f82df134e08b65ad290f79f4ca/f09a09b5c2764f5bbda80d9d133bf874.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/82aa2a9c6a1744af9f28226ceef6074e/160e2396abb94466a531660c94776b42.jpg?imwidth=300&filter=packshot",
+        "brand": "Marc O'Polo",
+        "name": "MOD. ELIN 1A - Półbuty wsuwane",
+        "price": "od 455,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/98d3bef4462c4d78b33d0dd556206f29/cb97df592dea46ba8e74be2cf1dfad14.jpg?imwidth=300&filter=packshot",
+        "brand": "PULL&BEAR",
+        "name": "Mokasyny",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bf7e4ed71b8a44fea70cdd78732d5c69/892d5358e0b4436891d1ad1c39bb3f6f.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Półbuty wsuwane",
+        "price": "399,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4c4ef840c0cb35a5a7feccba95181544/cd7e579bcffe4188a66bf96cb4f358c1.jpg?imwidth=300",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b860ab25d99c4347910a593e024162f9/76a67c0765074d76a29bd36eff3c77b7.jpg?imwidth=300",
+        "brand": "Cesare Gaspari",
+        "name": "Półbuty wsuwane",
+        "price": "372,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/94f1324adf6b457e9b347a3266c5b968/bffd2162b9704994b7f92cb731afd513.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Półbuty wsuwane",
+        "price": "399,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/143978a123664a6d85d1d966aaa27913/dc23409195f74d28aa070bd1fa16fa75.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "214,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/82f7eef724a541fc921c23309a1894ac/85813cc4ddff40e18244665ebf035adc.jpg?imwidth=300&filter=packshot",
+        "brand": "Anna Field",
+        "name": "Półbuty wsuwane",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/outfit/4514995554fb4b4f8ff0699384bce020/2a131efb57444bec817ab8c7fddd98a7.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d3346ceeb4b449399cce6b43c6a86db/53000fb7d58349058db048878e439ae8.jpg?imwidth=300&filter=packshot",
+        "brand": "Stradivarius",
+        "name": "Półbuty wsuwane",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d133286e3a5633899030e0464126f4ea/2daabfea2fc54e2cadbf784ab6830631.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2a2934a8c80544698d41921ee3687ac3/314984238c774e959bab08fb44053b15.jpg?imwidth=300&filter=packshot",
+        "brand": "Monki",
+        "name": "Oksfordki",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9803b397679e4956b4e88725697fde44/f18f8f8069944a1ca2588679691d6bd8.jpg?imwidth=300",
+        "brand": "RYŁKO",
+        "name": "Oksfordki",
+        "price": "439,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Płaskie buty",
+        "image": "https://img01.ztat.net/article/spp-media-p1/277dfaa9cb07432fa81cc3569980a1eb/b2eafd5ad8a34c96a66f1bba30e43bf6.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

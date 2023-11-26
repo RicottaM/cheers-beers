@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7ff430909ad63e51aa318f9a1732d7bc/fc08049c383849758b51dc446b997b66.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c4e7e591a8f44985a6a6915f4d16d159/82768aca0584456dbf8e36369d2e41ec.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 219,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7059f48fd1a048e0acff668bface8814/f69f77b1d2fc4319813532de7341f49a.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/75fb2991a57d4f7bbe072287ed97e9f9/e4b2511e690b4a548de176c3993da376.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 479,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a6b53048077d4583ae5a0ee83b1e836b/e7007238663c4e6e8516fff5ab71ce7f.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/outfit/942313d2658a449eb3360a2c58ffc53f/d7f941ab064347a897f3853ebf62223e.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fae60e7601823060a2bcc9b6121b63df/469f4bbebb814f8c86b8b227e7d63933.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b726bdfbb5d640238b7d8419ed7d8d76/680cab10d2b044d7bc1100bec83cc233.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Spodnie treningowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b87e39a366d315a888537843efdd5bd/38b5161f9e6a4fada25c0f77c5e979fc.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Bojówki",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/091b7adf751a326689ceedc9f7745dbd/e3291d3c83d94eca8e7fb4145855dd98.jpg?imwidth=300",
+        "brand": "Only & Sons",
+        "name": "Bojówki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8239aa2281454435834530a05774abe0/ee4a7913ef14496ca6c49a4a80c33a14.jpg?imwidth=300",
+        "brand": "Urban Classics",
+        "name": "Bojówki",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b563aaafcc533aafb845dc9a43a29dcf/517db5636d3b4c77b6010351f8654ddd.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/6f36c1a91a6531aeb1179a8185442d04/a2fd323fbc0349b99dedbf32c69d57f1.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/8e11477fc5e03dc8b7e666bf63f4cfcd/d0ae1d74cb6844acb093cf3a1442b6a1.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/014514b7f5fe38909b8a0d7526b1eea7/f16b1bcf95664916803fb47850b848f1.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0cefce0c97ba4616b1d014a7785b48aa/2951d0649b2248dd81233fe504aaf2fe.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Bojówki",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/512dfeca174e308f9fb2e8582bf46b02/5f5bb7a9e0964495819f6c107002d295.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "od 359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0cbb0d132b3c44c98a167a05db11a38f/190f391e28d645d5aac3fadf4fe8b26f.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "349,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0af71cf7bec54d929fe16147551a8673/54a5bd9d86f445f692a79ffc5954c28a.jpg?imwidth=300",
+        "brand": "adidas Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1ad1f5d6de554143a178eb6b53c5159f/82ef875a3c9b457994f78265d5234325.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Spodnie treningowe",
+        "price": "89,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7c5d5efff0074e8fb8e89f9470c9a6ad/ecac128a571f408c9e930f21ce23ba57.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Spodnie treningowe",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/de933c219bb64ae0a622d98fd74238ed/a186da6155914471815748257b247696.jpg?imwidth=300&filter=packshot",
+        "brand": "Brandit",
+        "name": "Bojówki",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e8e15689765f4f22bfee8b32210af8cd/860fcff16202472b90ffa80ee708fe64.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "CARGO STRAIGHT - Spodnie materiałowe",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/outfit/546aafdd885b42d9b4fc7fb276b4c177/f79cb6fdd4674a81b97bcbe865592c08.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/04aa8ac57538438d9fea07ed1d09e958/72ca185ce15d434ea2258900ed262391.jpg?imwidth=300",
+        "brand": "adidas Originals",
+        "name": "Spodnie treningowe",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/crt/creative-content/62066f5b-f55c-40ab-95c4-303f5ed630d1.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3cef6c1c5c8b404abfcef2d22a68e712/b59fead6ff6341e7a0ad1ed392a5b428.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Spodnie treningowe",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb1f35d0a796319a93fc9de06e35f269/fad925ce31ea423481bdd3a1f9cd4d37.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Spodnie treningowe",
+        "price": "74,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Spodnie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ef9ebe8e244e3d2b8966130af7044649/5875f7636d90401b9fa903eaaf0b9b28.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Spodnie treningowe",
+        "price": "93,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

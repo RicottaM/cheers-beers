@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f6bf807295ec4ed3acf727273fc04c48/3fd3e48c91444d36b8d0aea0859aaa92.jpg?imwidth=300&filter=packshot",
+        "brand": "Zalando Beauty",
+        "name": "Kalendarz adwentowy",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/16cc929699454433896340cb1aadd26f/1160f945d55a4b6b899143f6961400d1.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "Kalendarz adwentowy",
+        "price": "201,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/591641d8e3f24d798d41424bee1f5171/3aeea18119a84f3c8b1863b5c3f6e8e5.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "LILAC BODYCARE SET - Zestaw do kąpieli",
+        "price": "47,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2358bb3c17834fd6b6675176c2f008e3/4fa7a2dc10e3426a981244b14cec093b.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "JASMINE  1+1 SHOWER GEL SET - Zestaw do kąpieli",
+        "price": "39,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/763c71ef0b694f14bf5008919322bd57/7e2870b3ab634961805a2eef419b19ae.jpg?imwidth=300&filter=packshot",
+        "brand": "Zalando Beauty",
+        "name": "MAKEUP GIFT BOX - Zestaw do makijażu",
+        "price": "82,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cacdef5458514ef8b1f1adfaf178ff85/7a6b9c3f26b64c48a9fb1858c344dec0.jpg?imwidth=300&filter=packshot",
+        "brand": "Rituals",
+        "name": "Kalendarz adwentowy",
+        "price": "265,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d76aea7afa244e34b4974061bd431553/43ab61d5e9354e14a1567879cd363486.jpg?imwidth=300&filter=packshot",
+        "brand": "MAC",
+        "name": "Kalendarz adwentowy",
+        "price": "667,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/037f2670fd7a462ea4c2a4eccd27d48a/b1bc851325eb491b920c876dd13e6558.jpg?imwidth=300&filter=packshot",
+        "brand": "Phytorelax",
+        "name": "KERATIN ANTI-FRIZZ CURLS REVIVING TREATMENT KIT (REVIVE CURLS S - Zestaw do włosów",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d91549af2ff2479a857b3dce2e52216a/74dd1be328e6492ea47c60abb80be064.jpg?imwidth=300&filter=packshot",
+        "brand": "Zalando Beauty",
+        "name": "RELAX GIFT BOX - Zestaw do pielęgnacji",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/crt/creative-content/fc6c400c-3e67-4a3c-9f40-af7c5f25d9cf.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Collistar",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/487dacc9e8f048f2ad38b6e5ad1044e5/ced462d40c934bcfbb457dafb5dcb6ea.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "ALMOND & LINSEED COLLECTION - Zestaw do włosów",
+        "price": "63,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bac988e16af94c2e9e7a459efb5d24ec/3cd25aa2073045a687aff4cd1949d31a.jpg?imwidth=300&filter=packshot",
+        "brand": "Nails Inc",
+        "name": "QUAD - Zestaw do pielęgnacji paznokci",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3676026ec96e449aa627c101697e1efc/f22192b870fd43c8a6668e98c9516683.jpg?imwidth=300&filter=packshot",
+        "brand": "Phytorelax",
+        "name": "KERATIN REPAIRING AND RECONSTRUCTING TREATMENT KIT (REPAIR SH - Zestaw do włosów",
+        "price": "104,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/887cb41200784b7a82df35783c152dc4/a57a0e217af848bd930c1ac03f241cb9.jpg?imwidth=300&filter=packshot",
+        "brand": "Bumble and bumble",
+        "name": "Zestaw do włosów",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/01329f9e7b8c42a788e340db70fbb734/4306475dcb0644caa6917a9fbc697e89.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Mini Macaron",
+        "name": "COCOONING TIME 3-IN-1 SPA PEDICURE SET - Zestaw do pielęgnacji paznokci",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/341cda8cd19f4accadc30c7f13d94a2c/21e58b0c3a2d404bb4d819c6dfb4d7b0.jpg?imwidth=300&filter=packshot",
+        "brand": "Zalando Beauty",
+        "name": "Zestaw do pielęgnacji",
+        "price": "127,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dadbe6a4f3a34fa8ba7135261b6e18be/87ad9eaafab3408980336447c30d7c0d.jpg?imwidth=300&filter=packshot",
+        "brand": "Redken",
+        "name": "EXTREME SHAMPOO & CONDITIONER BUNDLE (2x500ml) - Zestaw do włosów",
+        "price": "195,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/92d52dda4b244df5b16ee63e0222ff90/156128e3065a4c9cb224ee4376cbe62f.jpg?imwidth=300&filter=packshot",
+        "brand": "Redken",
+        "name": "Zestaw do włosów",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7649b19391654e93b1d2d6e40ac1fad5/2aa8afc409004f54beb3d2015c2005aa.jpg?imwidth=300&filter=packshot",
+        "brand": "LANCÔME",
+        "name": "HIGH PERFORMANCE ANTI AGEING ROUTINE SET - Zestaw do makijażu",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/60efd838ce7045d191c556aefb833783/554e5b1091ce4f95a204578bb2d29673.jpg?imwidth=300&filter=packshot",
+        "brand": "L'OCCITANE",
+        "name": "Zestaw do kąpieli",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/514159ad483442f2a47b4dcee86b325d/5a505b9069fc48c8acd9be0cf3c79f34.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "LAIT CORPOREL CHRISTMAS GIFTSET - Zestaw do pielęgnacji",
+        "price": "97,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1217b99f2a7542d39762773e0afc70be/38aae982084944d4982ee19dfa0a9d23.jpg?imwidth=300&filter=packshot",
+        "brand": "Biotherm",
+        "name": "EAU PURE GIFTSET - Zestaw do pielęgnacji",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/crt/creative-content/5987ad1c-ae87-4f34-8545-be12b7b2213f.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Aveda",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/904c7150db72492c98da7bd71ac2048b/41b73c1cd01e4133ba417c3a577b8fde.jpg?imwidth=300&filter=packshot",
+        "brand": "KÉRASTASE",
+        "name": "Zestaw do włosów",
+        "price": "254,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a07920c2e8f742bdab5e1b884a6e519b/22743951232c4758abb662fe16b78b59.jpg?imwidth=300&filter=packshot",
+        "brand": "Clinique",
+        "name": "Zestaw do pielęgnacji",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9332b051117f4e2e800203672fbe92e9/8b9af6f36ded407391f924d464706594.jpg?imwidth=300&filter=packshot",
+        "brand": "Garnier",
+        "name": "FACIAL CLEANSING SET - Zestaw do pielęgnacji",
+        "price": "71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/778f8a8060d74608b842688d2955e95c/55ed1bb16113486c81e0f0ec683c1e20.jpg?imwidth=300&filter=packshot",
+        "brand": "Nyx Professional Makeup",
+        "name": "Kalendarz adwentowy",
+        "price": "251,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dee969c600fc4737a32c33c29b7e640a/6ac04c84f81e48a0b7c722a9bf2d56dd.jpg?imwidth=300&filter=packshot",
+        "brand": "KORRES",
+        "name": "SANTORINI VINE 1+1 SHOWER GEL SET - Zestaw do kąpieli",
+        "price": "31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "beauty-kobiety",
+        "subcategory": "Zestawy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bbee10bbb37f47e598852ddb795f93a8/3c403a93e14b447abddc8beb033596c1.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Mini Macaron",
+        "name": "GEL MANICURE KIT PEARLESCENCE - Zestaw do pielęgnacji paznokci",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

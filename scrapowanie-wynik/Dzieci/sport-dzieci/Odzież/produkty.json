@@ -1,0 +1,750 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7c8439d6c16c4b8ba22e787e406db0bd/973b922b216d48d4a30c06d4af69dfc4.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "UNISEX - Kurtka puchowa",
+        "price": "1 052,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7dfa48519e7247869a0cacf289a1aec7/87120fc3eb36460dba0f0c4bff211945.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "Kurtka zimowa",
+        "price": "296,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3307054bf7df4e3b85d1e86652224947/646f8d7eaaf04c89996481bda0deb4c4.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Kurtka zimowa",
+        "price": "od 479,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e63b67e85b7f44d8a48514ed3172f5eb/8a5ec64acfd848b69d2555e54539f3f9.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "KID 1996 RETRO NUPTSE UNISEX - Kurtka puchowa",
+        "price": "764,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ade2f4b16b5c3beaac5207ba486ab5a7/8483833fed3641bd9ce121efcd9b6b41.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX - Legginsy",
+        "price": "99,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6216f57ec0e74b80ad70c8b31a407941/47dae266998f43beab9fc08507d9e17f.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Bluza",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5eea973ff7d440d384f6bc903d360d4c/efeedabaff4d4bffa88cdc8dcee832f7.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "POSH DOGS PRINT DRESSING GOWN - Szlafrok",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/902d3140c7de4758a8b5aa255605cda8/bbeac7e7b14441ff830a59f127645991.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/06aa3553d1e244d9a9163f5feb5a858e/2aa790a9c54d43838d0f3e9b1c84a6eb.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4352beffa0324d769097ce694bb866d7/b19b391a07904b4ba6cc62ebfb5ab03b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "114,29 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4b4dd75234e14ff8925b4c5ea4b10b4c/e2c85191aa1b4f99a03ac5d4746d0429.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/764cd648847444728c9fa86f03e46801/7c672027b2f24531b7fd7b2a1cc4ced8.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Śpioszki",
+        "price": "83,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/007e332ffe204296a640e38b6f469334/bc8c8f05452b4975aca8aeb38e4b22eb.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Szorty kąpielowe",
+        "price": "54,55 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/532482bae019435984e6e6297e81141a/9e0ef4df212d4f1ca9e9255e4f5966ab.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "132,17 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0e7a26f5d009445e8066edfb4f9f2c69/58cb075befac4deab083e6176eca2199.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a2960d20bac4701b668d4bf9420cecf/86d7f9efa2d143a69ce105a9621fa867.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "SET - Piżama",
+        "price": "110,87 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e672797ba06340f9a2237a9e0c18762f/6dc0edfc9e5c4dd59b27fce6dffc266b.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "USTAWIĆ DLA OBU PŁCI - Piżama",
+        "price": "103,48 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13c99f2c77674250a9622f93a077d199/3d63e4b71e53400c845ab67868fa8f29.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "118,26 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/81bdce780ff84915844d1f788aa25428/403f19d67f4b40e786ff4097255a9f78.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "146,09 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/734d7c1ae4904970b02898fec94e0f17/76488f0c667c43f49c514f32bf386312.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "187,83 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3ad33cda58324101b42aca25c8145e3a/e2f7da41b4b345c196f4b6eb69334132.jpg?imwidth=300&filter=packshot",
+        "brand": "Chelsea Peers",
+        "name": "Piżama",
+        "price": "164,35 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5eb709e03bc3431d999afb29322be746/d76bbbd70cca4f35b785e00da830bd2b.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "UNISEX - Kurtka puchowa",
+        "price": "980,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a1a76128e77a40269c11c76290f6b417/c25983ebd2c44512b1e1627c25d610bd.jpg?imwidth=300",
+        "brand": "Champion",
+        "name": "UNISEX - Spodnie treningowe",
+        "price": "125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f1d175ca1303482b9c54ef12a368769a/33222e1bf56e49f29efee9949c09c5c6.jpg?imwidth=300",
+        "brand": "Champion",
+        "name": "Kurtka zimowa",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b4f054b326942f397253cc87a153cb7/8b5b5f6a994e4a499ec94808c6c49b61.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "Dres",
+        "price": "103,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5a635c84206433d7a899d43e2408e685/2a54e9aa40ff42e1960150088c8fc99f.jpg?imwidth=300&filter=packshot",
+        "brand": "Lacoste",
+        "name": "UNISEX - Koszulka sportowa",
+        "price": "od 159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f478f1065f5d460691f04d9bef2c956d/1b9ef3b2c1974a378437e934bc525619.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "FUTURA UNISEX - T-shirt basic",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a53540d4501b4e71aeefa0b6be3d9d1d/bab03680ec64439994c4e40df924a235.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Bluza z kapturem",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/544cdb8dfb0b44d2a969b19a7050cf52/85c63f3fc7a2444ea4fa660e21350485.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JDN MJ ESSENTIALS UNISEX SET - Dres",
+        "price": "219,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/826cfa2afb0148669c4c8b7703580fdf/6081a2072f5f453d8874552003ee6479.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "SIMPLE DOME UNISEX  - T-shirt basic",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d64f8fe2b3343f8b06294ff283a55fb/060758d839ef4d49bc1f7f5e01d67026.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Bluza",
+        "price": "189,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f91b3a8c87e34ecf8c7f2c3ac707b62e/2b7d513fd9654fc9bbb510f947cc54d3.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Bluza",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a84f9fc4e96d48c687fd535b1f2eecbf/b5b2be9cabb9474daf15b2b9f2c1b636.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "PERRITO ED UNISEX - Kurtka zimowa",
+        "price": "349,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/96453397a0d14d2b8e81022fa1f237fe/13504de627ed4826aa920bc967131cee.jpg?imwidth=300&filter=packshot",
+        "brand": "Puma",
+        "name": "UNISEX  - Spodnie treningowe",
+        "price": "od 83,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d1bc48a79f3447d19b6ad8fea308d8ce/f4fc3198dde24c8680f0e433c9d8baba.jpg?imwidth=300",
+        "brand": "Nike Performance",
+        "name": "Legginsy",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9755400aff0a4f66b382f632ef4fa873/f17237860d284322acf3f90444f3002c.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Kurtka zimowa",
+        "price": "409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/de06c85fce374f1ba42c84030aed7b1e/f9b3f5d1e3c64ec2954d3f198215289f.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "Kurtka zimowa",
+        "price": "206,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/24a035146f61445bb1b13ca453921059/2c10167679124acc864246c531fc719d.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "UNISEX - Dres",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9c3bd12509f6458cb20e6980c1b2eeda/8a223d9de71845b0967d066cb40dddf3.jpg?imwidth=300&filter=packshot",
+        "brand": "Champion",
+        "name": "UNISEX - Bluza z kapturem",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bd68690b9561471aaab6dd2a584eea19/7628fcc7c6204793bf07b3d08fc5a60c.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JDB MJ DF CROSSOVER UNISEX - Bluza z kapturem",
+        "price": "219,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/dd14d2bac82c3e299ce3e62e10e34bda/5cf889a546dc4c3ca95b19967dc78e73.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Bluza z kapturem",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/08f0106dafc64fa98189570054d548de/3ca66c08f7964c109cd15f2ae9a7881d.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX  - Spodnie treningowe",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/707bbb6fe41e487babed0b04a8320308/52ecbd7e123d433b863f7c7179b758b1.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Bluza z kapturem",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "sport-dzieci",
+        "subcategory": "Odzież",
+        "image": "https://img01.ztat.net/article/spp-media-p1/783cd0198e5a34c2b2e4f19dea67ab99/bdd5e54f90804887b2f63bd6b54cbe15.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "Bluza z kapturem",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

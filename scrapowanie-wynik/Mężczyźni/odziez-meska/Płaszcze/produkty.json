@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b6ae22d0379a36c9993c22b81b4a1ee6/a83e74bc04e14aac9f860abadbb283a9.jpg?imwidth=300",
+        "brand": "Jack & Jones PREMIUM",
+        "name": "Klasyczny płaszcz",
+        "price": "569,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e3c7c5b511f440399ee55b21042457f5/08c39fb546d14c43afc40489fff3fd96.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "Klasyczny płaszcz",
+        "price": "399,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a4c331042c013ff192d8fdb6404cb999/089c59e5e5714c19b6a8c41831f85070.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Kurtka zimowa",
+        "price": "331,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13db400ee5f146d49a024ae3a1270ad3/aa7ec9223b2b4ba6aa059bbd7ebd0237.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Krótki płaszcz",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab08f9db99464562a7cc8caf55c81b0c/d36e6b0595bf46b3b67195de35d2ac2a.jpg?imwidth=300",
+        "brand": "LAURASØN",
+        "name": "UNISEX 3XFUNKTION PER - Kurtka przeciwdeszczowa",
+        "price": "223,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/outfit/09abadf6d5574b3ca1813a45e823f258/7b0bba52026542158e00400f41347ccc.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fd771bfd5eed439786a37abd76f2c6c9/5b57bd3fdafe42e58fc1151ac359504b.jpg?imwidth=300",
+        "brand": "Only & Sons",
+        "name": "Klasyczny płaszcz",
+        "price": "od 309,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5df42c3feb7d466e92ca5b9800ee9fcc/ab9b3c0614f04242aae97caacb28d673.jpg?imwidth=300",
+        "brand": "Marks & Spencer",
+        "name": "Klasyczny płaszcz",
+        "price": "150,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e7f3dfecbb09418cacb28d9a3a625bb2/2e8ac04c37fa4de4baac03fa14d8c661.jpg?imwidth=300",
+        "brand": "VISTULA",
+        "name": "Klasyczny płaszcz",
+        "price": "487,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/crt/creative-content/a38d1fde-7c8b-40a4-a21c-792432c1ebf4.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Tommy Hilfiger Zegarki",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d4d48e28831335c97096473840c57dd/b4b3b0a4ca0347ff877c35a17d756dfc.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Krótki płaszcz",
+        "price": "399,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b7d8ddabd0cc3a088896d7cb208b28da/c17ef252434c401c944422e1c1326e49.jpg?imwidth=300",
+        "brand": "Pier One",
+        "name": "Klasyczny płaszcz",
+        "price": "455,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/navigation-entrypoint/416d741c96cf3a80b5933db70b6837ea/0e4e5ccc3f314c2d9f55ad764503fd01.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/navigation-entrypoint/291d163d6607316a9513fbccf3b661f6/3cdb0c5dab9642faa72a9852db259066.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/navigation-entrypoint/72ce68d254cc3a6a9a981c7c5ebe92a8/4aba7c4ffa674365af93f37eb8f75c0f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/navigation-entrypoint/544c6fa611fb3a6cbda348c47a827432/f2cc4cb5e15841229584eeb214c2905a.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ee29e9d4d5f54ea9a219750eb641fbd7/d392030c7eca45d0aac20cece33c02cc.jpg?imwidth=300",
+        "brand": "Ombre",
+        "name": "Płaszcz zimowy",
+        "price": "184,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b8695578bc064a9583aa075f2651940c/2c3a36d4401443ae82576363036d1bee.jpg?imwidth=300",
+        "brand": "JACK1T",
+        "name": "Płaszcz puchowy",
+        "price": "1 575,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d7712e596fa746ca82b58b1bbd836302/cf1ddf4ba663452bbef11bef5f405893.jpg?imwidth=300&filter=packshot",
+        "brand": "Only & Sons",
+        "name": "Klasyczny płaszcz",
+        "price": "od 409,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c6b9e5eaee9e468da0594f5f4e6da8b8/fb7c6aa7645148e89350b7d1cf8a0200.jpg?imwidth=300",
+        "brand": "Dickies",
+        "name": "WALDENBURG - Płaszcz zimowy",
+        "price": "419,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ba296455c4f8433cae50dd7c78ee33c4/f9726e267cfe48c7b72328de483d6661.jpg?imwidth=300",
+        "brand": "Tommy Hilfiger",
+        "name": "NEW YORK MONOGRAM - Kurtka zimowa",
+        "price": "1 199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/62d8ba4c1fc84a36b038cb5bb7a4a350/946aadffba484ee4aaf4030091969316.jpg?imwidth=300",
+        "brand": "Only & Sons",
+        "name": "Klasyczny płaszcz",
+        "price": "od 279,95 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/947f1821234e4827b0b0c048b30b1ed4/f98887a5ee144c9fb5804e599d473635.jpg?imwidth=300",
+        "brand": "Urban Classics",
+        "name": "Klasyczny płaszcz",
+        "price": "od 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/df21f6fe97e437c19742e2cea5314310/c5a282efdb4a4eceb13934ccb0bf8b22.jpg?imwidth=300",
+        "brand": "Alpha Industries",
+        "name": "POLAR  - Kurtka zimowa",
+        "price": "od 1 079,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/outfit/3f9132a49a3044359fc893c6fcd3c488/8d35b7b0318b458f99e9061312ad1875.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ac809d761ee73c7f924ca6bccb4affa2/9e31ef77670f416387699a070e4e998c.jpg?imwidth=300",
+        "brand": "INDICODE JEANS",
+        "name": "Klasyczny płaszcz",
+        "price": "485,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/crt/creative-content/21b92661-4c78-4d13-8a69-3e23dbc674fd.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "Urban Classics",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5ba05690547c41afa76c7046e1ece9f0/edaa72ea83b34a3c9e25e40d6cc4d9cd.jpg?imwidth=300",
+        "brand": "Lancerto",
+        "name": "Parka",
+        "price": "699,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a09b671f8cc64fb998b4e47ab550253f/baea7d4623ed46c8af452d43189e70b7.jpg?imwidth=300",
+        "brand": "Jack & Jones PREMIUM",
+        "name": "Klasyczny płaszcz",
+        "price": "819,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "odziez-meska",
+        "subcategory": "Płaszcze",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f3bb361ef8974848904a36f98353a644/fd304a20555e49239e627ef4da397a53.jpg?imwidth=300&filter=packshot",
+        "brand": "Only & Sons",
+        "name": "Klasyczny płaszcz",
+        "price": "od 359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

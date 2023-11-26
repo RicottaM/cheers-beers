@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b7b5793c3974f2b902866e45420018b/13a13655084b43db9f902764a5fcbd3c.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka zimowa",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6b0ec14f4592462586607c4e51cc024b/8ff713b32cf447ccbd785aafaf659459.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Kurtka zimowa",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ba4a1deb6426495f9c9cbc125e664d46/758716120aa1497989c1cbee4e821f25.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kurtka zimowa",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3f23903724d64ff6b5300fe0a44feb94/204d8d5cf1694fe9a5e09d4e898f7459.jpg?imwidth=300",
+        "brand": "Mango",
+        "name": "ADRI - Kurtka ze skóry ekologicznej",
+        "price": "449,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/74c95d4beb634328ba62b19b773116d4/4255c8f498994f48bf1ee1bdbdf55dff.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/outfit/00e5bec29f7342b49e1fdb732e254ca9/8bfff1cadbe74f21b94595b1f122cf83.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/621d5d64e1ea49f2ab567bc67a5f2a2a/372c1116a00e41bcb2404efbe5c08312.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kurtka zimowa",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1f11782b57ac4d418e250272dc064b47/f3d5d93ea36a4e4a8e97dbb8656bd4fd.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Kurtka zimowa",
+        "price": "311,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/33ff1e9a8428469caa196983ed8aa54d/b63b1569561e4575bb2fffd85fef0142.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "NUPTSE - Kurtka puchowa",
+        "price": "1 389,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/crt/creative-content/dda5cb91-0ff9-4dba-8da7-e234d5304776.jpg?imwidth=300",
+        "brand": "Brak marki",
+        "name": "TOM TAILOR DENIM",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/39a308c4072744aba99ca849907ccca8/083f139493c843ce80e92be49b408909.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5bce5dd7a0f34dd49b46f309ad48d0d4/ce8c67c3c8104d9cb5a475fdb5d0c58c.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a0a8d205c07d382595b2d0e036447159/4bddd661bab047cf95347a4ac398b868.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/f7f0e0e982f53da8aa236f4527796fc0/a6702a43c772479691abb1ae6883a4c7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d08a36453cbf3fda996d4e3303cdeded/9b5e9958e40e4f4aba80367ce5a2ba59.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/d9f4536a0fd03b45a8ebb665d745adbd/64608675e9364d0282b02a3666bcbc2f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/1f336a77edea3b1c97a8c5598d6376ae/9fd8ccfe7470448ca9b5d7430887dcbf.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/cb26efd2e902344fbc2ab88b143c8c89/aeeb1656b9984fef8622c2f80cb746b4.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/47558ace30fb3439aefb7e1536b0fc5d/3bebaace1bdc4282802c87822b4c3cd7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/navigation-entrypoint/5a3250e8ed3239b783d6760b1118c798/b1b19a0564704f90ab3d5d4ef4711134.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1021e6233a3d497e8b0b29d611676030/e5301947c19b4eb08a1e3297ac10cede.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Kurtka zimowa",
+        "price": "od 427,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/30902523900b4e79b62948b25e836db0/292a9d49d46e43ae9f742f121928c481.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5f70c9b7783b458698bcb163105107a1/2c57d60d47e446dd9bff5a7b00ada3d2.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "HYALITE - Kurtka puchowa",
+        "price": "od 687,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3b7707bad9e54640b58615cad0f18bb0/2570815fbaa74ef1af39d3d659279086.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka zimowa",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9380fcb7edf14f62b0e11795a4e780c9/7a712de162d14c989fb848034f6a148c.jpg?imwidth=300",
+        "brand": "The North Face",
+        "name": "Kurtka zimowa",
+        "price": "od 899,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/18e4caf34f8f43279dac80d3f1aef4f9/e02891259aa54793888dfc386debf72c.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/24ee940003ed4b20894c6fbea6344413/2950423aad5646128a75168692453b70.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7666bc31cde147d4b270004cad6c318a/d1d1c86ebd764fa7b2cfe3185aea95c1.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka wiosenna",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/outfit/3f1aad4c11d94c098593da34429ed539/906ce78547b340aa8b0e9202b202342d.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e04cbfb3d3314733a5436530822d9ece/a418aecf56c34a95aa4f9d8c4e1cc418.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c8dd42d2458a4e6cbcc96b7ca438792f/5a0c1ac118a54105a69157b080fdbd20.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5171e66efbce4e3e956c7b383626155e/4aa58d6efe8c432c836681670378e025.jpg?imwidth=300",
+        "brand": "Urban Classics",
+        "name": "Kurtka Outdoor",
+        "price": "169,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/17a514a123db4e14a822ea50bbc2e349/5447e51391d543408a84a7239ae1e0cd.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Kurtka ze skóry ekologicznej",
+        "price": "249,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Kurtki i marynarki",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fd8416a0dbae4442be252c1974f527e6/c6705381a22c4a6f98dd7b10a95dd573.jpg?imwidth=300",
+        "brand": "Ellesse",
+        "name": "PARUM T - Kurtka przejściowa",
+        "price": "369,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

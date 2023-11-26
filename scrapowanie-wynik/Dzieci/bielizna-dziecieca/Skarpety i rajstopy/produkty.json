@@ -1,0 +1,546 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/075696fdc1a1333fb7a7e949d6182f5c/e5db9dcb25f24c81bdd2054658470ada.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 34,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/862838927de83c869cd7ab95ebc75b57/790c5803883540a98ffa7a17c2e866c5.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Skarpety",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/319e6913e7724f3b93a646184468f6c8/1a78e68610a24db18a079f4c424671e8.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "SET UNISEX - Sweter",
+        "price": "od 88,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/35bf39f49d1b4c80a94f2de519f182d2/a5f39bb3f5b64748a072e6fdedb25dc5.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "CAMBRIDGE UNISEX 3 - Skarpety",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b5d352d66f024fefb4cb4cfb233ce20b/1bdb4b69d32f442fb595cdd2d25cd0e2.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "7 UNICORN - Skarpety",
+        "price": "od 55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b2016491b7e44ebeb70137989b25b11e/c20e23ad92f047e8bc4a7e76d2fdbc8b.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 69,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ecaa8e1f18c63281ba383e15629ab7d1/9720ee3c7d0843369ef7b2e715bfffaa.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 27,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d1a624644fdb47cf8a29f1dc06b27a80/24243cf959cc486d89cb7e7ed34af669.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "82,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1ad87d63ea1347648bfba954aca90098/731a5f110e07497c9697c4a5eff7ef80.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 34,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c65643c21eac398aa99d7f07c5333312/5f39de93b36d46a48396582b4ed4a4ba.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 34,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2d3583a65a3b4d528fc67049ed582962/54d8a7b8d71641e8823556e07560302e.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 110,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d8438a7402a93be590b67ecf7b3e6f49/3bb4b949456f4465b2c8a4f91d51c210.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Skarpety",
+        "price": "74,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9a41f67831f6368d95e4d0b3ae5e5df7/0cb82d8f460f4106bee0c0a93b0a41eb.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e64069aca64239eca08f506ca8eee949/c6cef418a75f49fb8e6e02d2af6843d4.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/aeb04a0240a6333d9bf8170b636b4029/a014d40275d746c8b8bd0e458f4dd2b9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/b7c916a2355436eabb39060d297d16a4/bd3250611fd94323b356623c8db91296.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7ae549928f6f35d1af55961aa8ef241f/d3b1007fd2d54cd9ba733f75967308f7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/59d1b54061453bc4a8296d3ec8bf29d1/97118e00dcd349fab1a27639c6f89aec.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ddaa4557ffcd4a9782d462976420bfc1/f225432f3168464cb9f82d3675e2a12b.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX  - Skarpety",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b24f8d1d52a94fce943439415c525a98/2277b0571ff0471893b86a511fa0ad23.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "NUTCRACKER UNISEX 3 - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/38fe955d865344b4a78914193dd82ecb/7c8f4a331a304b68be50bed9720c1bf5.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 31,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b842287e460e4d39aee36c047830c6eb/05a9ccc7646b4b1c8ce4f759f9f61a6b.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Skarpety",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/db12b9c7839e4762b79c7afbd61659aa/c736e21bcb5f4470bb220b3deab94167.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "UNICORN - Rajstopy",
+        "price": "od 34,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8cea0e44a30945c8995084281e9b98f0/94e976136d8942bf9588f4061b86424d.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "CAMBRIDGE UNISEX 3 - Skarpety",
+        "price": "55,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e043697358b74e95864710a986feca8c/02c5eeaf47b243739d1b57f6e4100dda.jpg?imwidth=300&filter=packshot",
+        "brand": "Friboo",
+        "name": "Legginsy",
+        "price": "148,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6307a12e5a9d48148f9d9933596678c1/7315cb8e277f486eba3ad3d9613f7c53.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Skarpety",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2449481496004b038a79d707befe5c77/f5cf22539ced4de4a2e20e1ff2d09220.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "UNISEX - Skarpety",
+        "price": "42,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/524585baf4264494b7ad85a57969b20a/8b1dfd9f3dda43afa5452fa96eb11c7f.jpg?imwidth=300&filter=packshot",
+        "brand": "Vans",
+        "name": "TRIO PACK - Skarpety",
+        "price": "79,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab18178450c447128500da21d74b9504/ce42ba5ea28e4ea49cc81fc878c8db59.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "NUTCRACKE UNISEX 3 - Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7eb8f4505b1d4631af325232d8d57474/0fca581d4b944d08b1c0744493b43b66.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "UNISEX - Skarpety",
+        "price": "48,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a22bb18c564a3ae6af37cdab6de4933c/2abda89ec64c49f1ae25615dfe9c991f.jpg?imwidth=300&filter=packshot",
+        "brand": "Fila",
+        "name": "Skarpety",
+        "price": "64,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "bielizna-dziecieca",
+        "subcategory": "Skarpety i rajstopy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/443924596c8e4c1bac05c2aec1100d01/8812929a4e3b4d4890831b7bdd386db6.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Rajstopy",
+        "price": "od 125,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

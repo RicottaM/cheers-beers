@@ -1,0 +1,495 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f657729eb724499bbe7811589cbc9c22/1f628d98d2d945de904e05eb556c262e.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Nakrycie głowy",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fe24a56220384b75972ec1d0b45d9bb0/f6a7c76650d8430cbf9a01397f180438.jpg?imwidth=300&filter=packshot",
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155,96 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/583a3874500d4cbfa27ef3cc68d71fcc/4c2fa1e03b1c4c28a8da0620fac3f869.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "2 PACK - Akcesoria do stylizacji włosów",
+        "price": "59,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/346bfa58d3384ff7b16ea11ad8d90770/3db5ee3b663a4f41a042d78741fa74b0.jpg?imwidth=300&filter=packshot",
+        "brand": "Liu Jo Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "189,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c3002f73cae54af6bffd38b4654a0e1c/4bc0a62a4cc94c589e7906fd538f73a6.jpg?imwidth=300&filter=packshot",
+        "brand": "CeLaVi",
+        "name": "BALACLAVA - Nakrycie głowy",
+        "price": "100,94 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4864eac0399d4dd78eb19677d7ca0812/0230b32aa0e849a1849365cbb1223957.jpg?imwidth=300&filter=packshot",
+        "brand": "Il Gufo",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "185,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e478c18b741d4f54a6989e48912d58db/a114a21c652a488291269b9bcc820a30.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "41,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c926a5704d3b49ed8f6f45780ab4ab72/8da433bc67d24b229283efd40d366b3a.jpg?imwidth=300&filter=packshot",
+        "brand": "Name it",
+        "name": "Nakrycie głowy",
+        "price": "149,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/48b8e5b20a574776882ef0470caa874f/389a72c0a77a457c9484ab852ab2a046.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "3 PACK - Akcesoria do stylizacji włosów",
+        "price": "95,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c6f99b7012784d4db1084dfcb514189b/e5c6694cf60d4f6face0be1c450a2833.jpg?imwidth=300&filter=packshot",
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155,96 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a9254e72705840969b8865c3dce160b0/72c00b7916464f6f84cb8883ea9ee762.jpg?imwidth=300&filter=packshot",
+        "brand": "Name it",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "74,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6c0c99b67d4a41a082428fda56377988/c5ee9324c63744f4833fe06ca8fccfb4.jpg?imwidth=300&filter=packshot",
+        "brand": "Versace",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "429,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/bd44ca115f624edb933f11e98372ea64/85a594f7e1804792add74331d6fe8d47.jpg?imwidth=300&filter=packshot",
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "38,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6b161370b5674394975ac1431803389e/01e44be4b0454432ab173d35d890b508.jpg?imwidth=300&filter=packshot",
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155,96 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a80f3ad7ae1c4961b3aced1d6f418d46/fa7459fb04fd461eb6b32c80f0810a49.jpg?imwidth=300&filter=packshot",
+        "brand": "Mango Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "99,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8133c5b4fade417c9a9156a9c556556d/8d8647ba98cc4d338774227c25c3eead.jpg?imwidth=300&filter=packshot",
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155,96 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/87bf8ccf26b540aab140296188f6776f/dcb317f837cf41deb2b7ea372031a152.jpg?imwidth=300&filter=packshot",
+        "brand": "Name it",
+        "name": "SCHLUPF - Nakrycie głowy",
+        "price": "124,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fc5dcec8139340fea1e0c1706f22a2c5/69dcbca9aa0844dca77005587e22fa98.jpg?imwidth=300&filter=packshot",
+        "brand": "JoJo Maman Bébé",
+        "name": "Nakrycie głowy",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0378a567e0784ed4966dbed317ae7c60/0e477c86e53c404aa5832b3c7d168b32.jpg?imwidth=300&filter=packshot",
+        "brand": "Emilio Pucci",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d39fbb545b4d4c0bbe43ad8aa17c9b67/4b79ad5df9c8494aad4fa903a095843f.jpg?imwidth=300&filter=packshot",
+        "brand": "Hummel",
+        "name": "HYGGE  UNISEX - Nakrycie głowy",
+        "price": "103,20 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f2f5813d61fa4f3b8913982f4a1d320e/f9f34e5a46024151ba3239a68b58fa47.jpg?imwidth=300&filter=packshot",
+        "brand": "Versace",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "619,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/06c4dde8227b4fcbb6c0f7dc2a1fd527/cc229e754dad45ac87f9595df5e79ac8.jpg?imwidth=300&filter=packshot",
+        "brand": "Liu Jo Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aa7252edc6c64aeaa1f55eb22c869f08/f2454ac9239a41a4b213eea6c97c66e0.jpg?imwidth=300&filter=packshot",
+        "brand": "Le Brate",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "219,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e3633c82db6456e8ab19e13e779923b/3d3c0125a6904f4f8696320c1ee2b87b.jpg?imwidth=300&filter=packshot",
+        "brand": "Name it",
+        "name": "SCHLUPF - Nakrycie głowy",
+        "price": "124,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f28460b83af64aab9a06c6896c912b99/9a4925eca4be40979cc5134536d9f600.jpg?imwidth=300&filter=packshot",
+        "brand": "JoJo Maman Bébé",
+        "name": "Nakrycie głowy",
+        "price": "89,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/403743f065fd4f8cb868ac56d0a248d4/be76c5eb84394b38b5c367c8678ae723.jpg?imwidth=300&filter=packshot",
+        "brand": "Liu Jo Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "189,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9cae75976051429489eb5b0828404c14/490eadf9c8884b28aab0ae8c0edc0804.jpg?imwidth=300&filter=packshot",
+        "brand": "Name it",
+        "name": "Nakrycie głowy",
+        "price": "149,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6a3c31eabdcd41d3bcde0ed298f5ab67/6fb032973a6d46739685a81f5b5eafc2.jpg?imwidth=300&filter=packshot",
+        "brand": "iltom",
+        "name": "Czapka",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Dzieci",
+        "category": "dzieci-akcesoria",
+        "subcategory": "Akcesoria do włosów",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8e29a991a4a54e36a3a233dfb911c2d8/6032ad577b634f96bc6594903922a7b8.jpg?imwidth=300&filter=packshot",
+        "brand": "iltom",
+        "name": "Czapka",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

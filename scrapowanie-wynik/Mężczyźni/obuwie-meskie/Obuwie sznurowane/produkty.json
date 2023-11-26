@@ -1,0 +1,529 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d133286e3a5633899030e0464126f4ea/2daabfea2fc54e2cadbf784ab6830631.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "188,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/277dfaa9cb07432fa81cc3569980a1eb/b2eafd5ad8a34c96a66f1bba30e43bf6.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2fb79cd5d8d8459ba6f4f4023986144c/b0adf3431c0540e9bd339ada570329d9.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Martens",
+        "name": "BEX UNISEX - Oksfordki",
+        "price": "524,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/335aaa109ae84b68af301155290b0f95/92a098a846034851aa827e0c0ba212a5.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Martens",
+        "name": "UNISEX  - Oksfordki",
+        "price": "608,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8492fb4c0dee4531ae38d0863c0e287a/d6b6c6b8366d40e68c842ff85f436995.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Sznurowane obuwie sportowe",
+        "price": "120,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/outfit/356a53f34c2241518b3914ca68b446e3/8c83b2d931d5497b811eae616c81fd4a.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e98db3f234a45fca0b64d7add8bb5b6/f4aa347088264e3aa50da07a9d92df50.jpg?imwidth=300",
+        "brand": "Dr. Martens",
+        "name": "UNISEX - Oksfordki",
+        "price": "od 719,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/16a2be756d5d31c592b9d249dfaf1b28/0cff0a8f9f584666a1d9bad27d801cd3.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/65b844a5bf6240fc9e9df8ca278be9b6/02c8e44ed8f642bc958a6c94f7de50d6.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c4242ea61ea6472d9a266781667788ec/73ba87e69d644b0d8ad57c4c98517478.jpg?imwidth=300",
+        "brand": "Dr. Martens",
+        "name": "BEX UNISEX - Sznurowane obuwie sportowe",
+        "price": "769,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fe37f1ab18623d33869b4fa624166099/b3496ea01ea744cd84e7825bae3e82ac.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a2ea06fa6dbd3a9fb10a697d3ea11c27/16a54f89a5814265a0761329008d8bbb.jpg?imwidth=300&filter=packshot",
+        "brand": "bugatti",
+        "name": "Sznurowane obuwie sportowe",
+        "price": "207,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/navigation-entrypoint/26929d5ee816391c81403dc201d39f0b/a0d0d67d6d2343d7b36979d64f6576b0.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/navigation-entrypoint/c44fcd219cd535c9848c8a18f6b468a6/9f8db1d8c9ee416f84e151b746d10016.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/navigation-entrypoint/e7b1413ea56c387a9f01400d852465b6/c1cbec6a2f224e1184add1664ea8865f.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0874ea1200e63ce89ca1d749c5cc8d59/6f4cc37df36d49dd80dfdbbe1ff013f6.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/navigation-entrypoint/49ce4394ea5236ec86d76003caf8cd08/69bf1c5df538435386d9733c58852622.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6bdc6c8933124806bdbce2b86f56886b/78627aab374546eba9fa817dc9866406.jpg?imwidth=300&filter=packshot",
+        "brand": "Walk London",
+        "name": "Oksfordki",
+        "price": "329,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/58b01290a9be4efab8bf97eb9e36e3a8/8ffa922fe6344ea0a07cd3b64fe9d226.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Martens",
+        "name": "Oksfordki",
+        "price": "od 474,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a843b0a1bb9445a7bf63d2319d61af16/2f1f95a5d0204b3a80ab7b820ca661d0.jpg?imwidth=300&filter=packshot",
+        "brand": "Dr. Martens",
+        "name": "Oksfordki",
+        "price": "od 559,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/83c82683e5d7467ba9135eb3316f5004/9900b17a39224bcb98491e8f3205287d.jpg?imwidth=300&filter=packshot",
+        "brand": "Walk London",
+        "name": "Oksfordki",
+        "price": "331,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/09593a23caab3ce0a5f82994d23ef528/002f0526220d4622b3700c3b0a35618d.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Oksfordki",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb2a06030f8542ecaaac54db8b2a149e/bb9b044281964342aed8a596a9ceace4.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Hilfiger",
+        "name": "CORE SHOE - Oksfordki",
+        "price": "599,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9675982801bf4cdd9569954fa685d126/aabb1e4b11674af0a2d64be67f0feba6.jpg?imwidth=300&filter=packshot",
+        "brand": "PULL&BEAR",
+        "name": "Oksfordki",
+        "price": "179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b06d6647f3e14ec7b7b6c1e2b2541119/54df52127f5c4b66a61a049dcf99c39b.jpg?imwidth=300&filter=packshot",
+        "brand": "Walk London",
+        "name": "Oksfordki",
+        "price": "344,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/outfit/2ae0f7474abf497282de64274d7ab279/739b08c4fbbd44b5be69802e7ddc31ec.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8efeb57cf73241ad8a6b8c48f4e2587c/3915a4c519894dfc995f73a0fdb3406e.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "UNISEX - Oksfordki",
+        "price": "199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2622891465304821aba39b3e0cdf7704/d627f884f5d24a02b07c771c676c2d4e.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Oksfordki",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1dbce81bdaae40bfa23a07801f7a5d4f/83e954fd3ae441e1af1fc08fbf68858d.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Eleganckie buty",
+        "price": "135,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ffec0832254040dcb10cadeb97c56eb3/e1f78c862b00447c88e3dd00cabdcbfe.jpg?imwidth=300&filter=packshot",
+        "brand": "Pier One",
+        "name": "Eleganckie buty",
+        "price": "90,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "obuwie-meskie",
+        "subcategory": "Obuwie sznurowane",
+        "image": "https://img01.ztat.net/article/spp-media-p1/03f28e9cac014d64a475710fa497a8c1/8cf6392495654e95a5dc16cc3b6c47ec.jpg?imwidth=300&filter=packshot",
+        "brand": "Zign",
+        "name": "Sznurowane obuwie sportowe",
+        "price": "195,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6574f20b59dc4f6393ed36fff8a46a80/f52f9d1711d94b2584bad0eea8649b11.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE UNISEX - Klapki",
+        "price": "od 168,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7019ef1709f141378e6afe2bddea2e85/bbbdfa83d743471690c2ac794d6472c4.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Klapki",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d21961c4d88547b7a5432e9bfe8a9ae3/9490958d3a484d51968aae512518f33b.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Klapki",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9e4b52a5610640028692a680dde98fb9/d0976013f19048e497208bfd2d2164f8.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE 22 W - Klapki",
+        "price": "259,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/58758765fd3544b6b46d937c2e8c5f53/7a70c0380fbb458b90d1da54109d0ee8.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Sportswear",
+        "name": "Sandały kąpielowe",
+        "price": "od 149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/outfit/517b64dc965943a399378712a40f766e/9b2171813741497f9612544444c40bf6.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fe1b45790dcb414aa42346d0d427c3c7/87851834f7ec411c999a3bbf1d9b0604.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Klapki",
+        "price": "269,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/034f522f97ff413195255ea063fa2b3b/b9abc447b07d498eaf4c5669a3eb3e9b.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "CLASSIC ALL TERRAIN UNISEX - Klapki",
+        "price": "od 188,97 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/45bee7c5b327495d9bf9f97f14590e2c/a7c4af7cfc8e461789fef496434852c4.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE UNISEX - Klapki",
+        "price": "142,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b7c3e9422fec47428e2958bac513bb7b/0ebffa10078749e9ae1a0e4d486e2d8d.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE 22 W - Klapki",
+        "price": "155,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a0946a56cd0841779ba56d2eb6182798/751e696925f447f99de2580f5fe292e7.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "Sandały kąpielowe",
+        "price": "od 121,47 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f5b4de3189bf4767bddbfdd75d779e62/35d0e40a3ff34c21915f814dd9e44230.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE AYOON - Sandały kąpielowe",
+        "price": "od 179,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6c612675521e46f7a68b215137e73849/7b3f073f52344c03ac0f2a9c764b4e71.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2a1572e2c1d5415b9c8768aa4938935a/48c5ec180d9b4eef96970d7058302ceb.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "od 89,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b65067e0f82c4224a8d2f4cc86041bdd/31cf77dce78d46f9a753cb018ac5910f.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "od 119,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0ee7828d6ffe4d58981807bda8479010/68deecbffe874f4dbf26d77d8bb7263f.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "od 111,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/266d0b984fa94657ac7dba2f2a5f5eef/2f2de5b359464ed3a132143a48797f60.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "149,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e5867e66aa924b6480dcad54dd6a7395/1a3a0a2be0314e19ba2a663b30bac1a5.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "119,99 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/51544d3523564e0e83e20bab171f482f/312ab9c2636949b792df1ed5fc28cae1.jpg?imwidth=300&filter=packshot",
+        "brand": "Havaianas",
+        "name": "Japonki kąpielowe",
+        "price": "119,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "Brak zdjęcia",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ab553d190d2a461a960333d68831ed77/c6cc9920adf74cd5bf604844a0b4a3da.png?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "ADILETTE UNISEX - Sandały kąpielowe",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c6a5960ca3a03c318a49523207bd8359/b08f420a21e746a98a447c07acfafd4b.jpg?imwidth=300&filter=packshot",
+        "brand": "Birkenstock",
+        "name": "ARIZONA - Klapki",
+        "price": "229,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e11e0449417236dda1df90b54f692c07/7a0b7297a8454b2aa35b2bd0d48e943d.jpg?imwidth=300&filter=packshot",
+        "brand": "Birkenstock",
+        "name": "Klapki",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b7cad52dedc44f51aa9edc64b32a5868/d822724a30fd4b9a90fcc00453749397.jpg?imwidth=300&filter=packshot",
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX   - Klapki",
+        "price": "203,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/93aff1452f1745fd9ec1c28cc156f2f6/f65ae3589dda42de8dd45d020f497a68.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Jeans",
+        "name": "Klapki",
+        "price": "od 199,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/433d0a8b362142768a379b988977db0a/e5b13904fb2e47b39a252dbec5576eb9.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Sportswear",
+        "name": "Klapki",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/48ba5402e2ef4fc9913a07e4b825d77f/a66b29cecae8488fae0bdc53ae83fd58.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE 22 W - Klapki",
+        "price": "155,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/42590ff26e16491f9a629c58126c408f/d7850276f07441f48ae744e8ec59a774.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "Klapki",
+        "price": "65,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/outfit/63b4107f65444809984f8bdb797399c9/7e602cfe091640c4b74dd0608dafc63a.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a0ece62f7aad4f60bcdb066c7a475e59/bb504841ceda4c12b08717b97329e95f.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "Klapki",
+        "price": "od 71,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/47e06813ca574a9883ed830c3d969bb8/4c0bdff7abba462784b569324cd262bf.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "ECHO UNISEX - Klapki",
+        "price": "339,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e0a8da8807c04889971e7d88aa9b9482/0dbb548212ac41fd9e8721d6661f8bf9.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "ADILETTE UNISEX - Klapki",
+        "price": "168,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8768a9d25c4f47b3a01b5ae8609247f0/129fbd5263674c08ac51c14955819532.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Originals",
+        "name": "Klapki",
+        "price": "od 168,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "obuwie-damskie",
+        "subcategory": "Obuwie kąpielowe",
+        "image": "https://img01.ztat.net/article/spp-media-p1/abd7cbadbe534630959acfe53be3667b/cfcbb6e83c8541b9a804d38de69cd91f.jpg?imwidth=300&filter=packshot",
+        "brand": "Crocs",
+        "name": "ECHO UNISEX - Klapki",
+        "price": "279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c52d46cff4954bb8913a14cd50a144c4/05568791a2d54c40be3ccd4452aed9c8.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "ONE TAKE  - Obuwie do koszykówki",
+        "price": "469,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3d9eb71a6aab4d52a8e12a82d47fb7d9/3af6117b7ec84772b44ed9853367fed4.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "412,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0bfd929249aa4ebfa39adebc8e61f1fb/6b94bab9674f4e12af0ff007c737b945.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "357,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/37ef5a25226f4ea9ac9c8ca75787103d/17dcf01224c04f6aa097ce534077b868.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "AIR MAX ALPHA TRAINER 5 - Obuwie treningowe",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3eba47cc6c1b4b3894f4d0eed3c3fead/15f585b9d893421e82cb546e86acf6f2.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "Obuwie treningowe",
+        "price": "od 449,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c39d49f801bf40be9def9be3cce97fe5/029517ec35214bc4941a4b3c4cc0d850.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX  - Obuwie treningowe",
+        "price": "od 231,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/20597c205a1645e39b2654bccde6bda2/bb8276035b26406aabe982acb7736b39.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN MAX AURA 5 UNISEX - Obuwie do koszykówki",
+        "price": "od 379,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/0ac3b7253f793a5e9d102c3af38d5ba9/8a28b3181c35414c87faac791cb35c38.jpg?imwidth=300&filter=packshot",
+        "brand": "Kappa",
+        "name": "Obuwie hikingowe",
+        "price": "od 175,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f393e021d4524d1bb8d3ed964f8f2264/43ef8a9fe4e64586a4cb966a23ca09a0.jpg?imwidth=300&filter=packshot",
+        "brand": "Columbia",
+        "name": "TRAILSTORM ASCEND - Obuwie hikingowe",
+        "price": "272,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8191c7f8323c438192323383dd08d88b/14cd268a5d2743a297d17f75268864d0.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "AIR MAX ALPHA TRAINER 5 - Obuwie treningowe",
+        "price": "399,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/970568c9f7fb44dd918b848871c567df/0aa20852afa84580bbeb89face9fd677.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "343,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/53888e5ac35347569ca216fe21678a44/c370df084cbf449f9f67c0bc715ad341.jpg?imwidth=300&filter=packshot",
+        "brand": "The North Face",
+        "name": "Obuwie hikingowe",
+        "price": "319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/7d910505550132f3b43d6911bb7190fa/bab0d293049e445ca22fef39b505b6d4.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/ded8893ad8183414ba82c857b7e0483a/a262f3dc7418435285f03a4f2a1cb282.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/72651e239e9e3d9aba9c1a00cf224293/b89addfd63604b09b4ce0dc5904988f2.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/15c5e39b52633e17850b1e7bc8d83474/1007cd5680734ebda7b4abd1a04fcb5b.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/873057d2ab1d32f9b8d77108b395f833/1e404d3abaf749c89c4b6d55e8f81fb7.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/9a508b90c9733eb4b14a1d72e1b7f555/8da4115dfbc746f38d21d2b8238918d5.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/1de08039f9df310e9062434c7471096a/4259fe61c0f6479a8ff0dd2d79a4f0a5.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/navigation-entrypoint/5f5e44d1208d3a5a8e2be070e13b109a/88c3ef7098a64366b31e339763eca0d6.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/84e34a75ef3b40a9b3aee4fe8961a936/9d39f7dbc75149588743d5f6e185792d.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "335,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9055f765445d460788587f0b16fe8679/d04f030b03264fd2a599eeefd3aacf92.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "UNISEX  - Obuwie treningowe",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/03bb17bba71c404cbf5a7669268ea6f4/66bbf3adafc44ee0b5cd75de5a8cc4e9.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c653bf82643b4dfc9d2384e500fbd6cf/6c2da9fd66574586a64962f82ceb7270.jpg?imwidth=300&filter=packshot",
+        "brand": "Columbia",
+        "name": "TRAILSTORM ASCEND MID WP - Obuwie hikingowe",
+        "price": "od 293,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f7ebc50730464d9186d8f2bb8575531c/a0ca2b0dfc8e4890a800a45bdade6987.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "Halówki",
+        "price": "499,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/a00cd3db2584475f9792af51b69a22b8/dc89a621d2094850b5d8a22ef57b3b2c.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f69e7ed5cbbb4341b597cdee1e44171c/286d902ce91345f0824cfaf2f3e19933.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "384,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c698db91361141da943dd64910973c20/d08de00983db42238f1e6db7106f8f16.jpg?imwidth=300&filter=packshot",
+        "brand": "New Balance",
+        "name": "480L UNISEX - Obuwie do biegania Turystyka",
+        "price": "299,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c85035e5f472499794958362af3df5a9/cca9743ecfea42848e250bee1aeb4d6f.jpg?imwidth=300&filter=packshot",
+        "brand": "adidas Performance",
+        "name": "TERREX SWIFT SOLO 2 UNISEX - Obuwie hikingowe",
+        "price": "od 245,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fa51f232b3b24daf97eee5a60a4702e1/88b96221e24344e79e4d3a7f79cf81cf.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "MERCURIAL 9 CLUB MG - Korki Lanki",
+        "price": "329,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9665fb3099de4d50a642e06890b1ec44/45aa7792b4d244ef95ed3e39d67a45d6.jpg?imwidth=300&filter=packshot",
+        "brand": "Jordan",
+        "name": "JORDAN LUKA 2 - Obuwie do koszykówki",
+        "price": "od 431,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8c7e68652e2b48799289e26bfcba73a8/aaa893f2ce114e82a8b7f07bf43ed7ce.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "LEGEND 10 CLUB MG - Korki Lanki",
+        "price": "od 224,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/aaa01a0850a343ab8178f6229305aeb9/859a971d1fdc47f197e83fb3bc9e4e68.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "GIANNIS IMMORTALITY 3  - Obuwie do koszykówki",
+        "price": "od 359,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "sport-mezczyzni",
+        "subcategory": "Obuwie",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1b7483106a5442ac858e902b0ae90a42/bdf785b1cf6a4553b6f71ff2e8026ca4.jpg?imwidth=300&filter=packshot",
+        "brand": "Nike Performance",
+        "name": "ZOOM MERCURIAL 9 ACADEMY SG-PRO ANTI-CLOG TRACTION - Korki wkręty",
+        "price": "469,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]

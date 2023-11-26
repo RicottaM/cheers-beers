@@ -1,0 +1,512 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d9a215df081444f5a9f5992f64b5b938/c716cc75633f431c844fa81a7b8d8579.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Bluza",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5b8006e0e05a4b36814009ea6059ab8a/92482deabe14429ba9235d244f50158e.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "ROUND - Bluza",
+        "price": "79,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5c384c8d4c17496487ebe67c81ffeaef/95f55d6764eb46fb842bc97625be1b20.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Bluza",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6ff6019ad0244055b91e1b6c4bac331b/628069a4bd21417a96cdc43a374e4ffd.jpg?imwidth=300",
+        "brand": "Urban Classics",
+        "name": "Bluza",
+        "price": "od 161,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2a50408b67eb4a6ea5c550e2fe11ce14/c8461f28f4d94cd79db11afc54dc0696.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Bluza rozpinana",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/outfit/3ac71279c64b485c82482e2bc8399ac6/3663e1c2f2da47cd9c8a12c22899ed4c.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3b2a15844fb235159e820fe6989599fa/9756ca5bca0148c5865c4762d407870e.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Bluza z polaru",
+        "price": "118,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/97c797b7fd9b41c4acef6104aac3263b/ad1b0b2193714f168f27acb57762f5c9.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Bluza",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d23c109145bc4d549c6982c166c81d4a/0111f8c3513a42f9be75205346039af4.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Bluza",
+        "price": "319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/96ad6b19042d42f9ac74863f2d9395b3/4387c2d2fca74f22bbc273d4e59f07e8.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Bluza",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d0fc1aa68df4dff81387fbcf9bfc32a/d9ce00f177d148dcb241493192733f3b.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "BASIC COLOURED - Bluza",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/39df44b1fdf74e3586feac3d40ba5dbc/2ff346ddbebc4df6a02984b0f30165b7.jpg?imwidth=300",
+        "brand": "Stradivarius",
+        "name": "Bluza",
+        "price": "109,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/896c05d89afc35478e7012d5138f4bc0/4ddb20da1cad49168c7d3f5a8efdf5d9.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/a1142ab0061132a0b33dbaff06276db4/844e9784fef440589d63f895020877e2.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/0f7a762ae3c53e0a87c4edfa4256f904/0c57214c8a6347a7a6849f5272223fe5.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/navigation-entrypoint/6b8c764adaab33429c43523656fdda95/d9aeafb775ac4943a009cb06b2fb2668.jpg?imwidth=215",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/30babc85d21640a9a05dc4d1a04853f5/c5fd22f3bcd84bccb507862236e85577.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "BASIC COLOURED - Bluza",
+        "price": "99,90 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/6b6ef3ff7815455baecf7c71da51338b/bdd3d759da1a4fedb16c99fc5b5da71a.jpg?imwidth=300&filter=packshot",
+        "brand": "Next",
+        "name": "Bluza z polaru",
+        "price": "156,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d9c33860e78c4e7980f5097dfee4de4b/11d20b4d6afe4f5e9f378c70907a6af9.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Bluza z kapturem",
+        "price": "od 319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/843bb30784ba43d088cba20f91019a87/21bc3dab88144234aa337245024c12f0.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Bluza rozpinana",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f4c9e6ba595d4a6bac1f2d7858e8eb39/7c3354a99e5f4ec0a911a24b47a1ed4e.jpg?imwidth=300&filter=packshot",
+        "brand": "Tommy Jeans",
+        "name": "Kurtka z polaru",
+        "price": "509,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/d076fcb887a5482288c282dfd9c2b789/8607bc836e2a43bf80f42a79dd9f7bc7.jpg?imwidth=300",
+        "brand": "Nike Sportswear",
+        "name": "Bluza z kapturem",
+        "price": "od 279,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/caf439c0a69347bbb17905556b4cba79/ead2782134484c6a9fd8cae6a162c1b2.jpg?imwidth=300",
+        "brand": "Bershka",
+        "name": "Bluza",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c869d8702033456daad3ff40e91294f6/312099f18149454a954c1b8dc09b80e8.jpg?imwidth=300",
+        "brand": "GAP",
+        "name": "Bluza z kapturem",
+        "price": "209,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/outfit/a7c26fcb31e1483d82d334144da559c5/28a9a0a7c03543769b9747f2d57090bc.jpg?imwidth=600",
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "Brak ceny",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f2a83bd1fa4c3170a49c6aac6d039939/3b94223757244a8183887f61c3e1f8bf.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Bluza",
+        "price": "159,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5c21a3f58fc9459784fbc992de172610/90d00046696442249e8aabd6b720781d.jpg?imwidth=300",
+        "brand": "PULL&BEAR",
+        "name": "Bluza",
+        "price": "129,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/f8870faf606b4cd988e569d275b7b1c4/00abb3c03ab04079991dcf156c77f3db.jpg?imwidth=300",
+        "brand": "Tommy Jeans",
+        "name": "Bluza",
+        "price": "307,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2ab182f6e9c64e59aaf5610f978ea79f/f0d61bc12f414402b6c2c4fb331a0082.jpg?imwidth=300&filter=packshot",
+        "brand": "YOURTURN",
+        "name": "Bluza",
+        "price": "139,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    },
+    {
+        "department": "Kobiety",
+        "category": "odziez-damska",
+        "subcategory": "Bluzy",
+        "image": "https://img01.ztat.net/article/spp-media-p1/634b8403c76d4f51923219c9c1d6201c/00673ce804954c638eb6f9ad1a5ebd05.jpg?imwidth=300&filter=packshot",
+        "brand": "Karl Kani",
+        "name": "Bluza z polaru",
+        "price": "319,00 zł",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+]
