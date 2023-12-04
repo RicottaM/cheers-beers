@@ -20,5 +20,5 @@
 
 3. Aby zobaczyć stronę klienta aplikacji, otwórz przeglądarkę i przejdź pod adres [localhost:8080](http://localhost:8080).
 
-4. W celu modyfikowania aplikacji, odwiedź stronę administracyjną pod adresem [localhost:8080/admin](http://localhost:8080/admin) i zaloguj się.
+4. W celu modyfikowania aplikacji, odwiedź stronę administracyjną pod adresem [localhost:8080/admin_fashionables](http://localhost:8080/admin) i zaloguj się.
 
