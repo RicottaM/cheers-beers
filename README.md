@@ -14,8 +14,8 @@
 
 2. W katalogu aplikacji użyj polecenia `docker-compose up -d` w celu uruchomienia aplikacji w kontenerze Docker. 
 
-3. Aby zobaczyć stronę klienta aplikacji, otwórz przeglądarkę i przejdź pod adres [localhost:8080](http://localhost:8080).
+3. Aby zobaczyć stronę klienta aplikacji, otwórz przeglądarkę i przejdź pod adres [localhost:8080](http://localhost:8080). Ukaże się strona instalacyjna, której pola należy wypełnić ustawiając język polski, nazwę domeny `fashionables` oraz podając swoje własne dane do logowania jako admin. Następnie należy wprowadzić poprawne dane do łączenia się z bazą danych. Spytaj o nie na grupie. 
 
-4. Aby zacząć pracę nad aplikacją, należy dodatkowo zmienić nazwę folderu `admin` w plikach aplikacji na nazwę `admin_fashionables`. Na systemie Windows przejdź do katalogu projektu `fashionables/aplikacja`, a następnie przejdź do katalogu kontenera aplikacji za pomocą polecenia `docker exec -it prestashop /bin/bash` - aplikacja powinna zostać wcześniej uruchomiona (punkt drugi). Następnie należy zmienić nazwę folderu `admin` użyj komendy `mv admin admin_fashionables`. Aby wyjść z przeglądu plików kontenera wpisz komendę `exit`. W przeglądarce odwiedź stronę administracyjną pod adresem [localhost:8080/admin_fashionables](http://localhost:8080/admin) i zaloguj się. O dane do logowania spytaj na grupie.
+4. Aby zacząć pracę nad aplikacją, należy dodatkowo zmienić nazwę folderu `admin` w plikach aplikacji na nazwę `admin_fashionables` oraz usunąć folder `install`, aby uniknąć ponownej instalacji strony przy kolejnym uruchomieniu kontenerów. Możesz to zrobić ręcznie w eksploatarze plików, ponieważ `docker-compose.yml` zaciąga pliki z kontenera do katalogu projektu. W przeglądarce odwiedź stronę administracyjną pod adresem [localhost:8080/admin_fashionables](http://localhost:8080/admin) i zaloguj się.
 
 5. Aby zakończyć pracę nad projektem zatrzymaj wszystkie kontenery komendą `docker-compose down`.
