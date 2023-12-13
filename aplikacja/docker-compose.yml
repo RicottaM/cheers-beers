@@ -25,6 +25,21 @@ services:
       - prestashop
     volumes:
       - ./prestashop_data:/var/www/html
+  
+  nginx:
+    image: nginx:stable
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - prestashop_data:/var/www/html
+      - ./nginx-conf/nginx.conf:/etc/nginx/conf.d/nginx.conf
+      - ./certs:/etc/ssl/certs
+    depends_on:
+      - prestashop
+    networks:
+      - prestashop
 
 networks:
   prestashop:
