@@ -1,0 +1,667 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/466c82f3927b4f6594305ef344b60389/13b525cf1b26446d952e4faceb52b9f7.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0c653286634f4341823a489ad3c0625f/3adae1796a844163bd34bef9e01abe11.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Mucha",
+        "price": "27.20",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "WF553O00A-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8349ae6105fb4226899d1eddcff01df0/404ea69c17c648b1a7955967f346c815.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f6fba26d99104c5cb80ab2360111da2d/d28831da9dca444887d09902b48ba6a4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ce099dccb8aa4847b6f433b7851cba11/84cbfb572cd540ed841dd5c793a43ca3.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Krawat",
+        "price": "46.00",
+        "sizes": [
+            "S/M",
+            "M/L"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NA853O000-Q11",
+            "Szerokość": "5 cm w rozmiarze S/M"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/934a43cbad384d67b30a0b782998396f/d169e29b77fd4820ab279de79bb0dfb1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c3bcc099797f475abfcb2d2ee0aea799/f6bb6543831d45ca8997a7dbd18ceb6f.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Mucha",
+        "price": "27.20",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "WF553O00A-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/45e66adac7e5484abf46da78d7e61baf/d5bb1522d5a1445ca98430be94f1717c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/933a5ef0859a4788bc4adbde18b1fbb5/7332e26f94f044a6be033d0316f1f67c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fc5d2e18a3344fc48e2ad0cd213a21cf/a0a46004b963478d9f92a9dbe85193b1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/14b62b05b54647df8ab9ab3f6a788104/563ece6759ca40ef910062783c0dd772.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "SET - Mucha",
+        "price": "76.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "NX353O01B-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/76cc0793363d43328f19081e89bb00bf/79d2d749bb7c427bbf995074e04be62c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f6da4618274448b9bbd108da33764f50/b58a06f7e04d4792800b9ce966ed1365.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6885001e224d4ffea5fde67b6345eafb/1dd466af204041b68265cdc6ebfb1c9e.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Krawat",
+        "price": "26.60",
+        "sizes": [
+            "M",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Dolna część": "100% poliester",
+            "Górna część": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "WF553O00C-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/dcca101302ad451f89596dcf7ece3286/75e8332aef22482a8a48a76292a84895.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353O00V-Q11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/5a95c112328e47cb8ba0251a3e2c5d13/5702a882cbca461c8a98a32821a23cb8.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353O01F-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/07e4ba129f1740f8affa673d10393e47/050d7de01658490bac97a3ca601e5279.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353O01F-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [],
+        "brand": "Il Gufo",
+        "name": "UNISEX - Krawat",
+        "price": "142.00",
+        "sizes": [
+            "4",
+            "2",
+            "3"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej, pranie delikatne",
+            "Wzór": "Jodełka",
+            "Numer produktu": "IL853O000-Q11",
+            "Szerokość": "5 cm w rozmiarze 2",
+            "Długość": "7.5 cm w rozmiarze 2"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b851ed9de6154855aa660345cfea8fee/25794e6fdfc74e5fbd68d42a01bb571e.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "50% poliester, 50% len",
+            "Wzór": "Melanż",
+            "Numer produktu": "NX353O01G-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ecd65dfd768246cbb34efc77cc4409a4/a8ddc2bf642546108ca4f9778ad8ae01.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5996a601dce047ddb61b0bbcc7521f31/4a2f42bf5981463b85fb0bb96cdb58b6.jpg?imwidth=156"
+        ],
+        "brand": "Ladeheid",
+        "name": "Krawat",
+        "price": "73.59",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Przód": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Wzór": "Melanż",
+            "Numer produktu": "L5D53O001-Q11",
+            "Szerokość": "4 cm w rozmiarze One Size",
+            "Długość": "31 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ef4655b95c634c99bf116cf0b9ec19f5/27643cb30352488d916b18eef075f8c5.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "41.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353O00T-F11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/047f8b0c453e4c99b69a9bd2437b51fc/fa1e7521f95c420da1dde5bc0f74b9b0.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W kropki",
+            "Numer produktu": "NX353O00R-K11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e225d4bd15b242dd95963a34049c552c/d11f2f7be5bf4a25985dd9c1e5117c15.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c1852315ba574c538ca1fe793eab83f2/c0622684453343d5bc0b62c3e7552a17.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5bb4cd2bd53548b6a9bcc0cca97caadf/efe268ff1b6243c9956addfe06d1ffce.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Krawat",
+        "price": "84.00",
+        "sizes": [
+            "S/M",
+            "M/L"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wskazówki pielęgnacyjne": "Czyszczenie chemiczne",
+            "Wzór": "W kropki",
+            "Numer produktu": "NA853O004-K11",
+            "Szerokość": "5 cm w rozmiarze S/M",
+            "Długość": "10 cm w rozmiarze S/M"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4298c8dcc5944082b49594a8c3c69422/b352620415ec4bb498d3c49bc5086f3f.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W paski",
+            "Numer produktu": "NX353O00Q-M11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/81ee021e32734c218dcf542cf1ebeaf1/4e4ece6b101a413e9676acdb234bcb92.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "52% len, 48% poliester",
+            "Numer produktu": "NX353O01G-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [],
+        "brand": "Il Gufo",
+        "name": "Mucha",
+        "price": "144.00",
+        "sizes": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej, pranie delikatne",
+            "Wzór": "W paski",
+            "Numer produktu": "IL853M000-B11",
+            "Szerokość": "3.5 cm w rozmiarze 1",
+            "Długość": "7 cm w rozmiarze 1"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b912b5ac383e490bb196eaf00d7658ab/d3116869bee043a4a0ec3c0ddc14253f.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "BOW TIE - Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "NX353O019-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6278b960db3946fa8ef0f05676e19298/2046c69ad7c14fff970729594269fe29.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W paski",
+            "Numer produktu": "NX353O00Q-G11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3b0bdcd18bce45d6951d92bdd90c1d9f/fa3aea79ed93479ab5b6f433406675d7.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c0930d38ed8c48b59bf970cb21cc8643/b09c2c236550406a8c84b2bc027c8538.jpg?imwidth=156"
+        ],
+        "brand": "Ladeheid",
+        "name": "Krawat",
+        "price": "73.59",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Przód": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Wzór": "Melanż",
+            "Numer produktu": "L5D53O001-C11",
+            "Szerokość": "4 cm w rozmiarze One Size",
+            "Długość": "31 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2570c4de822b414bac05a98320486e89/2043217b5bca43e88a0c12e704975342.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f7f3e8f75ff74143b620a4a0f71ee093/2098fdee860b496bb860ac547bfa78b0.jpg?imwidth=156"
+        ],
+        "brand": "Ladeheid",
+        "name": "Krawat",
+        "price": "73.59",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Przód": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "L5D53O000-J11",
+            "Szerokość": "4 cm w rozmiarze One Size",
+            "Długość": "31 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/5363c5b2ee1b410c80786d32a1e86be4/b95d3bed54574891804f1cef34d03c35.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Krawat",
+        "price": "62.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Numer produktu": "NX353O00V-K13",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d85909f243064f64b0fa3ec57d51ed22/e1958ed894834af1a0675897e0a17672.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "BOW TIE - Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "NX353O019-K11",
+            "Długość": "45 cm w rozmiarze 176"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [],
+        "brand": "Il Gufo",
+        "name": "Mucha",
+        "price": "144.00",
+        "sizes": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wzór": "W paski",
+            "Numer produktu": "IL853M000-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/34647c540b5b471dbfdeec4f843a5fdb/a1bea0cf70b8471f8593750dec54cc7e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ac8de7e6a8a04dc7b668fea22214a52c/19ed81e6fe484810a9f8c75b0c86fd69.jpg?imwidth=156"
+        ],
+        "brand": "Mango Kids",
+        "name": "Krawat",
+        "price": "99.99",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "AY553O00L-K11",
+            "Szerokość": "7 cm w rozmiarze One Size",
+            "Długość": "142 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6928478af6bc4e3ea99f1caf6cab0788/abd465787028453ca5e9596864455589.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/6b655e0f20284b4392c480c51d58dd6a/e124b1d64e044f1887ddf71ccf440434.jpg?imwidth=156"
+        ],
+        "brand": "Ladeheid",
+        "name": "Krawat",
+        "price": "73.59",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Przód": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "L5D53O000-M12",
+            "Szerokość": "4 cm w rozmiarze One Size",
+            "Długość": "31 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4a1ce4b79f9b428a91832667a5c64de7/ac1da46f1d3e4b49a1b43da091a1c683.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353O011-M11",
+            "Długość": "32.9 cm w rozmiarze 80-110"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/a36289c937514de29b289e8f4dca9644/3a04f712167b4b399ef2fea61e055140.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Mucha",
+        "price": "48.00",
+        "sizes": [
+            "134",
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie suszyć w suszarce bębnowej, pranie delikatne, nie wybielać",
+            "Wzór": "W kropki",
+            "Numer produktu": "NX353O002-K14",
+            "Długość": "41.7 cm w rozmiarze 158"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Krawaty i akcesoria",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8549cdc3436241a39e75484101bf7a4c/66273dbe20574f00984f066aa5ea2223.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Mucha",
+        "price": "48.00",
+        "sizes": [
+            "158",
+            "176",
+            "80-110"
+        ],
+        "additional_info": {
+            "Materiał": "52% len, 48% poliester",
+            "Wzór": "W kratkę",
+            "Numer produktu": "NX353O01H-B11"
+        }
+    }
+]

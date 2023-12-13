@@ -1,0 +1,658 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/54fcd7c3e89041c48d48a713040d785c/c9724fd12eb3435ba4b6f086e1112c94.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/04a09f58cbd740bea588bdaa6f4de167/b265cbee0617493488275068e665000c.jpg?imwidth=156"
+        ],
+        "brand": "OCHNIK",
+        "name": "Szal",
+        "price": "79.90",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "OC951G00D-C11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/1cc252516665456f90bcfc4893594038/1dc909f792a74016b8b0ab538a76c030.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/20e8b0e931194a219fc3558193c718f1/1f1eeffdc7354a15bbc63cf267b77561.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/50ad31c4c904497eb586fe8cb044952b/64c11f18a44649a0bbf3b60dd9446ac2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/173251e5b8c342b0a382adf2dba0ebb5/6c9f90a6ad5a4ac083e70d30a511a71c.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "64.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G00J-A11",
+            "Szerokość": "55 cm w rozmiarze One Size",
+            "Długość": "190 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/5b31aed652364369b4d6b9d5902b414e/b6644862bb1340fd86dd9636209c0d36.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/dfbf6bff794c497f96811cd3f266b166/f823f7000d6747f1be7b3b85fa4fe758.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/713bf8580cb5451b804926fbcf519a60/1a3ef4f2f2a44f909215ae85a2df8cb4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/68ba54c9b01241d5a07120cf8a231e93/701d3b4bbee84193948a226a24bafe22.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "69.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G00J-Q11",
+            "Szerokość": "55 cm w rozmiarze One Size",
+            "Długość": "200 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "UNISEX  - Chusta",
+        "price": "369.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "80% wełna, 20% nylon",
+            "Wskazówki pielęgnacyjne": "Czyszczenie chemiczne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PO254G00I-O11",
+            "Szerokość": "26 cm w rozmiarze One Size",
+            "Długość": "160 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/1cfe8c3667b94d63a358df11b8e42d0c/6eef3af7cb46486eaa86b24027bbb76a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/61887398bb7640618e975cc21726be06/d90eb069d13f4de79df6b95f461f96f8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b5ec94a87c404ee9b48d73695de2c2e4/8e1e9922f30345fbbe04027ea9505d98.jpg?imwidth=156"
+        ],
+        "brand": "Zign",
+        "name": "Szal",
+        "price": "89.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "55% poliester, 40% poliamid, 5% wełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "ZI151G00U-K11",
+            "Szerokość": "60 cm w rozmiarze One Size",
+            "Długość": "205 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c0ef2bc2c8c64348b7fb3a69ca1516ea/79d3a7c0455f46f9bc520d5690fd945d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0de17624e410451bb133d841de4960ae/930a340bcab0476e9bdf3f483443a8f4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/98fc7d97cbc540ed81ce414b4dff9654/77f04c0f11484a0287ca718ad8812274.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3fb8f32c73184b55a26eb4067e24dc66/45a39dd933234209aeee1c4f5bbd16a5.jpg?imwidth=156"
+        ],
+        "brand": "OCHNIK",
+        "name": "Szal",
+        "price": "149.90",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "65% poliester, 25% wiskoza, 10% nylon",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "OC951G001-O11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f540b84cb5264eaea38abeb26d9b50de/b84a25e6551e429e8000022667f51895.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/870cd2f5c8b54bcea680f51b838893d6/e95af7e04f4d4ff5a7a91189e31f7e37.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/decd75a892484170a6c2a748523a4965/97970a4bd20f4095997b7b4239a77265.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e95e844e4195443280cfbac419143a21/e18fda53722847d7935d8df1c000a862.jpg?imwidth=156"
+        ],
+        "brand": "OCHNIK",
+        "name": "Szal",
+        "price": "149.90",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "65% poliester, 25% wiskoza, 10% nylon",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "OC951G001-C11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/95bc74d55e16416080c500b18ddb057c/a5737b25786c4755bd1404d62f2b165d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ce4290732d454e139c0c57234e520d86/ff1079d496234635adb25a1c5934a820.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b001f6eec5454b89bc90787e665bbd7a/c1c06e8d5d714d869379e5c6678b9dc0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7366737a6e87400dbbb6be8f063c117d/0f219c46de944a2792f1dceb90f41f30.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "69.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G00J-B12",
+            "Szerokość": "50 cm w rozmiarze One Size",
+            "Długość": "200 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Rituals",
+        "price": "",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b8b96c4806f740aab304adb3ef94443b/4a44d3b857cd4af695f42e0a895333c0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8f50c455fcfd4290b1ae41251e23be8b/e7a1cd93f215426aaafa79e933036043.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4aa26aa7612245e1b5777bf2ff8a2b9d/162b43f608594dbcacee18069f9df5e3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1e9d4d3addd74c44b93fafedc365a32b/723792afd8554a1cb7b6063dc0914361.jpg?imwidth=156"
+        ],
+        "brand": "Anna Field",
+        "name": "Szal",
+        "price": "69.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, Czyszczenie chemiczne dozwolone, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "AN651G09L-A11",
+            "Szerokość": "60 cm w rozmiarze One Size",
+            "Długość": "200 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/456218ca4e3046cebd78a1ba6e5018d0/276b3539561c4de692a04e641d9d881b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8d327ba3c89347e8b726c52c4c15f020/be9501e9d270405c96bdb123fef525c3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/05293943470e491dbf251d0c95083aa8/ec5527395bf74ce5a255f492061affa7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/751ecc64f7984e309fd1de25ee7d3f1f/b85fce244843463092e70810a666af42.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "64.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G00J-C11",
+            "Szerokość": "55 cm w rozmiarze One Size",
+            "Długość": "200 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "M",
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "M",
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "M",
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f6fa70b12f3d4b889ad538a0b90d43b0/93994668a99447b6a0bd7fe41339cab1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2d3bcf9291e64452aa7c5257065cd03d/d2506b51e0e243528d4f691bc5f0c2b8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/678d657a1b194f5f97984d8ad6ca3e1c/a57e348d68c44a3497ad42705670b3ac.jpg?imwidth=156"
+        ],
+        "brand": "OCHNIK",
+        "name": "Szal",
+        "price": "79.90",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "OC951G005-B11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3811d308528e46c1a0b230a2a4a2acd6/48eaeabf4ca6448ab5c2bf44c21c674d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/33f316278c0142329e593c9c6b9cf76d/6b55faa3b0e249cb9e092fb47ab81c98.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f5cfddc8c8d04e69a57879604e3319e6/ecf9eeade2a346669d1b5fb73d2c305b.jpg?imwidth=156"
+        ],
+        "brand": "Zign",
+        "name": "Szal",
+        "price": "89.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "55% poliester, 40% poliamid, 5% wełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "ZI151G00U-C11",
+            "Szerokość": "58 cm w rozmiarze One Size",
+            "Długość": "188 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8e83bb0d115a45d4bb8c2a5cbb9375e3/2fce19c97221411da4a0f79bf584b868.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/32b760c0fb884682ac20080b8708b316/42acfa882ec64ea5b158d8c822cbd1a9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9254796a5fb8400882c9cb057125d855/30b6349dc87c4828912fb76046b5219f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/efdd178b186942a088144405f61388fb/5adf41d732334f9fb08e7bb6a4b47f51.jpg?imwidth=156"
+        ],
+        "brand": "BIZUU",
+        "name": "Szal",
+        "price": "219.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Melanż",
+            "Numer produktu": "BNS51G000-Q11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/43333e6fe4e4450a8d30695b361fccd9/43bbdf6a45ec4c03b57e8ae5161bfa32.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/af5d4836bc6543f48b7492dd004549d0/5d997e2d4f814bddbff791b2cb0799b3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ddb160e5614e4abca519521586ebc464/c9ca77b3940445789a833fa145295e8f.jpg?imwidth=156"
+        ],
+        "brand": "OCHNIK",
+        "name": "Szal",
+        "price": "79.90",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Melanż",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "OC951G000-K11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/76f4a236f78b47f9b8908074bb0c7bbb/ce313ec3d80748398483f73ec62cfa6e.jpg?imwidth=156",
+            "https://mosaic03.ztat.net/prd/media/comet/TO154P01D-K11/PREVIEW_IMG/0002EB25TX8_image_1696907416.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/f253f9a71cc643369895809a44a82353/69c3c8bb87c540e89efc58029708b92b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0126021460744cc784c73328bfee8a6e/54ab526e3c9748d8a262bf125b26e1e7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5f829c664b3041e7900e99a837e7225f/a8b454658efa4f6193662367a5cd17ca.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/af79062c05c24b2290b35ecdc3446019/ba62e12832214b0f88546a84c8c6f2f8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f9e56f56b2e043b2a5a85c1851cec093/94fd9a99c7964890a3132a5379836ec9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cf3a443612f84642a31bb8cb64ebeb7a/cef0bb80660c46ff9ec865d7a11b8ec9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d502d22003784194a296ae272c999393/b0459a271b95418e9165e129c96d8bc1.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "FLAG UNISEX SET - Czapka",
+        "price": "337.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% kaszmir",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie w programie dla wełny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO154P01D-K11",
+            "Szerokość": "25 cm w rozmiarze One Size",
+            "Długość": "190 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/14f755039502495499328fbd6fe7de10/310622a110224ec3b2d08fc4c875293a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ce360ea78f8d4a8b8b1785eaf141c0c5/337dd4523db747369508fa5d8097905d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eae1a7cc2df04f61913be8e23e33b21a/7651228b258245c69176ac57e6aea79a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/65ef4e46e0c84ef7ba3a1eeb29fab81b/674162cbbc9c4cd0b641f4336e0dd95b.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "79.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "50% akryl, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G00J-M11",
+            "Szerokość": "50 cm w rozmiarze One Size",
+            "Długość": "205 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Fiorucci",
+        "name": "Szal",
+        "price": "319.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C",
+            "Numer produktu": "FI954G00H-Q11",
+            "Szerokość": "35 cm w rozmiarze One Size",
+            "Długość": "180 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9d9f220ecc83415f8e4d9c431d79694e/a370da404cab4a1abb9b02fe7a80f0ea.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/79d4c29986a842fbbf55fc102fbc9b4a/c17aa6d0b7cd4a9c84fbd059230c3236.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4071cecd77c14b49ba7b086ed8233c61/6b6cf4cb6a3f49f68c20db82c430599d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6c879f6d77a74d819051dd4182cf458d/0998ff63728e486f84d08382f31244d3.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "59.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "W kratkę",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G016-Q11",
+            "Szerokość": "53 cm w rozmiarze One Size",
+            "Długość": "200 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3d292333e2834527bb5c85e586d23fd9/092f800552d640eaad286101a8b6a38b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f0157b1ab073414b8810f32bada56875/c74b78d288494c3898d099d3c1660b91.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8bab374acd714bf0b330b7477b3bcd7a/13a5ce8568fa4716bfb382ec9cbd0547.jpg?imwidth=156"
+        ],
+        "brand": "Even&Odd",
+        "name": "Szal",
+        "price": "69.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "68% poliester, 32% akryl",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "W kratkę",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "EV451G07E-E11",
+            "Szerokość": "64 cm w rozmiarze One Size",
+            "Długość": "210 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Pepe Jeans",
+        "price": "",
+        "sizes": [
+            "XS",
+            "95",
+            "85",
+            "One Size",
+            "M",
+            "45",
+            "XXL",
+            "105",
+            "100",
+            "90",
+            "42",
+            "44",
+            "41",
+            "XL",
+            "43",
+            "46",
+            "L",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8a99bb3d9cfb437a9cbe0866d6ec98cd/320115ba7dee4f2fbb32597e8f2165fa.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/fb77e7bbe8b147498d5ce32315e047a5/722fb4f3f3bd419ab623002ac264adcf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e9848b292f8e474fbeab832bd4fb791f/641b8d9cd4e3428ea8e031bb9a83e1d1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f09973f29c2240a19b8f323de5e4a18f/f34731d1534e4669a4230ccf4b038017.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Szal",
+        "price": "64.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, nie prasować, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "PI954G01I-Q11"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "BEAR HAT SCARF INFINITY UNISEX - Szal",
+        "price": "1135.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "90% wełna, 10% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie prać",
+            "Wzór": "Melanż",
+            "Numer produktu": "PO254G012-C11",
+            "Szerokość": "25 cm w rozmiarze One Size",
+            "Długość": "190 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Akcesoria Kobiety",
+        "subcategory": "Szaliki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2e7cfbe6d8ac31a7ac06393c443f426f/698fcbaa53d04ae786991bf5466c86ac.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/61fb9f59b60d3d7a82c3e6414139a0d7/24f281ee84974023adf893019e242a5a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b6e8243a9b7231dcab94038b59dd1dbd/b4178428f2d940b2a943640461b10370.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein",
+        "name": "Szal",
+        "price": "289.95",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "62% poliester, 38% wiskoza",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Szczegóły": "Frędzle",
+            "Numer produktu": "6CA51G026-Q11",
+            "Szerokość": "65 cm w rozmiarze One Size",
+            "Długość": "180 cm w rozmiarze One Size"
+        }
+    }
+]

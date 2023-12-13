@@ -1,0 +1,392 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f47fbba9a2604c839e10e0a2e6492e5d/b40423d9c421400baf7c4201dfd6afa3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/91a4c6daa6b74f2584aed139e683670b/b711a3b1d20f4b97b739200bc9e8e6a8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1c15c6ad1786468fa5413d4e7970f8d0/1a4ffce0218848b58e229ec52c8a8eaf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/78726ad3c2824c418bbf250a04f14fc6/bfb1a55b7339454f883989344724192f.jpg?imwidth=156"
+        ],
+        "brand": "Nike Performance",
+        "name": "UNISEX - Rękawice bramkarskie",
+        "price": "129.00",
+        "sizes": [
+            "M",
+            "S",
+            "L"
+        ],
+        "additional_info": {
+            "Materiał": "62% poliester, 28% nylon, 5% elastan, 5% inne włókna",
+            "Rodzaj sportu": "Piłka nożna",
+            "Zapięcie": "Gumka",
+            "Numer produktu": "N1243N05L-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c1f1eebe7716489fa1c82f90efefd2e7/58059fb817d14a8eabd3651fcffe47d5.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5b4837a52a3247619bbf2af8709d8350/d606826af2d847b0acf45d8104f3bdc4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/09030f7a1d99418daf36b73bbc996a3f/53e7f7556c134fdd9bd084a7ff43de1e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/792f185a3e4a4140836b723cf1aeab66/6683c6db71ad47f68f6847f8f686ad34.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/005c38e879c54fe8af10b1aed2e97327/e08f7e3d2167401ab639f2299a10a263.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/63bb24ca640b45dab215364c274b48fc/0cad294839fe479b9b6c3cc3e6833b1b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/55075730ed1f457eb498ec70214f02dd/8dd4e31ebb0e47c4a6a152d40e4ab16f.jpg?imwidth=156"
+        ],
+        "brand": "Jordan",
+        "name": "Śniadaniówka",
+        "price": "139.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Poliester",
+            "Podszewka": "Poliester",
+            "Rodzaj sportu": "Koszykówka",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Szczegóły": "Dwustronny zamek",
+            "Numer produktu": "JOC42L06J-Q11",
+            "Wysokość": "20 cm w rozmiarze One Size",
+            "Długość": "26 cm w rozmiarze One Size",
+            "Szerokość": "8 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e486bfefb32d4395bed96cee1749bb1a/a592c00f04af4c25bfa10cee5125f828.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/01617f36cdde4d4f86eca33c48b6b287/f9efb8aded9744bba740214f7c2f26ba.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e6c0312e7ef144aebcbb34b852f1346d/1119e830ec8d448ebaf9f97748eaf7d5.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "90.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Rodzaj sportu": "Turystyka piesza, bieganie, urban outdoor, joga & pilates, taniec",
+            "Wzór": "Nadruk",
+            "Objętość": "0.25 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N000-E11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d7949ddc84bd4d22bbb5857ec31cfc14/a25b0ed53d7447b6b7095d4c362e619a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/49b8eeacdd6d46cd9daa53553522cdc3/0f96fbed374249668521558c0dd60b1e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/83130821ffd54e23a1c425412f1b356c/3076eed108a14d9fb62d4b81beb94816.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "108.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Rodzaj sportu": "Bieganie, urban outdoor",
+            "Wzór": "Nadruk",
+            "Objętość": "0.5 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N001-T11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2304a789951d44a48bc7c009d924f549/e1d1362c4c0a4db799cdd1ab4d223d51.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/bffe48260b1642c28a708e2864af3c6a/89ffce4c2b2a491793ceba4060eb0218.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6d9866fd02c4436ca88112d592c2350e/56213822709b43f5a5bffcbfd6b123d6.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "108.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Rodzaj sportu": "Bieganie, urban outdoor",
+            "Wzór": "Nadruk",
+            "Objętość": "0.5 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N001-E11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/280d33a73f8441fe80559cbdff18d134/f4f6a302db0e4b8180d0a5b954050b7d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ef89b4a0fde74f95a68538fbc7ed6975/0c9aefbc65c94f58b1f602debd41f481.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "90.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% metal",
+            "Rodzaj sportu": "Turystyka piesza, bieganie, urban outdoor, joga & pilates, taniec",
+            "Wzór": "Nadruk",
+            "Objętość": "0.25 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N000-T11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9205c2e4c2e44d99b3f16bf6b4fab009/e9dcf0993bdd4545bd49a8483c981d6e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d70d06fc44b04a8cac0d28e2ca1d7b48/f408216e547343908dfcc3c723c0e5fb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b2e62d304b9d4505a8a4954ca00acc78/fbc441b857a644b19a0a4e35d7761a56.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "90.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Rodzaj sportu": "Turystyka piesza, bieganie, urban outdoor, joga & pilates, taniec",
+            "Wzór": "Nadruk",
+            "Objętość": "0.25 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N000-M11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/abc50293a428418885ee45a47239c158/c2e423ec9c8c49cda01f14bc8a30cc9e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9b267cf383e342fdb0712cfd63b3f323/a5332a70ac2041b284f5c0478e306db8.jpg?imwidth=156"
+        ],
+        "brand": "Roxy",
+        "name": "Rękawice bramkarskie",
+        "price": "199.00",
+        "sizes": [
+            "158/176",
+            "128/140",
+            "140/158"
+        ],
+        "additional_info": {
+            "Materiał": "50% poliuretan, 50% poliester",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Rodzaj sportu": "Narciarstwo alpejskie, snowboard",
+            "Zapięcie": "Guziki",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "RO543N01G-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/880542e6eeba4faeaf5303e36e18395b/f4a1d036eea345369c7d57ceba526766.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d3d00fa48f7b48f79896bceb526cb5f8/6ca15398282d459cb05eea9506ad3a04.jpg?imwidth=156"
+        ],
+        "brand": "Roxy",
+        "name": "Rękawice bramkarskie",
+        "price": "369.00",
+        "sizes": [
+            "158/176",
+            "128/140",
+            "140/158"
+        ],
+        "additional_info": {
+            "Materiał": "50% poliuretan, 50% poliester",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Rodzaj sportu": "Narciarstwo alpejskie, snowboard",
+            "Zapięcie": "Guziki",
+            "Numer produktu": "RO543N01G-A11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d610a45d65f04de18b1462835178456a/221f68bbbffe4c56b75c2c0372fe3842.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "108.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Rodzaj sportu": "Bieganie, urban outdoor",
+            "Wzór": "Nadruk",
+            "Objętość": "5 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N001-M11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3675c252d847443f87e349b0fc81a3db/197dbed8ba8b4285a933f409d3a0cd10.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "90.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Rodzaj sportu": "Turystyka piesza, bieganie, urban outdoor, joga & pilates, taniec",
+            "Wzór": "Nadruk",
+            "Objętość": "25 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N000-M12"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/49c7c945237c4eb5baf0a47b4d2775ef/d8c87cc30fd64f86b63ee3dd3fdd16f2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1175f36c017e4f539378c146488f15ae/ee750ebc34c547fe854728aba5648a2c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/296aed94e50b44faa87ad543b9e1d20f/1fec3615c67c48a7bb6c18eb68a6ba34.jpg?imwidth=156"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "108.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Rodzaj sportu": "Bieganie, urban outdoor",
+            "Wzór": "Nadruk",
+            "Objętość": "0.5 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N001-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4ff1822e51d9486da1d4f1dd843808f8/2e2c5075de6b40ea999942f75bb4d678.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c3f56e08fa6e4803acca513479a9e8e0/7c2e7fc5437c4ef0bf0ed33855fade84.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/94b7dbdaf0194028b50d442f1655c6b1/dc9ead196bcf4505b02508237b578186.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7f2bfc4286994cf89ecdb67789666090/b2b9e984e7554411b8436ab1dd2dc57a.jpg?imwidth=156"
+        ],
+        "brand": "adidas Performance",
+        "name": "LEAGUE - Piłka do piłki nożnej",
+        "price": "139.00",
+        "sizes": [
+            "4",
+            "5"
+        ],
+        "additional_info": {
+            "Materiał": "Poliuretan",
+            "Rodzaj sportu": "Piłka nożna",
+            "Numer produktu": "AD544E2OO-A11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d820e3e5f9ef44baab667a068bc4a721/90964dfb058245308b2bd76ef1ebd10d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/dab21ffafd0a47e8b7e3d898bc1387f9/1a2af6bec20b46a2b282504bf7d6a9cd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3d229d2bfea74f6e9a643347ac868c8e/fb77219a309f4b56bf52989c3cf884e0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ba2fd45fc95a41368b7ae757714dd85b/6dd5ffa3be054423bd0d941ec0ecbcb4.jpg?imwidth=156"
+        ],
+        "brand": "adidas Performance",
+        "name": "Piłka do piłki nożnej",
+        "price": "139.00",
+        "sizes": [
+            "4",
+            "5"
+        ],
+        "additional_info": {
+            "Materiał": "Poliuretan",
+            "Rodzaj sportu": "Piłka nożna",
+            "Numer produktu": "AD544E2OP-A11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f89e15a451034238a9fb5ddffe231251/b34683b8c0b84965b26fdb408d115b62.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c0980c28f8a64a8ba1b431defe071203/04d8238f647c4794ab9826bdb3a59268.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fbca8658bcd54a32985d119e1bc4ffc4/eb90b6764ad54b9295ed8190727041d1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6036fadb97694f23ac5d76b50ec62591/fb1c56d189454aea853ccfa18d6f55ba.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/16fadb0ab9db4c9d942fc8022b87df9e/7439fa066d994bc9bd8bf48eaa0267d1.jpg?imwidth=156"
+        ],
+        "brand": "Majestic Sport",
+        "name": "Bidon",
+        "price": "49.99",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "MWD44E00F-M11",
+            "Wysokość": "25.5 cm w rozmiarze One Size",
+            "Szerokość": "7 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Sport Dzieci",
+        "subcategory": "Sprzęt",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/08f9a68d0c9d47029b94dd1a9a43c821/810a5d46974e4a70ba5ae417d95ad388.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "24Bottles",
+        "name": "Bidon",
+        "price": "108.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Stal nierdzewna",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Rodzaj sportu": "Bieganie, urban outdoor",
+            "Wzór": "Nadruk",
+            "Objętość": "5 l w rozmiarze One Size",
+            "Waga": "200 g",
+            "Numer produktu": "24043N001-T12"
+        }
+    }
+]

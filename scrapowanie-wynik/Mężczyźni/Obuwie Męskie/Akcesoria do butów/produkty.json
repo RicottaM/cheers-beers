@@ -1,0 +1,752 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e4f65e1473c1463c8d5910c0cb8442c8/9996c1a34a804b658839612d80248585.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c164d661dbc64f92a97bb53686ea962c/0488474698d64fb0bccbdfe47b300a03.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/93139b406d7444cbaa60e6aedbf282fc/b831a889531c4f5cb5b76d0259a298d2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9d8462669a40449e804303777e79469b/c03fd8c060194a808e2b2110a1bf2429.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/124a7efbb9cf49aea788e87d4e64a4b3/41b35ac4a1e14bfb89be257041fc405e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8463f7d2b6f147c0878d8838b28f8bdc/0b2dbdd0c65d41139e0a1e7202c05544.jpg?imwidth=156"
+        ],
+        "brand": "UGG",
+        "name": "UNISEX - Wkładki do butów",
+        "price": "229.00",
+        "sizes": [
+            "37-39",
+            "43",
+            "40-42",
+            "36"
+        ],
+        "additional_info": {
+            "Numer produktu": "UG111J000-O11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/353c5be880e14360b7564334e6c46576/cc89ccd0dc29442694755d79f0767a17.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ec6ba0db78df4c858ef65f7de976562b/6e15f61bb84c48149916872405c514f2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c86defcea77e4fc9a92cc2fbd55e2d32/175e3255351e4452bd4be1689ffabdb9.jpg?imwidth=156"
+        ],
+        "brand": "Kaps",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "85.88",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Rodzaj buta": "Casual",
+            "Numer produktu": "KAQ15J00I-A11",
+            "Wysokość": "16 cm w rozmiarze One Size",
+            "Długość": "16 cm w rozmiarze One Size",
+            "Szerokość": "5 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/1be9cc4188474deaa9d599c7286cd466/b315243ee78e4171ab5a84bf68f5e6d5.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/54f3656fde014872a816a9eaba1a0fd5/cb4b262d40fb48acaa36964d0db07297.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b0622c224a0a4aef8bab0db6b583c7f3/208c1fcbae1b4710b2c6c586ac293811.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a175e5ac9ff64937862e70553a500b99/19cf1b796643472db3cddc43bd870323.jpg?imwidth=156"
+        ],
+        "brand": "Crep Protect",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "129.99",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "CRO15J00M-Q11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f6e92a112afa4f5e855cf5e3fe7e8663/185a36e9b95d40e986aa9e8224f5da92.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3c11009f76a240fe98905c8d5f51c837/3ab4b50abf964a87a7537f6a5aac3590.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4330efd631fa4005a02e84bd1c102d41/e0bf52fa35d7494aa39f76a35cfe32db.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/004f7f5f80554e0790e15bf841246cd4/c004d0c389b04e1fbe3c59dfa2df214d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b2a0be1eef6d4e768a3bfb79b27b5c97/a51e747682c04cb69b8eb80359b3caf9.jpg?imwidth=156"
+        ],
+        "brand": "Cleangang",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "129.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "CQH15J001-T11",
+            "Długość": "35 cm w rozmiarze One Size",
+            "Szerokość": "35 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/48f74c83a4e54405bc1967639931d213/be5946ddfd52446aba19138a78abeb22.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a74479dad9894de0b7479fe0d80eeb89/1a8a1c10f7b14597b51df3cf29afaf3e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0c4d62df7e784addb783679806223a9f/acc09b62f41a45718079a8995626405a.jpg?imwidth=156"
+        ],
+        "brand": "Tamaris",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "34.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "TA111J007-O11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f003d38e599c46d48058bf345714933c/830105e29d914b9a8d3fe0bf5f20c06f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ebefafab1bfd4bf8976ad565605cfcb4/c99fea60ba91467187d5858b8a0ffd14.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5e24d4fbceaf4009a3a813a531d01852/19afb322d1fb48ecaa79e8e5f97c20a7.jpg?imwidth=156"
+        ],
+        "brand": "Tamaris",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "23.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Ciemnobrązowy",
+            "Numer produktu": "TA111J007-O12"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c32da4643f0549ad8b32e8851e1f0a0b/8f7cb9c1c8924548ae94968e53650dbb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c1cd3b6e19054ab18912c36538888786/46f390553e7e427ea82e620198bbb067.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2f76c3e8f9494b319c87f14de0a115a3/ed9027422bf047238656e33402a62864.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/49d6ed64129749d7b9abaf725fed9ba8/cbb95cc6019448ec88902739b0ffc021.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/577bf2ac504e4e2682aeedb2701e639c/b7f4dd4502f4428aa6026df5aa3f172d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7d9b5d3108034c55b8f89a6869e4064a/2915e4c4a3344a9ab71754792491cc47.jpg?imwidth=156"
+        ],
+        "brand": "UGG",
+        "name": "UNISEX - Wkładki do butów",
+        "price": "229.00",
+        "sizes": [
+            "37-39",
+            "43",
+            "40-42",
+            "36"
+        ],
+        "additional_info": {
+            "Numer produktu": "UG111J000-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/fb234ca39b1c4c8bb8e5b36d9f804850/48759ef3d9f34f2ebc5c7a183fa9d35e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/04b2d4d0d40744a4875a648b784f8a42/8efe8dd1117e4a65844bb02b6dfd4fbe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/02b8e06863c44b23adeb95b29bc8d50e/9dfafe3292fd4e8e82c051bd83d8b13c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bf15a21c7e41465b8c058522d363ffe9/97934367d3a04249967334d26fe01c9d.jpg?imwidth=156"
+        ],
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "29.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Waga": "76 g",
+            "Numer produktu": "ZL211J00F-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/89282e29f52d456fbcbf9e2912c35688/ce07d9a4f5db49a8b30807098c1f7a32.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/76a680b441054548b719c3ca563403f9/928b4b580ab04885a28dd568958d0013.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bc21347ea9944a568911a44bb7c017a4/671f048c7f974cac93b24ad0c6b57f14.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/971f73fb25d646088a3fcaef27bd749d/412ce4e5045e4770abf132a12e2e1d4b.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "59.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "163 g",
+            "Numer produktu": "PE715J01A-T11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/703d8f420b5149c6b625e61cd581e5d9/127bf0de5b794049b9a511a75f8a471a.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Kaps",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "85.88",
+        "sizes": [
+            "250"
+        ],
+        "additional_info": {
+            "Waga": "300 g",
+            "Numer produktu": "KAQ54S002-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7a72a9252458483ea6d3250a058b4257/3b733b9d422c4c2e9d5c6099638b6c61.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a2d3c0b3db74411a8ee31c2859309725/9c00f63042ec4f79a69a623929c95b5d.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "49.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Czarny",
+            "Waga": "180 g",
+            "Numer produktu": "PE715J00Z-Q11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/82a4d9b75755418db01696acdb9861e4/baff5806ed7a43f39ae0d4b4c13b5658.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/65d7d749d9bf4cce917d0ade1734e2bf/22c310bfa73c4288a641ee45dfb1f247.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/03645ae39fc942338f57dbb0ace86ac7/a0ad7448e6304a7687cf30247d86db3e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bb435256518046178725c9501000ea95/5a5de9ec79614a10bd449cee8363825c.jpg?imwidth=156"
+        ],
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "50.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Numer produktu": "URR15J004-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/59674ccbb01446849876d240e8d600f0/b5f63a3985794fe18271016f7539bf2a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c0d075b9c65744e1b857cfc5873f5c2e/14e99774164e42da95df4e0dde59f557.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/379e8e6367694beb980c4a1fa39d489c/b6a190d880e84f609680b3c233493408.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "31.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "101 g",
+            "Numer produktu": "PE715J010-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7505fb0c848f45fd91994224d49a30a1/c79078a92e2e4ae581fc3d18ef4b7fac.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8c77c8330e6e42b4b119cfcae09f6649/12b37b8e60bd4f76b7abd7c393a018f8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/77b4c7b469a9474c9627208074a2f40b/248a41803dd043d7aeef5792211b0ad4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4035bc53c4164d088db7a29b65fee40c/9a9c3366177e40d286122afbb701797e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c76256c44d664cfab7befe608d890d5d/2e31fc25912d41a4a704c4de8d5f3c19.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/18efddfb159a4987821ca8a10308d788/f3503aae5dd649b881b0f48467d9904f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5d223e1e2e024f438dca1d801413ee66/6d1a237161954af79a703c93ca8ba6a2.jpg?imwidth=156"
+        ],
+        "brand": "Crep Protect",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "229.99",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "CRO15J00J-Q11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7c52295004c94abab12b2a815d135f05/330dbc8925f94888b58f05aa49778527.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5fd4dd9af6a942b1a5234b707bf51775/a06efe1168624cbe93d37879cbbddbe9.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "39.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "96 g",
+            "Numer produktu": "PE715J017-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c551e4ff3e54470a8abbbcc483339c60/b3395d39e35f4e309574f3f63508ef36.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/eb4058deac8c4edfb732fe506b7c6595/1f9d6f65e84044ab95cba6c640dd9246.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d3589729cfc045418fa3dc3b2a605e73/346cb8d6750442718af3b81db91d8bef.jpg?imwidth=156"
+        ],
+        "brand": "Cleangang",
+        "name": "UNISEX - Produkty do pielęgnacji obuwia",
+        "price": "54.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "CQH15J006-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cce0274eb5814471b7872316a2a36106/afbbaeed3a3047d9a27c201b89c9540e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/30a257715be448058982c7df05cd255c/6d8781c3400845f2b51891e76ba7c40f.jpg?imwidth=156"
+        ],
+        "brand": "Cleangang",
+        "name": "UNISEX - Produkty do pielęgnacji obuwia",
+        "price": "54.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Numer produktu": "CQH15J002-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/27e794fde76c47adaad4929196404f65/643f0298bebb4ed3936bda158b0d0bf2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/145ba79290a34b75afafe6c267e8ca1c/de31492963394214a792b3f1d0b03884.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "34.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "68 g",
+            "Numer produktu": "PE715J00K-S11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/11557fcb36944abaa9275d5e54f8e7af/39bdbd48962a4e50967baf7d1c040838.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/083ee68199db49dd947f35c5f136f721/1cd154c3e07f45fd9c3b9b8124ec63c2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/56275f754a514dae8e6b1d30efef8188/771dea67ce0f4840af6f3e3c9a3a5651.jpg?imwidth=156"
+        ],
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "59.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Numer produktu": "URR15J000-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/102d93cf233a458482c7a3eec61d16be/701ec89f155a482fb0d1f6efb684180d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c1189d1520404681898de515e156ed23/f1d73baa7f6947d3ad14183738e2808d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cb6925c1c4e6400aae5b221c10788889/5b27d7615b7345b483bde644b319155c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e688761ff5394b928939de02fc3d063c/184d900d7f1f4cfc86cdb0ff09bbd18b.jpg?imwidth=156"
+        ],
+        "brand": "Kaps",
+        "name": "Wkładki do butów",
+        "price": "38.99",
+        "sizes": [
+            "44-47",
+            "35-37",
+            "41-43",
+            "38-40"
+        ],
+        "additional_info": {
+            "Materiał": "Tworzywo sztuczne",
+            "Numer produktu": "KAQ15J00F-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9d04c868677c47bca8f43e57cbd4ce6d/06c6f460520844dc9a607f27ebb02ded.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c7e146949e194fe9bdc9ae0c312af308/d07d57768de6414e97e2cfc6f0bac53c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9bb9e303a7a44e33af9c9468fb8f5205/6cf53dbb2cdf4ac58abadacbd7a4c2ba.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0a281f64541c48ff9466f0ac01a59c28/3e3372f74e2c407cbc66637d03e5daaf.jpg?imwidth=156"
+        ],
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "29.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Waga": "75 g",
+            "Numer produktu": "ZL211J00J-O11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6b389d26723b400e8b7806e65aeacc25/26eeb7339b624a10a1639b91c463e581.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4bcf4b456f404f1f93aebae7230631a9/5a70bfd9b8034324a8b77d1edba6b066.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/caa88bfe2bab4c488a0b1955d7bd021e/95f177f6ce094d818fc0face97e86b1d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/be5dd643909d420f91307c7c638ea51d/f169fd38ccd2457e84e2b2d2b8fa9001.jpg?imwidth=156"
+        ],
+        "brand": "Collonil",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "39.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Numer produktu": "CO215J01T-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ce4a99b19c804603a3d25ca68b19784d/83dd7c083e6f42b987a09deb6ec9921a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/808a97c0e61442cc81afc228aaa54218/2ef61e06e23e47568eb7161e5d5548d7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f605b511c1da43c7b0453d39d42caecc/40a390134ca24122ab77803e87b2b3b0.jpg?imwidth=156"
+        ],
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "37.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Ciemnobrązowy",
+            "Numer produktu": "URR15J00E-O11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7cedf52631553177beeb25afdd179430/bc005d53c2654103ad3c32b2e6f2245f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c9da3a2ecbff3de28f5e17ec4f5e993c/1051a6089f0c4dceaef6d80f98d24757.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6402f989675c3cdcb538c263c892db61/4eabba0063ea42c6ae2adb91f978d632.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6576409a105d396287d4075c4e77605e/2a388f8cd9f042ef8d78bd1767eefd7d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/21695ba47f663f5ea74c26729dd51f2f/4b0a3ebf7a204ca6a840c12bc5cdccc2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f9300ef6067b36419cdd3315044327a1/0cfba8e3a30e41edb0d6d12c86e3b446.jpg?imwidth=156"
+        ],
+        "brand": "Kaps",
+        "name": "Wkładki do butów",
+        "price": "52.99",
+        "sizes": [
+            "44",
+            "36",
+            "46",
+            "42",
+            "39",
+            "41",
+            "38",
+            "43",
+            "45",
+            "37",
+            "40"
+        ],
+        "additional_info": {
+            "Numer produktu": "KAQ15J009-B11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/bd34a6eec2ba469abb47ad179312d9a0/7aea160901664f3e838e70465bc42d6b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2c6d3c7155c543799c396b60688c2984/85fdb95a1dee4dbf896c82ccef842855.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2be07b161fcd45a8997840cb85f1eaca/e287dc89129247668bc08183bf83d03d.jpg?imwidth=156"
+        ],
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "49.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "181 g",
+            "Numer produktu": "ZL211J00R-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c62db092e27f4e44ad250a51ddc7137b/5565ce69332647aea054f2bccb67bff8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/97644a93985849c78251b9522c9c55a8/dc9b5c37d5834a638ea61d05d8e74117.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e34c3e36ad924bd8bd09981903a20120/3723fd5ef4614a5681ee014816295298.jpg?imwidth=156"
+        ],
+        "brand": "Solitaire",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "34.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "ZL211J00K-S11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/18fce9e9232349ffbd8284b7221d4772/b5454dbf6a97402bb22e7fd67b236a35.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9de906a62cb94c60afcd7d62ea14e1b6/2968accfc79746e1bd94cc48a2611b03.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cde4d1d6b414487888ea1add2d21b081/f4c2ceab262243269b0be632b01b037b.jpg?imwidth=156"
+        ],
+        "brand": "Urban Forest",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "42.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Numer produktu": "URR15J002-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c760cd28b18a4d02bc0dc688ac79fd46/d711fd053a0240f1abb425a16099e411.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1ca3b2dcee794c2a8b34bc113aa324c1/624ee2448bd1469aac3866db78f652bc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fca4b40c390142b28c274cbfb1552ac5/d1cc5830ba26499f87d2ff5b10d9b7ac.jpg?imwidth=156"
+        ],
+        "brand": "Pedag",
+        "name": "Produkty do pielęgnacji obuwia",
+        "price": "39.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kolor": "Bezbarwny",
+            "Waga": "110 g",
+            "Numer produktu": "PE715J019-A11"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/949223e5145b44af98a99aa6c27594ec/6957127a268b47f8acec0ab79c6e7065.jpg?imwidth=156&filter=packshot",
+            "https://mosaic03.ztat.net/prd/media/comet/RI/G3/4G/08/6S/11/VIDEO/PREVIEW_IMG/1701186630014.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/a2bf0959def84039b2a7aacb230db0d7/556a3abaa0a5434081c8de6712ea8cf2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1986259f6bc643d9a9387a9842514f13/33970468dbbd45eb98d2739e3298dbe7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6fe6bdb9b3dc46bf9500cc935e5e0429/5e5c52a027e743d0890137e010ed5318.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9174c60223b044fdb5500eaface42933/73d58801686c4be090db4d0f5a2e7752.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/028485b9351642c58a66288c6d613fc0/17d30a2595f2480bb11ee05ff6500c4c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9bf431d6ea124c7ba692864ebe601920/cd20c84734f34dfdbe311096582e2fe1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0cded42305b9448191572ace64331e9c/af6a078de5554fa89677cef7da483a43.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "98.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Rodzaj cery": "Wszystkie typy skóry",
+            "Uwaga": "The Ritual of Karma pianka pod prysznic w żelu 50ml. UWAGA: pojemnik pod ciśnieniem: Po podgrzaniu może pęknąć. Unikać kontaktu z oczami. W PRZYPADKU KONTAKTU Z OCZAMI: ostrożnie przepłukać wodą przez kilka minut. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Zakaz palenia. Nie przekłuwać ani nie spalić, nawet po zużyciu. Chronić przed światłem słonecznym. Nie wystawiać na działanie temperatur przekraczających 50°C/122 °F. Przechowywać w miejscu niedostępnym dla dzieci. 4% masy zawartości jest łatwopalna.",
+            "Numer produktu": "RIG34G086-S11",
+            "Składniki": "The Ritual of Karma Foaming Shower Gel: Aqua/Water, Sodium Coco-Sulfate, Sorbitol, Coco-Glucoside, Isopentane, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Isopropyl Palmitate, Parfum/Fragrance, PEG-120 Methyl Glucose Dioleate, Isobutane, Nelumbo Nucifera (Lotus) Flower Extract, Camellia Sinensis (White Tea) Leaf Extract, Citric Acid, Sodium Chloride, Sodium Benzoate, Glycerin, Guar Hydroxypropyltrimonium Chloride, Squalane, Silybum Marianum Seed Oil, Porphyra Umbilicalis Extract, Nannochloropsis Oculata Extract, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Potassium Sorbate, Sorbic Acid, Benzyl Salicylate, Limonene, Linalool, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Citral.\\n\\nThe Ritual of Karma Mild Body Scrub Paste: Aqua/Water, Cetearyl Alcohol, Kaolin, Hydrated Silica, Glycerin, Stearic Acid, Parfum/Fragrance, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Flower Extract, Bambusa Arundinacea Stem Extract, Macrocystis Pyrifera (Kelp) Extract, Aloe Barbadensis Leaf Juice, Phenoxyethanol, Sodium Stearoyl Glutamate, Xanthan Gum, Sodium Stearoyl Lactylate, Sodium Cetearyl Sulfate, Potassium Sorbate, Sodium Benzoate, Benzyl Salicylate, Polyacrylamide, Limonene, C13-14 Isoparaffin, Disodium EDTA, Ethylhexylglycerin, Hexyl Cinnamal, Laureth-7, Squalane, Citric Acid, Tocopherol, Sodium Chloride, Sodium Sulfate, Sorbic Acid, Linalool, Alpha-Isomethyl Ionone, Citronellol, Citral, CI 42090/Blue 1, CI 77891/Titanium Dioxide.\\n\\nThe Ritual of Karma 24h Hydrating Body Lotion: Aqua/Water, Ethylhexyl Stearate, Helianthus Annuus (Sunflower) Hybrid Oil, Glycerin, Xanthan Gum, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Flower Extract, Nannochloropsis Oculata Extract, Porphyra Umbilicalis Extract, Aloe Barbadensis Leaf Extract, Silybum Marianum Seed Oil, Parfum/Fragrance, Squalane, Cellulose, Sodium Stearoyl Glutamate, Microcrystalline Cellulose, Cellulose Gum, Alcohol, Phenoxyethanol, Benzyl Alcohol, Benzyl Salicylate, Limonene, Linalool, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Citronellol, Citral, Citric Acid, Sodium Hydroxide.\\n\\nThe Ritual of Karma Shimmering Body Oil: Caprylic/Capric Triglyceride, Polyamide-8, Parfum/Fragrance, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Aloe Barbadensis Leaf Extract, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate, Synthetic Fluorphlogopite, Silica, Tin Oxide, Squalane, Aqua/Water, Glycerin, Parfum/Fragrance, Benzyl Salicylate, Citral, Citronellol, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Limonene, Sodium Benzoate, Potassium Sorbate, Citric Acid, CI 77491/Iron Oxides, CI 77891/Titanium Dioxide."
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/510b18d220914c97959c3831a1fe51c2/550f90f43f1f444ab15be5a28eb110d1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2d7e1727a2c6496f85adc15738555380/2047873c34cf484ba7bbf25d703dced0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6cf494d31806403887b996df7653e88e/aedfefe9716e46f78c8456572bbbae6e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d984e6bf1c6f4306a76dad1c0d4ae8b5/eb1cdd4579d146499074d4d0fc94e6ec.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d5667ee5577e4523bf2144421f75f73b/3e2f037d43ea4b4183d3c76ea2f06148.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/35b507ef14574ea5af085cf12164fbfe/3ded50329bc040d4aa3cf1aab5dddab2.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "161.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Rodzaj cery": "Wszystkie typy skóry",
+            "Uwaga": "Pianka pod prysznic w żelu Ritual of Karma. UWAGA! Pojemnik pod ciśnieniem: Może pęknąć po podgrzaniu. Unikać kontaktu z oczami. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu. Nie przekłuwać ani nie spalać, nawet po użyciu. Chronić przed światłem słonecznym. Nie wystawiać na działanie temperatury przekraczającej 50°C/122°F. Przechowywać w miejscu niedostępnym dla dzieci. 4% masy zawartości jest łatwopalne. ~ The Ritual of Karma świeca zapachowa 140g do zestawów upominkowych. Zawiera: Cis-4-Tert-Butylcyclohexyl Acetate, Benzyl Salicylate, Citronellol, Piperonal, Linalyl Acetate, 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8, 8-Tetrametylo-2-Naftylo)Etan-1-One, 3-Metylo-4-(2,6,6-Trimetylo-2-Cykloheksen-1-ylo)-3-Buten-2-One, 3-PCumenyl-2-Methylpropionaldehyde, Linalool, (E)-2-Methoxy-4-(Prop-1-Enyl) Phenol, (d)-Limonene, (2E)-2-(Phenylmethylidene)Octanal. Może powodować reakcję alergiczną. ~ Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. Unikać uwolnienia do środowiska. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych.",
+            "Numer produktu": "RIG34G08E-S11",
+            "Składniki": "The Ritual of Karma Foaming Shower Gel: Aqua/Water, Sodium Coco-Sulfate, Sorbitol, Coco-Glucoside, Isopentane, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Isopropyl Palmitate, Parfum/Fragrance, PEG-120 Methyl Glucose Dioleate, Isobutane, Nelumbo Nucifera (Lotus) Flower Extract, Camellia Sinensis (White Tea) Leaf Extract, Citric Acid, Sodium Chloride, Sodium Benzoate, Glycerin, Guar Hydroxypropyltrimonium Chloride, Squalane, Silybum Marianum Seed Oil, Porphyra Umbilicalis Extract, Nannochloropsis Oculata Extract, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Potassium Sorbate, Sorbic Acid, Benzyl Salicylate, Limonene, Linalool, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Citral.\\n\\nThe Ritual of Karma 48h Hydrating Body Cream: Aqua/Water, Cetearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Propylheptyl Caprylate, Undecane, Helianthus Annuus (Sunflower) Seed Oil, Parfum/Fragrance, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Flower Extract, Aloe Barbadensis Leaf Juice, Macrocystis Pyrifera (Kelp) Extract, Betaine, Ubiquinone, Squalane, Sodium Hyaluronate, Tridecane, Glyceryl Stearate, Ceteareth-12, Cetyl Palmitate, Ceteareth-20, Isohexadecane, Propylene Glycol, Sodium Polyacrylate, Tocopherol, Allantoin, Caprylyl Glycol, Tocopheryl Acetate, Carbomer, Benzyl Salicylate, Citral, Citronellol, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Limonene, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Sorbic Acid, Citric Acid, Sodium Hydroxide.\\n\\nThe Ritual of Karma Softening Body Scrub: Maris Sal/Sea Salt, Ethylhexyl Stearate, Isopropyl Myristate, Carthamus Tinctorius (Safflower) Seed Oil, Parfum/Fragrance, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Macadamia Integrifolia Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa Kernel Oil, Persea Gratissima (Avocado) Oil, Macrocystis Pyrifera (Kelp) Extract, Nelumbo Nucifera (Lotus) Flower Extract, Aloe Barbadensis Leaf Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Squalane, Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Benzyl Salicylate, Citronellol, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Limonene, Sodium Benzoate, Potassium Sorbate, Citric Acid."
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/52113d7b38634afba899f70e6d1bfc67/bce3e8863d7d4835b025d4f207d982b5.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a1971f64287e4dbbbc6db8e9fe09733a/eb45a5faaaa341bdbb285bbbe5860dc8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3a34ecf6d0da4b90a95377b1e814cfe8/36dc8fe1ca934e55ba3891ea36cd3601.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8e94477d9ed7422380a9e86786178f79/91dfa9f4503c4217ababbef025f3931f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a87a757605884b549cd9336cfd9e57a9/aa2a21e4afb54fa5b412d7fc25e10412.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0d0f9dc12f74481a86ceaf293d0e9d2a/517c6979743e421bbfe0e67beb7c6b97.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/89898521ab7a406a8cf456e21f1cfcfe/e0eb41e30fc64f728415ec5dbed32f55.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "189.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Rodzaj cery": "Wszystkie typy skóry",
+            "Uwaga": "Pieniący się żel pod prysznic The Ritual of Mehr. UWAGA! Pojemnik pod ciśnieniem: Może pęknąć po podgrzaniu. Unikać kontaktu z oczami. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu w pobliżu. Nie przekłuwać ani nie podpalać, nawet po użyciu. Chronić przed światłem słonecznym. Nie wystawiać na działanie temperatury przekraczającej 50°C/122°F. Przechowywać w miejscu niedostępnym dla dzieci. 5,2% masy zawartości jest łatwopalne. ~ Świeca zapachowa Ritual of Mehr 140 g do zestawów upominkowych. UWAGA! Może powodować reakcję alergiczną skóry. Działa toksycznie na organizmy wodne, powodując długotrwałe skutki. Unikać uwolnienia do środowiska. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. Jeśli wystąpi podrażnienie skóry lub wysypka: Zasięgnąć porady/zgłosić się pod opiekę lekarza. Zawartość/pojemnik usunąć do punktu zbiórki odpadów niebezpiecznych. ~ ZAWIERA: Eugenol; [3R-(3α,3aβ,6β,7β,8aα)]-Octahydro-6-Methoxy-3,6,8,8-Tetramethyl-1H-3a,7-Methanoazulene; Linalyl Acetate; 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-Tetramethyl-2-Naphthyl)Ethan-1-One; Linalool; α-Methylcinnamaldehyde; Cinnamaldehyde.",
+            "Numer produktu": "RIG34G08C-S11",
+            "Składniki": "The Ritual of Mehr Foaming Shower Gel: Aqua/Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sorbitol, Isopentane, Isopropyl Palmitate, Parfum/Fragrance, Isobutane, PEG-120 Methyl Glucose Dioleate, Juniperus Virginiana Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Sodium Chloride, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Glycerin, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Tocopherol, Citronellol, Hexyl Cinnamal, Limonene, Linalool.\\n\\nThe Ritual of Mehr Body Cream: Aqua/Water, Cetearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Propylheptyl Caprylate, Undecane, Helianthus Annuus (Sunflower) Hybrid Oil, Parfum/Fragrance, Citrus Aurantium Dulcis (Orange) Flower Extract, Cedrus Atlantica Wood Extract, Tocopheryl Acetate, Tocopherol, Allantoin, Ubiquinone, Tridecane, Isohexadecane, Cetyl Palmitate, Ceteareth-20, Glyceryl Stearate, Propylene Glycol, Carbomer, Sodium Polyacrylate, Ceteareth-12, Phenoxyethanol, Caprylyl Glycol, Potassium Sorbate, Linalool, Limonene, Hexyl Cinnamal, Citronellol, Coumarin, Sodium Hydroxide.\\n\\nThe Ritual of Mehr Body Scrub: Sucrose, Ethylhexyl Stearate, Isopropyl Myristate, Carthamus Tinctorius (Safflower) Seed Oil, Persea Gratissima (Avocado) Oil, Parfum/Fragrance, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citrus Aurantium Dulcis (Orange) Peel Powder, Citrus Aurantium Amara (Bitter Orange) Flower Extract, Juniperus Mexicana Wood Oil, Argania Spinosa Kernel Oil, Macadamia Integrifolia Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Glycerin, Aqua/Water, Citronellol, Hexyl Cinnamal, Linalool, Limonene."
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/22a53d909f56404dab75baac8596094b/bb80ebe3982742dda70f307861a1a50a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9fc6b3915b1f424bbe0cd09447954309/04be76c17abd4875b065447e915fd84e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cd0d52c2e3574f63a410368b9040d635/155350e9463f4e30b543293de7da9dbd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/40ba397f9711426481a34b98eec5c3b2/d13079e2058e46a9abcb62b3e564c3bd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c1b104a3645f42a399a84a09d2ecf2ec/82baca7fbf3f4535a1515ff990ca8873.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1716bc142bb54d0cbf9980a6c9189825/d649e84ae54a49d786eafe3806d69172.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7e135c62619b4cc19ec8c22313354392/172ce6fa61de4740b41432fa0504e4a1.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "203.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Rodzaj cery": "Wszystkie typy skóry",
+            "Uwaga": "Pianka pod prysznic w żelu Ritual of Karma. UWAGA! Pojemnik pod ciśnieniem: Może pęknąć po podgrzaniu. Unikać kontaktu z oczami. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu. Nie przekłuwać ani nie spalać, nawet po użyciu. Chronić przed światłem słonecznym. Nie wystawiać na działanie temperatury przekraczającej 50°C/122°F. Przechowywać w miejscu niedostępnym dla dzieci. 4% masy zawartości jest łatwopalne. ~ Ritual of Karma mini patyczki zapachowe. UWAGA! Wysoce łatwopalna ciecz i para. Powoduje poważne podrażnienie oczu. Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu. Zawartość/pojemnik usuwać do odpowiedniego punktu zbiórki. Przechowywać w miejscu niedostępnym dla dzieci. Unikać kontaktu z meblami, skórą lub wykończonymi powierzchniami drewnianymi. W przypadku rozlania płynu, natychmiast go usunąć. ~ ZAWIERA: Dipentene, Linalyl Acetate, Linalool, Piperonal, Cis-4-Tert-Butylcyclohexyl Acetate, Citronellol, 3-P-Cumenyl-2-Methylpropionaldehyde, Pin-2(10)-Ene, 1-(2, 6,6-trimetylo-1,3-cykloheksadien-1-ylo)-2-buten-1-on, 3-metylo-4-(2,6,6-trimetylo-2-cykloheksen-1-ylo)-3-buten-2-on, 2-(4-tert-butylobenzylo)propionaldehyd. Może powodować reakcję alergiczną. ~ Ritual of Karma Scented Candle 140g for Gift Sets Zawiera Cis-4-Tert-Butylcyclohexyl Acetate, Benzyl Salicylate, Citronellol, Piperonal, Linalyl Acetate, 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8, 8-Tetrametylo-2-Naftylo)Etan-1-One, 3-Metylo-4-(2,6,6-Trimetylo-2-Cykloheksen-1-ylo)-3-Buten-2-One, 3-PCumenyl-2-Methylpropionaldehyde, Linalool, (E)-2-Methoxy-4-(Prop-1-Enyl) Phenol, (d)-Limonene, (2E)-2-(Phenylmethylidene)Octanal. Może powodować reakcję alergiczną. ~ Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. Unikać uwolnienia do środowiska. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych.",
+            "Numer produktu": "RIG34G089-S11",
+            "Składniki": "The Ritual of Karma Foaming Shower Gel: Aqua/Water, Sodium Coco-Sulfate, Sorbitol, Coco-Glucoside, Isopentane, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Isopropyl Palmitate, Parfum/Fragrance, PEG-120 Methyl Glucose Dioleate, Isobutane, Nelumbo Nucifera (Lotus) Flower Extract, Camellia Sinensis (White Tea) Leaf Extract, Citric Acid, Sodium Chloride, Sodium Benzoate, Glycerin, Guar Hydroxypropyltrimonium Chloride, Squalane, Silybum Marianum Seed Oil, Porphyra Umbilicalis Extract, Nannochloropsis Oculata Extract, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Potassium Sorbate, Sorbic Acid, Benzyl Salicylate, Limonene, Linalool, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Citral.\\n\\nThe Ritual of Karma 48h Hydrating Body Cream: Aqua/Water, Cetearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Propylheptyl Caprylate, Undecane, Helianthus Annuus (Sunflower) Seed Oil, Parfum/Fragrance, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Flower Extract, Aloe Barbadensis Leaf Juice, Macrocystis Pyrifera (Kelp) Extract, Betaine, Ubiquinone, Squalane, Sodium Hyaluronate, Tridecane, Glyceryl Stearate, Ceteareth-12, Cetyl Palmitate, Ceteareth-20, Isohexadecane, Propylene Glycol, Sodium Polyacrylate, Tocopherol, Allantoin, Caprylyl Glycol, Tocopheryl Acetate, Carbomer, Benzyl Salicylate, Citral, Citronellol, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Limonene, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Sorbic Acid, Citric Acid, Sodium Hydroxide."
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ed46dc4b9771484ea15b9abfa8f83fa3/d1d1e914d87f4e4493ab517dd935a43c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d35bea5cff674dc49d5dd24962e0c84c/376a40db57694b258c56145c4ac3e819.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d4a788e7d7f74f2f8280c579ca46a2b9/8d77e71d08ee42c5b1e87bc42c56d693.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/85da25ffca2048beafbc99a0121c623c/8c69d63a537640b3924cdd10d85fd168.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b282675b55664fd692eb0209ee6b7930/3071dca3a91b40cd80d47f55807ad2d8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4a9e9544cfcc40b48f0c634c2435ae14/e86cacc809bd460781a6b8c8cdb69847.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "309.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Uwaga": "Suede Vanilla mini patyczki zapachowe z butelką. UWAGA! Wysoce łatwopalna ciecz i opary. Może powodować reakcję alergiczną skóry.  Powoduje poważne podrażnienie oczu. W razie konieczności zasięgnięcia porady lekarza należy mieć pod ręką pojemnik lub etykietę produktu. Przechowywać poza zasięgiem dzieci. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Zakaz palenia. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie opłukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeśli są i można to łatwo zrobić. Kontynuować płukanie. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. ~ Zawiera: Trans-Rose Ketone-3, Citronellol, Coumarin, Linalyl Acetate, Ethyl 2,2-Dimethylhydrocinnamal, Linalool. ~ Świeca zapachowa Suede Vanilla 360 g do zestawów upominkowych. UWAGA! Może powodować reakcję alergiczną skóry. Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. Przechowywać poza zasięgiem dzieci. Unikać uwolnienia do środowiska. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. Jeśli wystąpi podrażnienie skóry lub wysypka: Zasięgnąć porady/zgłosić się pod opiekę lekarza. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. ~ Zawiera; 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-Tetramethyl-2-Naphthyl)Ethan-1-One; Amyl Cinnamic Aldehyde; Ethyllinalool; Citronellol; (+)-(1S,2S,3S,5R)-2,6,6-Trimethylbicyclo[3. 1.1]Heptane-3-Spiro-1'-(Cyclohex-2'-En-4'-One); [1α(E),2β]-1-(2,6,6-Trimethylcyclohex-3-En-1-Yl)But-2-En-1-One ; Chromen-2-One. ~ Suede Vanilla Home Perfume 250ml do zestawów upominkowych. UWAGA! Wysoce łatwopalna ciecz i pary. Może powodować reakcję alergiczną skóry.  Powoduje poważne podrażnienie oczu. W razie konieczności zasięgnięcia porady lekarza należy mieć pod ręką pojemnik lub etykietę produktu. Przechowywać w miejscu niedostępnym dla dzieci. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu w pobliżu. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeśli są i można to łatwo zrobić. Kontynuować płukanie. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. Unikać kontaktu zapachu z meblami, skórą lub wykończonymi powierzchniami drewnianymi. W przypadku rozlania płynu, natychmiast posprzątać. ~ ZAWIERA: Linalool, Citronellol, Linalyl acetate, Trans-Rose ketone-3 (trans-delta-Damascone).",
+            "Numer produktu": "RIG34I02T-S11",
+            "Składniki": "Suede Vanilla Mini Fragrance Sticks Bottle DANGER. Highly flammable liquid and vapour. May cause an allergic skin reaction.   Causes serious eye irritation.  If medical advice is needed, have product container or label at hand.  Keep out of reach of children.  Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  IF ON SKIN: Wash with plenty of water/soap.  IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.  Dispose of contents/container to the hazardous waste collection point. \\n\\nCONTAINS Trans-Rose Ketone-3, Citronellol, Coumarin, Linalyl Acetate, Ethyl 2,2-Dimethylhydrocinnamal, Linalool.\\n\\nSuede Vanilla Scented Candle 360g for Gift Sets WARNING.  May cause an allergic skin reaction.  Harmful to aquatic life with long lasting effects. Keep out of reach of children. Avoid release to the environment. IF ON SKIN: Wash with plenty of water/soap. If skin irritation or rash occurs: Get medical advice/attention. Dispose of contents/container to the hazardous waste collection point.\\n\\nContains 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-Tetramethyl-2-Naphthyl)Ethan-1-One; Amyl Cinnamic Aldehyde; Ethyllinalool; Citronellol; (+)-(1S,2S,3S,5R)-2,6,6-Trimethylbicyclo[3.1.1]Heptane-3-Spiro-1'-(Cyclohex-2'-En-4'-One); [1α(E),2β]-1-(2,6,6-Trimethylcyclohex-3-En-1-Yl)But-2-En-1-One ; Chromen-2-One.\\n\\nSuede Vanilla Home Perfume 250ml for Gift Sets DANGER. Highly flammable liquid and vapour. May cause an allergic skin reaction.   Causes serious eye irritation.  If medical advice is needed, have product container or label at hand.  Keep out of reach of children.  Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  IF ON SKIN: Wash with plenty of water/soap.  IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.  Dispose of contents/container to the hazardous waste collection point. Avoid contact of fragrance with furniture, leather or finished wood surfaces. In case any fluid spills, clean up immediately. \\n\\nCONTAINS Linalool, Citronellol, Linalyl acetate, Trans-Rose ketone-3 (trans-delta-Damascone)."
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Obuwie Męskie",
+        "subcategory": "Akcesoria do butów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d3a464628bf140f28f627886a44c11ac/362fb1dfbf434f648edf0e10eea9cbd4.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f2ca3d70d10341318d4d091d241c15ce/9f2134763cb842f8aca7c3244ffd82ce.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/992a57bbe5be47c080ae8821719e4828/c0a5417ca43f4f689298a15b6f17549d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9d4216f9e51d4de7b1eb5ac11a12e8a4/cfc7b5d5a5b24796ac5b37fa37fb6d54.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8668d2bc55bf4dea8b3c3d2a6a5bd739/f1b3c42c196e474aa350f08797b8d16f.jpg?imwidth=156"
+        ],
+        "brand": "Rituals",
+        "name": "Zestaw do kąpieli",
+        "price": "309.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Uwaga": "Savage Garden mini patyczki zapachowe z butelką. UWAGA! Wysoce łatwopalna ciecz i opary. Może powodować reakcję alergiczną skóry.  Powoduje poważne podrażnienie oczu. Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. W razie konieczności zasięgnięcia porady lekarza należy mieć pod ręką pojemnik lub etykietę produktu. Przechowywać w miejscu niedostępnym dla dzieci. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu w pobliżu. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeśli są i można to łatwo zrobić. Kontynuować płukanie. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. Unikać kontaktu zapachu z meblami, skórą lub wykończonymi powierzchniami drewnianymi. W przypadku rozlania płynu, natychmiast posprzątać. ~ Świeca zapachowa Savage Garden 360 g w zestawach upominkowych. UWAGA! Może powodować reakcję alergiczną skóry. Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. Unikać uwolnienia do środowiska. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. Jeśli wystąpi podrażnienie skóry lub wysypka: Zasięgnąć porady/zgłosić się pod opiekę lekarza. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. ~ Zawiera Tetramethyl Acetyloctahydronaphtalenes; Tetrahydrolinalool; Geranyl Acetate; Nerol; Linalyl Acetate; Cineole. ~ Savage Garden Home Perfume 250ml w zestawie upominkowym. UWAGA! Wysoce łatwopalna ciecz i pary. Może powodować reakcję alergiczną skóry.  Powoduje poważne podrażnienie oczu. Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki. W razie konieczności zasięgnięcia porady lekarza należy mieć pod ręką pojemnik lub etykietę produktu. Przechowywać w miejscu niedostępnym dla dzieci. Przechowywać z dala od źródeł ciepła, gorących powierzchni, iskier, otwartego ognia i innych źródeł zapłonu. Nie palić tytoniu. Unikać uwolnienia do środowiska. W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody/mydła. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeśli są i można to łatwo zrobić. Kontynuować płukanie. Jeśli podrażnienie oczu utrzymuje się: Zasięgnąć porady/zgłosić się pod opiekę lekarza. Zawartość/pojemnik usuwać do punktu zbiórki odpadów niebezpiecznych. Unikać kontaktu zapachu z meblami, skórą lub wykończonymi powierzchniami drewnianymi. W przypadku rozlania płynu, natychmiast usunąć. ~ ZAWIERA Tetramethyl Acetyloctahydronaphthalenes, Tetrahydrolinalool, Linalyl Acetate, Eucalyptol, Cis-4-Tert-Butylcyclohexyl Acetate.",
+            "Numer produktu": "RIG34I02S-S11",
+            "Składniki": "Savage Garden Mini Fragrance Sticks Bottle DANGER. Highly flammable liquid and vapour. May cause an allergic skin reaction.   Causes serious eye irritation.   Harmful to aquatic life with long lasting effects. If medical advice is needed, have product container or label at hand.  Keep out of reach of children.  Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  IF ON SKIN: Wash with plenty of water/soap.  IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.  Dispose of contents/container to the hazardous waste collection point. Avoid contact of fragrance with furniture, leather or finished wood surfaces. In case any fluid spills, clean up immediately.\\n\\nSavage Garden Scented Candle 360g for Gift Sets WARNING. May cause an allergic skin reaction. Harmful to aquatic life with long lasting effects. Avoid release to the environment. IF ON SKIN: Wash with plenty of water/soap. If skin irritation or rash occurs: Get medical advice/attention. Dispose of contents/container to the hazardous waste collection point.\\n\\nContains Tetramethyl Acetyloctahydronaphtalenes; Tetrahydrolinalool; Geranyl Acetate; Nerol; Linalyl Acetate; Cineole.\\n\\nSavage Garden Home Perfume 250ml for Gift Sets DANGER. Highly flammable liquid and vapour. May cause an allergic skin reaction.   Causes serious eye irritation.   Harmful to aquatic life with long lasting effects. If medical advice is needed, have product container or label at hand.  Keep out of reach of children.  Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  Avoid release to the environment.  IF ON SKIN: Wash with plenty of water/soap.  IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.  If eye irritation persists: Get medical advice/attention.   Dispose of contents/container to the hazardous waste collection point. Avoid contact of fragrance with furniture, leather or finished wood surfaces. In case any fluid spills, clean up immediately. \\n\\nCONTAINS Tetramethyl Acetyloctahydronaphthalenes, Tetrahydrolinalool, Linalyl Acetate, Eucalyptol, Cis-4-Tert-Butylcyclohexyl Acetate."
+        }
+    }
+]

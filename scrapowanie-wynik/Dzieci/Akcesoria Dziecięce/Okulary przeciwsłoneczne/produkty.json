@@ -1,0 +1,737 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/808eb3acc0bc4a018ceee21991dca89b/e9182da583af4296886d46033a505c81.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/78bc78ae7ae74e9b8fd063873e0aa3c5/0f8e86f809b74d7ea28ba8da4026fbd2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1f11a36c3c5a4093941e0c7c034114c0/0983091747c7475e8f880d1e6a483566.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/893d488acb2e48dd957e4de44e15b3ac/fac1168151734f6aa6c173c453418a0e.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "269.00",
+        "sizes": [
+            "43",
+            "45"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Kocie oczy",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G00I-Q11",
+            "Szerokość": "12.5 cm w rozmiarze 45",
+            "Długość zauszników": "13 cm w rozmiarze 45",
+            "Szerokość mostka": "1 cm w rozmiarze 45"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/338bb8e5df4940bfaebb9a3dca6d0ce7/7b3569abfad748fc83657463bf4cad94.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/218701f2c6994e16980f6d45fbce9310/4a53ad1a920b422380acb21cec77ddb8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c49602c889144acaad985721e05bbebe/32049b4ac7874e68b04b3ed059038227.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "41.00",
+        "sizes": [
+            "51",
+            "54"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Numer produktu": "NX353G014-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Versace",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "429.00",
+        "sizes": [
+            "48"
+        ],
+        "additional_info": {
+            "Materiał": "Oktan",
+            "Kształt okularów": "Prostokątne",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "1VE53G00M-M11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b1b754f35cbe3509951c671a48619a4b/4f36d3701d3e43ff9dc325c827f7e0ac.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d869ae715463779823c17ac0eedbb27/799f7af21f8645298809bcd067b7ea2e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/744d9cc47b223e728bc24a8419f86833/1b53db210d5b49419ff09b51ec37d25d.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "359.00",
+        "sizes": [
+            "44"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Nadruk zwierzęcy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G002-O11",
+            "Szerokość": "12.5 cm w rozmiarze 44",
+            "Długość zauszników": "13 cm w rozmiarze 44",
+            "Szerokość mostka": "1.5 cm w rozmiarze 44"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/527ac09771c14103b0e45453a1ca25c8/af6e83a75e7940b381596b455f7ee0d4.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/062373f8582d4d719ebc0a839bb8a55f/bc4e47e0b29f464484260aa97a44423e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/362b562a29ab40d09d89fba903c86c72/580b0ba670d24e909639a5b6ad7c626d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9c348b13ab874c02b97bfa19b00985aa/261281b8c0b84c3fb752af441f7db7f6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b220e6f842324634868164f7ffcbe607/3943889c987f4300a16a7cddac8a062a.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "319.00",
+        "sizes": [
+            "52"
+        ],
+        "additional_info": {
+            "Materiał": "Metal",
+            "Kształt okularów": "Pilot (kształt kropli wody)",
+            "Wzór": "Gradientowy",
+            "Kategoria filtra": "Średnie przyciemnienie (kategoria 2)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G004-F13",
+            "Szerokość": "12.8 cm w rozmiarze 52",
+            "Długość zauszników": "11.7 cm w rozmiarze 52",
+            "Szerokość mostka": "2 cm w rozmiarze 52"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Versace",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "429.00",
+        "sizes": [
+            "50"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Prostokątne",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "1VE53O007-Q11",
+            "Szerokość": "12.6 cm w rozmiarze 50",
+            "Długość zauszników": "12.6 cm w rozmiarze 50",
+            "Szerokość mostka": "1.6 cm w rozmiarze 50"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/78d1370a29c54756ad8ebac300488018/055e1ee9c6dc4bf5ad8862a3a669b33d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/403767cb6e99436d8ab56bd2991ed45e/d9ea273af49743078e05f85a6934a7ed.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9dbb5147c51741118fb33d5a1d77ed58/7a8ea387acc942c982c61ac4d2ca211a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/99bcd8bb5a9747b4ac9348de2af44e68/433fb8994ab0496caa8a543c98b3e666.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bb9299ec40684998b2281760326d9897/d4a1b248d432402789ada7e1e7b15494.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "287.00",
+        "sizes": [
+            "47"
+        ],
+        "additional_info": {
+            "Materiał": "Tworzywo sztuczne",
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "RA253O006-D11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/39e2bc01f18f483eae52b63de2a2136d/f90299a6d4c24021bfc22128759e7ad9.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7c4f9509599e4a438231b0a123315864/f928382b1b0644fcb23ace3e08ca88ab.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3465bc0236f04d80bff65e55de1abcba/296d83be33844a2a9f6b8d9bd826cedd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d7587a58976d4e53ba865ac3ea3f9e7f/f79b31888e894561a69469bccedebdca.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "359.00",
+        "sizes": [
+            "48"
+        ],
+        "additional_info": {
+            "Materiał": "Metal",
+            "Kształt okularów": "Okrągłe",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O00B-K11",
+            "Szerokość": "12.8 cm w rozmiarze 48",
+            "Długość zauszników": "12.9 cm w rozmiarze 48",
+            "Szerokość mostka": "1.8 cm w rozmiarze 48"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f10fd3ad94c44350894547c2556e0753/f66647babb404e3ca4fcd9472740114f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4c7440a9e50a4ebe827be4e8039289ad/7a6e8ebfe6854e7fb8db67a8f68fbc3d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/95fdb5edbaf04e7ca3ca750da7f72bac/25638aee63bb4a6985c2733aece5cdc5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a19a6058dd5e40e692bf93d394102950/4c1f8707b0ba45da966e6136a344030d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/aa9a8329c5a349b3bf2cd34adf4c0aa0/0fe093187669410888923771fc278098.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "305.00",
+        "sizes": [
+            "46"
+        ],
+        "additional_info": {
+            "Materiał": "Oktan",
+            "Kształt okularów": "Trapez",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O003-O11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6fd818fe57834afaa62d549a10624670/a989345f65a14a47adbf3bac3bb434a0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2cb15597da2c43df9dadd7fc268f91c1/e8935f3410794148905b6b840f0fe8cc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/03f50374c7aa46f59335a75d19ca9b0a/1778977b7c374f4ea66eed9c4c4f9714.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fc539bb85f69495fa5c195664ad9120e/b172d6e608674a37b6ee7bf64dbf785e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ad5ae7bdbe59421c8a5a04c8a22462f9/978ab9b83366408c84ab4ba1de928367.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "309.00",
+        "sizes": [
+            "45"
+        ],
+        "additional_info": {
+            "Materiał": "Poliamid",
+            "Kształt okularów": "Prostokątne",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O002-Q11",
+            "Szerokość": "12 cm w rozmiarze 45",
+            "Długość zauszników": "13 cm w rozmiarze 45",
+            "Szerokość mostka": "1.3 cm w rozmiarze 45"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Versace",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "479.00",
+        "sizes": [
+            "45"
+        ],
+        "additional_info": {
+            "Materiał": "Oktan",
+            "Kształt okularów": "Owalne",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "1VE53G00L-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c32f86b5baa23ed9841f542a82e579a9/30624b9c00744998951134aaca4bb879.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e120059178fc3c8d8ecd941a1e9e610c/0f062108533343c2b1bbb619024fd663.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4f74659e80643397b1ff776453c8f8a9/2d8e6d8f8a4944108dfcf91fde4663db.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5a41ccac325a3776b803f5c6adbe7b31/2507246287c64c89a856447e9bcf886a.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "329.00",
+        "sizes": [
+            "46"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G009-Q11",
+            "Szerokość": "12.5 cm w rozmiarze 46",
+            "Długość zauszników": "13 cm w rozmiarze 46",
+            "Szerokość mostka": "1 cm w rozmiarze 46"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/13502d4d0b974d92b51d7b72664b823c/9102ab051d6d4df8bd1d2955fec47153.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/20e185167e12466bb84df41707e62736/7d89b304741b4d5799d251f8a38e1247.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/efe8a5e8df88431b9469b19fffe43b3c/ee72c97edcea47f794d67742fce8bc08.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8138fb1e39c341dc97f0000e295849c9/49b30da207374c8292ce1c46db76d29f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/97fc7c349e074b4193ec56f5a084e86f/ba201cb33d7e4198a744e5d506103e4c.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "271.00",
+        "sizes": [
+            "41"
+        ],
+        "additional_info": {
+            "Materiał": "Poliamid",
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Gradientowy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O004-M11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/19db5530277842e8bcc35a9170fd7214/a75b06ba63e4415bb7cad52ebffed32a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d44d77749b624851add8463d2c0be600/b7b6b631ad7847d682962e01f387a9fe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2735a84f5cee450887f492d8e871e5b7/35e34b4e9f684438b735545bc1267c4e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8fa76f7db0b44a32a2d7c99d61fa9a1d/3b07c3b07ce741228a0dea729768ba7b.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "41.00",
+        "sizes": [
+            "58",
+            "56",
+            "51",
+            "54"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Trapez",
+            "Wzór": "Gradientowy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Numer produktu": "NX353O018-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f464b557f5104ff5a36dc14b2ffef728/57b6406937484929b7025aff993495dc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/816b83f4a5db456fbf13164b27c388ba/68929dfc438848d89c2b54f2c15c5510.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/10ef4b7eb0194909bde289575c08da93/e26a1b2cae0249d5b9633e56017914d4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9cac433d12454e21af4be7616cee52aa/c214ea7bf55145aa9768df6d7a721d3d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/023e9c1ebdd6412ba2b6e64fc3b6fff9/226e3e277fcb4d5387d1905553429d80.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "319.00",
+        "sizes": [
+            "48"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Trapez",
+            "Wzór": "Gradientowy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G00B-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Mini Rodini",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "175.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Numer produktu": "MR153G001-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/df1c462217894f7f91d56636f9a39b65/a57b690d1de342b98186581debd47850.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7298d58959014a2d991fd601267ffeda/89f97331e1e04cd492e539ff20f3fd72.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/66a0da37df1f48bea4863e48a397d7e1/281b94f873d647f0b6bc5c1daba12bb7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ae1877719e5b40c7b484151ef7b95b4d/2e8ac2d77cb24672947724769da5acb6.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "239.00",
+        "sizes": [
+            "46"
+        ],
+        "additional_info": {
+            "Materiał": "Poliamid",
+            "Kształt okularów": "Trapez",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O009-C11",
+            "Szerokość": "12.5 cm w rozmiarze 46",
+            "Długość zauszników": "13 cm w rozmiarze 46",
+            "Szerokość mostka": "1.1 cm w rozmiarze 46"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0eafd8e499344c279e2cea2409dafd9e/7ccb4cdcd96e447f8b4efac40504b5d0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/6ea3693ad9fc48a1abd4ed49f93d3be9/daea4738069941caa65ce0e1cf95f1ac.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/06e576e16f834c6cad77dd2e48707221/68bb57921e8e41ca98d1be4eb2f9ca1c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/59d2a2b64b9948f7b1044c811d3ba170/8d206c16f6fa40af91c8f91b634e0847.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "41.00",
+        "sizes": [
+            "51",
+            "54"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Kategoria filtra": "Średnie przyciemnienie (kategoria 2)",
+            "Filtr UV": "Tak",
+            "Numer produktu": "NX353G014-A11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/39bef3942ef84c43adf594ea3c3bd471/86368b5fd5ad4b0298ef30cd680738bc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/322e2af51845425e8f3d156c851a61e3/36c13bfece174b16b984da4d8fa4a19b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e97e99851ecc4ac0bec2e1b45c74b5be/54e1c405b63a42e99bb6731e13d27c04.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5c38936500084854b63419be7b3aa82d/1223de4e711c4d16a8c9ca87f286f23b.jpg?imwidth=156"
+        ],
+        "brand": "Molo",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "159.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Jedna szybka",
+            "Wzór": "Kolorowy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Numer produktu": "M8553O00H-K11",
+            "Szerokość": "12.7 cm w rozmiarze One Size",
+            "Długość zauszników": "12.4 cm w rozmiarze One Size",
+            "Szerokość mostka": "1.4 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/67794f3312d946199e1a589ccfecd51a/7665ef38498a4c79b31a4200569dfb10.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4148b3e58997443c8d95ca9dace51154/2b11836650bd44858ac2bd480311bc77.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/79e4e0b7c77c44fd922334a257d350d1/155fa9839ed14a43a5ca2c11f2ae56af.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/711e45cdfd7645509ac09796b9b2ba69/04ae9f6e730942b08cf652eaa8339617.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3013a49384ed4c62963bd45775565263/5c2cb03bfae9418c880cfd1c3dc4c4bd.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "319.00",
+        "sizes": [
+            "48"
+        ],
+        "additional_info": {
+            "Materiał": "Poliamid",
+            "Kształt okularów": "Trapez",
+            "Wzór": "Nadruk zwierzęcy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G001-O11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Versace",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "469.00",
+        "sizes": [
+            "45"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Owalne",
+            "Wzór": "Kolor jednolity",
+            "Kategoria filtra": "Lekkie przyciemnienie (kategoria 1)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "1VE53G00L-I11",
+            "Szerokość": "13.5 cm w rozmiarze 45",
+            "Długość zauszników": "13 cm w rozmiarze 45",
+            "Szerokość mostka": "1 cm w rozmiarze 45"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b593b187b6bd4b76b9d9f89d8665bdbb/6d6ddb720c1049fbb4fe556814aabb9f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9d5b6ef282fd43c6bf9af45482914273/791c4ee3666e442bbee8c4d8c734d74a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a1739b269fcd4041835ac3743cabbfcd/a368e24173df44a4b515bc48762b4012.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5b5b2574ddba474fbd2a7822f4ba600b/284bab16e98d41a6a0874d50aecb5c27.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d2071098243043f69bce3248d21fe488/c7530dc8abfa4015a51184683a5bbf2c.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "319.00",
+        "sizes": [
+            "49"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Trapez",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O005-H11",
+            "Szerokość": "13 cm w rozmiarze 49",
+            "Długość zauszników": "12.3 cm w rozmiarze 49",
+            "Szerokość mostka": "1.3 cm w rozmiarze 49"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/dce8e29ac8a848f6931f835c3fb38773/2376719bb871409cb2074983c2e65da8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/576219a03f3d47ca8a0ed747340a4f5b/ab11beaa58b84669ae2bf56e3a394bc6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/64131112bc4449cdbe6792ea9c18d201/28648914fd0441518c8fddd6865bd625.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "41.00",
+        "sizes": [
+            "56",
+            "51",
+            "54"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Prostokątne",
+            "Wygląd": "Wymienne szkła",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "NX351K02Q-J13"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2e4fb9a1a4ba4bfbaf57fec120baba16/d5784b0b48aa4a919bea00af855fcd38.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1b4d4babee6f4578a93a3b8a659f74a3/d22ad7057d0747af8f176131a651812c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2166364f2e4b44779656dde97c61f4de/8e11c42c2914492297a3191458c7e083.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b206398f163746bca6988231e5cb9ba9/f57ff85c23984bdfb2e7e9136e15ac8a.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "359.00",
+        "sizes": [
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "Metal",
+            "Kształt okularów": "Okrągłe",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253O00A-K11",
+            "Szerokość": "12 cm w rozmiarze 44",
+            "Długość zauszników": "12.8 cm w rozmiarze 44",
+            "Szerokość mostka": "1.8 cm w rozmiarze 44"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Versace",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "469.00",
+        "sizes": [
+            "45"
+        ],
+        "additional_info": {
+            "Materiał": "Oktan",
+            "Kształt okularów": "Owalne",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "1VE53G00L-G11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e8406d2147da487fb61d18b51cd099c1/368390687b914ba39e0ace02b71f3b90.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b4dad8823c8e4f2398140146bc01b9a6/9cf54852dc384c6b8009adf97a4cbac5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5c41eeaf434b41c19bcd1bacb20669ee/05e1641367c74a919ee8a5f541c9e6f1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/25462ea6f138481f90e49207fd9c4ed0/a36b21447c514692a8b9ed79f7aab7f8.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "55.00",
+        "sizes": [
+            "58",
+            "56"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Pilot (kształt kropli wody)",
+            "Wzór": "Gradientowy",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Numer produktu": "NX353G02F-K12"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cf4965fa0daf32dcba69daa2b6713e82/29dd3184240e4033bc286cdc34732a5f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/021a4e8a3b4f3e328241f20b873ec584/5a43ac1f1a374322868bf14e8c9bf861.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b28311bf46793b849e717b24499e39d1/ab2ef98c44e24ab6bb06d2fcbc19eddb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9262c795716a391b99216f3d5a4c434a/82ef6a1f9abc45869f02d9d90360a902.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "359.00",
+        "sizes": [
+            "44"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Okrągłe",
+            "Kategoria filtra": "Średnie przyciemnienie (kategoria 2)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G002-G11",
+            "Szerokość": "12.5 cm w rozmiarze 44",
+            "Długość zauszników": "13 cm w rozmiarze 44",
+            "Szerokość mostka": "1.5 cm w rozmiarze 44"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d7a6df253eaa3532b83e55dd4f6b4c92/a6d92334aab44c38b7ed2443ed9498cf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/70ebf818f1633fbd9b5c1d8ad6d2c5ee/36eb0a31de934b9da58bdbbe51e1aecc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9e523e2b199538928fcd6707baec689f/13f7000d1a7e4d2287f53594d504196e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d6b7e0ce42be3e36b0175a3e63da39fe/39483504fa4e454abc8b617ca3de16ce.jpg?imwidth=156"
+        ],
+        "brand": "Ray-Ban",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "319.00",
+        "sizes": [
+            "47",
+            "48"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Trapez",
+            "Kategoria filtra": "Mocne przyciemnienie (kategoria 3)",
+            "Etui do okularów": "Woreczek ze sznureczkiem",
+            "Numer produktu": "RA253G001-K11",
+            "Szerokość": "12.5 cm w rozmiarze 47",
+            "Długość zauszników": "13.5 cm w rozmiarze 47",
+            "Szerokość mostka": "0.7 cm w rozmiarze 47"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Okulary przeciwsłoneczne",
+        "images": [],
+        "brand": "Emporio Armani",
+        "name": "Okulary przeciwsłoneczne",
+        "price": "339.00",
+        "sizes": [
+            "48"
+        ],
+        "additional_info": {
+            "Kształt okularów": "Pilot (kształt kropli wody)",
+            "Kategoria filtra": "Średnie przyciemnienie (kategoria 2)",
+            "Filtr UV": "Tak",
+            "Etui do okularów": "Twarde etui",
+            "Numer produktu": "EA853O003-G11",
+            "Szerokość": "12.8 cm w rozmiarze 48",
+            "Długość zauszników": "12.5 cm w rozmiarze 48",
+            "Szerokość mostka": "1.2 cm w rozmiarze 48"
+        }
+    }
+]

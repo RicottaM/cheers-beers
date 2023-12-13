@@ -1,0 +1,90 @@
+Category ID;Active (0/1);Name *;Parent category;URL rewritten
+3000;1;Klapki;Obuwie Damskie;klapki
+3001;1;Botki;Obuwie Damskie;botki
+3002;1;Akcesoria do butów;Obuwie Damskie;akcesoria-do-butow
+3003;1;Czółenka;Obuwie Damskie;czolenka
+3004;1;Szpilki;Obuwie Damskie;szpilki
+3005;1;Obuwie sportowe;Obuwie Damskie;obuwie-sportowe
+3006;1;Płaskie buty;Obuwie Damskie;plaskie-buty
+3007;1;Kozaki;Obuwie Damskie;kozaki
+3008;1;Sandały i japonki;Obuwie Damskie;sandaly-i-japonki
+3009;1;Obuwie ślubne;Obuwie Damskie;obuwie-slubne
+3010;1;Obuwie outdoorowe;Obuwie Damskie;obuwie-outdoorowe
+3011;1;Sneakersy;Obuwie Damskie;sneakersy
+3012;1;Akcesoria;Sport Kobiety;akcesoria
+3013;1;Obuwie;Sport Kobiety;obuwie
+3014;1;Odzież;Sport Kobiety;odziez
+3015;1;Sprzęt;Sport Kobiety;sprzet
+3016;1;Plecaki i torby;Sport Kobiety;plecaki-i-torby
+3017;1;Pielęgnacja przeciwsłoneczna;Beauty Kobiety;pielegnacja-przeciwsloneczna
+3018;1;Paznokcie;Beauty Kobiety;paznokcie
+3019;1;Perfumy;Beauty Kobiety;perfumy
+3020;1;Higiena jamy ustnej;Beauty Kobiety;higiena-jamy-ustnej
+3021;1;Kalendarze adwentowe;Beauty Kobiety;kalendarze-adwentowe
+3022;1;Makijaż;Beauty Kobiety;makijaz
+3023;1;Zestawy;Beauty Kobiety;zestawy
+3024;1;Włosy;Beauty Kobiety;wlosy
+3025;1;Odzież sportowa;Odzież Damska;odziez-sportowa
+3026;1;Moda plażowa;Odzież Damska;moda-plazowa
+3027;1;Płaszcze;Odzież Damska;plaszcze
+3028;1;Skarpety i rajstopy;Odzież Damska;skarpety-i-rajstopy
+3029;1;Bielizna nocna i piżamy;Odzież Damska;bielizna-nocna-i-pizamy
+3030;1;Bluzy;Odzież Damska;bluzy
+3031;1;Spodnie;Odzież Damska;spodnie
+3032;1;Koszulki i topy;Odzież Damska;koszulki-i-topy
+3033;1;Spódnice;Odzież Damska;spodnice
+3034;1;Bluzki i koszule;Odzież Damska;bluzki-i-koszule
+3035;1;Kombinezony i ogrodniczki;Odzież Damska;kombinezony-i-ogrodniczki
+3036;1;Szorty;Odzież Damska;szorty
+3037;1;Jeansy;Odzież Damska;jeansy
+3038;1;Kurtki i marynarki;Odzież Damska;kurtki-i-marynarki
+3039;1;Sukienki;Odzież Damska;sukienki
+3040;1;Swetry i kardigany;Odzież Damska;swetry-i-kardigany
+3041;1;Okulary przeciwsłoneczne;Akcesoria Kobiety;okulary-przeciwsloneczne
+3042;1;Rękawiczki;Akcesoria Kobiety;rekawiczki
+3043;1;Paski;Akcesoria Kobiety;paski
+3044;1;Pozostałe;Akcesoria Kobiety;pozostale
+3045;1;Zegarki;Akcesoria Kobiety;zegarki
+3046;1;Parasole;Akcesoria Kobiety;parasole
+3047;1;Biżuteria;Akcesoria Kobiety;bizuteria
+3048;1;Torby i plecaki;Akcesoria Kobiety;torby-i-plecaki
+3049;1;Czapki i chusty na głowę;Akcesoria Kobiety;czapki-i-chusty-na-glowe
+3050;1;Okulary blokujące niebieskie światło;Akcesoria Kobiety;okulary-blokujace-niebieskie-swiatlo
+3051;1;Elektronika użytkowa;Akcesoria Kobiety;elektronika-uzytkowa
+3052;1;Szaliki;Akcesoria Kobiety;szaliki
+3053;1;Portfele i etui;Akcesoria Kobiety;portfele-i-etui
+3054;1;Ciało;Kosmetyki Mężczyźni;cialo
+3055;1;Golenie i strzyżenie;Kosmetyki Mężczyźni;golenie-i-strzyzenie
+3056;1;Twarz;Kosmetyki Mężczyźni;twarz
+3057;1;Ochrona przeciwsłoneczna;Kosmetyki Mężczyźni;ochrona-przeciwsloneczna
+3058;1;Zapachy;Kosmetyki Mężczyźni;zapachy
+3059;1;Obuwie biznesowe;Obuwie Męskie;obuwie-biznesowe
+3060;1;Obuwie sznurowane;Obuwie Męskie;obuwie-sznurowane
+3061;1;Obuwie letnie;Obuwie Męskie;obuwie-letnie
+3062;1;Obuwie z wysoką cholewką;Obuwie Męskie;obuwie-z-wysoka-cholewka
+3063;1;Dresy;Odzież Męska;dresy
+3064;1;Koszule;Odzież Męska;koszule
+3065;1;Garnitury i akcesoria;Odzież Męska;garnitury-i-akcesoria
+3066;1;Bielizna i skarpetki;Odzież Męska;bielizna-i-skarpetki
+3067;1;T-shirty i koszulki polo;Odzież Męska;t-shirty-i-koszulki-polo
+3068;1;Chusty i szaliki;Akcesoria Mężczyzni;chusty-i-szaliki
+3069;1;Akcesoria tech i audio;Akcesoria Mężczyzni;akcesoria-tech-i-audio
+3070;1;Krawaty i akcesoria;Akcesoria Mężczyzni;krawaty-i-akcesoria
+3071;1;Czapki i kapelusze;Akcesoria Mężczyzni;czapki-i-kapelusze
+3072;1;Bielizna i piżamy;Bielizna Dziecięca;bielizna-i-pizamy
+3073;1;Majtki;Bielizna Dziecięca;majtki
+3074;1;Biustonosze;Bielizna Dziecięca;biustonosze
+3075;1;Prezenty z okazji narodzin;Bielizna Dziecięca;prezenty-z-okazji-narodzin
+3076;1;Koszulki i T-shirty;Bielizna Dziecięca;koszulki-i-t-shirty
+3077;1;Odzież wierzchnia;Bielizna Dziecięca;odziez-wierzchnia
+3078;1;Body;Bielizna Dziecięca;body
+3079;1;Kombinezony i zestawy;Bielizna Dziecięca;kombinezony-i-zestawy
+3080;1;Kozaki i botki;Obuwie Dziecięce;kozaki-i-botki
+3081;1;Obuwie wsuwane;Obuwie Dziecięce;obuwie-wsuwane
+3082;1;Obuwie do kąpieli i klapki;Obuwie Dziecięce;obuwie-do-kapieli-i-klapki
+3083;1;Małe akcesoria;Akcesoria Dziecięce;male-akcesoria
+3084;1;Zegarki i biżuteria;Akcesoria Dziecięce;zegarki-i-bizuteria
+3085;1;Plecaki szkolne i akcesoria;Akcesoria Dziecięce;plecaki-szkolne-i-akcesoria
+3086;1;Akcesoria do włosów;Akcesoria Dziecięce;akcesoria-do-wlosow
+3087;1;Zabawki;Akcesoria Dziecięce;zabawki
+3088;1;Akcesoria dla niemowląt;Akcesoria Dziecięce;akcesoria-dla-niemowlat

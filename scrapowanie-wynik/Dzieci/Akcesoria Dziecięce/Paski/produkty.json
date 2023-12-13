@@ -1,0 +1,743 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/fb73f760afc832539eabbcadc1f5ff76/549c4bbbd17d455eb46fab64c9e2fba8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7f763f8a484031a7bbc285a33232e3ed/095e8950ed8b44a1a26180f54c39a40b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/07ab7312b51f330ba16ecc63631805bc/c0e8fccce9b24dd99b3ad920dbd85ee7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/290fb04e083a37e9a1a2613a0f00f5fa/f6e124f85a494e0a9e97e046f71e6905.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Koszula",
+        "price": "165.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Podszewka": "100% bawełna",
+            "Stan": "Standardowy",
+            "Kształt kołnierza": "Kołnierzyk klasyczny",
+            "Zapięcie": "Guziki",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX324D0OL-K11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0f672e5748534fd8afc5c68d147df89a/54daa43f532e401ca50e58f2bdb1e02a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c2abde1191784d0fa616520869b87180/458b73283f9b4e4ca0aae9adddd4ecb2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/396fd0ac02494fd08dbfa20376909ff3/71d29c045e7e4d67b072a1b14e37676f.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX - Pasek",
+        "price": "185.00",
+        "sizes": [
+            "74",
+            "59",
+            "55",
+            "82"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Klamra zaciskowa",
+            "Wzór": "Nadruk",
+            "Numer produktu": "GU153O004-Q11",
+            "Szerokość": "2 cm w rozmiarze 82"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/08acb27119cc30f3b370e815e083545a/085b2710c4cb4b9abdf395c156ee707c.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Pasek",
+        "price": "48.00",
+        "sizes": [
+            "58",
+            "56",
+            "57",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Numer produktu": "NX353E005-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e5374305a2594c27ad1972c588cb00e5/611a6d7b7f3d47538f723bcdf2f784b2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/51ca1a76b2084ad3ae1fd98cf158d74b/dd34a21602f24689983e5b62029bd682.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/04f101f6dc054d91a810dba6896d784c/24e13f29e5c4482db999f2ae4e8ebb86.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "BUCKLE UNISEX - Pasek",
+        "price": "149.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Kanwas",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Nadruk",
+            "Numer produktu": "C1853E00V-Q11",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d28716270acd4190babfdbf01123a74b/535bd03b14da4c3582ef12014636de8e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b3a2d875a17448408730dd7027c3a1f8/72bb2518d577474e997a82af363a9043.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/14cda4a7e27643bcbd8b8b4768cd78dc/46681913c08549fca4fbda1fb1c24c42.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Koszula",
+        "price": "165.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Dolna część": "100% bawełna",
+            "Górna część": "55% len, 45% bawełna",
+            "Podszewka": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie wybielać",
+            "Stan": "Standardowy",
+            "Kształt kołnierza": "Kołnierzyk klasyczny",
+            "Zapięcie": "Guziki",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX324D0OL-O11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f68de07a5e1b49c09f2d90e1a07f1f82/5c740e4cd26e49748c76921f0a61ddee.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9d3a5525a9904c8790179438f8c70c02/839add0444ba4e12b104c3f740730673.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5546d3090d1449dca036f9449cd5eceb/c9b1df4665f54267928fbca25576a5c5.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Pasek",
+        "price": "59.00",
+        "sizes": [
+            "85",
+            "55",
+            "75",
+            "65"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Tył": "100% poliuretan",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Nadruk",
+            "Numer produktu": "WF553O00B-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9d624564e28f4344988f0393ee64a6f7/8c426086cc0a4315be105c0b8598659a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e95e646c4be44c52adaa43146eebadff/176a45cdcda0427aac15f6f41f389875.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b30f7c98a3ba4f49a6e2c6787864e236/a13e6253dda946a99cd26c687e13a3e1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ff01ddbd02564a96af96824128120803/a3df60665d924159978d114fbbdd01ee.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fa0712fbe05741b0adafc7c1e993950d/837fca9a634b42df804bffab2530c08a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0bfdb316edfc42e7be76542c3c52f6a8/0fa2bd9a01b348208e489ecb08804dea.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3894c84ef45140cfb2dbbb0564f5d30b/4c6aa4d5d8d448de9d57390deb425066.jpg?imwidth=156"
+        ],
+        "brand": "Urban Classics",
+        "name": "Pasek",
+        "price": "54.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Kanwas",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UR653E000-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b4c965727c3b4ffcb40b335a991c5a2b/25aa6335b8a849a6a6d2b0214925bf16.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/09998c1bee464b9da6b5e9ffb2b6e314/f619fbe721ca4cc48d4d73af813bb83e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/23c06b1b6bd94b02aed313cad0a70d88/a2a7569a387b4646874c7b8bd0acd28b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1f8f3a700cb84306926f968ccfbda3da/cf588d4d6baa4e449de27f1ba7eb9314.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d8b5bfd4f6d948ed972b8a13c2bd6226/968258f2c95941dda45b20e720e64253.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/976ee98f0281462ca5a7b53df12ed922/7cfcebb6f8bc4d8880c8e2dc3e1cee2a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b6862b4621f04f73bbeeb2e24dce07e3/38d02a0a56ee488da48707c019a66f7e.jpg?imwidth=156"
+        ],
+        "brand": "Urban Classics",
+        "name": "Pasek",
+        "price": "54.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Kanwas",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UR653E000-Q12"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [],
+        "brand": "Versace",
+        "name": "Pasek",
+        "price": "769.00",
+        "sizes": [
+            "146",
+            "158",
+            "140",
+            "152"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Zapięcie": "Klamra zaciskowa",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "1VE53E00E-Q11",
+            "Szerokość": "3 cm w rozmiarze 140",
+            "Długość": "60 cm w rozmiarze 140"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cd1e0522e44533b298868449081bfe26/307f5d89f33e4f278ed595ff05a983fd.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Pasek",
+        "price": "48.00",
+        "sizes": [
+            "58",
+            "56",
+            "57",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "65% skóra, 14% nylon, 11% poliester, 10% elastan",
+            "Zapięcie": "Klamra zwykła",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353E000-Q11",
+            "Szerokość": "3 cm w rozmiarze 56"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/effe4737f28d4c748c9b7139ccc1e4f8/f7cf127e9f4849dda7639faab82b6348.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/fe79db03ff1545209486d4a54ad1c5a2/fee0bba2a6114077bcf620c412fe04af.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c361fd1d8edc4f30b1da5b9d2af7f653/a9fc4f0eda054a57aa9b3f6ebce56df6.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Pasek",
+        "price": "103.00",
+        "sizes": [
+            "52",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Klamra zaciskowa",
+            "Numer produktu": "C1853O006-C11",
+            "Szerokość": "3 cm w rozmiarze 52",
+            "Długość": "65 cm w rozmiarze 52"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6278d9ebfca745728071e7814d4c85ca/ed23886e723a46f291fc55eecb0221ed.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c30832d9deaa4a47ab8adcf9addd7741/63bfd805e702486187afe9f70f5bf9f8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dfbe3593d87a4fc286f4e6a192b6c22f/97042c2139af4c2fac8bc134b1566a97.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Pasek",
+        "price": "152.10",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliamid",
+            "Zapięcie": "Klamra automatyczna",
+            "Numer produktu": "TO153E02I-K11",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d8cb87be3b6443fbbe09edfb36b29556/5b7967216d9d4a09a5995d3c796525bb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3385481b00264a158d87566f1c86561a/e927b07cb647487598287e322340e9ce.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/15450922eb3b44cb847c04e60d708ccd/cb949ecb9ab4419f977fd526d4676af3.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "BELT UNISEX - Pasek",
+        "price": "97.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Klamra automatyczna",
+            "Numer produktu": "C1853E00F-I11",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0f2c3a6ca3ad4b9dbe2e1d3f9c1d7fe5/ef03fb2d872e4e5e9f1b0699fa74fb52.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c6c3eb20a2f24daa81a13be85d90621d/05fee4c5264c4e8d8ddb24dd15df4d73.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0c2c7aa880ab40c882297595a5a516d8/4e166590831d465484fe84a73b8ce149.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Pasek",
+        "price": "74.00",
+        "sizes": [
+            "55",
+            "75",
+            "65"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NA853E034-Q11",
+            "Szerokość": "3 cm w rozmiarze 65"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6d11869c4ef941da9b2f226dffa08173/c11548ced53441ec8f5ce347479dd902.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/85cfcbfc26104f76b0f05c550a702de4/97062121423d410982e1ac339f28a964.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eb5e402ed81047768fd14092d9dfcbfe/eb9374dc54a54daeb80b6773e079de64.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX - Pasek",
+        "price": "123.00",
+        "sizes": [
+            "74",
+            "59",
+            "55",
+            "82"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Klamra zaciskowa",
+            "Wzór": "Nadruk",
+            "Numer produktu": "GU153O004-J11",
+            "Szerokość": "1.70 cm w rozmiarze 74"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [],
+        "brand": "Versace",
+        "name": "UNISEX - Pasek",
+        "price": "839.00",
+        "sizes": [
+            "146",
+            "158",
+            "140",
+            "152"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Zapięcie": "Klamra zaciskowa",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "1VE53E009-Q12",
+            "Szerokość": "2.5 cm w rozmiarze 152",
+            "Długość": "152 cm w rozmiarze 152"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3d5a321231104463b463f64a42c38687/e69d5f8cca61409b99fedbd54b8aa57e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e86583eae34c48b6adb0832e7e4ac197/42f101fba8cb4f26b57ef21c2b2252e4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/811f664b1de54387a94fe032a7e05445/feeb83a35d7042328af8c1d92c329106.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4f832f21c03e4828a0d6940842647bbb/ffdfeb1220cb49ff96dbb0d6794afc29.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4749473c3ef1416d855132fc2cdfb12b/7bbb62200d1d497b8a3452aaed48e7e0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/20ae7f83fccf497e9aedaf41d4a78c57/1f9dddd3a1244b1ca447ebb551d72475.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8d9a165a8e6b4db4b51d054a44ac7d27/7091c2060d0c4718b4e90d5ce3b8d6b6.jpg?imwidth=156"
+        ],
+        "brand": "Urban Classics",
+        "name": "Pasek pleciony",
+        "price": "96.00",
+        "sizes": [
+            "S/M",
+            "L/XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Pleciony",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "W kratkę",
+            "Numer produktu": "UR653E002-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8b7bbd63fb734437b3153afe6a809eec/1479836e17d946bebe3e6ce9e695c295.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/27185a83682046f699ffb7fc6939cf2b/e567cc8d8b4348deb38ba29fa53b7174.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7fa7b161fd424d208818143c08e539a9/3b08c91fd7b842a993b0bd5d7caf94a6.jpg?imwidth=156"
+        ],
+        "brand": "Diesel",
+        "name": "UNISEX - Pasek",
+        "price": "409.00",
+        "sizes": [
+            "52",
+            "57",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Zapięcie": "Klamra zaciskowa",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "DI153O001-Q11",
+            "Szerokość": "3 cm w rozmiarze 54"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/abd84edc12dc4cf397da559d12cc2d86/97ca0c92396940fea5b5e6a75dab7678.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5f35bace6f2b477ab0c7d8e81bdc7049/ee0b67bbd0074de8a5c268a2e911ad7f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2b1182bd63d74f9f8bc2929be5fbb195/8ed941885fcc4a8084644c96c810b1e2.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "UNISEX - Pasek",
+        "price": "134.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO153O008-O11",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9ececd81203b4bd89c5838fd48fcd04c/c4e5c8890e324d85aa4d5957db4a41cd.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/930192b727734a1183162e98ebfa42a2/7df9072d259143338efd8aa551664359.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1069e142ae234ba4a448fca0fdacf02c/4e44be61c23b4c66b8c526e602dc2fc2.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX - Pasek",
+        "price": "149.00",
+        "sizes": [
+            "74",
+            "59",
+            "55",
+            "82"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Zapięcie": "Klamra zaciskowa",
+            "Numer produktu": "GU153O005-Q11",
+            "Szerokość": "1.5 cm w rozmiarze 59",
+            "Długość": "59 cm w rozmiarze 59"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9d5be51c28ac48f3be2ca7a87101b1f0/27534f205c8d48b69e5327ee82d73fbc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a712fbb1f47643d6abb83d8a1d59fa7a/cc5c18ad44524ed8962aa12245f5e1d5.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Pasek",
+        "price": "79.00",
+        "sizes": [
+            "85",
+            "55",
+            "75",
+            "65"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Tył": "100% skóra",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "WF553E00W-K11",
+            "Szerokość": "3 cm w rozmiarze 65"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c406e70ae9003fe6b245c02e9bc64fe9/9a0f4f617f1d493695737dd24e35bd20.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/801782644c38373d9ac10f332df1208d/52a10442d9b64cb38fbf82c8085793e9.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Next",
+        "name": "Pasek",
+        "price": "48.00",
+        "sizes": [
+            "M",
+            "S",
+            "L"
+        ],
+        "additional_info": {
+            "Materiał": "74% poliester, 26% elastodien",
+            "Numer produktu": "NX352D00G-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d6f0089e4a384871b3f48a3726e16f5c/34b06d2089cf4b01b539b85f83d3e1ab.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/eeed2fa581394421a65996350655f2e6/74f0248e816e4e94aee8fcd27f4924c4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/950c9699fc5e4cd780d68aba52013683/08ef1ae4214e4164ab83f02cb2a295e8.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX - Pasek",
+        "price": "149.00",
+        "sizes": [
+            "74",
+            "59",
+            "55",
+            "82"
+        ],
+        "additional_info": {
+            "Materiał": "65% bawełna, 20% akryl, 15% elastan",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "GU153O006-K11",
+            "Szerokość": "3.5 cm w rozmiarze 59"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/92cf1c6c45e344b0b5fb111d0b9225ad/6cef716443f44f529ee9db48dd34f0b0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0665ad92b6ff4cfbab2732b1f1c725f1/5d306071722f45ca9533bea4fce6f64e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fe11ebf08c4947bd818a53d5a307e6d2/f9f676469e9b4fd3becdc912cc437de9.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Pasek",
+        "price": "90.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1853O004-G11",
+            "Szerokość": "2 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e911e726ebe144f1bf66c7ab232ff558/cf09e8dfbea441ce9aa4ca44e241a1bf.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/485c5bdb48564233b5d96ef5e803c49e/b9cf9570d9c345749801d172bb2a2784.jpg?imwidth=156"
+        ],
+        "brand": "WE Fashion",
+        "name": "Pasek",
+        "price": "79.00",
+        "sizes": [
+            "85",
+            "55",
+            "75",
+            "65"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Tył": "100% skóra",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "WF553E00W-O11",
+            "Szerokość": "3 cm w rozmiarze 65"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/acd2d2a3e83f4f259a044cb8bb7cd0da/de91081a348c4f9b90551746dd593760.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/36e120b0ebf24726946bda4705a90f9d/b5e911dbeae44ab8bf334bf99d300fff.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c1a37052f3d74419a85e9534251a8edb/99f53158246c4c00b73e24cce574b432.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Pasek",
+        "price": "170.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Zapięcie": "Sprzączka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO153E02K-Q11",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8e2d3c35cab94a31a985f5ef1e84747a/f7cd0a3cff594313ab137df624800918.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ce45fda7fb09425797d8ed85651f24c8/3604c1f13779462790fb0d0b38147c19.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/820747f599b742a7acfe73876521b23c/91d6b983307b46cbafca3b3918bf3c3c.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "UNISEX - Pasek",
+        "price": "119.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Nadruk",
+            "Numer produktu": "TO153O006-K11",
+            "Szerokość": "3 cm w rozmiarze 80",
+            "Długość": "80 cm w rozmiarze 80"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4573d9a1556d397995626615bcedf3ab/b281b283f74b449b94aeb2c0000ee105.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1f66dfb9777033eda6727e8fccb461ea/fbe27007c6774cfe9225d743f3951a54.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Pasek",
+        "price": "48.00",
+        "sizes": [
+            "M",
+            "S",
+            "L"
+        ],
+        "additional_info": {
+            "Materiał": "85% poliester, 15% elastodien",
+            "Numer produktu": "NX354D006-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Paski",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0f77fd93a1d64c8e93641078e62ce0ea/bd46aee34cec4a98ae839e56619029a8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/609147cd2da14c07808c45eddedc5102/020ec09fdb574067a706bad9230e10c0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6c80639fdd9647c19602b9724accd094/f42d52aa0712459abf9ea6fe0a5cfecd.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "BELT UNISEX - Pasek",
+        "price": "90.00",
+        "sizes": [
+            "80",
+            "70"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Klamra automatyczna",
+            "Wzór": "Nadruk",
+            "Numer produktu": "C1853E00F-C12",
+            "Szerokość": "3 cm w rozmiarze 70"
+        }
+    }
+]

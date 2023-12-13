@@ -1,0 +1,1617 @@
+[
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/1e9973aa45fc3ca7a345a0f15c64394c/8df2e91e09444a3aa7743c766e95d59e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/93da7fee0d49375d84588b657d05ee82/2f86c1410a4045df859c137e58cb5a53.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cff6997a70fd3f2f9cfc5ba321300bab/6eb59157daba4ba39c5ed1e6f328c9fd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f15dbe8349783a0793aa5eab0003edc1/7a4177f03c564bb5a03569f95a6eff91.jpg?imwidth=156"
+        ],
+        "brand": "DeFacto",
+        "name": "Sweter",
+        "price": "52.90",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "58% akryl, 35% poliester, 7% wiskoza",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Melanż",
+            "Numer produktu": "DEZ21I02H-C11",
+            "Fason": "Slim Fit",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/a50a887668023c27919ab9ddaec807fa/4f9133731ab34e4ca709e7a6afe957c4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/842d1247348e361cb82972e782d41033/766af7f5e62f488ba868402d65a4fc39.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/04d5cd1193ca32b19ab99d8e5b4a73e6/e37743e669a64a86a4b6afb72ae46edd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/87588767ce14356fb2bf3b5b4f223acd/455a5879615a41d1b0931b2b7987c79e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7c558616a9063f6e9425fda30e83a818/27706539014f4b9bb626171d01fcee59.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "109.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "80% bawełna, 20% poliamid",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Golf",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "PI922Q01E-Q11",
+            "Wzrost modela": "Nasz model ma 185 cm wzrostu i nosi rozmiar M",
+            "Fason": "Dopasowany",
+            "Długość": "Standardowa",
+            "Długość rękawa": "70 cm w rozmiarze M",
+            "Cała długość": "68 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/90b82d5578c831c999af4b9cd6c6e652/14590978bc22491ab8cd642faf818654.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/455fde9fe7403e4d8ec9382661eed9a0/7fdbf80315f74ff98434274d2f2c1c52.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eae7d1db02d0356db1b8f17c6bab88e9/f03130fe95d94e2dbc2361db7a4aa1c8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/df7fdcf5bb0a3400b60e3ebbbd007c56/f31e4169b4c54cba9cbb2d557da56e97.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a5d53a281a513e6681bde3abde754fc1/36b13552acb24d94b9e4be48c69c29bf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/591b7f4a18d733d9a39752013b8dc94e/7773a861ae6c4ebb84e1039f1adb112c.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "127.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "W kropki",
+            "Numer produktu": "PI922QA3A-K11",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw",
+            "Cała długość": "71 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/769c5fc3e00e313a8fd218a530156c44/29553a91425246098cefae9b0a26abd1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0e3b6f023a40332cbff3bcbcfcaf23cf/3611ebdbdde347ebb1fea54d0831ce66.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fac973487ce0374b8bbf2605d02d49d0/19e245ef1c574bffae4965af93110ef4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/984a580e76003e649a8f6853af371a47/f5ad5c333cb94e4ab62cf1d89ddc97a1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b5f642a79cf8344db136781db4c916fa/86342170f5d14016929544fc89d22603.jpg?imwidth=156"
+        ],
+        "brand": "DeFacto",
+        "name": "Sweter",
+        "price": "43.90",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "58% akryl, 35% poliester, 7% wiskoza",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "DEZ22Q01T-G11",
+            "Wzrost modela": "Nasz model ma 182 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/58b8f6cb0772427b956ced40589a8ddf/dfde9da7c633494b9bfb29fae71ec238.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c3ed12af51e3472e93409fee8ba90e2e/92765949c813408ab83c5352b5ae4886.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d3b212d67c347cab5838fc5befb072b/e18c06741f2840bb8713689f9c5aa174.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eb7ea1c2393d4d3f8e4a16196c090fa4/5cfdd14d950943cc9348fe57e2d276b5.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "119.90",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "98% bawełna, 2% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Kształt kołnierza": "Golf",
+            "Wzór": "Melanż",
+            "Funkcja": "Oddychające",
+            "Numer produktu": "OC922Q00K-C11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/315d05afcad03a148f51177e274aa1b3/63c795e4f2574b81946b262fb63f7beb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/92bbd13cc07c3f4e88a8c6363eee2090/5b58c7b38f604fae89dc292c805cf5c3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/84f66bfbc949360e878468601321c292/e2abae416b754821bd6afa4cad206275.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d45632351c73317eb8bce809c71a3cc4/5d2d12a55ddb43e8821c1decbdd43262.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9dea4a7ef7b830a7b2e428369bf99eab/5b5cf8c3a46643fdaf6dadcd93b12b4a.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "199.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "85% akryl, 15% wełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Kształt kołnierza": "Golf",
+            "Wzór": "Melanż",
+            "Szczegóły": "Wzór warkocza",
+            "Numer produktu": "PI922Q06M-C11",
+            "Wzrost modela": "Nasz model ma 188 cm wzrostu i nosi rozmiar M",
+            "Fason": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "72 cm w rozmiarze M",
+            "Cała długość": "69 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4cdc8e036d0f4aa7aa95e1b5a793e1b2/c9610366636a4cce9be06c9ff8678e69.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6e87cb3e11f14717a4a46ce393d34876/b76f89d07bce464bad48cd6cd60d1456.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3cda22c1bcd6498e9eb72ccf2a2f68e2/2e1c25d746e04ea4819ed481ef204abc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/27f0642fdbe64f6cae15110695127729/f7bbebeaf04f4ad289033f8b29ecf074.jpg?imwidth=156"
+        ],
+        "brand": "DeFacto",
+        "name": "Sweter",
+        "price": "69.90",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "DEZ22Q0D5-N11",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7571c5a097614236aef814d10782160b/17050f818f234c35919ec3f84c152fc3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9961b47d92d4415197336cce40a0004c/deba8146b1fa4a4a90d9efffa93b1404.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/811592751689481fad60ba3b2e9522e5/3e7d323979a84d0cb63000a8e893d083.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e11781d31313476aa995d7eaae81d753/eebdf2412ae44203a901eded7b24ee8a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8386760f6302432b813d3d996acd0076/a0206927a17f4935b46e2368cb046016.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/486a8cd4823747aea5df5989f417a5a6/1d07938862ec4057bfe34fa082227e74.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "127.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Typu troyer",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "PI922Q029-K11",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "68 cm w rozmiarze M",
+            "Cała długość": "66 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Rituals",
+        "price": "",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ead48e667e2d465381edec074b9df95a/311aa87ce3764d0eb1f8707ec3ae59c1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/89f4a17b732a4ae3a8ef34d9b3da1bb6/c44b4ddec007486f8832296396c897c7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f31d7f71605e410b976f6ad569251fd7/a4ced421d3324f459ce4dbbd370e6e05.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b8b2c35ee394462eaad5b2cc2ecc7bcb/7089c7d31cd5419bb800476ce7c2c519.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/33efd18da284455a81654c8681c4ee86/05e9011fd2364f90ac02999b554be635.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ca8c9a9888f84ddd821b530083fbe4cd/411fcf20ba9b4053b462a3b3043d4157.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "PULL&BEAR",
+        "name": "Sweter",
+        "price": "149.00",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Guziki",
+            "Licencjonowana postać": "Gwiezdne wojny",
+            "Wzór": "Kolorowy",
+            "Numer produktu": "PUC22Q09S-Q11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e4e7a45831943ac3a4a7c8e995c35d42/6f24e9ba48784c919f8635e122bf5b59.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/234f235f431338938677fa1d32207217/01d0ec9a7fbd4f31960b1e01dd117987.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/891b8ff2d4e833c9b00d08ee2458ecc9/4157f9df569548c78203539e5f36b212.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/dc129d14eb5737bd822a10483d110c0e/1459075092974ac984e71687318b867d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/31a183352fc43c348a9f592c4a39ad28/2914bcde4d5142cf8be99836c57fa12d.jpg?imwidth=156"
+        ],
+        "brand": "Solid",
+        "name": "Sweter",
+        "price": "226.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Podszewka": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz, dzianina",
+            "Zawiera elementy skórzane": "Tak",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Typu troyer",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Wodoodporność": "Nie",
+            "Numer produktu": "SO422Q04H-B11",
+            "Wzrost modela": "Nasz model ma 181 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "68 cm w rozmiarze M",
+            "Szerokość pleców": "53 cm w rozmiarze M",
+            "Cała długość": "72 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "52",
+            "XXL",
+            "XS",
+            "50",
+            "XXS",
+            "L",
+            "54",
+            "48",
+            "M",
+            "4XL",
+            "3XL",
+            "38",
+            "XL",
+            "S",
+            "45",
+            "46",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "7XL",
+            "XXL",
+            "XS",
+            "XXS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "7XL",
+            "XXL",
+            "XS",
+            "XXS",
+            "L",
+            "S/M",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XXS",
+            "XS",
+            "XXL",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "Sweter",
+        "price": "687.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "90% wełna, 10% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Kształt kołnierza": "Kołnierzyk klasyczny",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Wzór warkocza",
+            "Numer produktu": "PO222Q0AL-A11",
+            "Wzrost modela": "Nasz model ma 185 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "64.8 cm w rozmiarze M",
+            "Cała długość": "67.9 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3c1621abf79e48cd80475d738ec90350/f0fc854611684facb8a4f1e4cc2cd2fa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3ee9355896374e2ca705e9f0e370b263/7eb630f13f52468b9e9179e3e8d8ce1c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/02ebf05316e44b40a6c4a3020f64ac9b/e91cc138391e473986e8fff57df12663.jpg?imwidth=156"
+        ],
+        "brand": "DeFacto",
+        "name": "Sweter",
+        "price": "69.90",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Melanż",
+            "Numer produktu": "DEZ22Q08Z-K11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw",
+            "Wysokość": "191 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/37b1eea161433f2fae6826705bca4fd4/6fd0c569626442b9bb3577440195d931.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d80503d6523b30d9aa18ec104f135449/f235db7263944de8a0e5e43098d35a90.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/56ce8bdd10bc3d9ba3e87dd1d40f5f19/b52b497eaeaf45e98f6f322d13e5af48.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4fd7a084387f31729b03b37fe428c9f1/d1774a40fde44346aea6a7dd67f4ca51.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1d77b43e8a1032468cb6eeb14bda8cd8/dde752ed6c3a4c9ba2a10ae87d487ac5.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3742ebddad4f35949c6c690b63af6514/fea4b15041fe4254ac1426dc28a9b165.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "159.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Golf",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "PI922Q080-C11",
+            "Wzrost modela": "Nasz model ma 187 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9dd4822b60fd430ea35cd7b6a96eedc3/fdb84948e1c54b3abc293a40ac85791e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0b8d5e06ccd047f3b44e3d0133d3fa2b/eb883a51a87b42a5ba4122b15fded6f7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/abd85f313c7145a8b6103d4332815050/e40383aab9264a169fafd83ce08a9733.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "OCHNIK",
+        "name": "Sweter",
+        "price": "89.90",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "80% bawełna, 18% poliamid, 2% elastan",
+            "Rodzaj dekoltu": "Wycięcie typu V",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Haft",
+            "Numer produktu": "OC922Q00G-Q11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8127c85001d83be9a9c6e634503a7ee7/4e8031a94f7140949bc5bee925009515.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2f12d2bcadf3372f9e14d593d808132a/217c0f96ffe9444393a595e4c67dcf69.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0fe79208e3af3845b46fdcc80a8523b2/532bb7fc4e1e4498867cb7b4e71cb354.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8695f52675cc3b9299ba86a04eb73655/631cbb62508c46569e8feda189914126.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e69160187e363580b7e2d7b273d4dc95/a048db5e31ba4f3589df0abe92fd4cb7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/94d6cef1fc37331d901690faf9a01d0d/49376ac93c474dac8a45862469298487.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "159.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "70% akryl, 30% wełna",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Kształt kołnierza": "Typu troyer",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "PI922Q01F-K11",
+            "Wzrost modela": "Nasz model ma 187 cm wzrostu i nosi rozmiar M",
+            "Fason": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "74 cm w rozmiarze M",
+            "Cała długość": "72 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "Sweter",
+        "price": "919.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Kształt kołnierza": "Polo",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Wzór warkocza",
+            "Numer produktu": "PO222Q06I-K12",
+            "Wzrost modela": "Nasz model ma 185 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Długość": "Standardowa",
+            "Długość rękawa": "64.1 cm w rozmiarze M",
+            "Cała długość": "67.3 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9f0dde3017bf30d3858290c55aed8f32/29b17472a97d4e00a1d9c028faa2d75c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/70aaacdc03bf32538fca31621a0be7af/a0a4f6d9ccfc44b0943378e3f8d3746c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b7e218fb27943ade8a32efdeca897a53/8689ec228791443bb65108e2e4ef81bf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d070b38d635237e6b602504521c66437/1fcc216e8def4f74af6ba4ed43ed1f9e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5a91e3b38e173641b2dffe5e3d50ebdd/42f6d76c3f9c42edb7959307c0f7e9b6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3d138c4ec981343ea79e5b42b6891cba/49fcdd64ee5b4bb589ce663abff31f7f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d3271877c3583d559bea1247e9598572/1dfd6eb01a934c6bb18c4c0043bc1d84.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2eef4403609b34a2bd595210298a448c/2af312661e0e42778e45096e6e3f8763.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "229.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "80% akryl, 20% wełna",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Kształt kołnierza": "Kaptur",
+            "Kaptur": "Ściągany kaptur",
+            "Wzór": "Melanż",
+            "Numer produktu": "PI922QA0E-C12",
+            "Wzrost modela": "Nasz model ma 190 cm wzrostu i nosi rozmiar M",
+            "Fason": "Loose fit",
+            "Kształt": "Zwężany",
+            "Długość": "Standardowa",
+            "Długość rękawa": "76 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b75cdf6c217e3a07a3392c190e0db5b1/4f6d9c393d9b41588f3bc3a6becadfbc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3ba09e9ee0d9359986d37ee0b1d8924c/020ddc809ac548448b06924dcb3948fd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4e05badec89d33b89e91488b6594eaea/a2c080882e1b4774bf15cdde4678021d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a6d793f4270b3a029e13252a135b495a/a829a4b534f144ca8268c46096a87b1f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ed230e7a89ae3a14bca1c9e0783123a2/682d6acf58c24b1587a4971215f36788.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0667b039d48a35d7ab03770897d19c4d/713e56e5ab9a49cd8b0e4f65f764de0c.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "87.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C",
+            "Kształt kołnierza": "Typu troyer",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "PI922Q096-Q11",
+            "Wzrost modela": "Nasz model ma 185 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b2ff29bc3fc6354c92b2d2bb820507ee/ca288b6d3580447f933659d88ae6647e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/023d6dc3d34e357d824723aa60b44860/28c353df464643b3bcff315679e56c84.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9073254cb0c63861881e0cfccc79b0fd/09824b4df8da4ce197e5238c2b95433e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/94d6c8af85e03a5385d13adfea9329bd/64dfc4fccb1241e7b43d652da2315b8f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2c53f6d4f3da3aa8a0d6fd0e226efe63/59dff518d37b403bb9e48553e82191ab.jpg?imwidth=156"
+        ],
+        "brand": "DeFacto",
+        "name": "Sweter",
+        "price": "52.90",
+        "sizes": [
+            "XL",
+            "L"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Wzór": "W kratkę",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "DEZ22Q01V-A11",
+            "Fason": "Slim Fit",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/07b377be6b9b4ff998a04b15d6a8597d/45582d8c95114226947a4d4d1af9aae9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c50b963331044cd3830af6982b858b00/4ad744f8425b4214999ede66bca820a9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1a57cf99726d4eb290334e87dae31f20/9cc89af0d7e74792a05ff9b006cb72fc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f08cf506923f4a3ea299b08fae5dfacf/786a06386013433b979e8b2821ea8239.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a641a0e03fa6499da87bfab8f874d0a6/98af4827710c4dff88ad876f8dc0f665.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/934e8a5a43434e5f8d3ecd4538415fa8/5a30454f24094ba8be8b30749413b440.jpg?imwidth=156"
+        ],
+        "brand": "YOURTURN",
+        "name": "UNISEX - Sweter",
+        "price": "199.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "W kratkę",
+            "Numer produktu": "YO121016Y-Q11",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Dopasowany",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw",
+            "Cała długość": "71.5 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6e1c338d1e5344e5ad2f56612cc87cfe/bef34af3cf2f4205ac9a9b954a98057d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d3ef4b0e40d94d98b46b8cbbaf50186f/0f027fecf13244bfa8c05e96880111a7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/55b073e6d0804190b94eb78de38f2885/5f9a4c5acac44fc1879e05d33f156ee3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/93058a6251604abb81d38648f1256fd6/a565c6d21ee24abba9e200b28140308b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b0dd8989319a4d4cb94318b5ac6b9ebd/675f95db084741ed93fa4be63bbbb338.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/de711982baec4c789eef52bfe41a1e23/18c834cb7cfc4fef8bec242e2a410162.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4fec06ba0bbd4c29b56cef94f11ce6ac/b0abab7563104d67bf5067ab60b145ab.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a912145e1be344f090370b78355d3cdc/16ae59283d864901849057fdffdcb08f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/65b5a05ee1ea49ce879bd9efa0376fb5/a84c60d94b614339be166fd888975a65.jpg?imwidth=156"
+        ],
+        "brand": "Urban Classics",
+        "name": "Sweter",
+        "price": "136.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "73% akryl, 27% poliester",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Kształt kołnierza": "Golf",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UR622Q00U-C11",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar L",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f3a0cd4e0cfe3428aacea2bfb665dee7/18e870068a3d47659461831eca7d2ffa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f6d48eb9eed035a1915b63ab60632bfa/05b768eb4f70494ba61cf68971a25b9d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d2588b1567b63cea97c07aa18395ce4b/f362efac7c464535adc099792f895626.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/36fa1ac656593f14a6a1e0fc58af1b5f/0de258f3936f42b7a7fd1f88be42bcd0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1b3aca81765536cf82e315614ea77264/e62addd86f7d455da520c0bc5f1efee8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d0c1ec37f6163395b6fd60ecfce954ac/d20023d58f7b46f7981d3830a6662b0e.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Pier One",
+        "name": "Kardigan",
+        "price": "111.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "5XL",
+            "4XL",
+            "3XL",
+            "XL",
+            "S",
+            "6XL"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "PI922Q00S-K11",
+            "Wzrost modela": "Nasz model ma 185 cm wzrostu i nosi rozmiar M",
+            "Fason": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "74 cm w rozmiarze M",
+            "Cała długość": "69 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2169302bf6684802811cde8c6e60a0a4/00ca2dc12ec34b0881af18398960592a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9f33921184fd4af6aa1b9434a4152870/ac227987738e44709f438ed1df20b7d9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e268c9ba7533490aa04a332fe558e32f/8ea5a7e4e3dc4bf19e5f94b30e2c19f7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3832e29b07104601a8579d3104e9d8b2/701d6d6993f6485b9087e48eb24fa0f0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4d985a71f3a948f7ab15e830ebb88d32/81312de0766c4682a30ff7e00bcde744.jpg?imwidth=156"
+        ],
+        "brand": "Pier One",
+        "name": "Sweter",
+        "price": "134.00",
+        "sizes": [
+            "XXL",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "PI922Q02Z-K11",
+            "Wzrost modela": "Nasz model ma 188 cm wzrostu i nosi rozmiar M",
+            "Fason": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "73 cm w rozmiarze M",
+            "Cała długość": "71 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2e02f260c2a34b5898f1c4f3e3af8b95/8533094d8bde47d98faaed1c396f5bf7.jpg?imwidth=156",
+            "https://mosaic03.ztat.net/prd/media/comet/TO122Q0E3-C12/PREVIEW_IMG/0002JD2QN32_image_1692350270.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/06f78dad9ec242e692b2876744dab972/fc676b9966ab466cb0d364a254306c30.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/044bc2081a484d1ab9f9b8a79480ea7e/998e2545074c412784c71af0542bfbe0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/705c9ea97ef84531bfeb0c39979c8ac9/8e79daff304e4ffcba9f164ac96041b5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4fe699da061c45fab9409d25a12606ef/11536e8e0b754d419c95f83c55a12226.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dfd2b9159bdb4b1fb23ef7b5bad188a8/de27f2d4b5374f039143aabe859b5c13.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/15b7fed0b7be4640a7c76517869991c8/d43f99b1d3494f8d8e5949b2608ebb65.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2534a3d667ba485b9aa8ae34f9722bef/56349562230f4baba63978bc6b1dbb67.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "341.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Rodzaj dekoltu": "Okrągły",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0E3-C12",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "74 cm w rozmiarze M",
+            "Cała długość": "71 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b9da3d5df59c4c11b5a222adeeb835dc/85dd8dfb52c74397a1b8006e3a0d99b3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/04f84bc601c74e9e8a46fe5d9a759801/020b3d69999e442d82d6f2073120c1dd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8b69b1b633ed4e50b9c42af2a6511876/e21a870335a94efe8ccd1703bd6bebeb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6800e52d2e454c719a61868f781d3d18/fdfc9ebd88a54e6ba602b91373afee07.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7c0468877d1c47b598dcbe8cbf6d71c8/e3f45846b21d49b492882702495e5901.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8ca200ce39174c17931806f391668035/38278e3c6a9c455da61178186d5ce6d1.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "398.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0E3-Q11",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "72 cm w rozmiarze M",
+            "Cała długość": "71 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/42dc4b31d8cb4ee58143be01b1c28ad3/2c5617cfa87a4e6d906e5d01a661479f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b0ac6bc4da1b4208934e3cd40a35756c/714b2e73dfc74c2da6e5136fe3955f03.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/93b555de9b364479b777dcee2808a3b9/e555508d0b864da6912caf451baa42f1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5343f9ac228c43b2ab8a54fffec0220c/a9230f61cdf34e1aa9487686f2b5fdbe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/09738f34d1df4311af7844e7f2747fa6/f5e09d8420de48748561d90dc374b5c7.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8814271dd0394895ba0d6f27c7f5ad6c/7339255fe623470aa696afb1fb682994.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "370.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej, pranie delikatne",
+            "Rodzaj dekoltu": "Wycięcie typu V",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0DO-Q12",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "73 cm w rozmiarze M",
+            "Cała długość": "68 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7bab4c5b695547a78f5e11534ec37baa/131d252ab1484b63ac3280f78a8a913a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a40b70a1224c47f596e002583d735006/f777c6fa2af74744b16b7ce82aa83ee5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e7c60169fe334f8ca63efdf36b5fb3f9/85839b9ac6b24e6cb03f0610cb370d65.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5bdfab30edd943aeb0bc3adc481039f7/c6b781fd965f472dacef932600eff3dc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/13b7c470c26f4b79b7fe3a2f6e901906/5db600d179814204ab98002bff186958.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "422.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% wełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Kształt kołnierza": "Golf",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO122Q0DR-A12",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "73 cm w rozmiarze M",
+            "Cała długość": "75 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/372300bbc528483b93391d56093a3955/f00744dbe0c44f4984c687bdc1a26c50.jpg?imwidth=156",
+            "https://mosaic03.ztat.net/prd/media/comet/TO122Q0E3-J11/PREVIEW_IMG/0002JD1RXQ8_image_1692350270.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/8992f2f1b7f44d958b60b8672ef1125c/5d44d0cd84e84463948ab31b1fa78a88.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e4999895133a4e15bbe2d504d2825735/18a705ef676e429bacd4caf843ca8aa4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7feaff397fd141b4adb6d118291ceaaa/9c28fd9bc8ef47a0a96c016d14428a3b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e0a33f03cd0441d69dc6feb3bb2cb5d5/a3b861adfc384a819daa015188b7983b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b4d08ca88b2a4277adb4915d1f7105f6/52b0dc6e7fa3410c9e0483a2f9657450.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6dbe4f3279364e9b9bf00436a9a5b5c4/10dbea9bdd0d431f9e4093b46673ad06.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/96827a966baf4255bc9a194d8c934069/601d6069142243cdb72f56885608ede8.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "370.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Rodzaj dekoltu": "Okrągły",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0E3-J11",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "73 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2870902b41dd47709436e2df6c3939fb/ccea3a22305b4a2499f38aff8e3571a2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/caeebc2bb64040d5b0e7df23a159fba4/4d0b740b8daf47b78c4d759a386b6ffc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/da32498d1a764921be744969d5ad1a9e/d6f53fe27920477bb1177589fa0d0186.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c7d63efd2eea42dcb80b0e9e1f022715/5ad0c801e0d84c87aa930ee856ddce68.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6ddae9adfbc44aed97c67a9839f36e76/1054392878d0400aaa7d6796c8c9d123.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/cde10efb23034fa886eb035b0cec38a9/08fa45b7def14ae2b7a9a433a24e1e3f.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "313.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Okrągły",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0E3-Q12",
+            "Wzrost modela": "Nasz model ma 187 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "74 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/72b2ecc9e55045658a0ebac4ce13d447/490f291e5cee497597e5f4893329c7dd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ffbff6003e6944e2984e3c4ae69c7a59/075f1520903d4a5e94dca4ce9d560d87.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4e2badc7f3984553b4464fbd5417e8ac/e7456501f87c4a838679dc6e4755bdf1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6c624e955f8d4fd6bbc30412512094b8/0bb5539486be48079408e93c364f23b0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1cfc93f3c1fb4a8b893c9e8bf021e48c/239ac27efab2442d8702aa8cf01fab75.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0e01aaabc9974d759e9c3dbea69cae75/d41f24d900624a44a4f38e6aa8b34886.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "398.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Wycięcie typu V",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0DO-C12",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Zwężany",
+            "Długość": "70 cm w rozmiarze M",
+            "Długość rękawa": "Długi rękaw",
+            "Cała długość": "67 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d86e14ba86f94fd695ce33a84d94905c/cedfe9e861004b1299cf56a02c369afe.jpg?imwidth=156",
+            "https://mosaic03.ztat.net/prd/media/comet/TO122Q0HV-K11/PREVIEW_IMG/TO122Q0HV-K11_image_1696481492.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/da5a4ca47ce04089af0b34f2a8456726/bc15cc637ed54c6794d8bb4894786fb8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/618809d27907417ab82f9ca15c3e2c3d/88af8a015b5545cf83a37584caa25faa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d32697c455284371af2114186f336b46/fb0eee69c46840debf02d06730428128.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/94b4ff00b1ad47a4ba0a14e3e7621f5a/95e7cc7f6f8f45faa7d76f846c380488.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c441cea8d875431ebd7fa017fd71d887/72f4af06b94b4c8cb6aa7f1b83be6c81.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8dcc9e2c81584153a5fd95eb380ec4aa/27429ddf05934fc385b68ab9c22234ef.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/35e4f117273d4b4e877a7852fe27e2e3/5093fc0165224c88bb206b287fa7f566.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Kardigan",
+        "price": "509.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO122Q0HV-K11",
+            "Wzrost modela": "Nasz model ma 186 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "69 cm w rozmiarze M",
+            "Cała długość": "71 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ae4ebcfcaf7e403b8940fcf11cf323d8/5ba9c864afbb4a85bd20f8abdd6b73da.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f1ee6fb1e7f6495191b272be82b88014/1cf6c98e947746d09bcb1933683103cf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5b2a97955a2e445d9cde8ab6f23a65a1/a5cbfe20edb34b169e7a09775315470a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5e60b43f8092475fbe007c70ad9a3065/dc23da9971e340bfb3572e6349350203.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/cab254b65e2444cb9db67a87ad6663a2/9f2149fb712b455c832816d069743668.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "398.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Mankiety": "Ściągacz, elastyczne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0E3-K11",
+            "Wzrost modela": "Nasz model ma 187 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Dopasowany",
+            "Długość": "Standardowa",
+            "Długość rękawa": "72 cm w rozmiarze M",
+            "Cała długość": "72 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cdee434024f74f82a825e2c281350c61/df67a52f9bd44af398510b4053a064f0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/336458d3406c42e2b1d3f1e6b98bd8d4/6e3aaffd3af44f828c98588587534b04.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f2676446dae04d67883cf0ad34fb7a01/2bd2ac9047224b1897429d0084b9f5ca.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d9342890868b455d92c769eb608bfed8/267e39c06804463e8ed3dc623a7c7dd5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a7c16c753513421ab17a7708eb57a851/fe70809a5c6a45189e0182b349b166b3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/67c8d99fde9340e98ec87d5b677caa67/26f1adedafcd4fb28533a5a5b7adc1d1.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "MONOGRAM - Sweter",
+        "price": "524.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Okrągły",
+            "Szczegóły": "Haft",
+            "Numer produktu": "TO122Q0HR-G11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "78 cm w rozmiarze M",
+            "Cała długość": "74 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ebd2819a6dca49c2889ba953849b09de/60339391fc134b7b9949e9c758235844.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/87466c0723fa48c4a3f2ecd7e0e82a58/e5cdf24983de4610b6f5aecede7362c0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fb1149b1ae494a5e87a85a0360ddde9c/195934c001cc44379c8ec74333dee296.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6e372b16b3f84292afe525a4686eb976/02884e3e0df14c06a296a8ff849f1962.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f24cc228ec484a908807c4f36667718d/9b9c238661e54769b10bcf261217b9f0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1ed62352c8fc4bf3ad0ea9b200cb2177/12897757eb544d2585ab134d8f90fe3c.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Kardigan",
+        "price": "870.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "71% bawełna, 18% akryl, 6% wełna, 4% poliamid, 1% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Serek",
+            "Zapięcie": "Guziki",
+            "Wzór": "Gradientowy",
+            "Numer produktu": "TO122Q0HT-K11",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar M",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "76 cm w rozmiarze M",
+            "Cała długość": "68 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4b77fad13a8d4733b1368afc2021fe76/44091e251eca47a9bc1c7070c600ef94.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/61bbd034309f4270996aa80602e040f0/708b9464e4ce42ebb7e7b500847280f5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b98f8ff1bd3b4f629ce0826777d99ea2/574e5fe9f3d7435ea476f039a5ad6e3d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/32fbf2e9aaca4133819c018734d1265a/b731b8c95bfd4771844118aeb4f5b7de.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a958acb57c2e41ebb402f7600c25d2e5/b1cfb31e5c6e4eda8c29dab18e8ffa42.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/96c61534066540d5b2ef476a27113058/d93d7837756a4132a4093b20ecc42422.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a53daa38dc0b408f8809f8318b3a217f/eaef8226d3b041ec8893afa863b4bcd5.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "664.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "65% wełna, 35% poliamid",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Rodzaj dekoltu": "Okrągły",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Wzór warkocza",
+            "Numer produktu": "TO122Q0HU-A11",
+            "Wzrost modela": "Nasz model ma 189 cm wzrostu i nosi rozmiar M",
+            "Fason": "Loose fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "75 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/529071f0d3ec4ef8a4ff15f85896cbe9/a04e01adaf474f1f9e4a0605d884b320.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9825cf58f9f2450dae86a2296f501f0c/e0c9aa59a41d4b71ad0d586d86617ab4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/38a189adcfb94eaa8925750ef9170611/3462cff7a5d44d31aa40fb9ec0b07f38.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/85ba0ad9b5274ce59ebfc52b8496a55a/22c14db4eae04743b10aa8c5989a137a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/87a3230eb8bd4f4cafed63e9635eca46/1e5b4b75a6e0461ea5ec6672bc1d2837.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/49b3ad5212554e41b4f502305bd15261/f791fa7f38054ccab64a915bb7fa87ab.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Kardigan",
+        "price": "509.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Melanż",
+            "Numer produktu": "TO122Q0HV-C11",
+            "Wzrost modela": "Nasz model ma 187 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "72 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/837ea224944f42eaafb0e317affa3b23/da137ac29aa144d1ba3628c86f45c4e6.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/819a3f1e321144f2a9e77335e6e07b44/16896ade974b4f4da35e0d3550a378ad.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f2906b885e5446468389cb192b03d310/f1202117162a458786966359fa65763c.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Sweter",
+        "price": "398.30",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "92% bawełna, 8% kaszmir",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Wycięcie typu V",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "TO122Q0DO-Q11",
+            "Fason": "Regular Fit",
+            "Kształt": "Zwężany",
+            "Długość": "Standardowa",
+            "Długość rękawa": "75 cm w rozmiarze M",
+            "Cała długość": "72 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Mężczyźni",
+        "category": "Odzież Męska",
+        "subcategory": "Swetry i kardigany",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4a1ff52160aa463ba44aa26938e4c04d/38eaae1c6f6d4b2592d1f66c056a4443.jpg?imwidth=156",
+            "https://mosaic03.ztat.net/prd/media/comet/TO122Q0HV-Q11/PREVIEW_IMG/TO122Q0HV-Q11_image_1696483086.jpg",
+            "https://img01.ztat.net/article/spp-media-p1/2b271ad331904858b8d1d31d72b4dd21/733a3fac212b45ed9b43251fff50ce03.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0872b6c846ed4c46a7a8ff46f2d4cee7/7fc18d385cbb4691854bef47953847a6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cdb72884d9694fdd8d93773cea97be33/5f77620f0572408b91903c63c4ecfe2b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1b63d6d7d3ad48fcb12cc461ba04bf0e/11a10f7f32974c2898ef484f915667af.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/762f564ad78f445fb4e6f66d58e73bd8/fa7421f51b3d433b9f58395d443a356f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b3756604f3314fbeb352d8bfde4e3d7c/20d1f51f973647bf856396e1583d6c7c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d23991084682454185a56dc56efa632e/91af69690c314fd3b05767d5aba37c18.jpg?imwidth=156"
+        ],
+        "brand": "Tommy Hilfiger",
+        "name": "Kardigan",
+        "price": "509.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "TO122Q0HV-Q11",
+            "Wzrost modela": "Nasz model ma 188 cm wzrostu i nosi rozmiar M",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Standardowa",
+            "Długość rękawa": "74 cm w rozmiarze M",
+            "Cała długość": "70 cm w rozmiarze M"
+        }
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b3afa2c819d544678d195e260be4931d/b9fa2769945048dabc41ca8f0a9c55ae.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/857aa87f029b4f689eb7948a15a456a8/345fa5aad1594f4387e1edb1c0e9e9c9.jpg?imwidth=156"
+        ],
+        "brand": "Nike Performance",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "74.00",
+        "sizes": [
+            "96-128",
+            "122-170"
+        ],
+        "additional_info": {
+            "Materiał": "95% akryl, 5% elastan",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Rodzaj sportu": "Fitness",
+            "Wzór": "Melanż",
+            "Numer produktu": "N1243N05P-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/60176e7143464460bf4a7406194720d9/93b7cc79f4d14b37996cbf497f5f6886.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/598069926cbd4eee827043339fde6491/14c7213e62d743ce875bea686822585a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d147bbce9933419cbafc447a83cd3dda/42d99369c6b445e48e8edbc5086ea49e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fb1fb5e818fd44678ae58e8727ecf1f5/58f0ab19238d4e90ae6dd3cb5b96d445.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Czapka",
+        "price": "124.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "67% akryl, 30% nylon, 3% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NX351B045-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2d5918d860834d5bbae07181a5866a0f/88b281a0ee0144aba990b8c6087d60ff.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/09965a94e88e4c41815514c357b66782/f6530134fa2a461492a13e80b07175ce.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d34bcda5c537425db8c79e4786d3523e/3729d58160cc48c681666ef871a69efd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a7a7f380af1441679c7ecbe005df5eda/9d324f1776d64e3798ee7d5df240f937.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/49117ac711a44b59a107ff0588d249f7/c512ad31e1ab4e6981be39b246b8238d.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "106.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Wypełnienie": "95% bawełna, 5% elastan",
+            "Podszewka": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NX353M0SK-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c236c46c0e6f41d7b80e16ea8f26de0b/3ea55402d7a64eda8d8b2447996141b9.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/fc332bff8e874b4f83d39094029e9d40/0cebe1e9d718488da7ad2cb2fc72b4fb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8c47c1fb60eb4104a65c5cf42ecfdcca/3c5d4b7127b94fe0a128324923738abf.jpg?imwidth=156"
+        ],
+        "brand": "Nike Performance",
+        "name": "TECH AND GRIP UNISEX - Rękawiczki pięciopalcowe",
+        "price": "79.00",
+        "sizes": [
+            "96-128",
+            "122-170"
+        ],
+        "additional_info": {
+            "Materiał": "95% akryl, 5% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Rodzaj sportu": "Fitness",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NI153M02H-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/5bc399e9ed7b42f2ac974ee8ecc2574a/bfcc88d740b045329fb3f5ff7c83cba2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8d86fecc98d24ba2a3e5623b7d80864b/b3f02de2d9f24249a32d63a1e768f062.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dcf92c292cd544169fe8f390146df704/d6a4ed2feeb64e40aa45cf07cdad96d6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/acb6d1f551c448c0aa62c0abe68106b5/97fa61c5afdf48199c1cc9a2dfd135f0.jpg?imwidth=156"
+        ],
+        "brand": "Reima",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "129.00",
+        "sizes": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie prasować",
+            "Rodzaj sportu": "Turystyka piesza, urban outdoor",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Dodatki": "Elementy odblaskowe",
+            "Numer produktu": "RM743N01P-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/547774fdb8a74e7cb93115be73ef33f5/a6cc46f309544a3583fc0793f6a01746.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/81e5187d2fe84bc2aa5727db13a44b0a/9aaabdd697254dadb1e8cde0e3b370d1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/efff79a8107b42b88951e8668475dad1/975d42a3dc3847b6b56ab7852df2b2ea.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bb03ca391b34421d97fbeb65ee64bd34/f82183c8581f476c9aa3dc27ebd72d38.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "129.00",
+        "sizes": [
+            "52-53.5",
+            "54-57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Podszewka": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne, nie suszyć w suszarce bębnowej",
+            "Numer produktu": "NI153W00K-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/53f438d3e8864f4ebaed6b9cd1617d12/8d849d12b858451fbd942cea6521f738.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/70e2e9062762454d92ad9ca53794013a/d6831326895c492e98b04b4a23a3da12.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a99209adafdd411fbe1989dd7aee3a0a/005e33a4748b4c3c8fab8f70c97ffcc0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/205d611da18b42df998260b2c5727d8c/430aabf2a8da4a3ab5f8cc919475b8b9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ad3ec6df89a34fc99654ded21ddd5eba/422b6d3c12864792a485021c4f309263.jpg?imwidth=156"
+        ],
+        "brand": "Lindex",
+        "name": "MUST HAVE EMBROIDERY FACE UNISEX - Czapka",
+        "price": "149.00",
+        "sizes": [
+            "44-46",
+            "40-42"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Podszewka": "100% bawełna",
+            "Struktura/rodzaj materiału": "Sztuczna skóra",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie suszyć w suszarce bębnowej",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "L2E53W011-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e0b884a1e30941daaea02f9a713d6942/197502c2fc8349d889c9fc89c276ef14.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/53ad6b11b4734daf9fe768d7867a7a47/34efd97d4cfe4deb83765e78cfddd1f7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e4351d8b581e4d0bae921ae9ee68ebb0/0412e1136920420db2c9b27b6057732f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fd12f079d8514808bf759603c9bcc820/6029325c21ed4d659db9528a828bfc5b.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "116.00",
+        "sizes": [
+            "52-53.5",
+            "54-57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Wzór": "Melanż",
+            "Numer produktu": "NI153W00J-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4216239b4062445d9a74a38f9378dde7/643c1f6cc4e442f785781e3b8ed41369.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9a18aa3701514194ad5bebd6d2bd5848/3157ce00b799430c95deba1012a3c499.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/01f423522d9b438f997decfbb3acedfc/19bb4f61af5f4dc3828613f25f8d7f17.jpg?imwidth=156"
+        ],
+        "brand": "UGG",
+        "name": "MITTEN - Rękawiczki z jednym palcem",
+        "price": "229.00",
+        "sizes": [
+            "104-116",
+            "92-104"
+        ],
+        "additional_info": {
+            "Materiał": "45% akryl, 35% modakryl, 20% poliester",
+            "Podszewka": "100% poliester",
+            "Struktura/rodzaj materiału": "Polar, sztuczna skóra",
+            "Wskazówki pielęgnacyjne": "Nie prać",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UG153W002-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/a0256914efcf4ea49f85d3f660850189/e9345872cdc642e5afe3caeeadb4564f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/626e7702509f4d449c774ba51bb5b142/6b84abd91e474eac8c50e38e64becfee.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c3950624b1764e52ae8adfbfdaa5ca48/001ed72fa62b4f95b2ab3e56eaca8765.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cd73034011fe44d49d8324566eccf7bd/38254126075c42c3bbcbbde3be053f9f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/69da609f76c24062a062c760d361bfb2/66b99433e6a9486e944595a38aec7f15.jpg?imwidth=156"
+        ],
+        "brand": "The North Face",
+        "name": "ETIP UNISEX - Rękawiczki pięciopalcowe",
+        "price": "169.00",
+        "sizes": [
+            "128",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "93% poliester, 7% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C",
+            "Rodzaj sportu": "Narciarstwo alpejskie",
+            "Zapięcie": "Gumka",
+            "Wzór": "Nadruk",
+            "Numer produktu": "TH343N00P-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/010bd5c0977349e5bd819c329e8eeab6/ddff9a789c24451f83a857fbf3fc1f19.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/76551e6620c3481a9ced2502b3e921fc/19560311113d40748b939324e4700937.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/db38b8a53da14431b1ad5e75c7431566/34e4ed78e60a4de08df37eb781c02621.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/356e5c870e9e42f8b8bb5e3f9b315c5a/43bc72ceef2349b093b3527120b41fd4.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "63.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Wypełnienie": "95% bawełna, 5% elastan",
+            "Podszewka": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NX353M0SK-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3ba145d233df4e928e15a2ab26c76820/ce3144840d0943d2972883923821ffd9.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3414f1603c6d4277985810779ceb6908/5969a53c8fd34707be39c398959eece8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/888fd3ec195f4c38a4e8049f1072f4ed/1ab3c13dcc194f36b77b780e596fadab.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b6e3653d568f4940803cf9fe415cff15/e4af9890a9364dc78216a998f205fb89.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "UNISEX SET - Rękawiczki pięciopalcowe",
+        "price": "104.00",
+        "sizes": [
+            "52-55"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NI153M02R-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3a5719e492c43f0ca5d87dd45e841170/9de27ed41104470a8f81857986e206f3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a83432561c483158af091014ccb8cc1e/a8086a14c0f0473b84d31b071cd4960e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/034925a3e0973ee3a248228da5d10f25/1aa6b3dc02e44ddbb2a904e1a97bb249.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c10b4bc759f73df5b698217dd100ba70/91a5cc0d45b144a8b1c2f7f4f0a4b3cb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b07cdf854fb1390e8f5276ee919791a8/7cf9be056b784c3db8febadc729ab14a.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "109.00",
+        "sizes": [
+            "54-57",
+            "52-53"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Podszewka": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne, nie prasować",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NI153M00S-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b5f349277b6e37c1a2f3e0d7599e022a/e23b43c06f5b4189b8cac5f749051ea3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7514782c7c67359ba10b48c151f84980/b8710b4a149b4c91a3e3c2837c126537.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e718029376973aa78f0d7092299aba6a/f391b35b071f41c4b766a935ffdf9dd2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/65cacd758b513c7c9cf5670641a812c9/969fecab38a34b2d98ba5a2a83b241bd.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "99.00",
+        "sizes": [
+            "54-57",
+            "52-53"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne, nie prasować",
+            "Wzór": "Melanż",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NI153M00S-C11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/81543b0118ce46e599a558470ee4b72d/bbbcb9281f3d45bd9e78f6063c7924ce.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/80210bb3358f442d97451380b5deab19/380c73eab40d4721a10822457f38665a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d8fb203b2d3b484a8d65e8bd21069286/ae85dc677bb64adf8a087a2c02ab5d35.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1995503cbf8847f0b7d4d5fd2949c163/5fd80f61d5054f40814f558907205ce0.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "97.00",
+        "sizes": [
+            "52-53.5",
+            "54-57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Wzór": "W paski",
+            "Numer produktu": "NI153W00J-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/65cec2ee0cf543b2899fc5c9b69a2e5f/23b81198a6a24c2fafe50379b0046c1f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0beadced4bda47dcbd7499cd9e200eee/4273ed3bcf8d445aaf045545f2298d62.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/197daad770bf4970ab488439f137294d/3d5710771e4f44be9bf9d4664d36d2fe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1612262896f84742854043480a9f49c1/32b73a40edab4384aec92f714c4e0486.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PIECE SET - Czapka",
+        "price": "106.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Wypełnienie": "95% bawełna, 5% elastan",
+            "Podszewka": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Melanż",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NX353M0SK-C11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/caa554e1cac54f94864eb7d224967178/99691e3e70b84dcfbddbe712fd88707f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b9310f997a15458b85bd09f3e00adbcb/f07c48dc84264a748bcdaf450f25f732.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8f7aae6670e446fa8bec48fb0cd03c00/fd66b16fc1c9498c82c3baad64904488.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d215cf62e3e04edd8d8311256b559d3c/b68d0fa10b1e4944b9255a345a4e596b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5c6dcfb6d69d45289e18a3f2270fa1c1/63ba068a61394cd88ab2e53ac531941e.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "63.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Zapięcie": "Rzep",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX353M0S6-Q12"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2986149ec02f4d0688a858ca92a7d01d/8a35c44210454b078eb8393421c80f9a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/234dd665d2ef4fa184785af75c78c5a7/ff9e329a6add41b9bd5ec04c07bd9a79.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/02397e1466084343980ef06a9eac2b09/7c8453012bd4456280002b131f21a7f0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eec8d4dcb2bb45a7bc0d904db4e43be2/f2829690dce746d2a7c4169d3169f0b6.jpg?imwidth=156"
+        ],
+        "brand": "Didriksons",
+        "name": "Rękawiczki z jednym palcem",
+        "price": "139.00",
+        "sizes": [
+            "9",
+            "12",
+            "11"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliamid",
+            "Tył": "100% poliuretan",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie suszyć w suszarce bębnowej, nie prasować, pranie delikatne",
+            "Rodzaj sportu": "Narciarstwo alpejskie, snowboard, urban outdoor",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Dodatki": "Odprowadzający wodę",
+            "Numer produktu": "DI543N00H-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ffaf03ce152e481a9ddbab66893b44e1/d9db91d777b5435d8107351952ad24e1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/6f5680c0f1ef40a89856332eff8baaf0/ffffc456b10643109b315e88a5e1ce1c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ddc580478c9b409fb56aad1a7192d956/bf2115ba70c740f789df3cae3fb75adf.jpg?imwidth=156"
+        ],
+        "brand": "UGG",
+        "name": "UNISEX - Rękawiczki z jednym palcem",
+        "price": "229.00",
+        "sizes": [
+            "104-116",
+            "92-104"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Struktura/rodzaj materiału": "Sztuczna skóra",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UG153M00E-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/1e7ca3e1c0224990a183a72ac76c75d4/3909f4525fc94dc2a01ab84a1143145d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/615fc2e37e8441be8084cf8ded5c18e1/19713033bda14e8290e6086b2043210d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/31a99d5f497140f2aaa732ea354ab3be/51ef5629bf5e490d8e2ec70b487dcd2c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7ed59509b2ef42d9aed60310b1092fb5/6dfeccefe05d481baae63e60de582f47.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "UNISEX - Czapka",
+        "price": "129.00",
+        "sizes": [
+            "52-53.5",
+            "54-57"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Struktura/rodzaj materiału": "Polar, dzianina",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NI153M02S-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/35277460249349c09d88ff3f6c37c3c1/157fd7c77267412ea6a6521edeac04f4.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/29f8063b7b2242feaaa58eecdde91770/669a54890cc04224a003827c83ed9c2b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/946b97a9bfa94cd5b8afa6802344b178/4834409ae28c4c8280543e0759990b90.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/07968448e83b43eaa74be1291aa5bcb5/a21a92db6cde47959c2564f889717a5d.jpg?imwidth=156"
+        ],
+        "brand": "Barts",
+        "name": "Puppet Gloves unisex - Rękawiczki pięciopalcowe",
+        "price": "169.00",
+        "sizes": [
+            "9",
+            "8.5"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina, ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Wzór": "Kolorowy",
+            "Numer produktu": "B8953W013-C11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8a899a4adcb54ee2a4b7a521b9e2351d/52f0cab292294f2ab53041197d14ad93.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e4243051e73b45478f9f103784366ca6/ad18081777804cbbb5887139fb6e9b11.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/44a184753a484492aa7d18bce4c50754/9d03fddfd3e648e5b3abd724b2ac3c03.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bb031bb8d8f84ee986c240ae7a872475/60ac7512beef43f19649cd2fa63ad547.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4aa451175f3b42e99aa2978919fdecf9/40acf55e9363465c895f6c355b8a8dcc.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Czapka",
+        "price": "117.00",
+        "sizes": [
+            "52",
+            "54",
+            "58",
+            "56",
+            "57"
+        ],
+        "additional_info": {
+            "Materiał": "67% akryl, 30% nylon, 3% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Melanż",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "NX351B045-C12"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/60e76d96e2364b03b802d5c41dcf8aa9/3e73f70a28574582aefc4085ca40759f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7d406b9887ca45b79b0d680b86c1d075/8e7cbd89a45a4920b9720210688f377a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5069e42a796a4fa0b64f683f9f315a70/c81af813df2349ec9d45da0b9b4af908.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fbf1cdf108584c0d8e3dffbe02b7bacd/5d94d8efcce340bb9a0f08a3ba75f33f.jpg?imwidth=156"
+        ],
+        "brand": "Lindex",
+        "name": "Czapka",
+        "price": "63.00",
+        "sizes": [
+            "5-5.5",
+            "4-5"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Szczegóły": "Pompon",
+            "Numer produktu": "L2E53M02A-O11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f1e30934b39c44368c97020cec512884/a8b734092a2f45c388ed13fb541c84b0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4d0e81adffb84830a5cee9208715c30e/23ca13b3b60b41a2ad8b83d9e93e52ef.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b67aa1f7e2534087b816045013d8a7b2/ed1eff2908984f8491648a41d287d7e0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/57e37cec07514752a88c8c4ecebb1e05/79b5e817501d43c49f99de2afcc7fa34.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Czapka",
+        "price": "134.00",
+        "sizes": [
+            "54-57"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NI153M02P-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cc7f933d1c7d4920bae5b022af841774/648679ee76fd473294842e871a718392.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1c5a4be215a145ee809f4d098313afad/aff75af6b69c4f3694632317afe1bea9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a3859a36f19e4ce4814c6baed9387b91/3cd4199e330046daa7d167c697b18677.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3859cac2f56d4432b315d257d259d7e2/40993e40d51b4352b8debf58ffc3fadd.jpg?imwidth=156"
+        ],
+        "brand": "Lindex",
+        "name": "UNISEX - Rękawiczki pięciopalcowe",
+        "price": "109.00",
+        "sizes": [
+            "7.5",
+            "5-5.5",
+            "6-6.5",
+            "6.5-7"
+        ],
+        "additional_info": {
+            "Materiał": "45% poliamid, 40% poliester, 15% poliuretan",
+            "Wypełnienie": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie suszyć w suszarce bębnowej",
+            "Zapięcie": "Rzep",
+            "Numer produktu": "L2E53W00S-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0d184fad9066419e93ec5a37bba12fd6/0a233b5944af46e9888c568b189d13e0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/662551995784439d83065255639138b2/63535f2eaa5a4735ae195cc0bf684468.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4748cc1fbfad4b0384ae5d86fcab5328/de680e609ad64beead1d9eca47a7634e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1144b774894c4cb9bac364cc92174e11/89d2a026ed444f55b424b03a59e2d3ae.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Rękawiczki pięciopalcowe",
+        "price": "97.00",
+        "sizes": [
+            "52",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "100% akryl",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Zapięcie": "Gumka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1853W00E-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d88f8258b8e24357b09082918b79cff7/42931be296a54b17a8abe5055061a9a7.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2b64d726986041a1827315b68527b214/801ba94f011e4882b6297becd30d485d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a9128766dac645b18120cec685e9a314/acafe8a4f3364cc4bfd2a575f2ad6fdd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/839a9f360e6248a4acdc42b2237339b1/6ff3ae1168704774abbed47efc402bb8.jpg?imwidth=156"
+        ],
+        "brand": "Lindex",
+        "name": "MAGIC UNISEX 6 PACK - Rękawiczki pięciopalcowe",
+        "price": "80.00",
+        "sizes": [
+            "50-54",
+            "48-50"
+        ],
+        "additional_info": {
+            "Materiał": "84% poliester, 12% akryl, 4% elastan",
+            "Rodzaj ocieplenia": "Bez ocieplenia",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Zapięcie": "Gumka",
+            "Wzór": "Melanż",
+            "Numer produktu": "L2E53W00D-I11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/a5031e5a97b242998f9c72388c40e22a/8db41b9b906c42a6aea72a80ce5a2991.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1748b7b0c4f0471097e2e08afca2bc32/e59dac6c01dd411aa7b6b7483b7e8de9.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PACK - Rękawiczki pięciopalcowe",
+        "price": "41.00",
+        "sizes": [
+            "58",
+            "56",
+            "57",
+            "54"
+        ],
+        "additional_info": {
+            "Materiał": "72% akryl, 25% poliester, 2% elastan, 1% nylon",
+            "Rodzaj ocieplenia": "Bez ocieplenia",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Zapięcie": "Gumka",
+            "Wzór": "Melanż",
+            "Numer produktu": "NX353M0O9-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Rękawiczki",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/20cce222b76038a28123c4272c04248e/ee8ddb6e114c4f79b3317e5209e3bacb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0c44d2ee2c5e32648b211622e1c6c7ee/a3f0db91f75349a6b0294ba9ea166343.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ef426a9a2c33383fa2844883dc15cd0e/72fca7dcd3924c8d8dbffd08ce1694e8.jpg?imwidth=156"
+        ],
+        "brand": "UGG",
+        "name": "MITTEN UNISEX - Rękawiczki z jednym palcem",
+        "price": "449.00",
+        "sizes": [
+            "104-116",
+            "92-104"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Rodzaj ocieplenia": "Ocieplane",
+            "Wskazówki pielęgnacyjne": "Nie prać",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "UG153M003-O11"
+        }
+    }
+]

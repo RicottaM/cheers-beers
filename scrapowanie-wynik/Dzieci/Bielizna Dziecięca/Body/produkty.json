@@ -1,0 +1,1723 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9f24c614236b45d68ca86a5d932d588b/40fa2a3febf045adae9a443c989707ce.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/06d0499b52994247a967ba1abd36d568/f43f74faf8f745c3ad411c20af239a7f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1768603d4f824bb7a774d2c234f81aed/2d18f1e7dac94ac4a8e1e1c7163bf3c2.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "124.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Welur/aksamit",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie wybielać",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX384B0TE-K11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/06cb0c481a9840b78a3395faa9231020/cfda012529274d3dbdc78a3ac90a46ed.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/83576188cbbe411eb5b0707582b90eae/b69e7aa749a7403e9e845542546b6e70.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dc445ea3f919434a9f77fb3942431832/a23b98e9b0464a2ca0f68f145d8a7ef1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e27c70e63509416b9f3690494aa73435/55869e029a2e41be9a7b37f4eb828118.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX SET - Body",
+        "price": "217.00",
+        "sizes": [
+            "50-62",
+            "56/62",
+            "68-80",
+            "62/68"
+        ],
+        "additional_info": {
+            "Materiał": "94% poliester, 6% elastan",
+            "Dolna część": "94% poliester, 6% elastan",
+            "Struktura/rodzaj materiału": "Welur/aksamit, dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Stan": "Standardowy",
+            "Kształt kołnierza": "Kaptur",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia, zakryte zapięcie, haft",
+            "Numer produktu": "GU126D01E-A11",
+            "Długość rękawa": "28 cm w rozmiarze 68-80",
+            "Długość kurtki": "31 cm w rozmiarze 68-80",
+            "Wewnętrzna długość nogawki": "26 cm w rozmiarze 68-80",
+            "Zewnątrzna długość nogawki": "41 cm w rozmiarze 68-80"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4e88561c413345348549895834fd9b81/9a6d275cc62042429c90f3e3e0f5e77f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1ef29f816346467cb73d4376594ef215/44e82547aae14967b2af2b65cfc61363.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/238013e17b934d7d901e0153df54d5a0/2b650e8ca3e34278b2438b25d7e11382.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/55f6d978b0a140cdbf56fe555e4d7804/4cf44f13b6684e668da18979dc90d65a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3c41a5c56c66423eb4aa32ae019b747c/90d430cbd1054391a92d5f89efda9d4b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c39cae815d52486490ab2af375f4c834/e49a43faafbd4e66b320a0008fb9b8fe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e119f943d88f4e8b816767a93042bc62/495d07e7b91e485b86635e8017abc7c6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/88a8e684e6e3440a805a0720dc314025/81498a5a11024a6e875a19a5fed0bf41.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PACK - Śpioszki",
+        "price": "125.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Tył": "100% bawełna",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "W kropki",
+            "Numer produktu": "NX383B0YN-J11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/dceeb28da8914304a6172d69000f6bca/626001c141284946925e35ad0c518635.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/aa67e70ccc7b4c1998945735f0c10bcb/7b38038b81aa427e996d3ac3ed1b9294.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fef1b2a210e74c588a531b76d6b8edf4/9080b8bd20974b0da6d0ede837031710.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/16419f58b0e34122bc15c660f73a21b0/0a7644f9b9ab4f8baf73ea51190a0f51.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "4 PACK - Śpioszki",
+        "price": "124.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie wybielać",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX386B067-A12",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6738f42d3b16473eabdc9fd48c373af2/991c749842944aed957ef25ba40f8078.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/73578087340b49a786cd0a9f0c4b3ba3/e6f752bc4a834c04b0d58800aa52ba44.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b4c7c3a9d96c4965827ed812f667a72f/39ef8e1f240e492fb0dac74def010127.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d54c6970472046bf8c59dcdeed450d85/02fc49dda9e440659a16f3daefb0df7f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/abdcffbb5b4d420cb30796bf1c2530a1/5c5396fd2c544050a17af994b7801c53.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e8aece3c62f9429c90c22d0b96836faa/a89666c1697e4f95ac69e4b92cd26a9d.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PACK  - Body",
+        "price": "88.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Design": "Zwierzęta",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX384A0CH-C11",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/648c6f9d4ac53f41b177af6af8ff3088/27f740ea517147c0a004b71ee2440e91.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a420168f1b3733119c1924ef1797f18f/37a7127d84eb4544b7e441cce8c3af5e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/638c6900bee23e438fa670c076dfc58e/50b67e10d6224fa2859de0fcd599128d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5663622c42133b6c9d110779685d6076/18fdbaeb63cf4c209e6a22b0e95d9c32.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4408b943289d3a3fa975421375acda64/8c77a23d602a454aa2c073a11c676970.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/774dec882f1d36dc8acd99b36a33d4bf/176b079b0f2a4bacad1178edd048eb2f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dcc05103c89a3469b1699bf556498bc3/2dd214622db74e06b0a0d02bcda8155f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0436d7dec22130438eafed266425307a/28fa3192fa184c798186eb1ab2565d7c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/860ca1bf6ff43eb38f723e27466270d9/cb67a68660de4f7bbd7fb4719ab453a3.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Body",
+        "price": "96.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX326D034-A11",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/af872164b205378693efa5b6e954b2f0/46d060ba56fa45b88a659692ba86e505.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8c75942237093b758bcdc14977570c44/8bcdcb4d4ac74d52a97c567b9199c76b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9337b9a812e03db49e10749ae70e04a8/0c32381f36c7453d97c2cc936cf0af99.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/35ac6bd24b1b3bb3988ff47034f0e7c2/1db58ef06c5242cda320487de3cecd20.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d7ff548d3c2d3285a17cb5286e7838a9/e5b9d2c9bc974ca1ab5ca5d7e3c66775.jpg?imwidth=156"
+        ],
+        "brand": "Nike Sportswear",
+        "name": "Body",
+        "price": "129.00",
+        "sizes": [
+            "50-56",
+            "56/62",
+            "68/74",
+            "62/68"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NI184A001-C11",
+            "Długość rękawa": "Krótki rękaw",
+            "Cała długość": "41 cm w rozmiarze 68/74"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/de5f8d4a2af54dbb8b82e01c15dccf29/5a887b7d8b8545dabc8a02768e4f50ff.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/37c059684f9b4503a3d8f89e32152b83/a9070ee30e6646c2966b6abc1abd2552.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bac42ea76f6941e0adb0aa3e3080c30e/d6eb0a3761da4c4782de375686d83965.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8c81058fbfa840d18662c7a7227bac2d/a34d4c84fb3b40e8bdb5b38bf134ef00.jpg?imwidth=156"
+        ],
+        "brand": "Guess",
+        "name": "UNISEX SET - Body",
+        "price": "217.00",
+        "sizes": [
+            "50-62",
+            "56/62",
+            "68-80",
+            "62/68"
+        ],
+        "additional_info": {
+            "Materiał": "94% poliester, 6% elastan",
+            "Struktura/rodzaj materiału": "Welur/aksamit, dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Stan": "Standardowy",
+            "Kształt kołnierza": "Kaptur",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Szczegóły": "Elastyczna talia, zakryte zapięcie, haft",
+            "Numer produktu": "GU126D01E-J12",
+            "Długość rękawa": "28 cm w rozmiarze 68-80",
+            "Długość kurtki": "30 cm w rozmiarze 68-80",
+            "Wewnętrzna długość nogawki": "25 cm w rozmiarze 68-80",
+            "Zewnątrzna długość nogawki": "41 cm w rozmiarze 68-80",
+            "Cała długość": "40 cm w rozmiarze 68-80"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/39776556775240b1ae1cb62e625e5508/d59cbf2fefa8425ebffdc420b6c36367.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/18c9c30085464645ad5d3c2a9be55ccd/d04a67b086b14e5d8afefb7d7490c489.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d56e0fd29684a179247de1e73179850/59dee9a82836475282fca9b6d0c2e30f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/507f9d64f5624584987cebf96091d484/df2d2db89ffb452eb386a4d4a7dc6538.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c6003fc313f143a88742e4f0f7556f20/2f06ddd02d2f47f3b96303653d3f1ef7.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Body",
+        "price": "82.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Tył": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Bordura",
+            "Numer produktu": "NX383A0AX-J12",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Bardzo krótka",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Polo Ralph Lauren",
+        "price": "",
+        "sizes": [
+            "94-100",
+            "85-90",
+            "68",
+            "85",
+            "109-116",
+            "62",
+            "One Size",
+            "117-123",
+            "128",
+            "39",
+            "16",
+            "155-159",
+            "38",
+            "70",
+            "30",
+            "34",
+            "53-60",
+            "75",
+            "124-128",
+            "163-174",
+            "36",
+            "19",
+            "90",
+            "144-154",
+            "92",
+            "176",
+            "86",
+            "102-108",
+            "104",
+            "80",
+            "60",
+            "70-74",
+            "27",
+            "75-79",
+            "134",
+            "35",
+            "40",
+            "98",
+            "28",
+            "17",
+            "74",
+            "49",
+            "80-83",
+            "136-142",
+            "140-149",
+            "140",
+            "130-134",
+            "152",
+            "150-161",
+            "88-93",
+            "146",
+            "124-134",
+            "62-68",
+            "18",
+            "158",
+            "29",
+            "136-138",
+            "31",
+            "32",
+            "33",
+            "37",
+            "164"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/735bf448df964325ad351af3c82837f7/ad10686a1eb841faaabdce76ab2dc9d7.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c2852a8aa2b34bdcb978b00ff44443a0/92d034be01674354a355768ceb4599c2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1e6815fdeafd4ccb82774db04f47a2e7/ed0e22fba7304d9289be89bc3e115d6b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8b6d1bbee96541aa82b6103c731af1e9/691cc949f7d947b8be89b5e55d919b29.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a0e44aabfb8543d8a85203a24cea890a/83c2e09618354ab789390777cddeeb8b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e26dd8679c4f47af95eed82747bd9c0f/16eebebc51b24e81a941a064a74bcabe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5fc115177e1542bf9e1b8d40268ec0c1/1c2886b10fef4cf1b5b8de205bbc8d1a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5ce4d7882dd34e84b435f1f4ead166a8/b72bffab25fc4c05b82d77dabcf6271e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8c87ad5342f940f0b55b01223a51cf30/549bec74b0ef45b995991e32b9470b57.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "233.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Tył": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX326D06P-K21",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c353a6b861a64d8c971a43f7f59e621e/253bf62e77c94d3d9711282b4755bb76.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/dbbe6182a53b47eda64704ef7c9f9150/5f4d7a7ecbb54f9c8c27209797d14019.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1a4795d8b01b43d0bdcbde06dfd45e77/70933cfe79de4a329f19e9276a0e0479.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e3ed03d890d7440194566ec1f537dff0/35ead6518a2143f99a94ecf6a8f9af27.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3511e65f1de742ec92f62b3890cd3ec6/fc0a0b391b46445f93b1511d821fe5ef.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/98b4c7ac0a6b4c9eb9a6c4eda31987cc/e3f981161b364ae0a35b3b49c7911f2b.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Body",
+        "price": "76.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX383A0BN-J11",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "122",
+            "50",
+            "86/92",
+            "81",
+            "95",
+            "68",
+            "62",
+            "68/74",
+            "69",
+            "62/74",
+            "74-80",
+            "56/62",
+            "72",
+            "92",
+            "40/46",
+            "86",
+            "104",
+            "80",
+            "110",
+            "50/56",
+            "44",
+            "60",
+            "82",
+            "62/68",
+            "68-74",
+            "56",
+            "98",
+            "80/86",
+            "74",
+            "116",
+            "56-62",
+            "62-68",
+            "67",
+            "83",
+            "76",
+            "74/80"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "50",
+            "86/92",
+            "68",
+            "62",
+            "68/74",
+            "50-56",
+            "62/74",
+            "68-80",
+            "74-80",
+            "56/62",
+            "92",
+            "86",
+            "40/46",
+            "104",
+            "80",
+            "110",
+            "50/56",
+            "44",
+            "62/68",
+            "68-74",
+            "98",
+            "56",
+            "80/86",
+            "78",
+            "74",
+            "56-62",
+            "62-68",
+            "50-62",
+            "98/104",
+            "70/78",
+            "74/80"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "50",
+            "56-68",
+            "68",
+            "62",
+            "68/74",
+            "68-80",
+            "56/62",
+            "92",
+            "86",
+            "40/46",
+            "80",
+            "44",
+            "50/56",
+            "62/68",
+            "56",
+            "98",
+            "80/86",
+            "74",
+            "70/78"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "44",
+            "110",
+            "50",
+            "86/92",
+            "81",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "40/46",
+            "104",
+            "74",
+            "80",
+            "47",
+            "78",
+            "50/56"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "50",
+            "86/92",
+            "81",
+            "68",
+            "62",
+            "68/74",
+            "69",
+            "68-80",
+            "80-86",
+            "74-80",
+            "56/62",
+            "90",
+            "72",
+            "92",
+            "86",
+            "40/46",
+            "80",
+            "50/56",
+            "44",
+            "62/68",
+            "98/116",
+            "68-74",
+            "56",
+            "98",
+            "74",
+            "62-68",
+            "56-62",
+            "50-62",
+            "70/78",
+            "83",
+            "76"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e77e09d644083e7686ab609153959acc/b043b3ce6db149609aa55d20439a51e2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/60099e49ad5f39d6b2e59462126adb93/1608cb37c2294209b4dbbc972b95635f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/37ba207244d030958baf2d28f4a578d1/b0cfe4fc2388446ea12b0b24a82dcbf3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1af1348c44be3b34b0c61fa6603eed92/ee42c292f54947dea1d926970b915093.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Body",
+        "price": "76.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX326D02W-A11",
+            "Długość rękawa": "Bez rękawów"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0e24d29c4a9d414aa461ccac77a429a0/d0eeffd92c364202a262c8e1f1789e57.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e8d852b395cc471088bfaad8994975d4/0ac38b45318a42fc8517a974c6770232.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/118679bcec8946c3bb3699b024621721/8dacbc61e1014c5fb0731f8d8d619c64.jpg?imwidth=156"
+        ],
+        "brand": "Lindex",
+        "name": "Legginsy",
+        "price": "89.00",
+        "sizes": [
+            "68",
+            "56",
+            "50",
+            "62"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 60 °C, nie suszyć w suszarce bębnowej",
+            "Design": "Zwierzęta",
+            "Stan": "Podwyższony",
+            "Rodzaj dekoltu": "Typu klepsydra",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "L2E26D03X-M11",
+            "Długość rękawa": "23 cm w rozmiarze 62",
+            "Wewnętrzna długość nogawki": "19 cm w rozmiarze 62",
+            "Zewnątrzna długość nogawki": "34 cm w rozmiarze 62"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/15bbda75d5db4f33b814d6fa6b1d88da/f41866923a364d8da82d66ea962ddd55.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/3825fb8a088340a796c6d5afa68c4d75/cc417e9408e740b0bc1aafce99b1ad3b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2e7a522264cb47f5b74713729eb2c180/5c98550f5a834d01a05a0dd2a5ad8f98.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c44b4e8166a94f419b7614bea650713c/f36a70cbaa4e4a799b2cc11f89c99d80.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "124.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "NX323D0OX-K12",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b4fec73a41f34117afe61260a5ae10fe/e437e1652ef9434fbb587de2cfa88427.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/6fea323e53b948dc87883d02125ffe10/ae5affc2a40d432184bd071ea16f470a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0961e76731ab4726b7be43f87b5a1084/44a960bf5338481aabc72cdbdd8b6451.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "UNISEX - Śpioszki",
+        "price": "75.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "80% bawełna, 20% poliester",
+            "Tył": "80% bawełna, 20% poliester",
+            "Struktura/rodzaj materiału": "Welur/aksamit",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX386B07U-A11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/351b397b680a4da789e406afcec6bd26/f26d90eabcca4f5285a4ced8180371fc.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b7e62e84c1884300810d1d8e1e614696/3705bba335fa4b65b989d67c733a02b7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e1524b88941e40149a997ab0804c7041/18d7f30ec4c546939f7c2f9fe3459e74.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PACK  - Śpioszki",
+        "price": "119.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Tył": "100% bawełna",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX383B0X6-K11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Do kostek",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/ecb0bcc0b6eb4f0fbbd5af77b27bea52/d5457051bab6443c835b84588957bf1f.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d3ad0f1c4f4145b6a2e13e4abf029704/81bbbc9cae0a44cea52bc6f169badeb1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c7d76ba89feb4f2d84deb6fe4675fa4b/74ab7646b8014040abe9ded9b75509b6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6cd01f6268b44569a18dc030e135ab45/1e6623e729f240818ac4a1b8a10dbfa5.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Body",
+        "price": "119.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie suszyć w suszarce bębnowej",
+            "Design": "Zwierzęta",
+            "Stan": "Podwyższony",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Guziki",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "NA824D0T9-B11",
+            "Długość rękawa": "19 cm w rozmiarze 56",
+            "Długość kurtki": "34 cm w rozmiarze 56",
+            "Wewnętrzna długość nogawki": "14 cm w rozmiarze 56",
+            "Zewnątrzna długość nogawki": "31 cm w rozmiarze 56"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f6de6d106ea44296a02530c7040449c3/11e993d041c247b79f84c14fa4c24e3c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/7dac3044665c4a858cc2ebbaf99c423c/8dd5b947317c47debad4e8955c9aa3cc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/57c2d4510bda4e10a739838548c935c1/1451cc5828d74a948c9b0941bb0bee54.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/df388022f5544d61b5d5aa7b85fc6ded/d88ef16f5644474ca6571d49e78c6167.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dd35124cd2454018bf805e65317ad118/afcde9a7fcad4943a43510fe1f9890f4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d1badf2227644b83960f594fc5925362/76e6879f8b1646b3b3f59422214b3999.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a429a2966c0548d693cac321c9da3789/144021c4472543888fa948a8913cc613.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2198a479db024bcabfcbc11552d79828/f3da4acf9bb14d69926a53c17054047a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fe7e85908f3f4b6bbbc0ff5fd3c9be86/a975b3ba03474604ab734a8fc3997992.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6648c8ab2dfb4cc6a970203a7355f55f/67322aaa238d4b7899c68d3986e47f67.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c080f7c917be4fe98305ca44dfcc777d/473ed6e62a8743ba95e475c99717c954.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "3 PACK - Śpioszki",
+        "price": "125.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Tył": "100% bawełna",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "W kwiatki",
+            "Szczegóły": "Zakryte zapięcie",
+            "Numer produktu": "NX383B12K-J11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Do kostek",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6d2eaa0b50734bcd997de2776a10bc96/323cd9276bc14ac5a64ea531f96643a3.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1fa2ddea8fe040d8bc6b5a513ffb5ca5/0d1e903c286745f4b746bc23ec758484.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/758ca223313d4729a509a9a49188be46/55cfb551fe0b4ad8bbd51b51ba9e9c84.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d4da416d7a054a6dac187c872f87b95f/eac6a81974484afb8209641d0d4587e2.jpg?imwidth=156"
+        ],
+        "brand": "Carter's",
+        "name": "UNISEX 6 PACK  - Body",
+        "price": "169.00",
+        "sizes": [
+            "86/92",
+            "68",
+            "62",
+            "86",
+            "74",
+            "80",
+            "50/56"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Design": "Farma",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Przezroczystość": "Lekki",
+            "Wzór": "Nadruk",
+            "Numer produktu": "CJ286A02G-B11",
+            "Długość rękawa": "24 cm w rozmiarze 68",
+            "Cała długość": "37 cm w rozmiarze 68"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/5f59848f3a15408a8547ff3bb6858a10/0d3917c688fa4cdeb2ec74a211209a41.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ff1ddb1c6482451ea59d222faf0b938e/7d36bfccbedf4df7a0a198be223d7005.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a079d0c6d23a447782adb73527ad401d/34cfda841fe4416f9428076f70242282.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8911bb3201f84a349e3eb2b70ee77fce/2c830eeb88be41129d03c240d7d68af7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a935e974b85a458c9c9357535d1599cc/59dbce08472547d0a7280274892a033d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ef2d7664574b4a348338a4d0166ded97/74bb07d905254111822e5ec50c037b00.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fcd1995eb7b94d83a2149b81b2bbed3d/8bb2fdf3b0444ad0948bcf8ecf396e57.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bd45d222b8e94137b5079e2ae43c707c/52e32ca6600b4e348066c6e743be75dd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4188350fd5d94dfb87b1d912ec88ad96/ad7eca7a7b144a5db4505de2381f577c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/489c053f880a49b58f627664a9f52feb/1c345ba781874b6f966276a514326ed7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/79ba1a190b344ef88f097eff234aac3b/0038865eb005401e80760b67e7443478.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "119.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Tył": "100% bawełna",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Dwustronny zamek",
+            "Numer produktu": "NX323D201-J11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Do kostek",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/437781de8f50454f82c4b75be8525eb9/8232284111e34a0c98518b7084bf93c8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2a7b1ff4be514e0c8a6898c66b79083d/ce1efb84bcf34a26a427d05b61ca70c1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6fd309ee226641178c66fa7db621b31f/166956acb046442a91fa1bbfc351595b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7a1ac7ea12ce49c7b63ca12cae92d561/c69d86f49cbe430eb389a69eb4f46f57.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/187efa88d48b4ae2be940454f68283da/291aae78b65e4b0d8e312d0c9ca91cb8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/09843ab45f2640ebb1557a44759fa76a/cab46e6b24e64d898cdc8c07f44f53ef.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a166dd1c09564d179333695b81ba0f16/f255c30fc5954bfaa1f11b263cbdd1c3.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "137.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 40 °C, nie wybielać",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX383B0X3-J11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/35cb3410d9d540699c89726f8ec0016c/dd3e8e000e164384a0d1a4062a1d782e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f492fb0d18a741cb99a2c345208a7971/883b148ed86440a08bc028c01cfbece0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1e0932ebeaac4365961d4e37eca40b07/c8274aff89944f319987f8c7d347baec.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Body",
+        "price": "82.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80",
+            "44"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NX324G1QJ-A11",
+            "Długość": "Bardzo krótka",
+            "Długość rękawa": "Krótki rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8df3c1faa98e4c6c885fd5d2fe6507b4/9c4800076f47436a894d3971e67e5269.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a46262557c6d4400b01f428bec64d3ab/e3628ef529ab4d7f9a13c53dd8c725dd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c686514f3ea64174bc4579e81b304c80/24d7b4b2379d4aadb6a5f12699201b01.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b72070ba21494e6fbe6eb82054a21726/f247cd181d3044f89383d06e7a3e16a1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e57b39384972421f80193a6d5e738862/0e92e55e87ce44a58f677f03629e4d22.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/bc1b83be9f4840f487a399093ac5fc6a/ade7af49634a48d687e5acfbe17cf44d.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "Śpioszki",
+        "price": "125.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Tył": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Odkryte zapięcie",
+            "Numer produktu": "NX384B0X0-K12",
+            "Kształt": "Prosty",
+            "Długość": "Do kostek",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7151cb40b574472d9b0d2cc4cdcf96a3/97ab29344b2147ff81299ab01f3b8f9a.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/98b62c01002946889e48020748265e34/3db70bd5ed194c54b76a47f1cb4d8fb9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/643550bd19594e7497467d463d181e1b/1e6ac862db2e4a2db479cfb7ddb7f772.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9c03eb220de141e1bffd06baf6739b3e/d180e4fc93734a52a7eeccb8de327862.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/80466b37a38b495385b00a4025983514/4ae4fe55d782422a8d0077023869196b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/12fc6604d9c14d009a6688ee629b582d/d451490817bf42028e72ff03ac034fa1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7d731e5bdb474e389f57aee804f6feb6/0c6a43ca933e4948804cedb6db00926b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/eacd820ad62b4de08998ce79a0e30e7c/52e71487bb1642f08773015e3fdfd7a4.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "5 PACK - Body",
+        "price": "113.00",
+        "sizes": [
+            "50",
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Rodzaj dekoltu": "Kopertowy",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "NX384B0XE-H11",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c9f872d9597345bd83e8040e4a98f7cb/5ce81f41cc97430eafd8f166b6f28214.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fdfb17b9c9b6481fb4d6cb97ed044b87/d6ac8526ad124daeb9daed4ffe57f79d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b5007dd95e554beabd3d413b820e8ca8/7442cc90d89c4f91a0c57f8fda765618.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3e623135e1c843b3b143e54d09fb02e1/8eb4948a9f594450a1c239ca121ba46e.jpg?imwidth=156"
+        ],
+        "brand": "Next",
+        "name": "WEIGHT ALL-IN-ONE - Śpioszki",
+        "price": "156.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Tył": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Rodzaj ocieplenia": "Lekko ocieplane",
+            "Kształt kołnierza": "Kaptur",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Odkryte zapięcie, zakryte zapięcie",
+            "Numer produktu": "NX384B0X7-J11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Długość rękawa": "Długi rękaw"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f057fbd34f02446cad3194c0e140eeec/0536999c7ebc4f7a9111eb2e9203ab43.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5f47c4f9b10c4eb79664ad5b73855c1c/34fe1cd559794c099a9577d8d496e151.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d0620d36c4524b408e28b8581cb0de86/2f34532409dd4860985754d3311f48ef.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Bluzka z długim rękawem",
+        "price": "159.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "95% poliester, 5% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1823G058-O11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "49 cm w rozmiarze 128",
+            "Cała długość": "48 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/46aa6701991f4ebea9191fd65a35180d/a1254d9631154e9f8e406612b72a0a38.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/047c36a475524aa5811efca41397d74a/b1866aa904ea4c619d03b26f9f468eae.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a72cd96ceb6d4f55b8f756e66cbcf6ed/151d16626f434f439fa6b70116e4d7a8.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Bluza",
+        "price": "319.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "90% bawełna, 10% poliester",
+            "Struktura/rodzaj materiału": "Dres",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Kształt kołnierza": "Kaptur",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Haft, elastyczna talia",
+            "Numer produktu": "C1823K04Z-Q11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "49 cm w rozmiarze 128",
+            "Cała długość": "45 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/83700a51275f45d18393cc5de9205eed/1c241d725f0f4d5198e4c5fc7f8d588c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/04625ab743904be7902ef35368ec6cec/49b7c30cca724c579bbfde4f7ec78062.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6bdb46360801460cbd2a7ef357252e99/a6deaa42addf47219c06140201216773.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Bluza",
+        "price": "319.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "90% bawełna, 10% poliester",
+            "Struktura/rodzaj materiału": "Dres",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Kaptur",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "C1823K04Z-A11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "44 cm w rozmiarze 128",
+            "Cała długość": "44 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/239b81b34e0a49d4b02bd79aa48f8032/2ef6d1c886b54066a936d23b3820c3d8.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d260b9f949bf42b4afe740c222f0f0c3/e68ceeef6b204b12ab32b9217e85103a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f2841b836cbd4bec972eab21d1e99025/c4c1cfbf19414df68682de738f90b252.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Koszula",
+        "price": "249.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "98% bawełna, 2% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Kształt kołnierza": "Kołnierzyk koszulowy",
+            "Zapięcie": "Guziki",
+            "Przezroczystość": "Lekki",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1823H00E-A11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "48 cm w rozmiarze 128",
+            "Szerokość pleców": "35 cm w rozmiarze 128",
+            "Cała długość": "45 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/b98611f1a71f48208b9f55dc8ee9680e/cf2db3673a6b46108e0b2d51a6afe66e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ef6f993e5ed449d1a4148d910830d7e1/dc4c37dfdaf44e3fa007446b29ce69c0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ace4927d50a1429ebab2c19786a0423c/b277720d80f64850bb6df98bac4336c3.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Spódnica mini",
+        "price": "269.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "80% bawełna, 16% poliester, 4% elastan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "C1823E01S-Q11",
+            "Długość": "Bardzo krótka",
+            "Cała długość": "32 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8eae0fa4da8c4e378dcc4117088b130a/115f7dc686e3449db57dc6fc74923216.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9ce514121df74339bf222a1f486dd8bf/ebf3ca25bb324a6a9490457833f90298.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a27c965ced624201beaf98e99deaf024/9d0bcb47628d45cf8b9ee69ddaeb8c48.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Sweter",
+        "price": "199.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "68% wiskoza, 30% poliamid, 2% elastan",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C",
+            "Kształt kołnierza": "Kołnierz stojący",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1823G05A-Q11",
+            "Długość": "Krótka",
+            "Długość rękawa": "48 cm w rozmiarze 128",
+            "Cała długość": "35 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e50d63d19a0d457dab19e2f3f88714e5/555dd86929b6427197a7c06398373783.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/628d5f88b34b4f8f96c2791507891a05/fbb305006a884d45944ca4cb6a902155.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8f064894e47d4d529fc02e71935ee510/b093c613b63f4f2793b5b98dc25d3d97.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Koszula",
+        "price": "269.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "98% bawełna, 2% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Kołnierzyk klasyczny",
+            "Zapięcie": "Guziki",
+            "Przezroczystość": "Lekki",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Odkryte zapięcie",
+            "Numer produktu": "C1824I013-A11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "46 cm w rozmiarze 128",
+            "Szerokość pleców": "33 cm w rozmiarze 128",
+            "Cała długość": "55 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/429c26bd69d147a5a67ab5126acd91ff/315ced28bc7149f6a4069930f4521b57.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/59b05d76217a4b4a8f987b6edc2a3cda/f36606259eaa4c9d81397a726e4409d3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ae30e0c256e647c698c4bcaf2f8bf5bd/50fca1a21eee423dafbe4f337e03fd7c.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "T-shirt basic",
+        "price": "179.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "95% poliester, 5% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "C1823G057-Q11",
+            "Długość": "Bardzo krótka",
+            "Długość rękawa": "Półrękawek",
+            "Cała długość": "32 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/abec81b202324fad828fc7a341414dd9/9748c2b500b3497eb4be522a86fe5dc1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/d818905dad2249e0b26a3245b8aba6ff/035850ec083743a4a2b3c883317d40e9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c0fd1afe73944e7393b14e458e5ecde8/3bc7b20c545c4e48a1304a64d645ed3c.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "UNISEX - T-shirt z nadrukiem",
+        "price": "109.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "104",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "93% bawełna, 7% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Numer produktu": "C1826G01R-Q11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Krótki rękaw",
+            "Cała długość": "25 cm w rozmiarze 56"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f3b70c10b2b7406ca8be44b3d863cd33/e26718c414404b7e9c5b2f7e55d4e4cb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/1609276e04df4835956fb0858de6658b/e7dd47519c7542ffaf0c29c0533dcd40.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/cfae9d78e0f14d7fb603fe728a197016/15bc47edbb7541dca41ee49b54fe4221.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Sukienka z dżerseju",
+        "price": "279.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "104",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "68% wiskoza, 27% poliamid, 5% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne, nie suszyć w suszarce bębnowej",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1823F059-Q11",
+            "Długość": "Do kolan",
+            "Długość rękawa": "Bez rękawów",
+            "Cała długość": "32 cm w rozmiarze 56"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e8ea111f91494e079ff952fb64e22758/fbc4f01e5e9d4c76bd113c1e1a5d55b0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/eea88c5115714691b6e741f5617963a6/074724acc0b84aafaed0e34d4aafc816.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9ae0a759e6b24bbebc4dafab2ec10472/e37844ac94e042ca82cb515a510eb589.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Koszula",
+        "price": "269.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "98% bawełna, 2% elastan",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Kształt kołnierza": "Kołnierzyk klasyczny",
+            "Zapięcie": "Guziki",
+            "Przezroczystość": "Lekki",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Odkryte zapięcie",
+            "Numer produktu": "C1824I013-K11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "48 cm w rozmiarze 128",
+            "Szerokość pleców": "33 cm w rozmiarze 128",
+            "Cała długość": "53 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/7d4df42f9c694262b6420fa3d5a3c94b/e95cc059b03241818ead3d6f1702d181.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8ca88e75df0a40ddafe9b38ef00da8e4/0830baab34444d2f946e393e210d72b5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/dc5f24d38dde4d7482e7bc1b1817233a/ce07b4bd655a460399e9177a9c1ff956.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Spodnie materiałowe",
+        "price": "269.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "66% wiskoza, 30% poliamid, 4% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Stan": "Podwyższony",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "C1823B02B-Q11",
+            "Długość": "Długa",
+            "Wewnętrzna długość nogawki": "56 cm w rozmiarze 128",
+            "Zewnątrzna długość nogawki": "77 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/cf8e8df7a75946c1ab35aa6a34e26e79/111a69fb7390471e9f778124a9970101.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0020bb9e1bf443f286cb3340c875e79c/1ec1460defa04781a1d96b970d4e692b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ab283a27f6a9474ea4c0a7c3dc1ab820/5eb91dd982a04174b680f19476174836.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Sukienka koktajlowa",
+        "price": "319.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "80% bawełna, 16% poliester, 4% elastan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Wskazówki pielęgnacyjne": "Nie prać, nie prasować",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "C1823F053-Q11",
+            "Długość": "Krótka",
+            "Długość rękawa": "Bez rękawów",
+            "Szerokość pleców": "29 cm w rozmiarze 128",
+            "Cała długość": "60 cm w rozmiarze 128"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/904bacbb95d14ab9a478291b4d06b4f0/0e520f69ec684738b2ba458e12108e89.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9ce7580040ba4ce698aa6446686282b7/fa213d365e054fef9485bed2a1ea5543.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e9667c326b274406b53c355102e7c5f5/8eb74bb3e3394f7a8130337b3aa10553.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "Sukienka letnia",
+        "price": "269.00",
+        "sizes": [
+            "68",
+            "62",
+            "56",
+            "92",
+            "86",
+            "98",
+            "104",
+            "74",
+            "80"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Dolna część": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dres",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Zapięcie": "Zapięcie na zatrzask",
+            "Wzór": "Nadruk",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "C1823F055-J11",
+            "Długość": "Do kolan",
+            "Długość rękawa": "19.5 cm w rozmiarze 56",
+            "Cała długość": "34 cm w rozmiarze 56"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Bielizna Dziecięca",
+        "subcategory": "Body",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c467cb10fc2e4d889b4beb772f559d35/7596953aa1da4c4796e6afe32ed60230.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/f86ddd906fcb489f9605d83737f102f9/680b767d56d34b3e8dcbd41c1b438365.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/3afafac440f74d72aea47fa0d2415cf5/20864b4766844d818cc993d8623caeef.jpg?imwidth=156"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "name": "T-shirt z nadrukiem",
+        "price": "139.00",
+        "sizes": [
+            "170",
+            "128",
+            "104",
+            "116",
+            "140",
+            "152",
+            "164"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Pranie w pralce w 30 °C, pranie delikatne",
+            "Rodzaj dekoltu": "Okrągły",
+            "Przezroczystość": "Lekki",
+            "Wzór": "Nadruk",
+            "Numer produktu": "C1823G059-A11",
+            "Długość": "Standardowa",
+            "Długość rękawa": "Krótki rękaw",
+            "Cała długość": "42 cm w rozmiarze 128"
+        }
+    }
+]

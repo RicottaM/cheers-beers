@@ -1,0 +1,994 @@
+[
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/53ba9634749b3e74bf059015424dfb4b/dca0abaa1f3846969b3213b7ddbfd1a6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9750085d7a9e30f0adbebed4fb63203a/157a4d1b65c14ea687a33e5319713ef7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f9822292c1643aa5aeae56f48c05e228/0ccc13aafc7e46af9d1cb62e6fb42730.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b5916404ff0b34748786cd8ac667ce9c/cd988827fc484e16bf7385d472688a3d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/78d2ba75a11e3090954b165950c18161/cc3857a3f6f942948d54b823d17d4d33.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "75.90",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "67% wiskoza, 29% nylon, 4% elastan",
+            "Struktura/rodzaj materiału": "Denim",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Zamek błyskawiczny",
+            "Numer produktu": "STH21B097-Q11",
+            "Fason": "Slim Fit",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/41b6b5b3ec974ed9a1b6fc428d9ec601/d07cd5146da04b4eaba26c2c0a28360f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/49ce5bb38c7c4fdf9ae3f173b84f525d/0766cd71b4ce43d28c05aa0e778d22bf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a3f53b8f9a2e400594a1d31031c47a1d/226e169807394ae6a8e6f70044e4a2d1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1c90e5c1d351432faab14c42f6870b09/f595f567392d4624ba291768607ebca0.jpg?imwidth=156"
+        ],
+        "brand": "Top Secret",
+        "name": "Spódnica mini",
+        "price": "119.99",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "62% poliester, 35% wiskoza, 3% elastan",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia, nity dekoracyjne",
+            "Numer produktu": "TP921B06B-Q11",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/d27f19e49de44cc293d75edc3a0a2aef/24cb2ceec5e4412e94f06b23f19022aa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/357a464344ad4cf2a40b572357023371/60245423939c4b5a831a753328d83b9e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/af038666d0d34450ab2d6b9e021e8729/3cfacbc3c69b49999b3b8c64fdc010b5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4c44cadc545f411184569756d2fe9f64/1ca10e82181f4e22ba3bcb0f4061731a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/556b6283bf7c40a2b1a55e1509faed88/77ea76416ebd4de6b6b4a0b7709dc9fe.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/08b3d6f218d04544bc5a7ca866b00853/3131417f448c44dc8f924b09ee5c47fb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8743c742d01942849f814a7ef352cf65/dcddad9f439c499fb87aad91c9ea57a9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b9c0d6f7303742128ecaa4ca89b7f574/49a66eab61084325a8faf046c44c704c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/14577771065840809f2b49c98d0af379/d6cfc5480ec9436f894d5dd6c1b94078.jpg?imwidth=156"
+        ],
+        "brand": "Massimo Dutti",
+        "name": "Spódnica trapezowa",
+        "price": "349.00",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "70% wiskoza, 30% wełna",
+            "Kieszenie": "Boczne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "M3I21B0FF-O11",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Do łydek"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/57a96163116e4afb9cbacb39333de51b/8af19d95a72344d3bf9062668143fd4d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/47d8e0fb16dc46babde3cd689d741ef8/44ffe47e4c5d466a8b2843ec62b4d494.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9ebebb00cba24db5b90bb5c8f9a9c191/27ef9ebdf7d6425690c5479874e53d85.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2ea5de0214dd4cbba08a28b268725775/9797e27276494b79b9189f0215128124.jpg?imwidth=156"
+        ],
+        "brand": "Top Secret",
+        "name": "Spódnica mini",
+        "price": "109.99",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "38",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Podszewka": "100% poliester",
+            "Struktura/rodzaj materiału": "Szyfon",
+            "Wzór": "W kwiatki",
+            "Szczegóły": "Halka, elastyczna talia",
+            "Numer produktu": "TP921B06N-Q11",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e1ffd87602bc3bec9021abc3ff14a86d/ef9af3fac1464f0c89cc36d5f92236b4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a3365612371e39bd87c17df2a34f235a/298e07ae74e04d248f49097d803cb3be.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/49216d965ac633db9702429bbf015fd3/c39ad192946b4e38a4ac82964ef07793.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/07e82243d9a83ad0bb99cc4c5a843d9e/09a236ad1c16446fa5a17830a1b158d1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/aeb01b9eec2430188c4db98b252861ec/1f663bfe2fa248fb9efaee60a061f22c.jpg?imwidth=156"
+        ],
+        "brand": "Even&Odd",
+        "name": "Spódnica mini",
+        "price": "69.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "3XL",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "EV421B095-Q11",
+            "Wzrost modela": "Nasz model ma 178 cm wzrostu i nosi rozmiar S",
+            "Długość": "Bardzo krótka",
+            "Cała długość": "41 cm w rozmiarze S"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/0b26abfb7aa646b4a736d3d2881a9d72/24ea92bdac8a4c4b8fb829d942caf0a9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/73502d3dcc4e4e35b446c2ed24f84912/a336db61cef342e09b80aa947a150f3f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/21398a4a31d84f4ab107c39ca6286e97/58554e13ed4c4a1581e4b2adcdfc149e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/76baa0111e20476f8d0fc3bca4992560/a393e0ae14e948da99eb53c4862cc21d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/287614101c984d02a51328f6a89c189d/3ae834accfc24081affa65aeea7e5cd1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/22ea4be9d25b47bd8654816710d5363a/d7f27e7c94b748be9355461a714475fd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f5a7080b356e4b018881bbff1b67a3c7/15497e3523ec419285d6c35c54b73481.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4f76c8dbc88b470f8edb91bfaccaa47d/0b99f73ad9b543f5a1651580d5332168.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "89.40",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Denim",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Tylne, boczne",
+            "Numer produktu": "STH21B0GM-K11",
+            "Wzrost modela": "Nasz model ma 172 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Krój": "Asymetryczny"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/91851291326b4e54bc5a991a84215e18/0cfd93f65c894c198b197752e40d1efa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d1d144cc3834470296d41a9c968db5ce/29d7ae24e69d46d49e089c965609f1d0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e993eedff0384e97b8b1c981ae83afea/722d4fdc745c45949cd88549108d8186.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ee06e271b7b34d24b0210f751043e193/e9bd3485d8944f629b3fc9cbe3a3dc51.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/335bb8f8456d456e9899fb72e0d1fcbf/49c85dd032d34b369bf7cbb5a228fe6e.jpg?imwidth=156"
+        ],
+        "brand": "Even&Odd",
+        "name": "Spódnica mini",
+        "price": "152.00",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "EV421B0C9-Q11",
+            "Wzrost modela": "Nasz model ma 177 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Bardzo krótka",
+            "Cała długość": "42.5 cm w rozmiarze 36"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/add3e126b4e24a45a057cd8150eeae30/4b66003dcef048b3ad9236a30f32b000.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/137657bad7a34a20aa717c788c9a45ab/af4f8b2b8db74a6bbe88c61f6ca6be07.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/75cfe7c745bd48d891febe756eda86bd/850e030bafd64b01a922d0e18f1bef69.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b1dbbbf85aab47c385b0bcb3a289f756/4424a484e9174dbaaf0a47b7d8dca9ed.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f064e619f517460b9cfb4bb62656e686/beec4eaf47334febbc937bbd9918ad8e.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e2341868e8f2456e8b66ce04bdbe80aa/9e54152fbf954e07bd50ff28945ee25f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6ed47f69da12408f9213a9a3f0824d73/a4056a5a7502495f88486b25c13ba9e6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/641ec51ca634463b928850bacd93a526/a75f6fae40de4c81bcf0bf6ba5440556.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "125.00",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "98% bawełna, 2% elastan",
+            "Struktura/rodzaj materiału": "Denim",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "STH21B0GD-Q11",
+            "Wzrost modela": "Nasz model ma 174 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Krój": "Asymetryczny"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Pepe Jeans",
+        "price": "",
+        "sizes": [
+            "XS",
+            "95",
+            "85",
+            "One Size",
+            "M",
+            "45",
+            "XXL",
+            "105",
+            "100",
+            "90",
+            "42",
+            "44",
+            "41",
+            "XL",
+            "43",
+            "46",
+            "L",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3f13fcb69e444bd9b2b03a153f1ae939/0af47b06a47b4f61ad3c4caca56bafbe.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a5a3d1e4445845d183718a07f74eb0b6/fdb011142cc14a279f6e05088e11454c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f9be2ffff96e4ddbb030cd9bd3bf8a3e/db10d1c0f82f459f9d316fd77f1ae95a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/79f4d6e8612a4ac1bb54c93e254fb4c4/677962f2716544e59304c65bf586ae09.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/1603f51b98db4b9399c3108d6095934c/177160f20bb541a4ac230a1b4bf73fb0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a95194a5a8c94ac99149fe28e2bf2fec/ad0db151f1fa4d4c82b72ec8c0e14379.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/76cf9249725341a9a9a042321a3e3c04/3e3e18fdb11448239ca9958734e425b0.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/20b90092ca834817bd0403dba7294b20/e964a82884b64f6f9d5f5f15ba827060.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "95.90",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Tylne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "STH21B0K8-Q11",
+            "Wzrost modela": "Nasz model ma 172 cm wzrostu i nosi rozmiar XS",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f92057de7a3c49a394dabd0dce38fa6a/d30900f059b04aa1b6f1e5b163518a63.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/153a574ff8914ef086d474b665c7bdf6/20f1ee04ee8c4fe88f8fef462ed7b3a6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2e2d373779a54c4bba4272894af868dc/9992200cf36c4f398fc1468dacebd661.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/37483a71ea994a3f838e8175d18e31d0/50572ea74d004d77b175f45868347cf4.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "OCHNIK",
+        "name": "Spódnica mini",
+        "price": "159.90",
+        "sizes": [
+            "M",
+            "XS",
+            "S",
+            "L"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "OC921B008-Q11",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XS",
+            "40xR(regular)",
+            "32xR(regular)",
+            "M",
+            "XS/S",
+            "36xR(regular)",
+            "3XL",
+            "38",
+            "34",
+            "XXL",
+            "36",
+            "42xR(regular)",
+            "34xR(regular)",
+            "42",
+            "44",
+            "2XL",
+            "M/L",
+            "4XL",
+            "XL",
+            "XXS",
+            "L",
+            "38xR(regular)",
+            "1XL",
+            "32",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XS",
+            "40xR(regular)",
+            "32xR(regular)",
+            "M",
+            "XS/S",
+            "36xR(regular)",
+            "3XL",
+            "38",
+            "34",
+            "XXL",
+            "36",
+            "42xR(regular)",
+            "34xR(regular)",
+            "42",
+            "44",
+            "2XL",
+            "M/L",
+            "4XL",
+            "XL",
+            "XXS",
+            "L",
+            "38xR(regular)",
+            "1XL",
+            "32",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XS",
+            "40xR(regular)",
+            "32xR(regular)",
+            "M",
+            "XS/S",
+            "36xR(regular)",
+            "3XL",
+            "38",
+            "34",
+            "XXL",
+            "36",
+            "42xR(regular)",
+            "34xR(regular)",
+            "42",
+            "44",
+            "2XL",
+            "M/L",
+            "4XL",
+            "XL",
+            "XXS",
+            "L",
+            "38xR(regular)",
+            "1XL",
+            "32",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Brak nazwy",
+        "price": "",
+        "sizes": [
+            "XS",
+            "40xR(regular)",
+            "32xR(regular)",
+            "M",
+            "XS/S",
+            "36xR(regular)",
+            "3XL",
+            "38",
+            "34",
+            "XXL",
+            "36",
+            "42xR(regular)",
+            "34xR(regular)",
+            "42",
+            "44",
+            "2XL",
+            "M/L",
+            "4XL",
+            "XL",
+            "XXS",
+            "L",
+            "38xR(regular)",
+            "1XL",
+            "32",
+            "S",
+            "40"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8f70124a30bc421dae24d688db63e421/1dfeae615d034713bf9e62f8a5df0328.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d2ece69cf2244181b90b056e19a450ea/61bafcc2ec894c5aadff8a69741be95b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0cd82992c99e43c5a26dfce606f36ec3/a8c3c337011b40b587895b97b9a7c92f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/57264d8db3f149c99da5e8ce73df59a2/c93126b9d0104454857c90ad799360fc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/94430ad6badb412fb9595675ec6e691a/119569adca8949d68a58c24b2373df99.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e16372aa27a84b8aaeb19b8ecf938e5e/7824c690311040f09382e32112ead969.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/061cac92da304f3db3fb0c66d1a7776e/6948f663e74a479abcc0eefa656554cc.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica jeansowa",
+        "price": "83.40",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Denim",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Tylne, boczne",
+            "Wzór": "Nadruk",
+            "Numer produktu": "STH21B0GX-K11",
+            "Wzrost modela": "Nasz model ma 176 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Długa",
+            "Krój": "Asymetryczny"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3d5707c9b89a4d168c550dd7b547ac60/2bfc9e9cb3bd4ea69999a958eacdb194.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/80b537554bf145d1a1ee16bc3d1726c2/d15312bae68240659b89f59c13cc0852.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9223ac45d4c34145b9a789fe009d36ae/4193d8e6d55b4499bd10964303730884.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5ba002ca451743c1b58c554a446363ef/5633f51ebeab4c638e53e91682ace7e5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b8dd7cea49824b0784c9f309d955232c/f964c8b37fcf4d94a3e3e8f45aea1cec.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/95819a7c5ba4467d845e10305a86b929/d3f37b0c5d9545809d82842447621416.jpg?imwidth=156"
+        ],
+        "brand": "Pieces",
+        "name": "Spódnica mini",
+        "price": "119.00",
+        "sizes": [
+            "XXL",
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "77% poliester, 21% wiskoza, 2% elastan",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "PE321B0GU-Q11",
+            "Wzrost modela": "Nasz model ma 177 cm wzrostu i nosi rozmiar S",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Bardzo krótka",
+            "Cała długość": "43 cm w rozmiarze S"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/024bb00874a6421f8c61eb04868332b9/55f3b95264ad46ee991f2eb73f22af0e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/00ab4c017a6f4a839c56736e3f718e61/99e6b768cdd64baab59a914e0bb5b838.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e9691cd18e0b4475820985605c5e2197/4b15b36427134980879995a6c05612c9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b2a7bfd464df4f1c913cc34859da4d5b/abc2794b352b4d1c94e6a1aba5282b1d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0e1f32d9ec7e4e44ae999625ab4be7f9/a0766d3d55cd40dbb22a5107cbb178aa.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/23ffbf480a734343abb3769c949826c6/66f89353488f4089951958c71f357e1b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fe19a07621a648a6b1e3bc4becb38359/93da412afab74d15bcff26259cac498c.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a26a5c5034cf4d8496eecfdd62d2ee2e/28436816988d419ca5015c723ca193a9.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "95.90",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "STH21B0K4-Q11",
+            "Wzrost modela": "Nasz model ma 172 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/fa9f0e0ad5714e93b22a3d53d1d21b5f/6b32115f67e84541ae8dd6aa7dac6fc7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9a10733a862141b5a2f2b0d85df3faa5/3f83b81d06354dad93092343b0b92fd9.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0fe3f4cdf139477598422a8eb8887c43/8915d416d34148179f4783a96cb9fed5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/88319a643ef143f99736a8d51677087f/c7e2886c5710448781c9ffff60f73b9a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/00d18f5192b943e4b271d02bebb56798/8e990f75366346d5ad657d95b3cda663.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "OCHNIK",
+        "name": "Spódnica mini",
+        "price": "179.90",
+        "sizes": [
+            "M",
+            "XS",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliuretan",
+            "Podszewka": "100% poliester",
+            "Struktura/rodzaj materiału": "Skóra ekologiczna",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Kieszenie klapowe, boczne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Razem z paskiem, halka",
+            "Numer produktu": "OC921B009-Q11",
+            "Fason": "Slim Fit",
+            "Kształt": "Prosty",
+            "Długość": "Krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/00de8e5e03d44de585da442d3b9f18c4/2be96a0687c64e508f54290414ccde9b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/009ce569f2a1473ea077b415623e1f8a/9e87ba65c2e445cc9507ca53b43c97eb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/af446c1d0fda49618d11824a3068d955/c9f03486bfbf4b7e9233e5002e2df85d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/7ea52b417d644b629cd6d001b3edbe89/e7038e76b3f64bf98a593637d4934451.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ab8bb35c486040aa8690142ec0203fb3/fa7ee8a74379487986ba2ba67a96d21e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5a4ce8176888476796232cc073b2f776/0372100c4bb74d31890a510b1a4aa95d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/e4863e67834a4f348c5e4dc094bf8ec2/1a569f3a9c1d4675b842a70894e8549a.jpg?imwidth=156"
+        ],
+        "brand": "Even&Odd",
+        "name": "Spódnica mini",
+        "price": "79.00",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Struktura/rodzaj materiału": "Dżersej",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "EV421B0AD-Q11",
+            "Wzrost modela": "Nasz model ma 178 cm wzrostu i nosi rozmiar S",
+            "Fason": "Skinny Fit",
+            "Kształt": "Dopasowany",
+            "Długość": "Krótka",
+            "Cała długość": "58 cm w rozmiarze S"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/9c82a2938b284000a4941c2dbda6cfdb/61a3eb028b2d46e1860515843583eade.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d69749671295484789f9b9f57096dc14/d8d5531bad2b4b1bbe680d67387a9445.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f3661ef120444c2bbd380973e8516cca/e3f771cf4593445f8f4304d1d3a437ac.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/88c2a8e758d1409dac859cb97e84c5e0/7b512878d7544a87a06cd84e1a187764.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5741a5f92fb94cf2acba16c1899695e1/7ff934665b01415fb8601a40355aa513.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/26020e693d4e49b092edd634a78f1704/e91ae35aa26d4099bf90329de8955d19.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/34a9f0b161f148898f8143a08df42c09/79add3343d7c4821ae71e940c8fabc60.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "PULL&BEAR",
+        "name": "Spódnica mini",
+        "price": "79.90",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "50% poliuretan, 50% poliester",
+            "Wskazówki pielęgnacyjne": "Pranie ręczne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "PUC21B0G9-Q11",
+            "Fason": "Slim Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8a0bab2fb5484bb0869b1914014e635a/0bbe6b7a148549bd99aa3d2f17dd0f16.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/50cabd393e354e759baf9bc38055bead/a65d4673d58b48acb3f70124c723d654.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/344d0d936e54450da9c059d1b6cc1f2e/83f055f7399d49ab99010971619790e5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ea531863bb4e423c8b061a0b92413cc7/7e136ad84e054a12a8f4e0cd299057c1.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/4d5078627c964a0587a7d07b8599786c/ccaf98f647cb4461bf4a93a22710ec89.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/565bc7db0d8f461e97079b435625145f/4f01f135daac4eb1bf32ec4d9236d8af.jpg?imwidth=156"
+        ],
+        "brand": "Mango",
+        "name": "CHARLOTT - Spódnica trapezowa",
+        "price": "139.99",
+        "sizes": [
+            "XXS",
+            "XS",
+            "XXL",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "65% poliester, 33% wiskoza, 2% elastan",
+            "Podszewka": "100% poliester",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, Czyszczenie chemiczne dozwolone",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "W kratkę",
+            "Szczegóły": "Razem z paskiem, halka",
+            "Numer produktu": "M9121B1RZ-O11",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/853842285ca0464aa24f97ab350b12cb/c3b66dac356644a2874fef01d366b1aa.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0717f75c170447a6b06ae3ce42fd0bb0/de2a5171499441a196c5c4bb1f0861f4.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/266315c53e4a48ba8bb4f20256b1b2ef/40ebd86d99ed4f64846892225a8f7e0d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2bb3f4172e304141ac92e5250f910177/81b7e1e527d94b459b3791f362d524f7.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ed4a0c62a0cb4e7faf100efe0d7b5216/9694b4e38ccb4d8ba0024193253f89bb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/af9f57bf0c2b4a38af1c5f3dbb1c8472/cb24e582712a476ea5f1a2b4748caddb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/d8ed1308d6df4d5b850ce3cc18afbe55/9b93129fb49c4f55b2e794b592218cae.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/428ac0ed67214e7d8ddc236490d7b8f5/88b33ceb122942239f349be72aaa382e.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica mini",
+        "price": "99.90",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "STH21B0KB-Q11",
+            "Wzrost modela": "Nasz model ma 173 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c33f1afaebed486f8ae4f42191aaa508/a46d29da88234115b63c0a7f9a3df7b2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/da656be8d6094dac9c39d384faff3ba1/22d85c3c10a24b27b4894395479495be.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/8434f8ebb0f749a789d8955334f79dee/4353acb59a7a4e8d8d5867056677e58d.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6ae32e09117f4cd9bc312aabda05ca59/5eb2cd841d954bf0b729eca80ae87b71.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d408c20580845c2a758a6c2bd82efc9/2a3d01c7464b40a59730895e6de75d3b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/59b06ab3ba8c4901a71452cf55ca3703/c6d27854467d43978517d397a0e32926.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6242d30d8abf4914b4d271ea69776e25/0a82ba483f0343d09da9b93464cd1a6f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9f32c89496f0481bbb025d3ee0ed4bd2/4fb185598c184fdfa56e421e5f962a3a.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "WITH FRONT SEAM - Spódnica jeansowa",
+        "price": "129.00",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Denim",
+            "Wskazówki pielęgnacyjne": "Czyszczenie chemiczne dozwolone, pranie w pralce w 30 °C, nie suszyć w suszarce bębnowej",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Tylne, boczne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "STH21B0JE-K11",
+            "Wzrost modela": "Nasz model ma 170 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Do łydek"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [],
+        "brand": "Brak marki",
+        "name": "Sezon na dobrą zabawę",
+        "price": "",
+        "sizes": [
+            "One Size",
+            "6 g",
+            "75 ml",
+            "125 ml",
+            "3.5 g",
+            "30 ml",
+            "50 ml",
+            "9 ml",
+            "3.2 g",
+            "6 ml",
+            "15 ml",
+            "7 ml",
+            "70 ml",
+            "3 ml",
+            "7 g",
+            "100 ml",
+            "12 g",
+            "150 ml",
+            "8 ml",
+            "200 ml",
+            "20 ml"
+        ],
+        "additional_info": {}
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/99ed8c7f7b084a698377383726707b83/6859024f21b940409eeaf414a1d32a3b.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/388c52b7bf4745049f0af87e71422472/564f44a09d93466b939857aba625cc18.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d7099e631234be7bd3adda8ac7e7f3c/c3f6c49724a1488194247b01cdf70f41.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/99ab3f9da3d84995920cfe6d0280ebf6/afa848f9d44e4b179155d60f3f821cc8.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f2cfcd7231894346a8cff3f03c20243d/e631f8937ca140c898f9bf1f63e2a317.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/03e3b01b660d4992a12e3bbc7005fa42/070c702fe4d442d9b3b86c532c818ea5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/18a7866ea323405eb3320af53396926d/66181963feda49fca8666f6e01c5457b.jpg?imwidth=156"
+        ],
+        "brand": "Stradivarius",
+        "name": "Spódnica trapezowa",
+        "price": "109.00",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "32",
+            "38",
+            "44",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Struktura/rodzaj materiału": "Denim",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Numer produktu": "STH21B0I5-K11",
+            "Wzrost modela": "Nasz model ma 173 cm wzrostu i nosi rozmiar 36",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Bardzo krótka"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/85d8faed641a4ea982eda9267f266d51/3ad75215e5304b358518f7fddd127000.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/af870f22f6914a4ab3901b7c17397006/077e517802e44cd39526fbf5fa7764f3.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/fe622ca936b3415cbd847035efd5803c/1dd4b0ab3b7c439da2cdba10da28e93e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/0d8b8616a77b4fbf8521c522abd39074/dd66eb3a37324bb4bcc589ec5ccf24a6.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9cdfc27e8a0a4a98ad36f998b960a9e3/555f2e0f65d84c6b9653f5d99872cf1f.jpg?imwidth=156"
+        ],
+        "brand": "WÓLCZANKA",
+        "name": "Spódnica ołówkowa",
+        "price": "99.99",
+        "sizes": [
+            "34",
+            "36",
+            "42",
+            "38",
+            "40"
+        ],
+        "additional_info": {
+            "Materiał": "60% bawełna, 40% poliester",
+            "Podszewka": "100% wiskoza",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Wzór": "Kolor jednolity",
+            "Szczegóły": "Halka",
+            "Numer produktu": "WOS21B01M-G11",
+            "Fason": "Regular Fit",
+            "Kształt": "Prosty",
+            "Długość": "Do łydek"
+        }
+    },
+    {
+        "department": "Kobiety",
+        "category": "Odzież Damska",
+        "subcategory": "Spódnice",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/e44fb31c8aca4cff86ec75c74b28a496/d2d0d8244a454649ac9ed87cb75f17cd.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/f878ee64363a4cf689893ca0ac7569be/9624c591df7842948be57376fad20e49.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e1d6b87537bd492e99cdaa6b29fb64c9/60ff3f3db3d64c13a097669957b1ae82.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/83593935d2044b60b68d96cd61f63b11/87cf1e3260e3480aa4352941081cc2b2.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a8c750272fe84a81b493396828a0d9bb/a670a902a70349fb98d3cb49b5c6c8f1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c309f6f4e8a149d5b95ba763583a76e2/ad795d741f5e4439b39a8f86bab02d40.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6b03d8ea89db4af1a63212c9b1191038/20769153495940ebb88e4cd2292771f8.jpg?imwidth=156"
+        ],
+        "brand": "Massimo Dutti",
+        "name": "Spódnica trapezowa",
+        "price": "349.00",
+        "sizes": [
+            "XS",
+            "L",
+            "M",
+            "XL",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "70% wiskoza, 30% wełna",
+            "Zapięcie": "Zamek błyskawiczny",
+            "Kieszenie": "Boczne",
+            "Wzór": "Melanż",
+            "Szczegóły": "Elastyczna talia",
+            "Numer produktu": "M3I21B0FF-C11",
+            "Fason": "Regular Fit",
+            "Kształt": "Rozkloszowany",
+            "Długość": "Do łydek"
+        }
+    }
+]

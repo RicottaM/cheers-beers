@@ -1,0 +1,16 @@
+Category ID;Active (0/1);Name *;Parent category;URL rewritten
+2000;1;Obuwie Damskie;Kobiety;obuwie-damskie
+2001;1;Sport Kobiety;Kobiety;sport-kobiety
+2002;1;Beauty Kobiety;Kobiety;beauty-kobiety
+2003;1;Odzież Damska;Kobiety;odziez-damska
+2004;1;Akcesoria Kobiety;Kobiety;akcesoria-kobiety
+2005;1;Kosmetyki Mężczyźni;Mężczyźni;kosmetyki-mezczyzni
+2006;1;Obuwie Męskie;Mężczyźni;obuwie-meskie
+2007;1;Odzież Męska;Mężczyźni;odziez-meska
+2008;1;Sport Mężczyźni;Mężczyźni;sport-mezczyzni
+2009;1;Akcesoria Mężczyzni;Mężczyźni;akcesoria-mezczyzni
+2010;1;Bielizna Dziecięca;Dzieci;bielizna-dziecieca
+2011;1;Sport Dzieci;Dzieci;sport-dzieci
+2012;1;Obuwie Dziecięce;Dzieci;obuwie-dzieciece
+2013;1;Odzież Dziecięca;Dzieci;odziez-dziecieca
+2014;1;Akcesoria Dziecięce;Dzieci;akcesoria-dzieciece

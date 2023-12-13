@@ -1,0 +1,627 @@
+[
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/a9254e72705840969b8865c3dce160b0/72c00b7916464f6f84cb8883ea9ee762.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/efb0de9e33954a4599a01587086c36af/abb11105737646f1969aff0fac58aa94.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/ee722d98220d497e8a35d76b611d414d/512f214c9b5f4bd985459833be0bc694.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "74.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Tworzywo sztuczne, żelazo",
+            "Efekt": "polerowany",
+            "Rodzaj kamienia": "Ozdobny kryształ",
+            "Numer produktu": "NA853O003-D11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/dcae561be215452cb5385cfa19611f50/48b9f64008914fc4bb7708aa07983159.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/72f7a9f1f7114df79105283c9dae20ed/de6afad31ab142cd8a774ab25dadcfbb.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5a46974e990e4337ba3338b58e263c42/f547d89e6ac1402fb226f3e507c7c1bd.jpg?imwidth=156"
+        ],
+        "brand": "Kids ONLY",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "42.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Tworzywo sztuczne, żelazo",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "KIJ53O000-A11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/fc5dcec8139340fea1e0c1706f22a2c5/69dcbca9aa0844dca77005587e22fa98.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9deea28d01224659bfd032fa3afe5a1b/aee0599759d749a1b7364e42e045c89e.jpg?imwidth=156"
+        ],
+        "brand": "JoJo Maman Bébé",
+        "name": "Nakrycie głowy",
+        "price": "89.00",
+        "sizes": [
+            "68",
+            "86",
+            "78"
+        ],
+        "additional_info": {
+            "Materiał": "100% skóra",
+            "Struktura/rodzaj materiału": "Ściągacz",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "J2653W018-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c3002f73cae54af6bffd38b4654a0e1c/4bc0a62a4cc94c589e7906fd538f73a6.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ccc16bc3c08641a4b9dc5e7400c92c40/c1627c4d7b4c46b080eb082b4b5acde4.jpg?imwidth=156"
+        ],
+        "brand": "CeLaVi",
+        "name": "BALACLAVA - Nakrycie głowy",
+        "price": "100.94",
+        "sizes": [
+            "52",
+            "50",
+            "54",
+            "48"
+        ],
+        "additional_info": {
+            "Materiał": "50% wełna, 50% bawełna",
+            "Podszewka": "95% bawełna, 5% elastan",
+            "Wskazówki pielęgnacyjne": "Nie wybielać, nie prasować, nie suszyć w suszarce bębnowej, pranie ręczne",
+            "Wzór": "Melanż",
+            "Numer produktu": "CV353W004-O11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/6aa9f7f3540b459fa4e3bc7449f4b73b/8db2f3315ea54d7e9651d5795c366566.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a18ec7c60a794698b69cbccbdbdc7216/1186539ee9674967a5991eee53ee4e43.jpg?imwidth=156"
+        ],
+        "brand": "CeLaVi",
+        "name": "BALACLAVA - Nakrycie głowy",
+        "price": "100.94",
+        "sizes": [
+            "52",
+            "50",
+            "54",
+            "48"
+        ],
+        "additional_info": {
+            "Materiał": "50% wełna, 50% bawełna",
+            "Podszewka": "95% bawełna, 5% elastan",
+            "Wskazówki pielęgnacyjne": "Nie wybielać, nie prasować, nie suszyć w suszarce bębnowej, pranie ręczne",
+            "Wzór": "Melanż",
+            "Numer produktu": "CV353W004-I11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/aa7252edc6c64aeaa1f55eb22c869f08/f2454ac9239a41a4b213eea6c97c66e0.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ced65776328e42fdb54ab1c8b438b682/0314f0af4f544cc2a9dde535df1ea618.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2d43fbb3cbdd46efb558736cd01f2934/ac7a27fbdd704195b6b373e564c04be6.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/a39bb08c9d324f55b9f23af84c090be1/514c2e3a996248f8bee64dbef1fb6c9b.jpg?imwidth=156"
+        ],
+        "brand": "Le Brate",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "219.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Numer produktu": "LJX53O000-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "2 PACK - Akcesoria do stylizacji włosów",
+        "price": "99.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "58% bawełna, 42% poliester",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "W paski",
+            "Numer produktu": "PO253O007-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2e749d3a96564f75b3886259e3bab136/f61ab46e644641baa296a813d12013f1.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/9c951e84c05a4b9b97f57b4cf3ee50fa/039a9581267b44229aea3707df748cfc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/be87685e929248b5b302998589a291b9/5f3305b2b6474fa792940145445fb14f.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/b430308d01d04408b247a17dfd683a12/e7ed19b21797413cb7bde83d2c824560.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "63.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Akryl, żelazo",
+            "Numer produktu": "LP653M00H-T11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [],
+        "brand": "Polo Ralph Lauren",
+        "name": "3 PACK - Akcesoria do stylizacji włosów",
+        "price": "119.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% bawełna",
+            "Zapięcie": "Bransoletka",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "PO253O006-J11",
+            "Szerokość": "1 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/06c4dde8227b4fcbb6c0f7dc2a1fd527/cc229e754dad45ac87f9595df5e79ac8.jpg?imwidth=156&filter=packshot"
+        ],
+        "brand": "Liu Jo Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "159.00",
+        "sizes": [
+            "M",
+            "S"
+        ],
+        "additional_info": {
+            "Materiał": "73% wiskoza, 22% poliamid, 5% elastan",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "L6X53O003-A11",
+            "Szerokość": "10 cm w rozmiarze M",
+            "Długość": "20 cm w rozmiarze M"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [],
+        "brand": "Il Gufo",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "271.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "97% bawełna, 3% elastan",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "IL853G000-H11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/fe24a56220384b75972ec1d0b45d9bb0/f6a7c76650d8430cbf9a01397f180438.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/18c5ed2b273040ae89a07d2be118885a/13b7ad03cddf42058c2aa4284b5b3870.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5958c158f9444ad79243b16dc8f58141/b16f1cc5cdb64d7faffea1dd2704658e.jpg?imwidth=156"
+        ],
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155.96",
+        "sizes": [
+            "74-92",
+            "62-74",
+            "56-62"
+        ],
+        "additional_info": {
+            "Materiał": "100% wełna",
+            "Wskazówki pielęgnacyjne": "Nie wybielać, nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Numer produktu": "WHA53M021-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [],
+        "brand": "Versace",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "429.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "Nadruk",
+            "Numer produktu": "1VE53O008-Q11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [],
+        "brand": "Versace",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "619.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Wzór": "Nadruk",
+            "Numer produktu": "1VE53O009-Q11",
+            "Szerokość": "3 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/f28460b83af64aab9a06c6896c912b99/9a4925eca4be40979cc5134536d9f600.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8f6a2029e58143d5b2d2444638877c1d/b85c5e20b8f04495ad72901b5d57c5ee.jpg?imwidth=156"
+        ],
+        "brand": "JoJo Maman Bébé",
+        "name": "Nakrycie głowy",
+        "price": "89.00",
+        "sizes": [
+            "68",
+            "86"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Struktura/rodzaj materiału": "Dzianina",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "J2653W018-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/12531c388b9a4a7e9d233bb7a66cf0c0/dd529e4320ce43468154d3788e56f438.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/4786e321e68b4336bcdc0dfc3a2b1ece/43f54cbc56e84546af75226f6e30d225.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "59.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "LP653P000-J11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c6f1c488c3404908aaf857d717d4aee9/ce13cd69604e4ed396af562c6360c5e2.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ecf9717380694049b5bc06f576ee68ca/368e1126ad784431bd92bcbd50dd25f1.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "63.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Poliester, żelazo",
+            "Zapięcie": "Elastyczna gumka",
+            "Numer produktu": "NA853O002-D11",
+            "Szerokość": "2 cm w rozmiarze One Size",
+            "Długość": "5 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/bd44ca115f624edb933f11e98372ea64/85a594f7e1804792add74331d6fe8d47.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/8112542f56e444d2bf7436a7562b272d/6b7ff03d1b714f38be3a7fb4d3ec2a17.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/5f9bf6f29d0344f6abeef76f22b0e560/9f40e1dc0147462f8683476a7a505753.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "47.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Tworzywo sztuczne",
+            "Numer produktu": "LP653M00J-T11",
+            "Szerokość": "4 cm w rozmiarze One Size",
+            "Długość": "9 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/34eb5453bbf3430dac430b700fa27bee/28ec4ea929134ba6a287820d3febd53d.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/14c635988cb541d980aba970b169db9c/bad0274c4b894777ae98f7435108a489.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9069899521854997b4798785c3b349c8/c362499b5bdb4d9c90c93c0590af5b10.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "52.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Design": "Jedzenie",
+            "Wzór": "Nadruk",
+            "Numer produktu": "LP653M00L-T11",
+            "Długość": "9.5 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/90ba34bed6244d90b181b06c74c43ba5/096e99633f1649709534039a42e5e474.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/ae4aa43f206747859b28396d748b5f43/5eb03d5464574cfd963423afbbe74729.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/c4b92ece762f454a8503ac60cf9b1f95/c9a8735ba0c1425390b48ab08cafe9b4.jpg?imwidth=156"
+        ],
+        "brand": "Walkiddy",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "42.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "WAG53W002-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/8133c5b4fade417c9a9156a9c556556d/8d8647ba98cc4d338774227c25c3eead.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/b0f5c7d71fc04b15a4c6db9ec8021b23/54da7cf448d049b08f9fb298dfc26d7e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/6a09c5b3c1454b8082c69cee07a1243e/b626543749dd4794a18b00af6e6f37dd.jpg?imwidth=156"
+        ],
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155.96",
+        "sizes": [
+            "74-92",
+            "62-74",
+            "56-62"
+        ],
+        "additional_info": {
+            "Materiał": "100% wełna",
+            "Wskazówki pielęgnacyjne": "Nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne, nie wybielać",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "WHA53M021-T11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/c6f99b7012784d4db1084dfcb514189b/e5c6694cf60d4f6face0be1c450a2833.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/23d1b4c0ac5849f2b0b5fadbf332ccc6/689376dd549d49dda5192c7a5d29898a.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/42bb578a84ec4739b08ff93badac9d54/7dc8b81cd80348d088d432b015367c72.jpg?imwidth=156"
+        ],
+        "brand": "Wheat",
+        "name": "Nakrycie głowy",
+        "price": "155.96",
+        "sizes": [
+            "74-92",
+            "62-74",
+            "56-62"
+        ],
+        "additional_info": {
+            "Materiał": "100% wełna",
+            "Wskazówki pielęgnacyjne": "Nie wybielać, nie suszyć w suszarce bębnowej, pranie w pralce w 30 °C, pranie delikatne",
+            "Numer produktu": "WHA53M021-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/dfafafd6d9db4b94a07a02c65e35e42b/6fb72a6f8daa4079934052ed08b6097c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/700079ddf6d94bb98ff5a81676b9a6fd/e3b83b15ccc94a798fe1420de853cacf.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/21022b2e013c485284bdcd46d871a2eb/62ff31e821d64bdda32b8dda89139509.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "2 PACK - Akcesoria do stylizacji włosów",
+        "price": "55.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Numer produktu": "LP653M00K-T11",
+            "Szerokość": "1.50 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/87bf8ccf26b540aab140296188f6776f/dcb317f837cf41deb2b7ea372031a152.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/5458357ffade43afba9215b6d481ff1b/5e24abe4aeab441e97869c2f05face54.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/581dd2f3e6d742359d3a5ce5fb58fe33/54fee740093f40d28c7aedd1d33e11bc.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9a9709c49ad94047afbe9644efcbd7a7/21e674df4f4843e99d29aec161eba098.jpg?imwidth=156"
+        ],
+        "brand": "Name it",
+        "name": "SCHLUPF - Nakrycie głowy",
+        "price": "124.99",
+        "sizes": [
+            "45-47",
+            "34-39",
+            "40-44"
+        ],
+        "additional_info": {
+            "Materiał": "100% wełna",
+            "Struktura/rodzaj materiału": "Dres",
+            "Wskazówki pielęgnacyjne": "Nie wybielać, pranie w pralce w 30 °C, pranie delikatne",
+            "Wzór": "Kolor jednolity",
+            "Numer produktu": "NA853M0NM-B11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/2420d9307a4041d0a80584d8691b0283/fced211f579b4842b8232cdec0155d6c.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/c8c27e7256634ff0bad967f6d479069b/5dc83404182d4147b7e6b4c219058c96.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e68544c6a0184b91b55a3509a2acf250/f4c0f3471f36428398bbb2bc39baee32.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "43.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Design": "Jedzenie",
+            "Wzór": "Nadruk",
+            "Numer produktu": "LP653M00G-T11",
+            "Długość": "6 cm w rozmiarze One Size"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/4bdb4cbf33fa497494ff7b9cf0218d7c/9911def2feb74425ae127ec71f5b4b34.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/0e35b553f5964a17a8b7027ad16dd78b/748c08e379604da9a2e3f1b274752df5.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/e0c9ffb75b0c4d00a088f2d69c46cae5/4be084fe20cb4d5c9bff07b30e180a30.jpg?imwidth=156"
+        ],
+        "brand": "Walkiddy",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "42.00",
+        "sizes": [
+            "39-41"
+        ],
+        "additional_info": {
+            "Materiał": "95% bawełna, 5% elastan",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "Nadruk",
+            "Numer produktu": "WAG53W005-K11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/51cb26be0c43418aadb470ea5ebad52c/49abd2f036a744f08f70853a696cf78b.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/a8bb9eeac3564e7c9b862375a84c0c9b/d53a56d1af1d4ce1b94a6e59254bd80e.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/9ce88bcb094642b8ab6090a5cb4afe3f/fc959130482741499f2f31529e455e35.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/40b383fc2d8c419c93a2fbe0432045b6/42860b6806a34f3583b4d45b0ec0615d.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "43.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Żelazo, oktan",
+            "Numer produktu": "LP653M00Q-T11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/105b5115132d47a99e19ce474b1ce56a/984994dfd309427e9207d560004ed3bb.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/2373d0fd11d54a708973fad02b126699/0598e8d2ba79434cadbeb31166271467.jpg?imwidth=156"
+        ],
+        "brand": "WAUW CAPOW by Bangbang Copenhagen",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "84.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "Bawełna, poliester",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "W kwiatki",
+            "Numer produktu": "BAS53G002-E11"
+        }
+    },
+    {
+        "department": "Dzieci",
+        "category": "Akcesoria Dziecięce",
+        "subcategory": "Akcesoria do włosów",
+        "images": [
+            "https://img01.ztat.net/article/spp-media-p1/3af2c7300cd04cd895a4d29e42b49873/99c6f5a4936b4c9fa9acbba9ad24f465.jpg?imwidth=156&filter=packshot",
+            "https://img01.ztat.net/article/spp-media-p1/269ca5a021654cbbae5d55bc9516186d/6b1e1485a4764b8cb24f3714ac9a0f24.jpg?imwidth=156",
+            "https://img01.ztat.net/article/spp-media-p1/2bd8fe015c3041f183e9fa74ecaf778f/fd90199d27214474913b54f8cfc8cd65.jpg?imwidth=156"
+        ],
+        "brand": "Pieces Kids",
+        "name": "Akcesoria do stylizacji włosów",
+        "price": "50.00",
+        "sizes": [
+            "One Size"
+        ],
+        "additional_info": {
+            "Materiał": "100% poliester",
+            "Zapięcie": "Elastyczna gumka",
+            "Wzór": "Nadruk zwierzęcy",
+            "Numer produktu": "LP653W028-B11"
+        }
+    }
+]
