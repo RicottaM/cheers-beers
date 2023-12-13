@@ -76,7 +76,7 @@ def generate_csv_files(root_path):
                         })
                         subcategory_id += 1
 
-                    if product_id % 2 == 0:
+                    if product_id % 4 == 0:
                         products.append({
                             "Product ID": str(product_id),
                             "Active (0/1)": "1",
@@ -95,7 +95,7 @@ def generate_csv_files(root_path):
                     product_id += 1
 
     csv_files = [('../scrapowanie-wynik/CSV/departments.csv', departments), ('../scrapowanie-wynik/CSV/categories.csv', categories), 
-                 ('../scrapowanie-wynik/CSV/subcategories.csv', subcategories), ('../scrapowanie-wynik/CSV/products_resized.csv', products)]
+                 ('../scrapowanie-wynik/CSV/subcategories.csv', subcategories), ('../scrapowanie-wynik/CSV/products_resized_mini.csv', products)]
     csv_headers = [["Category ID", "Active (0/1)", "Name *", "URL rewritten"],
                    ["Category ID", "Active (0/1)", "Name *", "Parent category", "URL rewritten"],
                    ["Category ID", "Active (0/1)", "Name *", "Parent category", "URL rewritten"],
