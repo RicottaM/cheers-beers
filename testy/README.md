@@ -1,16 +1,20 @@
-**Instalacja chrome-driver**
-Aby uruchomić skrypt należy będąc w katalogu `/tests` nadać mu uprawnienia, a następnie odpalić skrypt instalujący `chrome-driver`, podając jako argument swoją werjsę google chrome. 
+# Instalacja chrome-driver
 
-1. Uzyskanie wersji google-chrome:
+Aby uruchomić skrypt należy będąc w katalogu `/tests` nadać mu uprawnienia, a następnie odpalić skrypt instalujący `chrome-driver`, podając jako argument swoją werjsę google chrome. Relizują to poniższe komendy, wpisane po kolei.
+
+### Uzyskanie wersji google-chrome
 > google-chrome --version
 
-Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument podajemy samą wersję np. 119.0.6045.105.
+Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument do skryptu podajemy samą wersję np. 119.0.6045.105.
 
-2. Nadanie uprawnień skryptowi:
+### Nadanie uprawnień skryptowi
 > chmod +x driver.sh
-3. Uruchomienie skryotu
+
+###  Uruchomienie skryptu
 > ./driver.sh wersja-google 
-4. Jeżeli nie mamy pobranego selenium to wykonujemy instalację:
+
+### Jeżeli nie mamy pobranego selenium to wykonujemy instalację
 > pip3 install -U selenium
-5. Uruchamiamy testy:
+
+### Uruchamiamy testy
 > python3 selenium_tests.py
