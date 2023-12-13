@@ -1,6 +1,6 @@
 # Instalacja chrome-driver
 
-Aby uruchomić skrypt należy będąc w katalogu `/tests` nadać mu uprawnienia, a następnie odpalić skrypt instalujący `chrome-driver`, podając jako argument swoją werjsę google chrome. Relizują to poniższe komendy, wpisane po kolei.
+Bilbioteka Selenium potrzebuje zainstalowanej wtyczki do wybranej przeglądarki, aby poprawnie działać. Aby ułatwić proces instalacji napisałem skrypt w bashu o nazwie `driver.sh`, który za pomocą jednej komendy pobierze oraz umieści pobrany sterownik na dysku w folderze `/usr/bin/`. Aby uruchomić skrypt należy będąc w katalogu `/tests` nadać mu uprawnienia, a następnie uruchomić go, podając jako argument swoją werjsę google chrome. Relizują to poniższe komendy, wpisane po kolei.
 
 ### Uzyskanie wersji google-chrome
 > google-chrome --version
