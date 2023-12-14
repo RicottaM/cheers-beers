@@ -17,4 +17,4 @@ Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument do skryptu p
 > pip3 install -U selenium
 
 ### Uruchamiamy testy
-> python3 selenium_tests.py
+> python3 presta_tester.py
