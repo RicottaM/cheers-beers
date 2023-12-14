@@ -10,7 +10,7 @@ Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument do skryptu p
 ### Nadanie uprawnień skryptowi
 > chmod +x driver.sh
 
-###  Uruchomienie skryptu
+### Uruchomienie skryptu
 > ./driver.sh wersja-google 
 
 ### Jeżeli nie mamy pobranego selenium to wykonujemy instalację
