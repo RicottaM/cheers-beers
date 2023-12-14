@@ -13,8 +13,9 @@ services:
       - prestashop
     volumes:
       - ./mysql_data:/var/lib/mysql
-      - ./sql_tools/init_ssl.sql:/docker-entrypoint-initdb.d/init_ssl.sql
-    
+      - ./sql_tools/backup.sh:/sql_tools/backup.sh
+      - ./sql_tools/restore.sh:/sql_tools/restore.sh
+      - ./mysql_backup/:/var/lib/mysql/db_backup
 
   prestashop:
     image: prestashop/prestashop:1.7
