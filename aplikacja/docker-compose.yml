@@ -13,6 +13,9 @@ services:
       - prestashop
     volumes:
       - ./mysql_data:/var/lib/mysql
+      - ./sql_tools/backup.sh:/sql_tools/backup.sh
+      - ./sql_tools/restore.sh:/sql_tools/restore.sh
+      - ./mysql_backup/:/var/lib/mysql/db_backup
 
   prestashop:
     image: prestashop/prestashop:1.7
@@ -25,10 +28,25 @@ services:
       - prestashop
     volumes:
       - ./prestashop_data:/var/www/html
-
+ 
+  nginx:
+    image: nginx:stable
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - prestashop_data:/var/www/html
+      - ./nginx-conf/nginx.conf:/etc/nginx/conf.d/nginx.conf
+      - ./certs:/etc/ssl/certs
+    depends_on:
+      - prestashop
+    networks:
+      - prestashop
+ 
 networks:
   prestashop:
-
+ 
 volumes:
   mysql_data:
   prestashop_data:
