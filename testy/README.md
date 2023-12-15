@@ -18,3 +18,6 @@ Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument do skryptu p
 
 ### Uruchamiamy testy
 > python3 presta_tester.py
+
+
+
