@@ -17,7 +17,7 @@ Wynikiem będzie nazwa przeglądarki oraz jej wersja. Jako argument do skryptu p
 > pip3 install -U selenium
 
 ### Uruchamiamy testy
-Przed uruchomieniem skryptu wejdź do niego i zdecyduj które elementy chcesz zasymulować. Domyślnie zakomentowano symulację dodawania 10 produktów w celu oszczędzenia czasu, a co za tym idzie zakomentowano również symulację usunięcia trzech produktów z koszyka, ze wzdlędu na zbyt małą ilość danych do usunięcia.
+Przed uruchomieniem skryptu wejdź do niego i zdecyduj które elementy chcesz zasymulować. Domyślnie zakomentowano symulację dodawania 10 produktów w celu oszczędzenia czasu, a co za tym idzie zakomentowano również symulację usunięcia trzech produktów z koszyka, ze względu na zbyt małą ilość danych do usunięcia.
 
 > python3 presta_tester.py
 
