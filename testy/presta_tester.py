@@ -37,7 +37,28 @@ class PrestaShopTester:
         except Exception as e:
             print(f"Wystąpił błąd podczas dodawania produktu do koszyka: ", e)
 
-    def explore_specific_products(self):
+    def search_and_add_random_product(self, search_query):
+        # Wpisanie wartości do pola wyszukiwania i wciskanie Enter
+        search_field = self.web_driver.find_element(By.NAME, "s")
+        search_field.send_keys(search_query)
+        search_field.send_keys(Keys.ENTER)
+        sleep(2)
+
+        # Znalezienie dostępnych produktów i losowe wybranie jednego
+        products = self.web_driver.find_elements(By.CSS_SELECTOR, "article.product-miniature")
+        if products:
+            random_product = random.choice(products)
+            random_product.find_element(By.CSS_SELECTOR, "a.thumbnail").click()
+            sleep(2)
+
+            # Dodanie wybranego produktu do koszyka
+            self.add_product_to_cart()
+
+        # Powrót na stronę główną
+        self.web_driver.get(self.url_base)
+        sleep(2)
+
+    def add_10_products(self):
         product_xpaths = [
             "//a[@href=\"https://localhost/kobiety/379-okulary-z-filtrem-swiatla-niebieskiego.html\"]",
             "//a[@href=\"https://localhost/kobiety/300-alaska---kurtka-puchowa.html\"]",
@@ -71,5 +92,6 @@ class PrestaShopTester:
 # Użycie klasy
 tester = PrestaShopTester("http://localhost:8080")
 tester.open_start_page()
-tester.explore_specific_products()
+tester.add_10_products()
+tester.search_and_add_random_product("torb")
 tester.close_browser()
