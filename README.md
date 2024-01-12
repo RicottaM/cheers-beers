@@ -19,3 +19,13 @@
 4. Aby zacząć pracę nad aplikacją, należy dodatkowo zmienić nazwę folderu `admin` w plikach aplikacji na nazwę `admin_fashionables` oraz usunąć folder `install`, aby uniknąć ponownej instalacji strony przy kolejnym uruchomieniu kontenerów. Możesz to zrobić ręcznie w eksploatarze plików, ponieważ `docker-compose.yml` zaciąga pliki z kontenera do katalogu projektu. W przeglądarce odwiedź stronę administracyjną pod adresem [localhost:8080/admin_fashionables](http://localhost:8080/admin) i zaloguj się.
 
 5. Aby zakończyć pracę nad projektem zatrzymaj wszystkie kontenery komendą `docker-compose down`.
+
+## Wypełnienie bazy danych skryptem 
+
+1. Po uruchomieniu strony za pmocą komendy `sudo docker exec -it prestashop_db /bin/bash` wejdź do kontenera bazy danych.
+
+2. Następnie przejdź do folderu `sql_tools` za pomocą polecenia `cd sql_tools`.
+
+3. Nadaj uprawnienia skryptowi za pmocą polecenia `chmod +x restore.sh`.
+
+4. Uruchom skrypt poleceniem `./restore.sh` i wejdź na `localhost:8080`.
