@@ -20,6 +20,12 @@
 
 5. Aby zakończyć pracę nad projektem zatrzymaj wszystkie kontenery komendą `docker-compose down`.
 
+## Nadanie uprawnnień
+
+1. Przejdź do folderu projektu/repozytorium
+
+2. Wpisz w terminalu `sudo chmod 777 -R aplikacja`
+
 ## Inicjalizacja bazy danych
 
 0. Jeśli po odpaleniu aplikacji na stronie głównej widnieje błąd `HTTP ERROR 500`, to znaczy, że baza danych nie zawiera potrzebnych informacji do uruchomienia strony. W tym celu należy przywrócić początkowy stan bazy danych za pomocą skryptu `restore.sh` znajdującego się w folderze `sql_tools`. Skrypt ten należy wykorzystać, po wcześniejszym odpaleniu strony `docker-compose up`.
