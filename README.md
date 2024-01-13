@@ -22,10 +22,12 @@
 
 ## Wypełnienie bazy danych skryptem 
 
-1. Po uruchomieniu strony za pmocą komendy `sudo docker exec -it prestashop_db /bin/bash` wejdź do kontenera bazy danych.
+1. Po uruchomieniu strony za pmocą komendy `sudo docker exec -it prestashop-db /bin/bash` wejdź do kontenera bazy danych.
 
 2. Następnie przejdź do folderu `sql_tools` za pomocą polecenia `cd sql_tools`.
 
 3. Nadaj uprawnienia skryptowi za pmocą polecenia `chmod +x restore.sh`.
 
 4. Uruchom skrypt poleceniem `./restore.sh` i wejdź na `localhost:8080`.
+
+5. Aby wyjść z eksploratora plików kontenerów wpisz `exit`.
