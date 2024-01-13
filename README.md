@@ -28,7 +28,7 @@
 
 2. Następnie przejdź do folderu `sql_tools` za pomocą polecenia `cd sql_tools`.
 
-3. Nadaj uprawnienia skryptowi za pmocą polecenia `chmod +x restore.sh`.
+3. Nadaj uprawnienia skryptowi za pomocą polecenia `chmod +x restore.sh`.
 
 4. Uruchom skrypt poleceniem `./restore.sh` i wejdź na `localhost:8080`.
 
