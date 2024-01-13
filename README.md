@@ -26,10 +26,16 @@
 
 2. Wpisz w terminalu `sudo chmod 777 -R aplikacja`
 
-## Przywracanie Bazy Danych
+## Inicjalizacja bazy danych
 
-1. Przejdź do folderu projektu/repozytorium i wpisz w terminalu `docker-compose up`
+0. Jeśli po odpaleniu aplikacji na stronie głównej widnieje błąd `HTTP ERROR 500`, to znaczy, że baza danych nie zawiera potrzebnych informacji do uruchomienia strony. W tym celu należy przywrócić początkowy stan bazy danych za pomocą skryptu `restore.sh` znajdującego się w folderze `sql_tools`. Skrypt ten należy wykorzystać, po wcześniejszym odpaleniu strony `docker-compose up`.
 
-2. Przejdź do foleru `aplikacja/sql_tools` poleceniem `cd aplikacja/sql_tools`
+1. Po uruchomieniu strony za pomocą komendy `sudo docker exec -it prestashop-db /bin/bash` wejdź do kontenera bazy danych.
 
-3. Uruchom skrypt `restore` poleceniem `sudo ./restore.sh
+2. Następnie przejdź do folderu `sql_tools` za pomocą polecenia `cd sql_tools`.
+
+3. Nadaj uprawnienia skryptowi za pomocą polecenia `chmod +x restore.sh`.
+
+4. Uruchom skrypt poleceniem `./restore.sh` i wejdź na `localhost:8080`.
+
+5. Aby wyjść z eksploratora plików kontenera wpisz `exit`.
