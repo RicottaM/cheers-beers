@@ -22,9 +22,9 @@
 
 ## Inicjalizacja bazy danych
 
-0. Jeśli po odpaleniu aplikacji na stronie głównej widnieje błąd `HTTP ERROR 500`, to znaczy, że baza danych nie zawiera potrzebnych informacji do uruchomienia strony. W tym celu należy przywrócić początkowy stan bazy danych za pomocą skryptu `restore.sh` znajdującego się w folderze `sql_tools`. Skrypt ten należy wykorzystać, po wcześniejszym dopaleniu striny `docker-compose up`.
+0. Jeśli po odpaleniu aplikacji na stronie głównej widnieje błąd `HTTP ERROR 500`, to znaczy, że baza danych nie zawiera potrzebnych informacji do uruchomienia strony. W tym celu należy przywrócić początkowy stan bazy danych za pomocą skryptu `restore.sh` znajdującego się w folderze `sql_tools`. Skrypt ten należy wykorzystać, po wcześniejszym odpaleniu strony `docker-compose up`.
 
-1. Po uruchomieniu strony za pmocą komendy `sudo docker exec -it prestashop-db /bin/bash` wejdź do kontenera bazy danych.
+1. Po uruchomieniu strony za pomocą komendy `sudo docker exec -it prestashop-db /bin/bash` wejdź do kontenera bazy danych.
 
 2. Następnie przejdź do folderu `sql_tools` za pomocą polecenia `cd sql_tools`.
 
