@@ -16,7 +16,7 @@ services:
       - ./sql_tools/backup.sh:/sql_tools/backup.sh
       - ./sql_tools/restore.sh:/sql_tools/restore.sh
       - ./mysql_backup/:/var/lib/mysql/db_backup
-
+ 
   prestashop:
     image: prestashop/prestashop:1.7
     container_name: prestashop
