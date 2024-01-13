@@ -32,4 +32,4 @@
 
 4. Uruchom skrypt poleceniem `./restore.sh` i wejdź na `localhost:8080`.
 
-5. Aby wyjść z eksploratora plików kontenerów wpisz `exit`.
+5. Aby wyjść z eksploratora plików kontenera wpisz `exit`.
